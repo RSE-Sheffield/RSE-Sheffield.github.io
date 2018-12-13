@@ -1,0 +1,1 @@
+Ania is a research software engineer at the Oxford e-Research Centre. Her research interests are a combination of performance optimisation for large scale scientific simulation and software development methodology to improve the quality of such codes. She received her Master degree from the Tokyo Institute of Technology in 2015.

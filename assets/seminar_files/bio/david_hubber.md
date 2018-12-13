@@ -1,0 +1,1 @@
+David Hubber is an astrophysicist by training that has worked extensively on writing software such as GANDALF and SEREN to simulate star forming regions. He has been a researcher at the university of Cardiff, the university of Sheffield, and is currently a Postdoc researcher Ludwig-Maximilians-Universitat Munich.
