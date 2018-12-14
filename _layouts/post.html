@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-<p>{{page.author}} - {{ page.date | date_to_long_string }}</p>
+<p>{{page.author}} {% if page.author and page.date %} - {% endif %} {{ page.date | date: "%-d %B %Y %H:%M" }}</p>
 
 
 {{ content }}

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Bootstrap 4 Theme for Developers</title>
+    <title>{{ site.title }} {% if page.title %} - {{ page.title }}{% endif %}</title>
     <!-- Meta -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -23,11 +23,10 @@
     <script async defer src="https://buttons.github.io/buttons.js"></script>
 </head>
 
-<body data-spy="scroll">
-
+<body data-spy="scroll" class="d-flex flex-column">
 
 <!-- ******HEADER****** -->
-<header id="header" class="header">
+<header id="header" class="header navbar fixed-top">
     <div class="container">
         <h1 class="logo float-left">
             <a href="/">
@@ -45,53 +44,47 @@
 
             <div class="navbar-collapse collapse" id="navbar-collapse">
                 <ul class="nav navbar-nav">
-                    <li class="nav-item sr-only"><a class="nav-link scrollto" href="#promo">Home</a></li>
-                    <li class="nav-item"><a class="nav-link scrollto" href="#about">About</a></li>
-                    <li class="nav-item"><a class="nav-link scrollto" href="#features">Features</a></li>
-                    <li class="nav-item"><a class="nav-link scrollto" href="#docs">Docs</a></li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#license">License</a>
+                    {% for lv1 in site.data.toc %}
+                    <li class="nav-item {% if lv1.subitems %}dropdown{% endif %}">
+                        <a class="nav-link {% if lv1.subitems %}dropdown-toggle{% endif %}" {% if lv1.subitems %}data-toggle="dropdown"{% endif %} href="{% if lv1.url %}{{ lv1.url }}{% else %}#{% endif %}">{{ lv1.title }}</a>
+                        {% if lv1.subitems %}
                         <div class="dropdown-menu">
-                            <a class="dropdown-item" href="#">Action</a>
-                            <a class="dropdown-item" href="#">Another action</a>
-                            <a class="dropdown-item" href="#">Something else here</a>
-                            <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="#">Separated link</a>
+                            {% for lv2 in lv1.subitems %}
+                            <a class="dropdown-item" href="{% if lv2.url %}{{ lv2.url }}{% else %}#{% endif %}">
+                                {{ lv2.title }}
+                            </a>
+                            {% endfor %}
                         </div>
-
+                        {% endif %}
                     </li>
-                    <li class="nav-item last"><a class="nav-link scrollto" href="#contact">Contact</a>
 
-                    </li>
-                </ul><!--//nav-->
-            </div><!--//navabr-collapse-->
+                    {% endfor %}
+                </ul>
+            </div><!--//navbar-collapse-->
+
         </nav><!--//main-nav-->
     </div>
 </header><!--//header-->
 
-<section class="section offset-header">
-    <div class="container">
-        <div class="row">
-            <div class="col-12">
-                {{ content }}
-            </div>
-        </div>
+{{ content }}
 
-    </div>
 
-</section>
 
 <!-- ******FOOTER****** -->
-<footer class="footer">
+<footer class="section footer">
     <div class="container text-center">
         <!--/* This template is released under the Creative Commons Attribution 3.0 License. Please keep the attribution link below when using for your own project. Thank you for your support. :) If you'd like to use the template without the attribution, you can buy the commercial license via our website: themes.3rdwavemedia.com */-->
         <small class="copyright">Designed with <i class="fas fa-heart"></i> by <a href="https://themes.3rdwavemedia.com" target="_blank">Xiaoying Riley</a> for developers</small>
     </div><!--//container-->
 </footer><!--//footer-->
 
+
+
+
 <!-- Javascript -->
 <script type="text/javascript" src="/assets/plugins/jquery-3.3.1.min.js"></script>
 <script type="text/javascript" src="/assets/plugins/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="/assets/plugins/popper.min.js"></script>
 <script type="text/javascript" src="/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="/assets/plugins/jquery-scrollTo/jquery.scrollTo.min.js"></script>
 <script type="text/javascript" src="/assets/plugins/prism/prism.js"></script>

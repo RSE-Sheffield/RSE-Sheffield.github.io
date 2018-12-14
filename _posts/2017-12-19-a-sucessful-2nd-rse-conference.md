@@ -12,8 +12,8 @@ author: Tania A.
 
 # RSE Sheffield in the 2nd RSE conference
 
+![RSE17](/assets/images/RSE17.jpg){: .img-fluid}
 
-<img src='/assets/images/RSE17.jpg'/ alt='RSE17'/>
 
 The second RSE conference took place on the 7th and 8th of September 2017 at the
 Museum of Science and Industry [MOSI](https://www.scienceandindustrymuseum.org.uk/).

@@ -53,7 +53,7 @@ renderable by a modern web browser:
 
 For example:
 
-![image](/assets/images/jupyter_notebook_example.png)
+![image](/assets/images/jupyter_notebook_example.png){: .img-fluid}
 
 The code cells of a Notebook can be (re)run in any order, so Notebooks
 are very useful for interactive exploration.
