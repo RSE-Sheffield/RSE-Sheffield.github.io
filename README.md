@@ -4,12 +4,12 @@ Built with [Jekyll](https://jekyllrb.com/)
 
 ## Rules for adding contents
 
-# Adding Blog Posts
+### Adding Blog Posts
 
 * Blog posts are located in the `_posts` folder. 
 * The file **MUST** be prepended with a date e.g. `2018-01-01-my-article-title.md`, otherwise they won't be picked up.
 
-# Adding images to pages/posts (in Markdown)
+### Adding images to pages/posts (in Markdown)
 * Images should normally be located in the `/assets/images` folder but you can make subfolders in `assets` or `images` itself to store static resource related to your particular event.  
 * If you just want to simply add an image, try this before adding html:
     ```
