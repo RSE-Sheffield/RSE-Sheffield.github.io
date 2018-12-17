@@ -9,9 +9,10 @@ link:
 description:
 type: text
 ---
-<a name="logo"/>
+
 <div align="left">
-<img src="http://www.informatics.manchester.ac.uk/media/1552/juliaworkshop.jpg?format=jpeg" alt="Julia Logo" width="300" height="200"></img>
+<a name="logo">
+<img src="http://www.informatics.manchester.ac.uk/media/1552/juliaworkshop.jpg?format=jpeg" alt="Julia Logo" width="300" height="200"/>
 </a>
 </div>
 

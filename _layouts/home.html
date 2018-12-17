@@ -1,0 +1,51 @@
+---
+layout: default
+---
+
+<!-- ******PROMO****** -->
+<section id="promo" class="promo section offset-header">
+    <div class="container text-center">
+
+        <h2 class="title"><img src="/assets/images/rse-sheffield-logo.png" class="img-fluid w-50"></h2>
+        <p class="intro">
+            Research Software Engineers (RSEs) are the people behind research software. This website is designed as a hub for Sheffield academics seeking help with research software and as a community for research software engineers.
+        </p>
+    </div><!--//container-->
+    <div class="social-media">
+        <div class="social-media-inner container text-center">
+            <ul class="list-inline mb-2">
+                <li class="list-inline-item twitter-follow"><a href="https://twitter.com/3rdwave_themes" class="twitter-follow-button" data-show-count="false">Follow @3rdwave_themes</a>
+                    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                </li><!--//twitter-follow-->
+                <li class="list-inline-item twitter-tweet">
+                    <a href="https://twitter.com/share" class="twitter-share-button" data-via="3rdwave_themes" data-hashtags="bootstrap">Tweet</a>
+                    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                </li><!--//twitter-tweet-->
+                <li class="list-inline-item facebook-like">
+                    <div class="fb-like" data-href="https://themes.3rdwavemedia.com/" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+                </li><!--//facebook-like-->
+                <!--// Generate github buttons: https://github.com/mdo/github-buttons -->
+                <li class="list-inline-item github-star">
+                    <a class="github-button" href="https://github.com/xriley/devaid-theme" data-icon="octicon-star" aria-label="Star xriley/devaid-theme on GitHub">Star</a></li>
+                <li class="list-inline-item github-follow"><!-- Place this tag where you want the button to render. -->
+                    <a class="github-button" href="https://github.com/xriley" aria-label="Follow @xriley on GitHub">Follow @xriley</a></li>
+            </ul>
+        </div>
+    </div>
+</section><!--//promo-->
+
+<section id="blog" class="docs section">
+    <div class="container">
+        <div class="docs-inner">
+            <h2>News &amp; Articles</h2>
+            <br/>
+            {% for post in site.posts %}
+            <div>
+                <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+                <p>{{ post.author }} {% if post.author and post.date %} - {% endif %} {{ post.date | date: "%-d %B %Y %H:%M" }}</p>
+            </div>
+            {% endfor %}
+
+        </div>
+    </div>
+</section>

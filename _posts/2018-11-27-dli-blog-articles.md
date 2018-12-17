@@ -12,4 +12,4 @@ type: text
 
 We've had a couple of blog articles with mentions of our Deep Learning workshops. One is by Adam Tomkins from the Software Sustainability Institute ([link](https://software.ac.uk/blog/2018-11-22-dabbling-deep-learning)), and the other by Andrei Roibu, one of our masters student in the Aerospace department  ([link](http://www.residencelife.co.uk/what-have-you-done-today-i-trained-my-pc-to-learn._60163)). Thank you for the writeup guys!
 
-For more information on upcoming training events hosted by the RSE group, [you can visit this page](https://rse.shef.ac.uk/training/events/).
+For more information on upcoming training events hosted by the RSE group, [you can visit this page](/training/events/).

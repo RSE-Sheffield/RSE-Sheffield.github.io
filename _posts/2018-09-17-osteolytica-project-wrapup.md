@@ -26,23 +26,23 @@ The goal of Osteolytica is to determine the surface area missing from the bone a
 
 For the expansion stage (**Figure 1**), volumetric expansion is performed on the bone volume sample. This expansion closes the holes within the sample, generating a water-tight volume that also allows the empty areas inside and outside of the volume to be differentiated.
 
-![Expansion process](/assets/images/2018_09_17_osteolytica-project-wrapup/osteolytica-expansion.jpg)
+![Expansion process](/assets/images/2018_09_17_osteolytica-project-wrapup/osteolytica-expansion.jpg){: .img-fluid}
 
 **Figure 1:** The expansion process shown in 2D. a) Bone volume is shown in black. b) The volume is expanded (red) until all the gaps are enclosed. c) Once the expansion is completed, the inside volume can be filled in and the contraction starts from the expansion border (blue line)
 
 A contraction process is then performed (**Figure 2**), starting from the outside of the expanded volume, to reduce the expanded volume and creating a crust that approximately fits the bone sample. Osteolytica also performs localised fitting of this crust surface by performing per-voxel localised contraction (**Figure 3**).
 
-![Contraction process](/assets/images/2018_09_17_osteolytica-project-wrapup/osteolytica-contraction.jpg)
+![Contraction process](/assets/images/2018_09_17_osteolytica-project-wrapup/osteolytica-contraction.jpg){: .img-fluid}
 
 **Figure 2:** The contraction process shown in 2D. Contraction starts from the expansion border (blue line) and travels towards the centre of the volume. Deeper green shows higher contraction iteration.
 
-![Localised fitting](/assets/images/2018_09_17_osteolytica-project-wrapup/osteolytica-localisedfitting.jpg)
+![Localised fitting](/assets/images/2018_09_17_osteolytica-project-wrapup/osteolytica-localisedfitting.jpg){: .img-fluid}
 
 **Figure 3:** Starting from the crust that forms when the contraction boundary meets bone voxels (green line), each voxel on the crust (green dot) is projected in to the volume. Each crust voxel searches a limited surrounding area to count the number of surrounding bone voxels and will place itself in a location where it finds the highest number of bone voxels in the surrounding.
 
 The final result from these two processes is the original bone volume that has been wrapped within a watertight crust. Where the crust does not overlap a bone voxel, it is defined as a hole (**Figure 4** red areas). We can then use this information to approximate the amount of missing surface area of the bone.
 
-![Reconstruction results](/assets/images/2018_09_17_osteolytica-project-wrapup/osteolytica-reconstructedvolumes.jpg)
+![Reconstruction results](/assets/images/2018_09_17_osteolytica-project-wrapup/osteolytica-reconstructedvolumes.jpg){: .img-fluid}
 
 **Figure 4:** Osteolytica applied to various types of bone. a, b & c)  The the original bone volumes. d, e & f) Reconstruction of the volumes. The reconstruction is shown in red.
 
@@ -58,7 +58,7 @@ The last new development in Osteolytica is to add an experimental feature to all
 
 While theoretically it should be possible to compare the bone volumes over time period directly, there’s a problem where bone volumes in each scan do not align to each other exactly. The alignment problem was solved by using a local optimisation algorithm ([COBYLA provided in nlopt](https://nlopt.readthedocs.io/en/latest/NLopt_Algorithms/#cobyla-constrained-optimization-by-linear-approximations)) in order to maximise the overlap between the two volumes in the time series. The initial result of this alignment process is shown in **Figure 5** for two volumes scanned at week 0 and week 3. The white colour shows where the volumes overlap, blue and red colours represent the week 0 sample and week 3 samples respectively that did not overlap. **Figure 5a** shows the two volumes before alignment and **Figure 5b** shows the volumes after alignment. In this case it can be seen that there has been bone growth after the administering of drugs and that lesions are starting to be filled in.
 
-![Volume alignment](/assets/images/2018_09_17_osteolytica-project-wrapup/osteolytica-alignment.jpg)
+![Volume alignment](/assets/images/2018_09_17_osteolytica-project-wrapup/osteolytica-alignment.jpg){: .img-fluid}
 
 **Figure 5:** Overlapping week 0 and week 3 volumes. White shows overlap, blue shows week 0 and red is week 0 without overlap. a) Volumes before alignment. b) Volumes after alignment.
 

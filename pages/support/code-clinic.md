@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: codeclinic
 permalink: /support/code-clinic/
 title: Code Clinic  
 slug: code-clinic
@@ -34,7 +34,7 @@ At each session, **members of the RSE team will be available to review code, adv
     - Need help with version control?
     - Want to know more about making your code open and/or citable?
 
-    #### We can help!
+- #### We can help!
 
 <br>
 
@@ -71,7 +71,7 @@ If you would like to get involved as a helper, please contact [Dr Mozhgan Kabiri
 <br>
 <br>
 
-<iframe src="https://calendar.google.com/calendar/b/1/embed?title=RSE%20Code%20Clinic%20Calendar&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=600&amp;wkst=2&amp;bgcolor=%23ccffff&amp;src=sheffield.ac.uk_28d0d6953rcq30teo2rapepho0%40group.calendar.google.com&amp;color=%238C500B&amp;ctz=Europe%2FLondon" style="border-width:0" width="400" height="600" frameborder="0" scrolling="no"></iframe>
+
 
 <!--
 ## Usefull links:

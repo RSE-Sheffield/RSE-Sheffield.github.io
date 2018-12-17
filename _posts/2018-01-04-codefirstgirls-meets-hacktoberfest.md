@@ -10,12 +10,8 @@ type: text
 author: Tania A.
 ---
 
-<div style='width: 90%;
-		height: auto;
-		margin: 30px;
-    text-align:center;'>
-    <img src='/assets/images/CFG_AW1.jpg'>
-</div>
+![cf girls](/assets/images/CFG_AW1.jpg){: .img-fluid}
+
 
 It is that time of the year again! The autumn-winter courses for
 [CodeFirst: girls](https://www.codefirstgirls.org.uk/)
@@ -37,26 +33,16 @@ These are some of the approaches we are currently using in our courses:
 - **Feedback on the fly**: As a Sofware/Data carpentry intructor some of the things I love the most is the use of post-its. That way you and the helpers know straight away who is struggling (red post-it) and how is not (green post-it) that way the learners get help instantly and the main instructor gets visual clues on how fast or slow to proceed. At the end of the day the learners write on the post-its something they liked or learned and something that could be improved or that they struggled with. So I decided to give this a go at CFG and so it has helped us a lot so far.
 - **Active engagement**: one of the key things that makes initiatives such as CodeFirstGirls work is not the fact that we teach them how to code, online courses do that. But the whole thing is an excellent community building activity, the gals find common minded people, are exposed to role models, and feel empowered to continue their career in tech. That is the beauty of what we do. So it is only fair that we engage with them. We have our own #hashtag (Go now and look for #ShefCodeFirst in Twitter), we have guest speakers, slack channels, [our very own course website](http://bitsandchips.me/Shef_CodeFirst_Python/) (obvs in GitHub pages) and we try to open their eyes to the wider tech and open source community. Also we have many Octocat stickers to give away!!!
 
-<br/>
-<div style='width: 70%;
-		height: auto;
-		margin: 0 auto;
-    text-align:center;'>
-    <img src='/assets/images/CFG_AW2.jpg'>
-</div>
 
+![implementation](/assets/images/CFG_AW2.jpg){: .img-fluid}
 
 ## Hacktoberfest
 I mentioned before that we try to keep the gals actively engaged throughout the course as well as to integrate them to the wider community.
 And what a better way to do this but getting the gals involved in [Hacktoberfest](https://hacktoberfest.digitalocean.com/)!!! We ere a bit tight on time but I thought it was worth trying to get some of the girls involved in something like this.
 
 
-<div style='width: 70%;
-		height:400px;
-		margin: 20px auto;
-    text-align:center;'>
-    <img src='/assets/images/hacktoberfest.jpg'>
-</div>
+![hacktoberfest](/assets/images/hacktoberfest.jpg){: .img-fluid}
+
 
 By doing so the girls would get the following benefits:
 
@@ -73,12 +59,8 @@ I know not everyone got involved as many have PhDs, Master's, dissertations, and
 But I am massively proud of them all. So many of our gals had never used Git or GitHub before and now they
 are collaborating like pros.
 
-<div style='width: 45%;
-		height: auto;
-		margin: 20px auto;
-    text-align:center;'>
-    <img src='/assets/images/PR_bonanza.png'>
-</div>
+![hacktoberfest 2](/assets/images/PR_bonanza.png){: .img-fluid}
+
 
 
 Talk about motivation :) And if you want to keep up to date with the end of course projects they will be presenting in 5 weeks time keep an eye on Twitter!
