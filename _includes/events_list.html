@@ -1,0 +1,8 @@
+
+{% assign events = (site.events | sort: 'date' | reverse) %}
+{% if events and events.size > 0 %}
+{% for event in events %}
+  {% include event.html event=event %}
+{% endfor %}
+
+{% endif %}
