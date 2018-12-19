@@ -1,0 +1,31 @@
+<section id="seminar-{{include.event.date}}" class="seminar-section">
+
+{% if include.event %}
+
+<h3><a href="{{include.event.url}}">{{ include.event.date | date: "%A %e, %Y" }} &mdash; {{include.event.from}}-{{include.event.to}}, {{include.event.location}}</a></h3>
+<p>
+    <strong>{{include.event.speaker}}{%if include.event.institute%}, {{include.event.institute}}{%endif%}</strong>
+</p>
+<p>
+<strong>Talk</strong>: <em>"{{include.event.title}}"</em>
+</p>
+
+{{include.event.content}}
+
+{% if include.event.slides_url %}
+<p>
+    <a href="{{include.event.slides_url}}">SLIDES</a>
+</p>
+{% endif %}
+
+{% if include.event.image %}
+<figure class="text-center">
+<img src="{{include.event.image}}" class="img-fluid w-50" />
+</figure>
+{% endif %}
+
+<hr />
+
+{% endif %}
+
+</section>
