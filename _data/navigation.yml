@@ -1,5 +1,6 @@
+- title: Blogs
+  url: /blogs/
 - title: RSE Service
-  test: testvar
   subitems:
     - title: RSE Service Overview
       url: /service/

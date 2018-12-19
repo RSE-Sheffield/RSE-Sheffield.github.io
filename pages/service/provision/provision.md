@@ -20,8 +20,7 @@ If at any stage you need to change direction within your grant or are unhappy wi
 
 Once your grant is funded we will agree appropriate staffing to meet your needs and review this as necessary. Most UKRI funders are aware of the role of RSEs and actively encourage their deployment on grants. Some funders (e.g. Leverhulme) require a C.V. to be submit. We can arrange this for you during grant submission.
 	
-	
-<img src='/assets/images/service_model.png'/ width="75%" alt='RSE Service Model Provision'/>
+![RSE Service Model Provision](/assets/images/service_model.png){: .img-fluid}
 	
 
 	

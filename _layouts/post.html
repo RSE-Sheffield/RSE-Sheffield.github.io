@@ -5,3 +5,17 @@ layout: page
 
 
 {{ content }}
+
+
+<div class="row">
+    <div class="col-6 text-left">
+        {% if page.previous.url %}
+        <a class="prev" href="{{page.previous.url}}">&laquo; Previous</a>
+        {% endif %}
+    </div>
+    <div class="col-6 text-right">
+        {% if page.next.url %}
+        <a class="next" href="{{page.next.url}}">Next &raquo;</a>
+        {% endif %}
+    </div>
+</div>
