@@ -30,8 +30,8 @@ I am extremely happy to report that Sheffield has won, not just one, but **three
   Nowadays, the majority of research relies on software to some degree. However, in many cases, there is little focus on developing scientific software using best development practices due to a number of reasons such as the lack of adequate mentoring and training, little understanding of the requirements of the scientific code, and software being undervalued or not considered as a primary research output. This has changed over time with the emergence of RSEs (Research Software Engineers) just like myself.  But certainly not every university or institute has an RSE team, neither every discipline is represented in the current RSE community. I plan to use this fellowship to develop an RSE winter school covering not only technical skills but also some of the craftsmanship and soft skills needed when developing a significant amount of scientific code. Also, this winter school will help to diversify the RSE pool by focusing on underrepresented groups within the community (e.g. gender, age, scientific disciplines, universities without RSEs) while disseminating
   best software practices among a number of disciplines.
   </font>
-  </div>
 </div>
+
 
 <br>
 <br>
@@ -48,7 +48,7 @@ padding-left: 1%;">
   I'm planning use the fellowship funds to bring external speakers in to talk to the astrophysics group, with the goal of improving the style, efficiency and sustainability of our coding. As physicists, as I imagine in many fields, we are largely taught to code to get the things we need to be done completed as quickly as possible, with little regard for the quality of the code itself. We are taught how to code, but not how to code well. I want to give us the opportunity to improve in that. Also I hope to change the way we think about coding, from a disposable stepping stone used to further research as quickly as possible to a fundamental part of the science itself.
 
   </div>
-</div>
+
 
 <br>
 <br>
@@ -67,7 +67,7 @@ padding-left: 1%;">
   </font>   
 
   </div>
-</div>
+
 
 <br>
 

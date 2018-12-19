@@ -1,7 +1,8 @@
 ---
 title: Fundamentals of Deep Learning for Computer Vision Workshop for the RSE Network (University of Bristol)
+category: dltraining
+tags: deep_learning
 permalink: /training/deeplearning/2018-01-29-dli-bristol
-type: text
 ---
 
 
