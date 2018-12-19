@@ -24,6 +24,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
+future: true # required for collections with a date field, where future events are desired.
+collections:
+  events:
+    output: true
+
 # Build settings
 markdown: kramdown
 #theme: minima
@@ -43,3 +48,8 @@ defaults:
     values:
       layout: "post"
       permalink: "/blog/:slug"
+  - scope:
+      path: ""
+      type: "events"
+    values:
+      layout: "event"
