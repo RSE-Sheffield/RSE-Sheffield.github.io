@@ -1,0 +1,6 @@
+{% assign events = site.events | sort: "date" | reverse %}
+{% for evt in events %}
+    {% if site.time < evt.date %}
+        {% include events_list_individual.html event=evt %}
+    {% endif %}
+{% endfor %}

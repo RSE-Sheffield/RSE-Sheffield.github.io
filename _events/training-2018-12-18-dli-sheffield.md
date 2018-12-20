@@ -3,15 +3,14 @@ title: Fundamentals of Deep Learning for Computer Vision Workshop (Sheffield)
 category: dltraining
 tags: deep_learning
 permalink: /training/deeplearning/2018-12-18-dli-sheffield
+date: 2018-12-18
+from: "09:00"
+to: "16:00"
+location: "Computer Room 4 (Room 2.06), 2nd Floor, The Diamond, University of Sheffield"
+eventbrite_id: "52664367541"
 ---
 
 ![Nvidia DLI Banner](/assets/images/DLI-email-header-motif-640x150.jpg)
-
-**Date: 18th December 2018**
-
-**Time: 9am-4pm**
-
-**Location: Computer Room 4 (Room 2.06), 2nd Floor, The Diamond, University of Sheffield, 32 Leavygreave Road, Sheffield, S3 7RD**
 
 The [Research Software Engineering Sheffield (RSES)](http://rse.shef.ac.uk/) is pleased to announce that we are holding a free one-day practical introduction to Deep Learning workshop on the **18th of December**. The course is sponsored by NVIDIA and will be delivered through their [Deep Learning Institute](https://www.nvidia.com/en-us/deep-learning-ai/education/) program by [Twin Karmakharm](/contact/team#twin) (accredited DLI instructor). The event is open to staff and students from all faculties.
 
@@ -29,9 +28,3 @@ In this full-day workshop, you will learn the basics of deep learning by trainin
 
 **Platforms:** [Nvidia DIGITS](https://developer.nvidia.com/digits) and [Caffe](http://caffe.berkeleyvision.org/)
 
-
-<div style="width:90%; text-align:center;">
-	<iframe src="https://eventbrite.co.uk/tickets-external?eid=52664367541&ref=etckt" frameborder="0" height="275" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true" ></iframe>
-	<div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="https://www.eventbrite.co.uk/">Powered by Eventbrite</a>
-	</div>
-</div>

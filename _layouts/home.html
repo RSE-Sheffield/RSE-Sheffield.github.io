@@ -43,26 +43,20 @@ layout: default
                 <br/>
                 {% include post_list.html %}
 
+                <p>
+                    <a href="/blogs/">All blog articles >></a>
+                </p>
+
             </div>
 
             <div class="col-md-6">
                 <h2><a href="/events/">Upcoming Events</a></h2>
                 <br/>
-                {% assign events = site.events | sort: "date" | reverse %}
-                {% for evt in events %}
-                    {% if site.time < evt.date %}
+                {% include events_list_upcoming.html %}
 
-                    {% endif %}
-                <div class="row">
-                    <div class="col-sm-2"><img src="/assets/images/presentation.png" class="img-fluid" alt="Seminars"/><p style="font-size: smaller" class="text-center">Workshop</p></div>
-                    <div class="col-sm-10">
-                        <h6><a href="{{ evt.url }}">{{ evt.title }}</a></h6>
-                        <p><strong>{{ evt.date | date: "%-d %B %Y" }} - {{ evt.from}}-{{evt.to}}</strong></p>
-                    </div>
-
-
-                </div>
-                {% endfor %}
+                <p>
+                    <a href="/events/">All of our upcoming and previous events >></a>
+                </p>
             </div>
 
 

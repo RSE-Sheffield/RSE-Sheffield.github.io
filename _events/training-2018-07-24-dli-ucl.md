@@ -3,6 +3,9 @@ title: Fundamentals of Deep Learning for Computer Vision Workshop (UCL)
 category: dltraining
 tags: deep_learning
 permalink: /training/deeplearning/2018-07-24-dli-ucl
+date: 2018-07-24
+from: "09:00"
+to: "17:00"
 ---
 
 

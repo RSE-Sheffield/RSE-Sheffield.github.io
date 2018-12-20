@@ -3,6 +3,9 @@ title: Fundamentals of Deep Learning for Computer Vision Workshop for the RSE Ne
 category: dltraining
 tags: deep_learning
 permalink: /training/deeplearning/2018-01-29-dli-bristol
+date: 2018-01-29
+from: "09:00"
+to: "17:00"
 ---
 
 
