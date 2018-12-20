@@ -1,8 +1,8 @@
-
 {% assign events = (site.events | sort: 'date' | reverse) %}
+<div class="event-listing">
 {% if events and events.size > 0 %}
-{% for event in events %}
-  {% include event.html event=event %}
-{% endfor %}
-
+  {% for event in events %}
+    {% include events_list_individual.html event=event %}
+  {% endfor %}
 {% endif %}
+</div>

@@ -3,6 +3,9 @@ title: Fundamentals of Deep Learning for Computer Vision Workshop (Sheffield)
 category: dltraining
 tags: deep_learning
 permalink: /training/deeplearning/2018-10-23-dli-sheffield
+date: 2018-10-23
+from: "09:00"
+to: "17:00"
 ---
 
 ![Nvidia DLI Banner](/assets/images/DLI-email-header-motif-640x150.jpg)

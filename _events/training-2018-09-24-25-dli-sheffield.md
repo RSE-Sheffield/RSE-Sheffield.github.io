@@ -3,6 +3,9 @@ title: Fundamentals of Deep Learning for Computer Vision Workshop (Sheffield)
 category: dltraining
 tags: deep_learning
 permalink: /training/deeplearning/2018-09-24-25-dli-sheffield
+date: 2018-09-24
+from: "09:00"
+to: "17:00"
 ---
 
 In this full-day workshop, you will learn the basics of deep learning by training and deploying neural networks. Build the skill-set and toolbox you need to build your own deep learning solutions through hands-on projects. Learners will:

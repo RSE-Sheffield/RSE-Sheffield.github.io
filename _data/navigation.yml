@@ -1,5 +1,7 @@
 - title: Blogs
   url: /blogs/
+- title: Events
+  url: /events/
 - title: RSE Service
   subitems:
     - title: RSE Service Overview

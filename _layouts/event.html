@@ -3,11 +3,58 @@ layout: default
 ---
 
 <section class="section offset-header flex-fill" >
-
     <div class="container">
         <div class="row">
             <div class="col-12" markdown=1>
-                {% include {{page.category}}_individual.html event=page %}
+                <section id="seminar-{{include.event.date}}" class="seminar-section">
+
+                    <h3>{{ page.title }}</h3>
+
+
+
+                    <div class="media mb-1">
+                        <img class="align-self-center mr-2" src="/assets/images/icons/icons8-watch-50.png" width="20"/>
+                        <div class="media-body"><strong>{{ page.date | date: "%-d %B %Y" }} - {{ page.from}}-{{page.to}}</strong></div>
+                    </div>
+                    {% if page.location %}
+                    <div class="media mb-1">
+                        <img class="align-self-center mr-2" src="/assets/images/icons/icons8-marker-50.png" width="20"/>
+                        <div class="media-body"><strong>{{ page.location }}</strong></div>
+                    </div>
+                    {% endif %}
+
+                    <p>
+                        <strong>{{page.speaker}}{%if page.institute%}, {{page.institute}}{%endif%}</strong>
+                    </p>
+
+
+                    {{ content }}
+
+
+                    {% if page.slides_url %}
+                    <p>
+                        <a href="{{page.slides_url}}">SLIDES</a>
+                    </p>
+                    {% endif %}
+
+                    {% if page.image %}
+                    <figure class="text-center">
+                        <img src="{{page.image}}" class="img-fluid w-50" />
+                    </figure>
+                    {% endif %}
+
+                    {% if page.eventbrite_id %}
+                    <div style="width:90%; text-align:center;">
+                        <iframe src="https://eventbrite.co.uk/tickets-external?eid={{page.eventbrite_id}}&ref=etckt" frameborder="0" height="275" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true" ></iframe>
+                        <div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="https://www.eventbrite.co.uk/">Powered by Eventbrite</a>
+                        </div>
+                    </div>
+
+                    {% endif %}
+
+                    <hr />
+
+                </section>
             </div>
         </div>
     </div>
