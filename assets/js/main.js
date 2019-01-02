@@ -30,4 +30,70 @@ jQuery(document).ready(function($) {
 		
 	});
 
+    /* ======= Upcoming/Previous events ======= */
+    //We assume that events have already been sorted in a reverse chronological order
+    $('.event-listing').each(function(index){
+       var eventListing = $(this);
+
+       var displayUpcoming = true;
+       var displayPrevious = true;
+       var displayHeaders = false;
+
+        if(eventListing.hasClass("event-upcoming-previous")){
+           displayUpcoming = true;
+           displayPrevious = true;
+        }
+        else if(eventListing.hasClass("event-upcoming")){
+            displayUpcoming = true;
+            displayPrevious = false;
+        }
+
+        if(eventListing.hasClass("event-insert-header")){
+            displayHeaders = true;
+        }
+
+        var currentTime = moment();
+        var upcomingNotAdded = true;
+        var prevNotAdded = true;
+
+        //Events filtering
+        eventListing.find(".event-item").each(function(){
+            var eventItem = $(this);
+            var eventDate = moment(eventItem.data("date"));
+
+            if(!displayUpcoming && eventDate.isSameOrAfter(currentTime)){
+                eventItem.remove();
+            }
+
+            if(!displayPrevious && eventDate.isBefore(currentTime)){
+                eventItem.remove();
+            }
+        });
+
+        //Adding headers
+        if(displayHeaders){
+            eventListing.find(".event-item").each(function(){
+                var eventItem = $(this);
+                var eventDate = moment(eventItem.data("date"));
+
+                if(upcomingNotAdded && eventDate.isSameOrAfter(currentTime)){
+                    $("<h2>Upcoming Events</h2>").insertBefore(eventItem);
+                    upcomingNotAdded = false;
+
+                }
+
+                if(prevNotAdded && eventDate.isBefore(currentTime)){
+                    $("<h2>Previous Events</h2>").insertBefore(eventItem);
+                    prevNotAdded = false;
+                }
+            });
+        }
+
+
+
+
+
+
+    });
+
 });

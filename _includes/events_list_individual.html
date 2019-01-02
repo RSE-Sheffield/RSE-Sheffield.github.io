@@ -13,7 +13,7 @@
         {% assign evtImg = "/assets/images/icons/icons8-schedule-50.png" %}
         {% assign evtType = "Event" %}
 {% endcase %}
-<div class="media mb-2">
+<div class="media mb-2 event-item" data-date="{{ event.date }}">
     <div class="mr-2 text-center">
         <img src="{{ evtImg }}" alt="Seminars"/>
         <p style="font-size: 0.8em; width: 80px" >
@@ -34,6 +34,5 @@
             <div class="media-body"><strong>{{ event.location }}</strong></div>
         </div>
         {% endif %}
-
     </div>
 </div>
