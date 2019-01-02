@@ -8,6 +8,8 @@ Built with [Jekyll](https://jekyllrb.com/)
 
 * Blog posts are located in the `_posts` folder. 
 * The file **MUST** be prepended with a date e.g. `2018-01-01-my-article-title.md`, otherwise they won't be picked up.
+* In the **FrontMatter**:
+    * `slug` - The varible MUST be set, this is used to generate the permalink of the post. It is done this way to retain backwards compatibility with the old website paths.
 
 ### Adding images to pages/posts (in Markdown)
 * Images should normally be located in the `/assets/images` folder but you can make subfolders in `assets` or `images` itself to store static resource related to your particular event.  
@@ -18,6 +20,33 @@ Built with [Jekyll](https://jekyllrb.com/)
 
 The `!` in front of the link indicates that it's an image. The `[my description]` will appear in your alt text. 
 The site uses bootstrap and the `{: .img-fluid}` adds a css class `img-fluid` to make the image responsive.
+
+### Adding Events
+
+* Event posts are located in the `_events` folder.
+* The following **FrontMatter** variables can be set:
+    * `category` - Tagname of the category that your event belongs to
+    * `permalink` - If you have dedicated pages for each event category, use this to place the event's permalink in the correct page, e.g. for deep learning events at /training/deeplearning/, you might want to set the permalink as /training/deeplearning/2019-01-01-myevent 
+    * `title` - Title of your event
+    * `date` - Starting date with format: YYYY-MM-DD
+    * `from` - Starting time with format: HH:MM
+    * `to` - Ending time with format: HH:MM
+    * `location`  - Location of your event
+    * `eventbrite_id` - (optional) the ID of your event on eventbrite, this will automatically include the eventbrite's ticket purchasing/registration widget
+    * `tags` - searchable tags, (not implemented yet)
+
+### Adding a new Event Category
+
+#### Updating the rendering when listing individual events
+* The template for rendering individual event items in an event listing can be found at `/_includes/event_list_individual.html`
+* You can specify the location of the category and the category text in the switch statement at the top of the page
+
+#### Including events listing in your own events page
+* Create a new page in the `/pages` folder
+* Include the event listing in your page, you can add a category variable in the include to specify the category or multiple categories using comma separation:
+    ```
+    {% include events_list.html category="mycustomcat" %}
+    ```
 
 ## Installation
 
