@@ -38,8 +38,8 @@ The site uses bootstrap and the `{: .img-fluid}` adds a css class `img-fluid` to
 ### Adding a new Event Category
 
 #### Updating the rendering when listing individual events
-* The template for rendering individual event items in an event listing can be found at `/_includes/event_list_individual.html`
-* You can specify the location of the category and the category text in the switch statement at the top of the page
+* The list of categories can be found at  `/_data/event-categories.yml`
+* Add your new category tag to the map, this corresponds to value of the `category` FrontMatter variable in your event page. 
 
 #### Including events listing in your own events page
 * Create a new page in the `/pages` folder
