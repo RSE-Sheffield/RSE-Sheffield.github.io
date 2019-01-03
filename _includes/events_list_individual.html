@@ -1,23 +1,13 @@
 {% assign event=include.event %}
-{% case event.category %}
-    {% when 'seminar' %}
-        {% assign evtImg = "/assets/images/icons/icons8-training-50.png" %}
-        {% assign evtType = "Seminar" %}
-    {% when 'dltraining' %}
-        {% assign evtImg = "/assets/images/icons/icons8-connect-50.png" %}
-        {% assign evtType = "Workshop" %}
-    {% when 'candc' %}
-        {% assign evtImg = "/assets/images/icons/icons8-cafe-50.png" %}
-        {% assign evtType = "Coffe <br/>&amp; Cake" %}
-    {% else %}
-        {% assign evtImg = "/assets/images/icons/icons8-schedule-50.png" %}
-        {% assign evtType = "Event" %}
-{% endcase %}
+{% assign categoryInfo = site.data.event-categories["default"] %}
+{% if site.data.event-categories[event.category] %}
+    {% assign categoryInfo = site.data.event-categories[event.category] %}
+{% endif %}
 <div class="media mb-2 event-item" data-date="{{ event.date }}">
     <div class="mr-2 text-center">
-        <img src="{{ evtImg }}" alt="Seminars"/>
+        <img src="{{ categoryInfo.image }}" alt="{{ categoryInfo.text }}"/>
         <p style="font-size: 0.8em; width: 80px" >
-            {{ evtType }}
+            {{ categoryInfo.text }}
         </p>
     </div>
     <div class="media-body">

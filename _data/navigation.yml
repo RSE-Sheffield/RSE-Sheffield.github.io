@@ -1,5 +1,5 @@
-- title: Blogs
-  url: /blogs/
+- title: Blog
+  url: /blog/
 - title: Events
   url: /events/
 - title: RSE Service
@@ -12,16 +12,14 @@
       url: /service/activities
     - title: Testimonials
       url: /service/testimonials
-- title: Support
-  subitems:
-    - title: Code Clinic
-      url: /support/code-clinic
-- title: Training
+- title: "Support &amp; Training"
   subitems:
     - title: Overview
       url: /training/
     - title: Training Events
       url: /training/events
+    - title: Code Clinic
+      url: /support/code-clinic
     - title: Software and Data Carpentry
       url: /training/carpentry
     - title: Deep Learning
