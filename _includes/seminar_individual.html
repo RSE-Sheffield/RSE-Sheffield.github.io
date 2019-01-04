@@ -1,4 +1,4 @@
-<section id="seminar-{{include.event.date}}" class="seminar-section">
+<section id="seminar-{{ include.event.date | date: "%Y-%m-%d" }}" class="seminar-section">
 
 {% if include.event %}
 
