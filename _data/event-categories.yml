@@ -7,6 +7,12 @@ dltraining:
 candc:
     image: "/assets/images/icons/icons8-cafe-50.png"
     text: "Coffee <br/>&amp; Cake"
+carpentry:
+    image: "/assets/images/icons/icons8-schedule-50.png"
+    text: "Carpentry"
+workshop:
+    image: "/assets/images/icons/icons8-schedule-50.png"
+    text: "Workshop"
 default:
     image: "/assets/images/icons/icons8-schedule-50.png"
     text: "Event"
