@@ -39,7 +39,7 @@
 - title: Contact
   subitems:
     - title: Contact us
-      url: /contact
+      url: /contact/
     - title: RSE Team
       url: /contact/team
     - title: Alumni
