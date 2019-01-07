@@ -11,19 +11,19 @@ collaborators in every faculty and have supported researchers in a range
 of subject areas including engineering, mathematics, computer science,
 biology, linguistics, physics, chemistry and geography.
 
-# Research Software Engineering
+## Research Software Engineering
 
 We can help you take your computational workflow to the next level
 --making it more automated, robust, open, accessible, user friendly and
 reproducible.
 
-# Increasing research impact through software
+## Increasing research impact through software
 
 We believe that it is possible to increase the impact of your research
 by leveraging the research software you developed to make it possible.
 We can help you make your software open, citable and discoverable.
 
-# Faster code
+## Faster code
 
 We can work with you to optimise your code using a range of hardware and
 software technologies. R, Python, OpenMP, CUDA, C++, C, Fortran, MATLAB,
@@ -31,7 +31,7 @@ Mathematica, and more - we have proven experience in helping researchers
 get results more quickly. In some cases, we can provide significant
 speed-ups in just a few days.
 
-# GPU computing
+## GPU computing
 
 We have specialists in GPU computing who can assist you with
 accelerating your computational problems using this relatively new
@@ -47,7 +47,7 @@ and help you gain access to hardware.
 We also specialise in the use of agent based modeling on GPUs using
 FLAME or FLAME GPU to perform large scale simulations.
 
-# High Performance Computing (HPC)
+## High Performance Computing (HPC)
 
 We collaborate with a range of partners including CiCS, N8, Archer and
 Microsoft to provide you with HPC support on local, regional, national
@@ -64,7 +64,7 @@ Champions](http://www.archer.ac.uk/community/champions/). Our role is to advise 
 computational resources: and in supporting these users to access and
 exploit these resources appropriately.
 
-# Grant support
+## Grant support
 
 We have a proven track record in working with PIs to obtain funding for
 dedicated Research Software Engineering posts and can offer assistance
