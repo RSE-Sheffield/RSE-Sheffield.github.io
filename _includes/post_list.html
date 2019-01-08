@@ -1,6 +1,3 @@
 {% for post in site.posts %}
-<divpost_list.html>
-    <h6><a href="{{ post.url }}">{{ post.title }}</a></h6>
-    <p><strong>{{ post.author }} {% if post.author and post.date %} - {% endif %} {{ post.date | date: "%-d %B %Y %H:%M" }}</strong></p>
-</divpost_list.html>
+    {% include post_list_item.html post=post %}
 {% endfor %}

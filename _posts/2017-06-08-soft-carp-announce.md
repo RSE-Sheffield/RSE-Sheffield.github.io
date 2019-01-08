@@ -20,7 +20,7 @@ Our first Software Carpentry workshop is scheduled for [16th and 17th August](ht
 
 ---
 
-![Software Carpentry and Data Carpentry logos](/assets/images/sc-dc-logos.png)
+![Software Carpentry and Data Carpentry logos](/assets/images/sc-dc-logos.png){: .img-fluid}
 
 
 ## Addressing the training needs of researchers with regards to programming
@@ -77,7 +77,7 @@ The University is now a Software Carpentry Partner Organisation so can run many 
 
 The RSE team and Library collectively now have five accredited Software and Data Carpentry instructors: Mike Croucher received training some time ago and in March Tania Allard and I from the [RSE team](https://rse.shef.ac.uk/contact/) plus [Jez Cope and Beth Hellen][library-team] from the Library's Research Services Unit participated in [instructor training in Oxford][sc-training-oxford].  
 
-![Software Carpentry Instructor Training session](/assets/images/soft-carp-instructor-training.jpg)
+![Software Carpentry Instructor Training session](/assets/images/soft-carp-instructor-training.jpg){: .img-fluid}
 
 The four of us spent two days learning about the SC/DC teaching style, what makes for an effective instructor and got to practise several aspects of workshop development and delivery.  I must thank the instructors on the training course (Mateuz Kuzak and Steve Crouch) plus [Reproducible Research Oxford][rroxford] for hosting and organising the event.
 

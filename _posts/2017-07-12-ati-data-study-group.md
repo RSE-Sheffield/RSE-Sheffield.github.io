@@ -29,7 +29,7 @@ The event was a week long data hackathon in which multiple groups used their bes
 
  I joined the Thomson Reuters' project as this seemed to be one of the projects with the richest data set, both in its extension and type (e.g news, sentiment analysis, stock market, time series, etc.). The team was formed by 13 people with a huge variety of skills and coming from totally different backgrounds, which is what makes hackathons so exciting. You have to make the most of the skill sets your team has, in a very limited amount of time... pushing you out of your comfort zone.
 
-![AT-1](/assets/images/tr.jpg)
+![AT-1](/assets/images/tr.jpg){: .img-fluid}
 
  After a brief team introduction our 3 Thomson Reuters facilitators described the data and the challenge in more detail. We then identified the main goals of the project and subdivided the team in about other 4 teams. Once the initial planning was completed, we spent Monday's evening through Wednesday morning learning about their various API's, getting the data, wrangling data... and getting more data.
 
@@ -37,7 +37,7 @@ We soon realised that analysing all the data was incredibly complex and of cours
 
 The rest of the Wednesday and Thursday were used to start doing some prediction and regression on the data as well as writing up the report and finishing off our pitch presentation.
 
-![ATI-2](/assets/images/tr2.jpg)
+![ATI-2](/assets/images/tr2.jpg){: .img-fluid}
 
 ## The findings
 
