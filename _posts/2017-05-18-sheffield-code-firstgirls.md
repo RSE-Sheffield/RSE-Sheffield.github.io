@@ -11,7 +11,7 @@ type: text
 ---
 
 
-![python1](/assets/images/CF_python1.jpg)
+![python1](/assets/images/CF_python1.jpg){: .img-fluid}
 
 Anyone working on any STEM area knows, as a fact, that we are facing a digital and technical skills gap.  In the governement's digital strategy [report](https://www.bbc.co.uk/news/business-36510266) last year it
 was highlighted that we would need an extra 745,000 workers with digital skills by 2017, as 90% of jobs require digital skills to some degree.
@@ -39,11 +39,11 @@ Belonging to a minority within STEM has lead me to take an active role as an equ
 
 Over the course of 8 weeks we teach and guide groups of around 30 women with various levels of coding experience in CSS/HTML, Python, or Ruby. These courses are a mixture of in-person classes and self-learning, at the same time the ladies involved work in teams of 2-4 people to build a project of their own interest.
 
-![python1](/assets/images/CF_python3.jpg)
+![python1](/assets/images/CF_python3.jpg){: .img-fluid}
 
 The idea behind these workshops is rather simple: train people and provide them with practical use of the skills they are learning. Having as a final objective to develop a fully deployed RESTful app. But the whole CF:girls thing goes way beyond that. Over those 8 weeks the girls form a strong, motivating, and supportive community, in which they can acquire new skills, meet like-minded people, learn from other women working in STEM areas, and even attend external women in tech events!
 
-![python1](/assets/images/CF_python2.jpg)
+![python1](/assets/images/CF_python2.jpg){: .img-fluid}
 
 
  I find rather interesting the mixture of apps and projects pursued, as well as the high quality of the presented final products. But beyond that, I find this to be an excellent opportunity to give back to the amazing community that has adopted and welcome me as a professional in a STEM area. Thus I can say for sure I will be getting involved in more Code First events/workshops.

@@ -65,7 +65,6 @@ in the long run. The <b>Urban Flows Observatory</b> is mostly financed by EPSRC
 and UKCRIC. Sheffield is one of a handful of cities involved in this
 nationwide effort.
 
-  </font>
   </div>
-</div>
+
 

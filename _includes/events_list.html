@@ -6,11 +6,11 @@
       {% assign categories = include.category | split: "," %}
       {% for category in categories %}
         {% if category == event.category %}
-          {% include events_list_individual.html event=event %}
+          {% include events_list_item.html event=event %}
         {% endif %}
       {% endfor %}
     {% else %}
-      {% include events_list_individual.html event=event %}
+      {% include events_list_item.html event=event %}
     {% endif %}
   {% endfor %}
 {% endif %}

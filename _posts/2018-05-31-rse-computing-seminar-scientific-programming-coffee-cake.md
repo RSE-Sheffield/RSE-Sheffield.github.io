@@ -12,7 +12,7 @@ type: text
 
 **Both events will be held at COM-G12-Main Lewin, Computer Science Department (ground floor) on the 19th of June, starting from 12:00**.
 
-## 12:00 - RSE Seminar: Tackling the learning curve of scientific programming
+### 12:00 - RSE Seminar: Tackling the learning curve of scientific programming
 
 **By: Dr. Patricio Ortiz**
 
@@ -38,6 +38,6 @@ A supportive link:
 **Please Register using [Eventbrite](https://www.eventbrite.co.uk/e/tackling-the-learning-curve-of-scientific-programming-tickets-46366639868)**
 
 
-## 13:00 - Coffee and Cake event
+### 13:00 - Coffee and Cake event
 
 The Coffe and Cake event is open to everyone and offers a great opportunity to further discuss the topics raised by our speaker. In addition, if you have any particular research software issues or would like to have a general discussion about research software or software in teaching, please come along for an informal chat with the RSE team.

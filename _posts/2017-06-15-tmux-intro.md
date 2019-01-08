@@ -40,7 +40,7 @@ Have you ever?
 If the answer to any of these is "yes" then **terminal multiplexing**
 may help!
 
-![](/assets/images/tmux-intro/intro.png)
+![](/assets/images/tmux-intro/intro.png){: .img-fluid}
 
 ------------------------------------------------------------------------
 
