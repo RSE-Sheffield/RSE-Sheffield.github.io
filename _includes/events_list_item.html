@@ -15,19 +15,19 @@
 
 
         <div class="media mb-1">
-            <img class="align-self-center mr-2" src="/assets/images/icons/icons8-watch-50.png" width="20"/>
+            <img class="align-self-center mr-2" src="/assets/images/icons/icons8-watch-50.png" width="20" alt="Start time"/>
             <div class="media-body"><strong>{{ event.date | date: "%-d %B %Y" }}  {% if event.end-date %} to {{ event.end-date | date: "%-d %B %Y" }}{% endif %} - {{ event.from}}{% if event.to %}-{{event.to}}{% endif %}</strong></div>
         </div>
         {% if event.location %}
         <div class="media mb-1">
-            <img class="align-self-center mr-2" src="/assets/images/icons/icons8-marker-50.png" width="20"/>
+            <img class="align-self-center mr-2" src="/assets/images/icons/icons8-marker-50.png" width="20" alt="Location"/>
             <div class="media-body"><strong>{{ event.location }}</strong></div>
         </div>
         {% endif %}
 
         {% if event.speaker %}
         <div class="media mb-1">
-            <img class="align-self-center mr-2" src="/assets/images/icons/icons8-communication-skill-50.png" width="20"/>
+            <img class="align-self-center mr-2" src="/assets/images/icons/icons8-communication-skill-50.png" width="20" alt="Speaker"/>
             <div class="media-body"><strong>{{event.speaker}}{%if event.institute%}, {{event.institute}}{%endif%}</strong></div>
         </div>
         {% endif %}

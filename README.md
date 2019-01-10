@@ -14,6 +14,7 @@ Built with [Jekyll](https://jekyllrb.com/)
 ### Adding images to pages/posts (in Markdown)
 * Images should normally be located in the `/assets/images` folder but you can make subfolders in `assets` or `images` itself to store static resource related to your particular event.  
 * If you just want to simply add an image, try this before adding html:
+
     ```
     ![my desciption](/assets/images/my-image-path.png){: .img-fluid}
     ```
@@ -29,10 +30,11 @@ The site uses bootstrap and the `{: .img-fluid}` adds a css class `img-fluid` to
     * `permalink` - If you have dedicated pages for each event category, use this to place the event's permalink in the correct page, e.g. for deep learning events at /training/deeplearning/, you might want to set the permalink as /training/deeplearning/2019-01-01-myevent 
     * `title` - Title of your event
     * `date` - Starting date with format: YYYY-MM-DD
+    * `end-date` - **Optional** The end date for events that run over multiple days, with format: YYYY-MM-DD
     * `from` - Starting time with format: HH:MM
     * `to` - Ending time with format: HH:MM
     * `location`  - Location of your event
-    * `eventbrite_id` - (optional) the ID of your event on eventbrite, this will automatically include the eventbrite's ticket purchasing/registration widget
+    * `eventbrite_id` - **Optional** The ID of your event on eventbrite. This will automatically include the eventbrite's ticket purchasing/registration widget
     * `tags` - searchable tags, (not implemented yet)
 
 ### Adding a new Event Category
@@ -52,7 +54,10 @@ The site uses bootstrap and the `{: .img-fluid}` adds a css class `img-fluid` to
 
 1. Install ruby
     * On Windows, this installer can be used [https://rubyinstaller.org/](https://rubyinstaller.org/)
-    * On Linux 
+    * On Linux, follow the instructions according to your distribution e.g. for Debian/Ubuntu:
+        ```
+        sudo apt install ruby-full
+        ```
 1. In the terminal, install the rest of the required packages: 
    ```
    gem install bundler jekyll 

@@ -32,11 +32,12 @@ collections:
 # Build settings
 markdown: kramdown
 #theme: minima
-gems:
+plugins:
   - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
+  - vendor
 defaults:
   -
     scope:
