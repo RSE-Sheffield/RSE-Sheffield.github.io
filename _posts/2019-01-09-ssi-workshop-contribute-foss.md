@@ -1,14 +1,14 @@
-<!--
-.. title: How to contribute to open source software
-.. author: Becky Arnold
-.. slug: 2019-01-09-ssi-workshop-contribute-foss
-.. date: 2019-01-09 16:56:00 UTC+00:00
-.. tags: SSI open-source workshops FOSS
-.. category:
-.. link:
-.. description:
-.. type: text
--->
+---
+title: How to contribute to open source software
+author: Becky Arnold
+slug: 2019-01-09-ssi-workshop-contribute-foss
+date: 2019-01-09 16:56:00 UTC+00:00
+tags: SSI open-source workshops FOSS
+category:
+link:
+description:
+type: text
+---
 
 *NB originally [posted on the Software Sustainability Insittute (SSI) blog](https://software.ac.uk/blog/2019-01-08-how-contribute-open-source-software)
 on 8 January 2019*
