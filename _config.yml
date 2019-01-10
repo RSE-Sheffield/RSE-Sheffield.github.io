@@ -37,7 +37,7 @@ plugins:
 exclude:
   - Gemfile
   - Gemfile.lock
-  - [vendor]
+  - vendor
 defaults:
   -
     scope:
