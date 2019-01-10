@@ -13,7 +13,7 @@
 *NB originally [posted on the Software Sustainability Insittute (SSI) blog](https://software.ac.uk/blog/2019-01-08-how-contribute-open-source-software)
 on 8 January 2019*
 
-![*Image courtesy of Becky Arnold*](/images/ssi-workshop-contribute-foss.png)
+![*Image courtesy of Becky Arnold*](/assets/images/ssi-workshop-contribute-foss.png){: .img-fluid}
 
 **By [Becky Arnold](https://software.ac.uk/fellows/becky-arnold),
 [University of Sheffield](https://www.sheffield.ac.uk).**

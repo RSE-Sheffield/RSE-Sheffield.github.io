@@ -112,3 +112,31 @@ traditional compiled languages, possible in conjunction with parallel frameworks
 
 * Email: phil.tooley (at) sheffield.ac.uk
 * Twitter: [@acceleratedsci](https://twitter.com/acceleratedsci)
+
+# Becky Arnold
+
+Becky is a Research Software Engineer working with the University of Sheffield RSE group and the Alan Turing institute developing open source [guidance](https://github.com/alan-turing-institute/the-turing-way) on best practice for reproducible data science. She is taking a leave of absence from her astrophysics PhD (where she uses simulations to study the evolution of star clusters) to work on this project.
+
+She is also a [Software Sustainability Institute](https://www.software.ac.uk/) fellow and is using the fellowship finds to organise a [series](https://www.sheffield.ac.uk/physics/news/programming-skills-sessions) of talks and workshops on a diverse range of topics surrounding best practice.
+
+- Email: rjarnold1@sheffield.ac.uk
+
+# David Jones
+
+David is a Research Software Engineer in
+the University of Sheffield's RSE group.
+
+David graduated from the University of Cambridge with
+a degree in mathematics and a Post-Graduate Diploma in Computer Science,
+and has since taken a variety of mostly systems programming roles
+in industry before recently being employed in The Academy.
+
+David has expertise in
+C, Python, [Go](https://golang.org/), [Lua](https://www.lua.org/),
+embedded microcontrollers,
+programming language runtimes, Software Engineering Management,
+/bin/awk, and the PNG image format.
+
+- Email: David.R.Jones@sheffield.ac.uk
+- Twitter: [@drjtwit](https://twitter.com/drjtwit)
+- GitLab: [gitlab.com/drj11](https://gitlab.com/drj11)
