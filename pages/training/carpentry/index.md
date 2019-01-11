@@ -40,8 +40,9 @@ Details for these events will be posted on this page and shared via the [RSE ann
 
 ## Current Certified Instructors
 
+* [Mark Dunning][mark-dunning](Sheffield Bioinformatics Core)
 * [Will Furnass][will-furnass] (RSE Sheffield)
-* [Jez Cope][jez-cope] (Library)
+* [Katjuša Koler][kat-koler](SITraN)
 
 ### Becoming an Instructor
 
@@ -62,3 +63,5 @@ Please contact [carpentries-at-sheffield-group@sheffield.ac.uk][email-contact] t
 [announce-mail-list]: /community/
 [will-furnass]: /contact/team/
 [jez-cope]: http://jcope.shef.ac.uk/
+[mark-dunning]: http://sbc.shef.ac.uk/team/mark/index.html
+[kat-koler]: https://github.com/katkoler
