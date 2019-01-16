@@ -2,7 +2,7 @@
 title: Software & Data Carpentry
 category: carpentry
 tags: software data carpentry
-permalink: /training/carpentry/2018-11-26
+permalink: /training/carpentry/2018-11-26/
 date: 2018-11-26
 end-date: 2018-11-28
 from: "09:00"

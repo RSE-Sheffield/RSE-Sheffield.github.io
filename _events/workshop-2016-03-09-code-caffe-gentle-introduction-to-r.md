@@ -2,7 +2,7 @@
 title: "Code Cafe: A gentle introduction to R"
 category: workshop
 tags:
-permalink: /training/workshop/2016-03-09-code-caffe-gentle-introduction-to-r
+permalink: /training/workshop/2016-03-09-code-caffe-gentle-introduction-to-r/
 date: 2016-03-09
 from: "09:00"
 to: "17:00"

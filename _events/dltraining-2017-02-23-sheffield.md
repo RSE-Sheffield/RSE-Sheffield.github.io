@@ -2,7 +2,7 @@
 title: Introduction to Deep Learning on the ShARC cluster
 category: dltraining
 tags: deep_learning
-permalink: /training/deeplearning/2017-02-23
+permalink: /training/deeplearning/2017-02-23/
 date: 2017-02-23
 from: "09:00"
 to: "17:00"

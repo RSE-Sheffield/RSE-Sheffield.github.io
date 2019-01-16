@@ -2,7 +2,7 @@
 title: Introduction to parallel programming with MPI
 category: workshop
 tags:
-permalink: /training/workshop/2018-08-24-introduction-to-parallel-programming-with-mpi
+permalink: /training/workshop/2018-08-24-introduction-to-parallel-programming-with-mpi/
 date: 2018-08-24
 from: "09:00"
 to: "17:00"

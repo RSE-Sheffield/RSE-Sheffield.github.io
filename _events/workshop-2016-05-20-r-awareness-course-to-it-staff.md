@@ -2,7 +2,7 @@
 title: "R-awareness course to IT Staff"
 category: workshop
 tags:
-permalink: /training/workshop/2016-05-20-r-awareness-course-to-it-staff
+permalink: /training/workshop/2016-05-20-r-awareness-course-to-it-staff/
 date: 2016-05-20
 from: "09:00"
 to: "17:00"
