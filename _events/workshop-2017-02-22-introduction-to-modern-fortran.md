@@ -2,7 +2,7 @@
 title: Introduction to modern Fortran
 category: workshop
 tags:
-permalink: /training/workshop/2017-02-22-introduction-to-modern-fortran
+permalink: /training/workshop/2017-02-22-introduction-to-modern-fortran/
 date: 2017-02-22
 from: "09:00"
 to: "17:00"

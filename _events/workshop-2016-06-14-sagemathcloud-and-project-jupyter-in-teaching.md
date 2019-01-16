@@ -2,7 +2,7 @@
 title: "SageMathCloud and Project Jupyter in teaching subjects with a lot of mathematics or simulation"
 category: workshop
 tags:
-permalink: /training/workshop/2016-06-14-sagemathcloud-and-project-jupyter-in-teaching
+permalink: /training/workshop/2016-06-14-sagemathcloud-and-project-jupyter-in-teaching/
 date: 2016-06-14
 from: "09:00"
 to: "17:00"
