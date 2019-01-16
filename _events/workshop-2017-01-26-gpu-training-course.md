@@ -2,7 +2,7 @@
 title: Two-day GPU Training Course
 category: workshop
 tags:
-permalink: /training/workshop/2017-01-26-gpu-training-course
+permalink: /training/workshop/2017-01-26-gpu-training-course/
 date: 2017-01-26
 end-date: 2017-01-27
 from: "09:00"
