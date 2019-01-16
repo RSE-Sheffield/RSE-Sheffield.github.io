@@ -2,7 +2,7 @@
 title: "Reproducible research using R, RStudio, git and github"
 category: workshop
 tags:
-permalink: /training/workshop/2016-08-02-reproducible-research-using-r-rstudio-git-and-github
+permalink: /training/workshop/2016-08-02-reproducible-research-using-r-rstudio-git-and-github/
 date: 2016-08-02
 from: "09:00"
 to: "17:00"

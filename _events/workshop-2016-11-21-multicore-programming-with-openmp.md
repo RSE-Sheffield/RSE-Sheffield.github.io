@@ -2,7 +2,7 @@
 title: Multicore programming with OpenMP 
 category: workshop
 tags:
-permalink: /training/workshop/2016-11-21-multicore-programming-with-openmp
+permalink: /training/workshop/2016-11-21-multicore-programming-with-openmp/
 date: 2016-11-21
 end-date: 2016-11-22
 from: "09:00"

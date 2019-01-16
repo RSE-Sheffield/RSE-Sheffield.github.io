@@ -23,11 +23,12 @@ The `!` in front of the link indicates that it's an image. The `[my description]
 The site uses bootstrap and the `{: .img-fluid}` adds a css class `img-fluid` to make the image responsive.
 
 ### Adding Events
+**Note** - Add a `/` at the end of your `permalink` path so that the page can be accessed even if your user does or does not put a `/` at the end of their path. E.g. `permalink: /mysection/2019-01-01-myevent/` will allow the page to be accessed at `https://rse.shef.ac.uk/mysection/2019-01-01-myevent/` **and** `https://rse.shef.ac.uk/mysection/2019-01-01-myevent`. 
 
 * Event posts are located in the `_events` folder.
 * The following **FrontMatter** variables can be set:
     * `category` - Tagname of the category that your event belongs to
-    * `permalink` - If you have dedicated pages for each event category, use this to place the event's permalink in the correct page, e.g. for deep learning events at /training/deeplearning/, you might want to set the permalink as /training/deeplearning/2019-01-01-myevent 
+    * `permalink` - If you have dedicated pages for each event category, use this to place the event's permalink in the correct page, e.g. for deep learning events at /training/deeplearning/, you might want to set the permalink as /training/deeplearning/2019-01-01-myevent/ 
     * `title` - Title of your event
     * `date` - Starting date with format: YYYY-MM-DD
     * `end-date` - **Optional** The end date for events that run over multiple days, with format: YYYY-MM-DD
