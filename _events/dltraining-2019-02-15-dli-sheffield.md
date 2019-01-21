@@ -2,12 +2,12 @@
 title: Fundamentals of Deep Learning for Computer Vision Workshop (Sheffield)
 category: dltraining
 tags: deep_learning
-permalink: /training/deeplearning/2019-01-18-dli-sheffield/
-date: 2019-01-18
+permalink: /training/deeplearning/2019-02-15-dli-sheffield/
+date: 2019-02-15
 from: "09:00"
 to: "16:00"
-location: "Workroom 3 (Room 2.05), 2nd Floor, The Diamond, University of Sheffield"
-eventbrite_id: "53433888198"
+location: "Computer Room 4 (Room 2.06), 2nd Floor, The Diamond, University of Sheffield"
+eventbrite_id: "55157646004"
 ---
 
 ![Nvidia DLI Banner](/assets/images/DLI-email-header-motif-640x150.jpg)
