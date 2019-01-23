@@ -71,3 +71,5 @@ If you would like to contribute to the list, please get in touch with Twin at [t
 * Deep Learning resource aggregate
     * [deeplearning.net](http://deeplearning.net/)
     * [Nvidia deep learning resources](https://developer.nvidia.com/deep-learning-resources)
+* Deep Learning on UoS's ShARC cluster
+    * [Neural network online resources blog post by Desmond Ryan](https://sites.google.com/a/sheffield.ac.uk/rcg/my-blog/research-computing-notes/neuralnetworks-onlineresource)
