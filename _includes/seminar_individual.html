@@ -2,7 +2,7 @@
 
 {% if include.event %}
 
-<h3><a href="{{include.event.url}}">{{ include.event.date | date: "%A %e, %Y" }} &mdash; {{include.event.from}}-{{include.event.to}}, {{include.event.location}}</a></h3>
+<h3><a href="{{include.event.url}}">{{ include.event.date | date: "%A %e %B %Y" }} &mdash; {{include.event.from}}-{{include.event.to}}, {{include.event.location}}</a></h3>
 <p>
     <strong>{{include.event.speaker}}{%if include.event.institute%}, {{include.event.institute}}{%endif%}</strong>
 </p>
