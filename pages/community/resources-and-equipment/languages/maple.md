@@ -17,4 +17,4 @@ The University of Sheffield has a site license that allows all staff and student
 
 * [Download Maple](https://www.sheffield.ac.uk/software/) - Maple is available for Sheffield University staff and students from the CiCS download site
 * The documentation for [Maple on Sheffield's High Performance Computing System](http://docs.hpc.shef.ac.uk/en/latest/iceberg/software/apps/maple.html), Iceberg.
-* [High Performance Computing with Maple, Part 1](https://rse.shef.ac.uk/blog/HPC-Maple-1/) - A detailed tutorial on how to use Maple with Sheffield's HPC cluster
+* [High Performance Computing with Maple, Part 1](/blog/HPC-Maple-1/) - A detailed tutorial on how to use Maple with Sheffield's HPC cluster

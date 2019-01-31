@@ -10,4 +10,4 @@ to: "17:00"
 ---
 
 
-Intel Training Workshop (**Parallel programming and optimisation for Intel architectures**). This workshop comprised two half-day sessions that showed students how to program multicore (e.g. Xeon) and massively multicore (e.g. Xeon Phi) computers using C++. [https://rse.shef.ac.uk/training/intel/](https://rse.shef.ac.uk/training/intel/)
+Intel Training Workshop (**Parallel programming and optimisation for Intel architectures**). This workshop comprised two half-day sessions that showed students how to program multicore (e.g. Xeon) and massively multicore (e.g. Xeon Phi) computers using C++. [/training/intel/](/training/intel/)

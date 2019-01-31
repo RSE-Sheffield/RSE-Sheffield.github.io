@@ -5,7 +5,7 @@ slug: index
 type: text
 ---
 
-Initial enquiries for RSE service should be made by first [contacting us](https://rse.shef.ac.uk/contact/). If you attend one of our [code clinics](https://rse.shef.ac.uk/support/code-clinic/) you may also be refereed through to the paid service for dedicated help if this is something which is required.
+Initial enquiries for RSE service should be made by first [contacting us](/contact/). If you attend one of our [code clinics](/support/code-clinic/) you may also be refereed through to the paid service for dedicated help if this is something which is required.
 
 During your initial consultation a senior member of the RSE team will provide guidance on the RSE service and discuss your needs. If your project is within scope of what we can help with then we will work with you to agree a delivery plan. As part fo this we can assist wit relevant parts of grant writing (such as justification of resources and software delivery plans). Please see the flow chart below for our service provision model.
 
