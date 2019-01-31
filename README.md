@@ -22,6 +22,10 @@ Built with [Jekyll](https://jekyllrb.com/)
 The `!` in front of the link indicates that it's an image. The `[my description]` will appear in your alt text. 
 The site uses bootstrap and the `{: .img-fluid}` adds a css class `img-fluid` to make the image responsive.
 
+### Linking to local content
+* Content hosted on our website could be linked to via full URL. i.e. `https://rse.shef.ac.uk/blog`. However, to enable local-testing of this website it is better to link using a root relative link, such as `/blog`. 
+    * Alternatively, using Jekyll's Liquid Variable `site.root` it could be linked as `{{ site.url }}blog`, however this then ties our content to jekyll.
+
 ### Adding Events
 **Note** - Add a `/` at the end of your `permalink` path so that the page can be accessed even if your user does or does not put a `/` at the end of their path. E.g. `permalink: /mysection/2019-01-01-myevent/` will allow the page to be accessed at `https://rse.shef.ac.uk/mysection/2019-01-01-myevent/` **and** `https://rse.shef.ac.uk/mysection/2019-01-01-myevent`. 
 
