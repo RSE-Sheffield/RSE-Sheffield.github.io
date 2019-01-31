@@ -9,7 +9,7 @@ link:
 description:
 type: text
 ---
-Tania Allard has recently joined the [Research Software Engineering team at Sheffield](https://rse.shef.ac.uk/). This is an introduction to her, her research career and why she has moved into [Research Software Engineering](https://rse.ac.uk/).
+Tania Allard has recently joined the [Research Software Engineering team at Sheffield](/). This is an introduction to her, her research career and why she has moved into [Research Software Engineering](https://rse.ac.uk/).
 
 ## About my research
 
