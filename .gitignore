@@ -3,6 +3,9 @@ _site
 .sass-cache
 .jekyll-metadata
 
+
+Gemfile.lock
+
 # Bundle related (optional) directories for when root is not used/avail
 .bundle/
 vendor/
