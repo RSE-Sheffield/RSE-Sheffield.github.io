@@ -31,7 +31,7 @@ jQuery(document).ready(function($) {
 	});
 
     /* ======= Upcoming/Previous events ======= */
-    //We assume that events have already been sorted in a reverse chronological order
+    //We assume that events have already been sorted in a reverse chronological order, if headings are being inserted.
     $('.event-listing').each(function(index){
        var eventListing = $(this);
 
@@ -59,7 +59,8 @@ jQuery(document).ready(function($) {
         //Events filtering
         eventListing.find(".event-item").each(function(){
             var eventItem = $(this);
-            var eventDate = moment(eventItem.data("date"));
+            // Throw away part of the date output by jekyll, which under Firefox is not a format recognised by the moment/Date() commands?
+            var eventDate = moment(eventItem.data("date").split(" ")[0]);
 
             if(!displayUpcoming && eventDate.isSameOrAfter(currentTime)){
                 eventItem.remove();
@@ -74,7 +75,7 @@ jQuery(document).ready(function($) {
         if(displayHeaders){
             eventListing.find(".event-item").each(function(){
                 var eventItem = $(this);
-                var eventDate = moment(eventItem.data("date"));
+                var eventDate = moment(eventItem.data("date").split(" ")[0]);
 
                 if(upcomingNotAdded && eventDate.isSameOrAfter(currentTime)){
                     $("<h2>Upcoming Events</h2>").insertBefore(eventItem);
@@ -88,11 +89,6 @@ jQuery(document).ready(function($) {
                 }
             });
         }
-
-
-
-
-
 
     });
 

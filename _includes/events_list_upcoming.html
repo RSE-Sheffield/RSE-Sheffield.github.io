@@ -1,6 +1,10 @@
-{% assign events = site.events | sort: "date" | reverse %}
+{% assign current_date = site.time | date: '%s' %}
+{% assign events = site.events | sort: "date" %}
 <div class="event-listing event-upcoming">
 {% for evt in events %}
-    {% include events_list_item.html event=evt %}
+    {% assign event_date = evt.date | date: '%s' %}
+    {% if event_date >= current_date %}
+        {% include events_list_item.html event=evt %}
+    {% endif %}
 {% endfor %}
 </div>
