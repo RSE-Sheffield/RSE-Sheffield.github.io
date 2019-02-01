@@ -3,7 +3,7 @@
 {% if site.data.event-categories[event.category] %}
     {% assign categoryInfo = site.data.event-categories[event.category] %}
 {% endif %}
-<div class="media mb-2 event-item" data-date="{{ event.date }}">
+<div class="media mb-2 event-item" data-date="{{ event.date | date: "%F" }}">
     <div class="mr-2 text-center">
         <img src="{{ categoryInfo.image }}" alt="{{ categoryInfo.text }}"/>
         <p style="font-size: 0.8em; width: 80px" >
