@@ -5,14 +5,16 @@ slug: seminars
 type: text
 ---
 
-The RSE group organises seminars and promotes seminars from other groups which are of interest to the community. If you have an interesting seminar then announce it on the [mailing-list](/community). Below are a number of seminars which are scheduled or have taken place.
----
+The RSE group organises seminars and promotes seminars from other groups which are of interest to the community. 
+If you have an interesting seminar then announce it on the [mailing-list](/community). 
+Below are a number of seminars which are scheduled or have taken place.
 
-*Note: The [GPU computing](http://gpucomputing.shef.ac.uk/seminars/) seminar series has now been merged with the RSE seminar series. Talks on GPU computing will be advertised through both mailing lists.*
 
-This page provides a list of upcoming and previous seminars held by RSE@Sheffield group. We aim to hold lunchtime seminars on the last Tuesday of every month, inviting speakers to talk about a wide range of topics that involves practical issues relating to research software.
+We aim to hold lunchtime seminars in the last week of every month, inviting speakers to talk about a wide range of topics that involves practical issues relating to research software.
 
 If you would like to recommend a speaker or would like to give a talk then please [contact us](/contact). We have a budget to support inviting speakers.
+
+*Note: The [GPU computing](http://gpucomputing.shef.ac.uk/seminars/) seminar series has now been merged with the RSE seminar series. Talks on GPU computing will be advertised through both mailing lists.*
 
 {% assign seminars = site.events | where: 'category', 'seminar' | sort: 'date' | reverse %}
 {% if seminars and seminars.size > 0 %}
