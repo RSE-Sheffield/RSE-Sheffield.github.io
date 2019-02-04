@@ -19,9 +19,9 @@ On the 30th of January 2019, [Christopher Woods](https://chryswoods.com/), an EP
 
 Chris first discussed the question of what does good code for research need to be, and gave three main criteria. 
 
-It needs to be flexible enough to adapt to evolving research questions
-It needs to be performance portable and fast enough for its intended purpose
-It needs to be trustably correct and “do what it says on the tin” 
+- It needs to be flexible enough to adapt to evolving research questions
+- It needs to be performance portable and fast enough for its intended purpose
+- It needs to be trustably correct and “do what it says on the tin” 
 
 Inevitably requirements of time, money and design mean that trying to meet these criteria will always be a trade off, however there are things a researcher can do to improve their compliance with them. These include thinking carefully about how you design and structure your code before “jumping in” and writing any. Further to this making your code as modular as possible and documenting it well both makes it more maintainable and reusable. 
 
