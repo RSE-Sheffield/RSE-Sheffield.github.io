@@ -2,7 +2,7 @@
 title: Christopher Woods talk about  How To Design And Engineer Good Code For Research
 author: Becky Arnold
 slug:
-date: 
+date: 2019-01-30 15:30:00 UTC+00:00
 tags: SSI 
 category:
 link:
