@@ -3,6 +3,15 @@
  * Separate from the theme rules in-case we change theme
  */
 
+/*
+    Bootstrap breakpoints for reference:
+    xs 
+    sm @media (min-width:576px)
+    md @media (min-width:768px)
+    lg @media (min-width:992px)
+    xl @media (min-width:1200px)
+*/
+
 .seminar-section {
     margin-bottom: 2rem;
     padding-bottom: 1rem;
@@ -13,4 +22,10 @@
 img {
     max-width: 100%;
     height: auto;
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+    .promo .intro {
+        font-size: 18px;
+    }
 }
