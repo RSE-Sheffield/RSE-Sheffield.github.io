@@ -8,3 +8,9 @@
     padding-bottom: 1rem;
     border-bottom: 1px solid #ddd;
 }
+
+/* Make all images behave fluidly by default. I.e. not wider than their parent with a maintained aspect ratio. */
+img {
+    max-width: 100%;
+    height: auto;
+}
