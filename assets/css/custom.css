@@ -1,0 +1,10 @@
+/* 
+ * Custom CSS Rules for the RSE Sheffield website. 
+ * Separate from the theme rules in-case we change theme
+ */
+
+.seminar-section {
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #ddd;
+}
