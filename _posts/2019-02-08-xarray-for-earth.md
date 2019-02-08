@@ -1,13 +1,9 @@
 ---
-title: xarray for Earth scientists
-author: Joseph Cook
+title: xarray for Earth science
+author: Joseph Cook (github.com/jmcook1186, @tothepoles)
 slug: xarray-for-earth
 date: 2019-02-08 11:48:00 UTC+01:00
 ---
-
-# xarray for Earth Science
-Joseph Cook, PDRA University of Sheffield
-(tothepoles.wordpress.com, github.com/jmcook1186, @tothepoles)
 
 ## Why xarray
 
@@ -25,12 +21,12 @@ xarray also makes it easy to open, query, manipulate, concatenate, merge or visu
 Loading a NetCDF file is as simple as `x = xr.open_dataset(netcdffile)` and saving a dataframe or array to NetCDF is equally straighforward: `DF.to_netCDF('filename')`.
 
 ### Well suited to parallel computing using Dask
-Xarray is also tightly integrated with Dask so that operations over datasets too large to sit in memory can be achieved using Dask commands directly over xarray data arrays or datasets. Dask achieves this by chunking the dataset and distributing the computation over multiple cores. xarray takes a “chunks” argument that divides the xarray into dask arrays ready to be distributed. More information about xarray and dask is avilable in the (very good) [documentation](http://xarray.pydata.org/en/stable/dask.html) .  
+Xarray is also tightly integrated with Dask so that operations over datasets too large to sit in memory can be achieved using Dask commands directly over xarray data arrays or datasets. Dask achieves this by chunking the dataset and distributing the computation over multiple cores. xarray takes a “chunks” argument that divides the xarray into dask arrays ready to be distributed. More information about xarray and dask is avilable in the (very good) [documentation](http://xarray.pydata.org/en/stable/dask.html).  
 
 
 ## Data structures:
 
-xarray works with two basic data structures – the DataArray and the DataSet
+xarray works with two basic data structures – the DataArray and the DataSet.
 
 ### DataArray
 A DataArray is a labelled N-dimensional array - this can come from a pandas dataframe with labels or N-dimensional unlabelled numpy arrays. Metadata and attributes can then be added.
@@ -43,13 +39,13 @@ In this example I use xarray to load in a dataset from a NetCDF file. The datase
 
 First the necessary packages are imported and the image bands are loaded in from a NetCDF file using xarray. Only the reflectance values are extracted from the data array and saved to a 9D numpy array, where each dimension represents a wavelength.
 
-```
+``` python
 import xarray as xr
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.externals import joblib
 
-vals = np.zeros([9,5490,5490]) #set up array
+S2vals = np.zeros([9,5490,5490]) #set up array
 bands = ['02','03','04','05','05','07','08','11','12'] # Band numbers
 for i in np.arange(0,len(bands),1): #loop through bands in NetCDF file
     S2BX = xr.open_dataset(str(img_path+'B'+bands[i]+'.nc')) # open only the relevant band from the NetCDF
@@ -57,10 +53,10 @@ for i in np.arange(0,len(bands),1): #loop through bands in NetCDF file
     S2BXvals = np.array(S2BXarr.variable.values[1]) # extract only the reflectance values
     S2BXvals = S2BXvals.astype(float) #convert to float
     S2vals[i,:,:] = S2BXvals # append to 'master' ND array
-vals = vals/10000 # correct unit from S2 L2A data to reflectance between 0-1
+S2vals = vals/10000 # correct unit from S2 L2A data to reflectance between 0-1
 ```
 In the next stage, a scikit-learn classifier is applied to the 9D array. This classifier has been trained in a separate script, saved to a .pkl file and then loaded in here. The 9D array is also converted into a layer that applies a conversion formula to predict the albedo -or reflectivity - of the surface. This is a stripped down version of a code developed at www.github.com/jmcook1186/IceSurfClassifiers/ - go there for the complete scripts.
-```
+``` python
 #load pickled model
 clf = joblib.load('/home/Code/Sentinel2_classifier.pkl')
 
@@ -95,7 +91,7 @@ clf = joblib.load('/home/Code/Sentinel2_classifier.pkl')
 ```    
 There is now a classified surface map and an albedo map in memory. The next section shows how this is collated into an xarray dataset with some metadata and saved to a new NetCDF file.
    
-```    
+``` python   
     # add predicted map array and add metadata
     # note that coords_geo are obtained from the original projection info and extracted using gdal - not shown here.
     predictedxr = xr.DataArray(predicted, coords=coords_geo, dims=['y', 'x'])
@@ -125,7 +121,7 @@ There is now a classified surface map and an albedo map in memory. The next sect
 ```
 xarrays plot function (built on matplotlib) can then be used to visualise the layers (classified surface above, albedo map below).
 
-```
+``` python
 dataset.classified.plot()
 dataset.albedo.plot()
 ```
