@@ -31,7 +31,7 @@ jQuery(document).ready(function($) {
 	});
 
     /* ======= Upcoming/Previous events ======= */
-    //We assume that events have already been sorted in a reverse chronological order
+    //We assume that events have already been sorted in a reverse chronological order, if headings are being inserted.
     $('.event-listing').each(function(index){
        var eventListing = $(this);
 
@@ -88,11 +88,6 @@ jQuery(document).ready(function($) {
                 }
             });
         }
-
-
-
-
-
 
     });
 
