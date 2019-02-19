@@ -30,11 +30,7 @@ Carpentry events and instructor training are jointly organised by a working grou
 
 ## Planned Carpentry Events
 
-We expect to run bootcamps on the following days:
-
-* 26th-27th November 2018 — Software Carpentry
-* 26th-27th February 2019 — Software or Data Carpentry
-* 9th-10th April 2019 — Data Carpentry
+We are currently planning our next series of Software and Data Carpentry workshops.
 
 Details for these events will be posted on this page and shared via the [RSE announcement mailing list][announce-mail-list].
 
