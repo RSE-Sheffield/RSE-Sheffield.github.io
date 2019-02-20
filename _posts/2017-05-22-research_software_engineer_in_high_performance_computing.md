@@ -13,7 +13,7 @@ type: text
 
 A job opportunity within the RSE Sheffield group is available under the job title of "Research Software Engineer in High Performance Computing (HPC) enabled Multi-Scale Modelling".
 
-The purpose of the Research Software Engineer post is to enhance The University’s capability and expertise in developing Research Software. This role will be based in the newly formed [Research Software Engineering group](https://rse.shef.ac.uk/), which aims to improve all aspects of research software including reproducibility, usability, efficiency and correctness.
+The purpose of the Research Software Engineer post is to enhance The University’s capability and expertise in developing Research Software. This role will be based in the newly formed [Research Software Engineering group](/), which aims to improve all aspects of research software including reproducibility, usability, efficiency and correctness.
 
 The primary function of this role is to support the EC funded CompBioMed project. A user-driven Centre of Excellence in Computational Biomedicine, to nurture and promote the uptake and exploitation of high performance computing within the biomedical modelling community. 
 

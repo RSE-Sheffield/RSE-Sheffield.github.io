@@ -9,7 +9,7 @@ has_math: yes
 ---
 
 I am thrilled to have joined the [Research Software Engineering team at
-Sheffield](https://rse.shef.ac.uk/). My new role is attached to the [INSIGNEO](https://insigneo.org)
+Sheffield](/). My new role is attached to the [INSIGNEO](https://insigneo.org)
 Institute for in silico Medicine here at the University of Sheffield, developing image registration
 software as part of the [CompBioMed](http://www.compbiomed.eu) project.   
 

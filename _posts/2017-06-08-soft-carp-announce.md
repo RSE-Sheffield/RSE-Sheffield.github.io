@@ -16,7 +16,7 @@ The University of Sheffield is now a Software Carpentry Partner Organisation, al
 
 **Edit**: 
 
-Our first Software Carpentry workshop is scheduled for [16th and 17th August](https://rse.shef.ac.uk/2017-08-16-sheffield/)!
+Our first Software Carpentry workshop is scheduled for [16th and 17th August](/2017-08-16-sheffield/)!
 
 ---
 
@@ -75,7 +75,7 @@ The Software and Data Carpentry organisations ask that accredited instructors de
 
 The University is now a Software Carpentry Partner Organisation so can run many workshops per year using the Software Carpentry and Data Carpentry branding.  We could run workshops without the branding but Software and Data Carpentry are now familiar names to researchers (and potentially employers) and by working closely with those two organisations we become part of a global network of instructors with which we can share ideas and materials.
 
-The RSE team and Library collectively now have five accredited Software and Data Carpentry instructors: Mike Croucher received training some time ago and in March Tania Allard and I from the [RSE team](https://rse.shef.ac.uk/contact/) plus [Jez Cope and Beth Hellen][library-team] from the Library's Research Services Unit participated in [instructor training in Oxford][sc-training-oxford].  
+The RSE team and Library collectively now have five accredited Software and Data Carpentry instructors: Mike Croucher received training some time ago and in March Tania Allard and I from the [RSE team](/contact/) plus [Jez Cope and Beth Hellen][library-team] from the Library's Research Services Unit participated in [instructor training in Oxford][sc-training-oxford].  
 
 ![Software Carpentry Instructor Training session](/assets/images/soft-carp-instructor-training.jpg){: .img-fluid}
 

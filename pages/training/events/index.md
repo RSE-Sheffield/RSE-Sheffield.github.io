@@ -8,6 +8,6 @@ We offer a range of training courses in topics such as Programming, High Perform
 
 Here are details of current and previous training events we've run. If you'd like us to rerun any of them, please get in touch and we'll see what we can do.
 
-If you would like **email notifications about future training events**, please join our [mailing-list](https://rse.shef.ac.uk/community/).
+If you would like **email notifications about future training events**, please join our [mailing-list](/community/).
 
 {% include events_list.html category="dltraining,carpentry,workshop" %}

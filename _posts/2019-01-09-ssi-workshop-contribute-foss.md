@@ -32,7 +32,7 @@ reproducible. This workshop introduced researchers to what "open source"
 means, how to contribute to pre-existing open source projects, and how
 to start their own. [Anna Krystalli](http://annakrystalli.me/) of the
 [University of Sheffield Research Software
-Engineering](http://rse.shef.ac.uk) group also helped out at this event.
+Engineering](https://rse.shef.ac.uk) group also helped out at this event.
 The materials for this workshop are [(openly) available
 here](https://open-source-for-researchers.github.io/open-source-workshop/).
 
