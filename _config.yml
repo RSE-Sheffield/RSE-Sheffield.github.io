@@ -28,6 +28,9 @@ future: true # required for collections with a date field, where future events a
 collections:
   events:
     output: true
+  people:
+    output: true
+    permalink: /contact/:path/
 
 # Build settings
 markdown: kramdown
@@ -54,3 +57,8 @@ defaults:
       type: "events"
     values:
       layout: "event"
+  - scope:
+      path: ""
+      type: "people"
+    values:
+      layout: "person"
