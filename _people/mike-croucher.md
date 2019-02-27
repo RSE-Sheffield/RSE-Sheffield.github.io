@@ -1,5 +1,5 @@
 ---
-alumni: true
+alumnum: true
 level: 0
 published: true
 
@@ -26,3 +26,10 @@ instructor.
 -   Web: [www.walkingrandomly.com]
 -   Twitter: [@walkingrandomly]
 -   LinkedIn: <https://www.linkedin.com/in/mike-croucher-32336113>
+
+
+[EPSRC Research Software Engineering Fellow]: http://www.walkingrandomly.com/?p=6037
+[www.walkingrandomly.com]: http://www.walkingrandomly.com/
+[Software Carpentry]: https://software-carpentry.org/
+[Data Carpentry]: https://datacarpentry.org/
+[@walkingrandomly]: https://twitter.com/walkingrandomly

@@ -1,5 +1,5 @@
 ---
-alumni: true
+alumnum: true
 level: 1
 published: true
 
@@ -25,12 +25,9 @@ instructor.
 
 -   Twitter: [@ixek]
 
-  [EPSRC Research Software Engineering Fellow]: http://www.walkingrandomly.com/?p=6037
-  [www.walkingrandomly.com]: http://www.walkingrandomly.com/
-  [Software Carpentry]: https://software-carpentry.org/
-  [Data Carpentry]: https://datacarpentry.org/
-  [@walkingrandomly]: https://twitter.com/walkingrandomly
-  [Research Associate/Research Software Engineer]: https://rse.ac.uk/
-  [Open Dream Kit]: https://opendreamkit.org/
-  [Horizon2020 project]: https://ec.europa.eu/programmes/horizon2020/
-  [@ixek]: https://twitter.com/ixek
+[Research Associate/Research Software Engineer]: https://rse.ac.uk/
+[Open Dream Kit]: https://opendreamkit.org/
+[Horizon2020 project]: https://ec.europa.eu/programmes/horizon2020/
+[@ixek]: https://twitter.com/ixek
+[Software Carpentry]: https://software-carpentry.org/
+[Data Carpentry]: https://datacarpentry.org/
