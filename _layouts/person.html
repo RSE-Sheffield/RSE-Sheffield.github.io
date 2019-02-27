@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<section class="section offset-header flex-fill" >
+    <div class="container">
+        <div class="row">
+            <div class="col-12" markdown=1>
+
+                {% if page.othernames and page.surname %}
+                    <h2><a href="{{page.url}}">{{page.othernames}} {{page.surname}}</a></h2>
+                {% endif %}
+
+                {% if page.role %}
+                    <h4>{{page.role}}</h4>
+                {% endif %}
+
+                {{ content }}
+
+            </div>
+        </div>
+    </div>
+</section>
