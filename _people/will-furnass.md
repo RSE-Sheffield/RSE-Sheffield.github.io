@@ -1,5 +1,5 @@
 ---
-alumni: false
+alumnum: false
 level: 1
 published: true
 
@@ -7,8 +7,8 @@ othernames: Will
 surname: Furnass
 role: Research Software Engineer
 
----
-
+--
+-
 Will is a Research Software Engineer who is curently working on:
 
   - Workflows and data management for the [Sheffield Biomedical Research Centre](http://sheffieldbrc.nihr.ac.uk/)

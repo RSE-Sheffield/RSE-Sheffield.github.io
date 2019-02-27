@@ -10,9 +10,9 @@ Current members of the Research Software Engineering team are listed below. Prev
 {% assign people = site.people | sort: 'othernames' | sort: 'surname' | sort: 'level'  %}
 <div class="people-list">
 {% for person in people %}
-    {% if person.alumni == false %}
+    {% if person.alumnum == false %}
       {% if person.othernames and person.surname %}
-        <h1><a href="{{person.url}}">{{person.othernames}} {{person.surname}}</a></h1>
+        <h2><a href="{{person.url}}">{{person.othernames}} {{person.surname}}</a></h2>
       {% endif %}
       {{ person.content }}
     {% endif %}

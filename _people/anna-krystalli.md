@@ -1,5 +1,5 @@
 ---
-alumni: false
+alumnum: false
 level: 1
 published: true
 
