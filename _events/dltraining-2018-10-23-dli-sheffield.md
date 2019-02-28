@@ -16,7 +16,7 @@ to: "17:00"
 
 **Location: Computer Room 4 (Room 2.06), 2nd Floor, The Diamond, University of Sheffield, 32 Leavygreave Road, Sheffield, S3 7RD**
 
-The [Research Software Engineering Sheffield (RSES)](/) is pleased to announce that we are holding a free one-day practical introduction to Deep Learning workshop on the **23rd of October**. The course is sponsored by NVIDIA and will be delivered through their [Deep Learning Institute](https://www.nvidia.com/en-us/deep-learning-ai/education/) program by [Twin Karmakharm](/contact/team#twin) (accredited DLI instructor). The event is open to staff and students from all faculties.
+The [Research Software Engineering Sheffield (RSES)](/) is pleased to announce that we are holding a free one-day practical introduction to Deep Learning workshop on the **23rd of October**. The course is sponsored by NVIDIA and will be delivered through their [Deep Learning Institute](https://www.nvidia.com/en-us/deep-learning-ai/education/) program by [Twin Karmakharm](/contact/twin-karmakharm) (accredited DLI instructor). The event is open to staff and students from all faculties.
 
 In this full-day workshop, you will learn the basics of deep learning by training and deploying neural networks. Build the skill-set and toolbox you need to build your own deep learning solutions through hands-on projects. Learners will:
 

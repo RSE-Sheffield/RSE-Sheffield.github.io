@@ -58,8 +58,8 @@ Please contact [carpentries-at-sheffield-group@sheffield.ac.uk][email-contact] t
 [library]: https://www.sheffield.ac.uk/library
 [cics]: https://www.sheffield.ac.uk/cics/research
 [announce-mail-list]: /community/
-[will-furnass]: /contact/team/
+[will-furnass]: /contact/will-furnass
 [jez-cope]: http://jcope.shef.ac.uk/
 [mark-dunning]: http://sbc.shef.ac.uk/team/mark/index.html
 [kat-koler]: https://github.com/katkoler
-[anna-krystalli]: https://github.com/annakrystalli
+[anna-krystalli]: /contact/anna-krystalli
