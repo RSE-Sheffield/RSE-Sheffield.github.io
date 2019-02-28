@@ -65,7 +65,7 @@ If you cannot attend the session, please give a **No** response on the calendar 
 
 #### Interested in getting involved?
 
-If you would like to get involved as a helper, please contact [Dr Mozhgan Kabiri Chimeh or Dr Anna Krystalli from the RSE Group](../../contact).
+If you would like to get involved as a helper, please contact [Dr Mozhgan Kabiri Chimeh or Dr Anna Krystalli from the RSE Group](/contact).
 
 
 <br>
