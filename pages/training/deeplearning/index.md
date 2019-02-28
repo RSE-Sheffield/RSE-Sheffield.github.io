@@ -9,7 +9,7 @@ In conjunction with [Nvidia Deep Learning Institue (DLI)](https://www.nvidia.com
 
 ## Current DLI Certified Instructors
 
-* [Twin Karmakharm](/contact/team#twin) (RSE Sheffield)
+* [Twin Karmakharm](/contact/twin-karmakharm) (RSE Sheffield)
 
 {% include events_list.html category="dltraining" %}
 
