@@ -1,5 +1,5 @@
 ---
-title: he Turing Way: An open source resource promoting best practice for reproducible research
+title: The Turing Way: An open source resource promoting best practice for reproducible research
 author: Becky Arnold
 slug: turing-way
 date: 2019-03-07 09:00:00 UTC+01:00
