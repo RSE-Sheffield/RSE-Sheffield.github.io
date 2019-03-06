@@ -5,7 +5,6 @@ slug: turing-way
 date: 2019-03-07 09:00:00 UTC+01:00
 ---
 
-
 # [Blog: The Turing Way: An open source resource promoting best practice for reproducible research](https://www.software.ac.uk/blog/2019-03-05-turing-way-open-source-resource-promoting-best-practice-reproducible-research)
 
 By [Becky Arnold](https://software.ac.uk/about/fellows/becky-arnold?_ga=2.183212641.611590810.1551866598-1336468516.1531506806), [University of Sheffield](https://www.sheffield.ac.uk/), with additional material by [Rosie Higman](https://rosiehigman.wordpress.com/), [University of Manchester](https://www.manchester.ac.uk/)
