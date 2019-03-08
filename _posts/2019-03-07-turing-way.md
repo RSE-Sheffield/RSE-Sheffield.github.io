@@ -5,6 +5,7 @@ slug: turing-way
 date: 2019-03-07 09:00:00 UTC+01:00
 ---
 
+Additional material by [Rosie Higman](https://rosiehigman.wordpress.com/), [University of Manchester](https://www.manchester.ac.uk/)
 
 [The Turing Way](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science) is a project [funded](https://www.turing.ac.uk/news/alan-turing-institute-spearhead-new-cutting-edge-data-science-and-artificial-intelligence) as part of UKRI’s Strategic Priorities fund. It aims to help researchers and RSEs improve the reproducibility of their research. It has three main components:
 
