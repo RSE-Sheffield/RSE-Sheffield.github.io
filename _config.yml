@@ -51,7 +51,7 @@ defaults:
       path: "_posts"
     values:
       layout: "post"
-      permalink: "/blog/:slug"
+      permalink: "/blog/:slug/"
   - scope:
       path: ""
       type: "events"
