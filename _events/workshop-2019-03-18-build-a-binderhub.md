@@ -6,6 +6,9 @@ permalink: /training/workshop/2019-03-18-build-a-binderhub/
 date: 2019-03-18
 from: "09:00"
 to: "16:00"
+location: "COM-G12-Main Lewin"
+speaker: "Turing Way (inc. Anna Krystalli and Becky Arnold)"
+institute: "University of Sheffield"
 ---
 
 Funders and publishers are beginning to require that publications include access to the underlying data and the analysis code.
