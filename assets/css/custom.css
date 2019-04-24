@@ -29,3 +29,11 @@ img {
         font-size: 18px;
     }
 }
+
+/* Visually distinguish past events.*/
+.event-item-previous a {
+    color: #656565;
+}
+.event-item-previous > div >img {
+    opacity: 0.40;
+}
