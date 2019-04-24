@@ -38,6 +38,7 @@ jQuery(document).ready(function($) {
        var displayUpcoming = true;
        var displayPrevious = true;
        var displayHeaders = false;
+       var chronologicalUpcoming = true;
 
         if(eventListing.hasClass("event-upcoming-previous")){
            displayUpcoming = true;
@@ -60,7 +61,7 @@ jQuery(document).ready(function($) {
         eventListing.find(".event-item").each(function(){
             var eventItem = $(this);
             var eventDate = moment(eventItem.data("date"));
-
+            
             if(!displayUpcoming && eventDate.isSameOrAfter(currentTime)){
                 eventItem.remove();
             }
