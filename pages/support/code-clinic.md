@@ -42,7 +42,7 @@ At each session, **members of the RSE team will be available to review code, adv
 
 ## Book a session
 
-Clinic sessions are split into 4 half-hourly slots, bookable for consultation. To book, please **fill in this [brief form](https://goo.gl/forms/5MVy0jM6xQhWlpmn1).** If there is time in between slots, we will also strive to accomodate drop-ins. However, to avoid disappointment and allow us to better allocate the most appropriate members of the team to help you, we strongly advise you book in advance.
+Clinic sessions are split into 4 half-hourly slots, bookable for consultation. To book, please **fill in this [brief form](https://goo.gl/forms/5MVy0jM6xQhWlpmn1).**
 
 ### Preparing for your session:
 
