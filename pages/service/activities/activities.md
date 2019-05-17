@@ -1,5 +1,5 @@
 ---
-title: Research Software Engineering Sheffield: what we do
+title: Research Software Engineering Sheffield - what we do
 permalink: /service/activities/
 slug: index
 type: text
