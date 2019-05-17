@@ -1,5 +1,5 @@
 ---
-title: What we do (Activities)
+title: What Research Software Engineering Sheffield do
 permalink: /service/activities/
 slug: index
 type: text
@@ -75,7 +75,7 @@ Institute](http://www.software.ac.uk/) and the UK community of [Research Softwar
 engage with funding providers to demonstrate the importance of research
 software engineers in modern research.
 
-# Supporting lecturers
+## Supporting lecturers
 
 We work with University of Sheffield lecturers to assist them in
 leveraging modern research software in their teaching.
@@ -90,7 +90,7 @@ We give talks and seminars on the use of research software in teaching
 -an example of which is the talk on [Project Jupyter and
 SageMathCloud](http://mikecroucher.github.io/ChemEng_Jupyter_talk2016/) at the 2016 Chemical Engineering teaching away-day.
 
-# Support of site licensed RSE software
+## Support of site licensed RSE software
 
 The University of Sheffield's IT department, CiCS, invests heavily in
 the provision of best-in-class commercial software applications for the
