@@ -38,6 +38,7 @@ jQuery(document).ready(function($) {
        var displayUpcoming = true;
        var displayPrevious = true;
        var displayHeaders = false;
+       var chronologicalUpcoming = true;
 
         if(eventListing.hasClass("event-upcoming-previous")){
            displayUpcoming = true;
@@ -61,12 +62,20 @@ jQuery(document).ready(function($) {
             var eventItem = $(this);
             var eventDate = moment(eventItem.data("date"));
 
-            if(!displayUpcoming && eventDate.isSameOrAfter(currentTime)){
-                eventItem.remove();
+            if(eventDate.isSameOrAfter(currentTime)){
+                if(displayUpcoming){
+                    eventItem.addClass("event-item-upcoming");
+                } else {
+                    eventItem.remove();
+                }
             }
 
-            if(!displayPrevious && eventDate.isBefore(currentTime)){
-                eventItem.remove();
+            if(eventDate.isBefore(currentTime)){
+                if(displayPrevious){
+                    eventItem.addClass("event-item-previous");
+                } else {
+                    eventItem.remove();
+                }
             }
         });
 
@@ -77,16 +86,30 @@ jQuery(document).ready(function($) {
                 var eventDate = moment(eventItem.data("date"));
 
                 if(upcomingNotAdded && eventDate.isSameOrAfter(currentTime)){
-                    $("<h2>Upcoming Events</h2>").insertBefore(eventItem);
+                    $('<h2 id="upcoming">Upcoming Events</h2>').insertBefore(eventItem);
                     upcomingNotAdded = false;
 
                 }
 
                 if(prevNotAdded && eventDate.isBefore(currentTime)){
-                    $("<h2>Previous Events</h2>").insertBefore(eventItem);
+                    $('<h2 id="previous">Previous Events</h2>').insertBefore(eventItem);
                     prevNotAdded = false;
                 }
             });
+        }
+
+        // Make upcoming events in forward chronological order, rather than reverse chronological order.
+        if(displayUpcoming && displayHeaders && chronologicalUpcoming){
+            // Get the location of the upcoming header as an anchor.
+            var anchorElement = document.getElementById("upcoming");
+            if(anchorElement){
+                // For each upcoming element, move it to after the heading. 
+                // As elements are in reverse-chrono order, the order of execution results in forward chrono order.
+                eventListing.find(".event-item-upcoming").each(function(){
+                    var eventItem = $(this);
+                    anchorElement.insertAdjacentElement('afterend', this);
+                });
+            }
         }
 
     });
