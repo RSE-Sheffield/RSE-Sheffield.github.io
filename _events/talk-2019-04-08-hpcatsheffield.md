@@ -3,6 +3,8 @@ category: seminar
 date: 2019-04-08
 published: true
 
+from: "14:55"
+to: "15:15"
 location: "Firth Hall"
 speaker: "Phil Tooley"
 institute: "University of Sheffield"
