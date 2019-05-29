@@ -1,61 +1,12 @@
-# RSE Website
+# RSE-Sheffield Website
 
-Built with [Jekyll](https://jekyllrb.com/)
+This repository contains the source for the RSE-Sheffield website, built with [Jekyll](https://jekyllrb.com/).
 
-## Rules for adding contents
+The website is hosted on github pages and can be found at https://rse.shef.ac.uk.
 
-### Adding Blog Posts
+## Development
 
-* Blog posts are located in the `_posts` folder. 
-* The file **MUST** be prepended with a date e.g. `2018-01-01-my-article-title.md`, otherwise they won't be picked up.
-* In the **FrontMatter**:
-    * `slug` - The varible MUST be set, this is used to generate the permalink of the post. It is done this way to retain backwards compatibility with the old website paths.
-
-### Adding images to pages/posts (in Markdown)
-* Images should normally be located in the `/assets/images` folder but you can make subfolders in `assets` or `images` itself to store static resource related to your particular event.  
-* If you just want to simply add an image, try this before adding html:
-
-    ```
-    ![my desciption](/assets/images/my-image-path.png){: .img-fluid}
-    ```
-
-The `!` in front of the link indicates that it's an image. The `[my description]` will appear in your alt text. 
-The site uses bootstrap and the `{: .img-fluid}` adds a css class `img-fluid` to make the image responsive.
-
-### Linking to local content
-* Content hosted on our website could be linked to via full URL. i.e. `https://rse.shef.ac.uk/blog`. However, to enable local-testing of this website it is better to link using a root relative link, such as `/blog`. 
-    * Alternatively, using Jekyll's Liquid Variable `site.root` it could be linked as `{{ site.url }}blog`, however this then ties our content to jekyll.
-
-### Adding Events
-**Note** - Add a `/` at the end of your `permalink` path so that the page can be accessed even if your user does or does not put a `/` at the end of their path. E.g. `permalink: /mysection/2019-01-01-myevent/` will allow the page to be accessed at `https://rse.shef.ac.uk/mysection/2019-01-01-myevent/` **and** `https://rse.shef.ac.uk/mysection/2019-01-01-myevent`. 
-
-* Event posts are located in the `_events` folder.
-* The following **FrontMatter** variables can be set:
-    * `category` - Tagname of the category that your event belongs to
-    * `permalink` - If you have dedicated pages for each event category, use this to place the event's permalink in the correct page, e.g. for deep learning events at /training/deeplearning/, you might want to set the permalink as /training/deeplearning/2019-01-01-myevent/ 
-    * `title` - Title of your event
-    * `date` - Starting date with format: YYYY-MM-DD
-    * `end-date` - **Optional** The end date for events that run over multiple days, with format: YYYY-MM-DD
-    * `from` - Starting time with format: HH:MM
-    * `to` - Ending time with format: HH:MM
-    * `location`  - Location of your event
-    * `eventbrite_id` - **Optional** The ID of your event on eventbrite. This will automatically include the eventbrite's ticket purchasing/registration widget
-    * `tags` - searchable tags, (not implemented yet)
-
-### Adding a new Event Category
-
-#### Updating the rendering when listing individual events
-* The list of categories can be found at  `/_data/event-categories.yml`
-* Add your new category tag to the map, this corresponds to value of the `category` FrontMatter variable in your event page. 
-
-#### Including events listing in your own events page
-* Create a new page in the `/pages` folder
-* Include the event listing in your page, you can add a category variable in the include to specify the category or multiple categories using comma separation:
-    ```
-    {% include events_list.html category="mycustomcat" %}
-    ```
-
-## Installation
+### Install Dependencies
 
 1. Install ruby
     * On Windows, this installer can be used [https://rubyinstaller.org/](https://rubyinstaller.org/)
@@ -63,30 +14,171 @@ The site uses bootstrap and the `{: .img-fluid}` adds a css class `img-fluid` to
         ```
         sudo apt install ruby-full
         ```
-1. In the terminal, install the rest of the required packages: 
+2. Install `bundler` (via a terminal): 
    ```
    gem install bundler jekyll 
    ``` 
-1. Go to the root directory of this site and run
+3. Install other dependencies using `bundler`
     ```
-    bundler install 
+    bundler install --path vendor/bundle
     ```
 
-Note, if you get an error related to the `public_suffix` package, try installing and updating bundler before rebuilding the site:
+**Note:** if you get an error related to the `public_suffix` package, try installing and updating bundler before rebuilding the site:
 ```
 gem install public_suffix --version 3.0.3
 bundler update
 ```
 
+### Updating Dependencies
+
+Ensure ruby packages are up to date, to avoid differences between local and github/travis builds:
+
+```
+bundler update --all
+```
 
 
-## Building and previewing the site
+### Serving a Local Copy of the Website
 
-* Run the following command to build the site and serve it up on a local server:
-    ```
-    bundler exec jekyll serve
-    ```
-* The website can then be found at `http://127.0.0.1:4000`
+To build and serve a local copy of the website, run
+
+```
+bundler exec jekyll serve
+```
+
+The website can then be found at `http://127.0.0.1:4000`
     
+### Building HTML files
+
+```
+bundler exec jekyll build
+```
+
+Generated HTML files can be found in `_site`.
 
 
+
+## Writing Content
+
+Content can be written in Markdown, reStructuredText or as HTML.
+
+### Assets: Images, PDFs etc.
+
+Resources such as images should be stored in the `assets` directory. E.g. `assets/images/image.png`.
+
+This can then be included in your markdown file via:
+
+```
+![description of image](/assets/images/image.png){: .img-fluid}
+```
+
+This applies the `img-fluid` css class to the generate `<img>` element, to make the image responsive.
+
+PDFs or other very large binary files can be stored in the assets directory (i.e. `assets/slides/presentation.pdf`), although we are considering changing this recommendation.
+
+
+### Linking to Local Content
+
+Ideally link to other pages using either Jekyll's Liquid variables, relative or root-relative) links. 
+
+e.g. `[Target]({{site.url}}/target/page/)`, `[Target](target/page/)` or `[Target](/target/page/)`
+
+
+Avoid absolute links such as `https://rse.shef.ac.uk/target/page/` which prevent local testing.
+
+
+
+### Pages
+
+The general website pages are stored in `pages/`, as Markdown or HTML files.
+
+See the [Jekyll Docs /pages/](for https://jekyllrb.com/docs/pages/) for more information.
+
+### Blog Posts
+
+Blog posts are located in the `_posts` directory.
+
+The filename **MUST** be prepended with a date (ISO 8601) e.g. `2018-01-01-foo-bar.md`.
+
+Each blog post has a YAML *FrontMatter*, which **must** contain a `slug` (unique), `title`, `author`, and `date`.
+Optional fields can also be included, such as `layout`, `category` (or `categories`), `tags` etc.
+
+The YAML header should look something like:
+
+```
+--- 
+slug: foo-bar
+title: foo-bar
+author: Baz
+date: 2018-01-01 00:00:00
+category: 
+tags: 
+---
+```
+
+### Events
+
+Events are located in the `_events` directory. 
+
+Events have a YAML FrontMatter, which **must** include `category`, `date`, `from` and `to`.
+
+The `category` variable classifies the type of event. 
+The list of existing categories can be found at `_data/event-categories.yml`.
+
+
+Different categories of event may expect or make use of additional variables, such as `speaker`, `institute` and `title` for the `seminar` category. See other examples of the same category for further details.
+
+The following are some of the  **FrontMatter** variables which can be set:
+
+| Category        | Description |
+|-----------------|-------------|
+| `category`      | Tagname of the category that your event belongs to |
+| `permalink`     | If you have dedicated pages for each event category, use this to place the event's permalink in the correct page, e.g. for deep learning events at `/training/deeplearning/`, you might want to set the permalink as `/training/deeplearning/2019-01-01-myevent/`  |
+| `title`         | Title of your event |
+| `date`          | Starting date with format: `YYYY-MM-DD` |
+| `end-date`      | **Optional** The end date for events that run over multiple days, with format: YYYY-MM-DD |
+| `from`          | Starting time with format: HH:MM |
+| `to`            | Ending time with format: HH:MM |
+| `location`      | Location of your event |
+| `eventbrite_id` | **Optional** The ID of your event on eventbrite. This will automatically include the eventbrite's ticket purchasing/registration widget |
+| `tags`          | searchable tags, (not implemented yet) |
+
+**Note** - Permalinks *should* end with a trailing `/` so the event can be accessed with or without the trailing `/`.
+ E.g. `permalink: /mycategory/2019-01-01-myevent/` will allow the page to be accessed at `https://rse.shef.ac.uk/mycategory/2019-01-01-myevent/` **and** `https://rse.shef.ac.uk/mycategory/2019-01-01-myevent`. 
+
+### Event Categories
+
+`_data/event-categories.yml` provides the details of existing event categories
+
+Each category is identified with a unique key, such as `seminar`. 
+Categories should have an associated `image` representation and a `text` value for display.
+
+i.e. 
+
+```
+seminar:
+    image: "/assets/images/icons/icons8-training-50.png"
+    text: "Seminar"
+```
+
+To create a new category, add a new YAML element with a unique key to `_data/event-categories.yml`.
+
+#### Creating a new category listing
+
+To create a new page which lists all events of a given category:
+
+1. Create a new page, i.e. `pages/newcategory.md`
+2. Include the `event_list.html` template with the key from your new category:
+    ```
+    {% include events_list.html category="newcategory" %}
+    ```
+
+
+## Layout and Style
+
+The structure of Jekyll websites are controlled through *Layouts*, found in `_layouts` directory which can be specified per-page in the YAML header. 
+
+Layouts (or pages) may reference *includes* which are re-usable sections of markup, found in `_includes`. 
+
+Style should primarily be controlled through CSS, both through the site theme and any custom CSS rules.
+Custom CSS should be specified in `assets/css/custom.css`
