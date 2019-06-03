@@ -1,5 +1,5 @@
 --- 
-title: 2 Sheffield RSEs in the 2019 SSI Fellowships cohort
+title: Two Sheffield RSEs in the 2019 SSI Fellowships cohort
 author: Anna Krystalli, Mozhgan Kabiri Chimeh, Becky Arnold
 slug: ssi-fellowships-2019
 date: 2019-06-03 14:56:51 UTC+01:00
