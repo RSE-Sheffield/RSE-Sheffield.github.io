@@ -8,11 +8,10 @@ to: "14:00"
 location: "COM-G12-Main Lewin"
 speaker: "Hannah Sewell"
 institute: "Sky Betting and Gaming"
-title: "Transitioning into the tech Industry from a PhD"
-
-image:
-slides_url:
+title: "CANCELLED: Transitioning into the tech Industry from a PhD"
 ---
+
+**Unfortunately we've had to cancel this event as the speaker is no longer available.**
 
 **Abstract**: Writing code in your PhD and in industry are wildly different. From the processes surrounding
 getting your code out into live to the way you work in a team, industry has its own set of rules to
