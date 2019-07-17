@@ -45,7 +45,7 @@ Secondly, the V100 devices offer more performance in several ways:
 |-----------------------------|---------------|---------------|
 | CUDA cores                  | 5120          | 3584          |
 | Memory bandwidth            | 900 GB/sec    | 720 GB/sec    |
-| Half Precision              | 30 TFLOPS     | 21.2 TFLOPS   |
+| Half Precision perf         | 30 TFLOPS     | 21.2 TFLOPS   |
 | Single Precision perf       | 15 TFLOPS     | 10.6 TFLOPS   |
 | Double Precision perf       | 7.5 TFLOPS    | 5.3 TFLOPS    |
 | Tensor perf (Deep Learning) | 120 TFLOPS    | N/A           |
