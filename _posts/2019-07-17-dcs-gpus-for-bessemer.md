@@ -50,6 +50,7 @@ Secondly, the V100 devices offer more performance in several ways:
 | Double Precision perf       | 7.5 TFLOPS    | 5.3 TFLOPS    |
 | Tensor perf (Deep Learning) | 120 TFLOPS    | N/A           |
 | NVLink bandwidth            | 300 GB/s      | 160 GB/s      |
+{:.table.table-bordered.table-striped.table-hovered}
 
 One major difference between Bessemer and ShARC is that 
 Bessemer is to be the first University of Sheffield HPC system to run the [SLURM][slurm] job/resource manager rather than Sun Grid Engine aka SGE (or a variant thereof).
