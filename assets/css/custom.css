@@ -37,3 +37,73 @@ img {
 .event-item-previous > div >img {
     opacity: 0.40;
 }
+
+
+/*
+ * Table styling rules from boostrap4, applied to table elements. This would be better if we used a css preprocessor / less duplication. This is a simple copy-paste-modify so the rules are automatically applied. from bootstrap 4.1.2 
+ * Bootstrap v4.1.2 (https://getbootstrap.com/)
+ * Copyright 2011-2018 The Bootstrap Authors
+ * Copyright 2011-2018 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ */
+table {
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 1rem;
+  background-color: transparent;
+}
+table th,
+table td {
+  padding: 0.75rem;
+  vertical-align: top;
+  border-top: 1px solid #dee2e6;
+}
+table thead th {
+  vertical-align: bottom;
+  border-bottom: 2px solid #dee2e6;
+}
+table tbody + tbody {
+  border-top: 2px solid #dee2e6;
+}
+table table {
+  background-color: #fff;
+}
+table {
+  border: 1px solid #dee2e6;
+}
+table th,
+table td {
+  border: 1px solid #dee2e6;
+}
+table thead th,
+table thead td {
+  border-bottom-width: 2px;
+}
+table tbody tr:nth-of-type(odd) {
+  background-color: rgba(0, 0, 0, 0.05);
+}
+table tbody tr:hover {
+  background-color: rgba(0, 0, 0, 0.075);
+}
+table thead th {
+  color: #fff;
+  background-color: #212529;
+  border-color: #32383e;
+}
+@media print {
+  table {
+    border-collapse: collapse !important;
+  }
+  table td,
+  table th {
+    background-color: #fff !important;
+  }
+  table th,
+  table td {
+    border: 1px solid #dee2e6 !important;
+  }
+  table thead th {
+    color: inherit;
+    border-color: #dee2e6;
+  }
+}
