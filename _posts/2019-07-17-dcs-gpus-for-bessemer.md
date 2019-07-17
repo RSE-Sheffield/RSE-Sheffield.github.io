@@ -31,19 +31,34 @@ The specification *per node* is:
 * GPUs: 4x NVIDIA Tesla V100 (16 GB RAM), with high-bandwidth, low-latency [NVLink][nvlink] interconnects;
 * Network: 25Gbps Ethernet.
 
-That's 28 NVIDIA V100 GPUs in total! 
-These V100 devices have several advantages over the P100 cards available in the DGX-1:
+That's 32 NVIDIA V100 GPUs in total! 
+These V100 devices have several advantages over the P100 cards available in the DGX-1. 
+Firstly, the V100 devices have a number of [tensor cores][tensor-cores], 
+which multiply two half-precision 4x4 matrices then 
+add a half or full precision matrix to the result. 
+Tensor cores can expedite neural network training.
 
-  * [Tensor cores][tensor-cores], 
-    which multiply two half-precision 4x4 matrices then 
-    add a half or full precision matrix to the result. 
-    Tensor cores can expedite neural network training.
-  * NVLink 2.0, which offers higher bandwidth compared to the NVLink 1.0 interconnects in the DGX-1 (300 GB/s vs 160 GB/s);
+Secondly, the V100 devices offer more performance in several ways:
+
+
+| Model                       | V100 (NVLink) | P100 (NVLink) |
+|-----------------------------|---------------|---------------|
+| CUDA cores                  | 5120          | 3584          |
+| Memory bandwidth            | 900 GB/sec    | 720 GB/sec    |
+| Half Precision              | 30 TFLOPS     | 21.2 TFLOPS   |
+| Single Precision perf       | 15 TFLOPS     | 10.6 TFLOPS   |
+| Double Precision perf       | 7.5 TFLOPS    | 5.3 TFLOPS    |
+| Tensor perf (Deep Learning) | 120 TFLOPS    | N/A           |
+| NVLink bandwidth            | 300 GB/s      | 160 GB/s      |
 
 One major difference between Bessemer and ShARC is that 
 Bessemer is to be the first University of Sheffield HPC system to run the [SLURM][slurm] job/resource manager rather than Sun Grid Engine aka SGE (or a variant thereof).
 SLURM has native support for GPUs, which is [much improved as of this year's 19.05 release (PDF)][slurm-19-05].  
-The main benefits to users will be much stronger isolation of GPU resources per job, plus a means for tracking GPU utilisation per job.
+The main benefits to users will be:
+
+* much stronger isolation of GPU resources per job, 
+* the ability to request multiple CPU cores per requested GPU device and 
+* a means for tracking GPU utilisation per job.
 
 **Expect to hear much more about Bessemer in the next month or two!**
 
