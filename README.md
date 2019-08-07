@@ -74,7 +74,15 @@ This can then be included in your markdown file via:
 
 This applies the `img-fluid` css class to the generate `<img>` element, to make the image responsive.
 
-PDFs or other very large binary files can be stored in the assets directory (i.e. `assets/slides/presentation.pdf`), although we are considering changing this recommendation.
+#### PDFs
+
+PDFs or other very large binary files should be stored in an alternate repository, to avoid polluting the main website source with very large files.
+
+##### Seminar-slides
+For seminar content, use the [RSE-Sheffield/seminar-slides](https://github.com/RSE-Sheffield/seminar-slides) repository. Detailed instructions are provided in the README.md for how to add files, and how to link to them.
+
+##### Others
+Other files could be stored in an appropriate directory within `assets`, or alternatively another repository could be set up similar to [RSE-Sheffield/seminar-slides](https://github.com/RSE-Sheffield/seminar-slides).
 
 
 ### Linking to Local Content
