@@ -19,7 +19,7 @@ but not waiting for them to finish before exiting.
 (A running program i.e. a process can create further processes, which in turn can also create processes;
 the relationships between these are often described using the terms 'parent' and 'child'). 
 
-<img src="think-of-the-children.jpg" />
+<img src="/assets/images/think-of-the-children.jpg" />
 
 Within an interactive session on ShARC, it doesn't matter if we start a process that then doesn't wait for its children to exit before it exits:
 the children can typically continue doing what they need to (write to the terminal or files etc) until they finish, all within the interactive session.
