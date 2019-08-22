@@ -175,7 +175,7 @@ Raspberry Pi and the
 are doing great work here, as are
 [micro:bit](https://microbit.org/code/), powered by
 [MicroPython](https://micropython.org/).
-Lot's of local Maker and Python groups, including our local
+Lots of local Maker and Python groups, including our local
 [Python Sheffield](https://twitter.com/pysheff),
 will do introductory sessions, so keep an eye out.
 
