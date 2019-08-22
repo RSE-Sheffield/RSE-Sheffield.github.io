@@ -26,6 +26,11 @@ You are all very helpful and
 Python](https://twitter.com/drjtwit/status/1163843466528473088)
 got a lot of useful replies and suggestions.
 
+[![a laptop showing some code, taken between the shoulders of
+people huddled coding](/assets/images/DGCali-72.jpg "Coding at
+Django Girls Cali:
+CC-BY-SA")](https://argentinaenpython.com/galeria/django-girls-cali/)
+
 I have to preface this a warning.
 If you're setting out to learn Python today,
 you should absolutely learn Python 3,
