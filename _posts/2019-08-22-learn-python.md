@@ -160,11 +160,11 @@ Python](https://automatetheboringstuff.com/) an Al Sweigart book
 also free-to-read from their website;
 «Python Cookbook» has a new edition in the works,
 so might be worth waiting (on the other hand, previous editions
-have been so popular that you might be able to find out
+have been so popular that you might be able to find one
 literally lying around your office)—note that the book isn't a
 tutorial, but is a book to grow your Python skills;
 «Fluent Python» got the most mentions, but I've never read it,
-nor spoked directly to anyone who has.
+nor spoken directly to anyone who has.
 
 ## Let's Get Physical
 
