@@ -210,3 +210,7 @@ replies to my
 tweet](https://twitter.com/drjtwit/status/1163843466528473088).
 
 Good luck, and let me know how you get on!
+
+If you get stuck and need a helpful nudge,
+get some advice at our [Code
+Clinic](https://rse.shef.ac.uk/support/code-clinic/).
