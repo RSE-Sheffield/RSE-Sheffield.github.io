@@ -31,7 +31,7 @@ people huddled coding](/assets/images/DGCali-72.jpg "Coding at
 Django Girls Cali:
 CC-BY-SA")](https://argentinaenpython.com/galeria/django-girls-cali/)
 
-I have to preface this a warning.
+I have to preface this with a warning.
 If you're setting out to learn Python today,
 you should absolutely learn Python 3,
 and preferably the latest supported version, which is Python 3.7.
