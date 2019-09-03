@@ -16,7 +16,7 @@ He is currently working on the [PRIMAGE project](https://www.primageproject.eu/)
 which proposes an open cloud-based platform to support decision making in the clinical management of two paediatric cancers. 
 In particular, wokring towards the development of a cell scale model of neuroblastoma to be scaled across multiple GPUs and distributed HPC resources.
 
-He is also contributing towards the new version of [FLAMEGPU](http://www.flamegpu.com/) software framework, facilitating access to complex systems modelling on GPU architectures to a wider audience.
+He is also contributing towards the new version of [FLAMEGPU](http://www.flamegpu.com/) software framework, facilitating wider access to complex systems modelling on GPUs.
 
 * Email: r.chisholm (at) sheffield.ac.uk
 * Twitter: [@_robadob](https://twitter.com/_robadob)
