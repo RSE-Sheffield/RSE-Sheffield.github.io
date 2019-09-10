@@ -72,9 +72,16 @@ For example, current team members are/have been:
 
 ## Applying
 
-Educated to PhD level (or be close to completion) in a computationally based field or
-having equivalent industry experience,
+Educated to PhD level (or be close to completion) in a computationally based field **or
+having equivalent industry experience**,
 you will have a track record of software development.
+For example, you might have:
+
+* developed/extended one or more applications/libraries at work or during your PhD
+* have managed those projects using version control,
+* have developed mechanisms for testing them
+* and have written documentation for them.
+
 Applications are welcome from both software development generalists
 and from RSEs with interdisciplinary technology-focused skills
 which either complement or extend our existing portfolio 
