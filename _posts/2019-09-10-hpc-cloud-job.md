@@ -67,6 +67,7 @@ For example, current team members are/have been:
 * [rOpenSci editors](https://ropensci.org/blog/2018/06/22/new_editors/)
 * [UK RSE conference](https://rse.ac.uk/) committee members
 * [NVIDIA Deep Learning Institute-accredited trainers](/training/deeplearning/)
+* [Women In HPC](https://womeninhpc.org/) workshop/community organisers
 * [Carpentries trainers](/training/carpentry/)
 * [ARCHER/HPC Champions](https://www.archer.ac.uk/community/champions/)
 
