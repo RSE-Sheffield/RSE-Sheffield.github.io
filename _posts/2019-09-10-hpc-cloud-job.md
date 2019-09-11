@@ -13,12 +13,13 @@ type: text
 
 We recently hired two more Research Software Engineers (RSEs)
 (including [Bob Turner](/contact/bob-turner/), who started last week)
-but are looking to hire another RSE.
+but are already looking for another teammate!
 
 * **Do you have experience of developing software in a lower-level language (e.g. C++)
 and a sound understanding of parallelisation technologies, HPC and/or cloud?**
 * **Do you want to work on a variety of research software/infrastructure development projects?**
 * **Would you also be keen for the opportunity to teach others about research computing / software development best practices?**
+* **Does the idea of collaborating with and supporting researchers so as to achieve their research objectives excite you?**
 
 If so, this new vacancy may be of interest.
 
@@ -36,9 +37,11 @@ Initially, you will work on at least two projects:
     to support research on the [CompBioMed2][cbm2] EU project.  
 
     An example of the kind of application that needs further development, testing and deployment is [pFIRE][pfire], 
-    which is a library for [image registration][im-reg]. 
-    This was developed in modern C++ and uses [PETSc][petsc] to distribute matrix/vector data and operations between MPI ranks.
-    It was developed by a former member of the RSE team!
+    which is a library for [elastic image registration][im-reg]. 
+    This warps related images to achieve maximal correlation,
+    which for MRI scans could compensate for deformation of the patient between images.
+    The software was developed in modern C++ by a former member of the RSE team
+    and uses [PETSc][petsc] to distribute matrix/vector data and operations between MPI ranks.
 
     [![pFire: mapped annotations](/assets/images/pfire_mapped_annotations.png)](https://insigneo.github.io/pFIRE/getting_started/tutorial.html#multimodal-image-alignment)
 
@@ -70,6 +73,9 @@ For example, current team members are/have been:
 * [Women In HPC](https://womeninhpc.org/) workshop/community organisers
 * [Carpentries trainers](/training/carpentry/)
 * [ARCHER/HPC Champions](https://www.archer.ac.uk/community/champions/)
+
+We are a supportive group that values further development of our members and
+we support each others through the diversity of our members' skills and experiences. 
 
 ## Applying
 
