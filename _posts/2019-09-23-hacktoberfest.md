@@ -31,6 +31,8 @@ These should provide a friendly, informal environment for **working on open-sour
 
 As an added incentive if you make five contributions to open-source projects on GitHub during October you get a **Hacktoberfest t-shirt**!
 
+<img src="/assets/images/HF19_logo.png" alt="Hacktoberfest 2019 logo" />
+
 ## Introductory session
 
 * 1st October
@@ -66,17 +68,19 @@ learn more about collaboration,
 have contributed to an open-source software project
 and have got the t-shirt to prove it!
 
-Hope to see you there!
+## Registering interest
+
+See [**this Meetup page**](https://www.meetup.com/SheffieldR-Sheffield-R-Users-Group/events/264956415/).
 
 Please read our [Events Code of Conduct][coc] before attending.
-Happy hacking!
 
-[Find out more about Hacktoberfest][hacktoberfest].
+[Find out more about Hacktoberfest][hacktoberfest].  Hope to see you there!
 
-[hacktoberfest]: https://hacktoberfest.digitalocean.com
+
 [coc]: https://do.co/hacktoberconduct
 [diamond-pass]: https://forms.gle/iwBKYLVoC5uouUCg7
 [diamond]: https://www.sheffield.ac.uk/diamond
-[srug]: https://sheffieldr.github.io/ 
-[sbc]: https://sbc.shef.ac.uk/
+[hacktoberfest]: https://hacktoberfest.digitalocean.com
 [red-deer]: http://www.red-deer-sheffield.co.uk/
+[sbc]: https://sbc.shef.ac.uk/
+[srug]: https://sheffieldr.github.io/ 
