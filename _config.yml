@@ -16,18 +16,21 @@
 title: Research Software Engineering Sheffield
 email: rse@sheffield.ac.uk
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Research Software Engineers (RSEs) are the people behind research software.
+  This website is designed as a hub for Sheffield academics and researchers
+  seeking help with research software and as a community for research software engineers. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://rse.shef.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: rse_sheffield
+github_username: RSE-Sheffield
 
 future: true # required for collections with a date field, where future events are desired.
 collections:
   events:
     output: true
+  people:
+    output: true
+    permalink: /contact/:path/
 
 # Build settings
 markdown: kramdown
@@ -48,9 +51,14 @@ defaults:
       path: "_posts"
     values:
       layout: "post"
-      permalink: "/blog/:slug"
+      permalink: "/blog/:slug/"
   - scope:
       path: ""
       type: "events"
     values:
       layout: "event"
+  - scope:
+      path: ""
+      type: "people"
+    values:
+      layout: "person"

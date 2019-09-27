@@ -30,19 +30,20 @@ Carpentry events and instructor training are jointly organised by a working grou
 
 ## Planned Carpentry Events
 
-We expect to run bootcamps on the following days:
-
-* 26th-27th November 2018 — Software Carpentry
-* 26th-27th February 2019 — Software or Data Carpentry
-* 9th-10th April 2019 — Data Carpentry
+We are currently planning our next series of Software and Data Carpentry workshops.
 
 Details for these events will be posted on this page and shared via the [RSE announcement mailing list][announce-mail-list].
 
 ## Current Certified Instructors
 
-* [Mark Dunning][mark-dunning](Sheffield Bioinformatics Core)
+* [Angus Taggart][angus-taggart] (University of Sheffield Library)
+* [Anna Krystalli][anna-krystalli] (RSE Sheffield)
+* [Katjuša Koler][kat-koler] (SITraN)
+* [Mark Dunning][mark-dunning] (Sheffield Bioinformatics Core)
+* [Phil Tooley][phil-tooley] (RSE Sheffield)
 * [Will Furnass][will-furnass] (RSE Sheffield)
-* [Katjuša Koler][kat-koler](SITraN)
+
+
 
 ### Becoming an Instructor
 
@@ -61,7 +62,10 @@ Please contact [carpentries-at-sheffield-group@sheffield.ac.uk][email-contact] t
 [library]: https://www.sheffield.ac.uk/library
 [cics]: https://www.sheffield.ac.uk/cics/research
 [announce-mail-list]: /community/
-[will-furnass]: /contact/team/
+[will-furnass]: /contact/will-furnass
 [jez-cope]: http://jcope.shef.ac.uk/
 [mark-dunning]: http://sbc.shef.ac.uk/team/mark/index.html
 [kat-koler]: https://github.com/katkoler
+[anna-krystalli]: /contact/anna-krystalli
+[phil-tooley]: /contact/phil-tooley
+[angus-taggart]: https://www.sheffield.ac.uk/library/libstaff/libstafflist
