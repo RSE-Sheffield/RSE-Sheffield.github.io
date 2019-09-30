@@ -22,7 +22,7 @@ suggest ways to improve your computational workflows**.
 
 ### When: Every second Wed (14:00 - 16:00)
 
-Clinics launch on **Wednesday, Oct 3rd, 2018** and run fortnightly after that. 
+Clinics launch on **Wednesday, Oct 3rd, 2018** and run fortnightly after that. Note that **slots can only be booked 48 hours or more before the scheduled time**.
 
 ### Where: Room COM-G25
 
