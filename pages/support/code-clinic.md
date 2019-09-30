@@ -1,5 +1,5 @@
 ---
-layout: codeclinic
+layout: page
 permalink: /support/code-clinic/
 title: Code Clinic  
 slug: code-clinic
