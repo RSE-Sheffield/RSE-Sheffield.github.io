@@ -20,10 +20,10 @@ advise,
 troubleshoot and 
 suggest ways to improve your computational workflows**.
 
-### When: Every second Wed (14:00 - 16:00)
+### When: Every second Wed (13:30 - 15:30)
 
-Clinics launch on **Wednesday, Oct 3rd, 2018** and run fortnightly after that. 
-Check for scheduled dates on the RSE [**Code Clinic** calendar](#calendar).
+Clinics launch on **Wednesday, Oct 3rd, 2018** and run fortnightly after that. Scheduled dates can be found on the booking form (link shown below).
+
 Note that **slots can only be booked 48 hours or more before the scheduled time**.
 
 
