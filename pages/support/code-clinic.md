@@ -20,13 +20,6 @@ advise,
 troubleshoot and 
 suggest ways to improve your computational workflows**.
 
-### When: Every second Wed (14:00 - 16:00)
-
-Clinics launch on **Wednesday, Oct 3rd, 2018** and run fortnightly after that. 
-Check for scheduled dates on the RSE [**Code Clinic** calendar](#calendar).
-Note that **slots can only be booked 48 hours or more before the scheduled time**.
-
-
 ### Where: Room COM-G25
 
 [Regent Court, Dept. of Computer Science, The University of Sheffield, 211 Portobello, Sheffield, S1 4DP](https://goo.gl/maps/t88GdT9Yjmz).
@@ -45,7 +38,11 @@ Note that **slots can only be booked 48 hours or more before the scheduled time*
 
 **We can help!**
 
-### Booking a session
+### When: Every second Wed (14:00 - 16:00)
+
+Clinics launch on **Wednesday, Oct 3rd, 2018** and run fortnightly after that.
+
+### Book a slot
 
 Clinic sessions are split into 3 half-hourly slots, bookable for consultation. 
 To book, please **fill in this [brief form](https://goo.gl/forms/5MVy0jM6xQhWlpmn1).**
