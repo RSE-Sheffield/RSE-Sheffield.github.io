@@ -7,7 +7,7 @@ date: 2019-10-02
 from: "11:30"
 to: "12:00"
 location: "Computer Science, University of Sheffield"
-speaker: "Will Furnass
+speaker: "Will Furnass"
 institute: "University of Sheffield"
 ---
 
