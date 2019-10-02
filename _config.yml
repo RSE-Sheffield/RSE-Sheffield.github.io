@@ -41,6 +41,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+strict_front_matter: true
 defaults:
   -
     scope:
