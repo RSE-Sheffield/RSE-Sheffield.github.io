@@ -2,12 +2,12 @@
 title: Intro to HPC and RSE for Speech and Language Technologies CDT PhD students 
 category: workshop
 tags:
-permalink: /training/workshop/2019-10-02-slt-cdt-talk
+permalink: /training/workshop/2019-10-02-slt-cdt-talk/
 date: 2019-10-02
 from: "11:30"
 to: "12:00"
 location: "Computer Science, University of Sheffield"
-speaker: "Will Furnass
+speaker: "Will Furnass"
 institute: "University of Sheffield"
 ---
 
