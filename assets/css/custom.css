@@ -37,3 +37,9 @@ img {
 .event-item-previous > div >img {
     opacity: 0.40;
 }
+
+figcaption {
+    font-style: italic;
+    font-weight: bold;
+    font-size: small;
+}
