@@ -1,7 +1,7 @@
 ---
 title: Blog
 layout: page
-permalink: /blog/
+permalink: /blog/all
 ---
 
 <br/>

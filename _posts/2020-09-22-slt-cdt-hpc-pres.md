@@ -10,6 +10,7 @@ link:
 description:
 type: text
 social_image: /assets/images/cluster-diag-plain.svg
+excerpt_separator: <!--more-->
 ---
 
 Two challenges PhD students encounter are: 
@@ -19,6 +20,8 @@ Two challenges PhD students encounter are:
 To help address the above for a particular case I spoke with a new cohort of PhD students today (from the [Speech and Language Technologies Centre for Doctoral Training](https://slt-cdt.ac.uk/))
 to explain what high-performance computing (HPC) is and why they might care.
 The hope is that they will now be able to include HPC in their training plans once they recognise problems that HPC might be well-suited to helping with.
+
+<!--more-->
 
 The talk covered:
  - Pros and cons of HPC vs personal laptops/desktops

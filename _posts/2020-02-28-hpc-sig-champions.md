@@ -9,11 +9,13 @@ category:
 link:
 description:
 type: text
+excerpt_separator: <!--more-->
 ---
 
 I've just come back from [HPC Special Interest Group (HPC-SIG)][hpc-sig] and [HPC Champions][hpc-champions] (formerly ARCHER Champions) events on the 
 25th and 26th of Feb in Bath, so thought I'd do a write-up. There's updates on Liverpool and Bath's cloud HPC, ARCHER 2, Tier-2 HPC refresh and how you can get extra GPU compute for your research!
 
+<!--more-->
  
 ## Liverpool and Bath's Journey to the Clouds
 Cliff Addison (Liverpool) and Steven Chapman (Bath) gave talks on their respective university's integration of cloud infrastructure 

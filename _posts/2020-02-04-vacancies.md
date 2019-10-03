@@ -9,12 +9,15 @@ category:
 link:
 description:
 type: text
+excerpt_separator: <!--more-->
 ---
 
 We're looking for two people to join our team: 
 
 * A Research Software Engineer to work on complex systems modelling accelerated using GPUs;
 * A Community Engagement and Training Officer 
+
+<!--more-->
 
 ## Research Software Engineer (Complex Systems Simulation using GPUs)
 

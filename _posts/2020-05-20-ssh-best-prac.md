@@ -9,6 +9,7 @@ category:
 link:
 description:
 type: text
+excerpt_separator: <!--more-->
 ---
 
 *Including High-Performance Computing clusters*
@@ -27,6 +28,8 @@ to consider these, even if the remote machines are not managed by the
 University of Sheffield as poorly managed keys/passwords could allow
 others to impersonate you, which could result in further cyberattacks,
 data theft/loss and reputational damage to you and the University.
+
+<!--more-->
 
 If you **typically use a password to authenticate via SSH** then consider what
 damage could be done should someone else acquire/guess your password.  This is
