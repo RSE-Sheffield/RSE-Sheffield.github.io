@@ -9,11 +9,14 @@ category:
 link:
 description:
 type: text
+excerpt_separator: <!--more-->
 ---
 
 Are you currently working or studying at the University of Sheffield and interested in a secondment to the Research Software Engineering (RSE) team to develop sustainable research software?
 
 The RSE team has grown in the last couple of years but there is currently unprecedented demand for RSE support on research projects.  We are urgently looking for someone to join our team of twelve on a short to medium term basis to work on one or two specific projects, the most significant being a role in the Scottish Covid Response Consortium ([https://scottishcovidresponse.github.io](https://scottishcovidresponse.github.io)). The main activities in that project include improving some modelling software, developing a data pipeline and an API, and integrating the modelling software within a framework.  **Python** development experience, a working knowledge of version control with **git**/**GitHub** and of **software testing** are key; experience of developing/using **web services** and **databases** would also be useful.  We want this secondment to be an opportunity for growth and we will support and mentor you in this role.
+
+<!--more-->
 
 This would be a great opportunity for someone who is considering a career in research software (or infrastructure/data) engineering and is wanting first-hand experience of how it might compare to a traditional research career. This placement would be suitable for staff already employed elsewhere within the university either on a research contract or on core funding (subject to agreement with your line manager). Similarly the post would be suitable for a PhD student in their final year looking for part time employment.
 

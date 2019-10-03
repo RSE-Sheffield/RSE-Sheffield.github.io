@@ -127,7 +127,7 @@ Blog posts are located in the `_posts` directory.
 
 The filename **MUST** be prepended with a date (ISO 8601) e.g. `2018-01-01-foo-bar.md`.
 
-Each blog post has a YAML *FrontMatter*, which **must** contain a `slug` (unique), `title`, `author`, and `date`.
+Each blog post has a YAML *FrontMatter*, which **must** contain a `slug` (unique), `title`, `author`, `date` and `excerpt_separator`.
 Optional fields can also be included, such as `layout`, `category` (or `categories`), `tags` etc.
 `image` is an optional field and will override the default image (RSE logo) for social cards. 
 
@@ -139,11 +139,14 @@ slug: foo-bar
 title: foo-bar
 author: Baz
 date: 2018-01-01 00:00:00
+excerpt_separator: <!--more-->
 category:
 tags:
 social_image: /assets/images/logo/rse-logoonly-stroke.png
 ---
 ```
+
+The `excerpt_separator` defines a token, which when placed in the blog post causes the remainder of the post to be omitted from blog post previews shown around the website (e.g. [here](https://rse.shef.ac.uk/blog/). It is recommended that blog posts account for the excerpt by having the first paragraph/s act as an introduction to the blog post's content. If `excerpt_separator` is not included in the front-matter, the first line-break will be treated as the end of the excerpt, the suggested seperator `<!--more-->` is a html comment so will not be visible within blog posts.
 
 **Warning: GitHub will refuse to serve Jekyll sites that include funny characters (e.g. `&` or `@` in the `title:` YAML field unless the entire title is enclosed in double-quotes**, even though the Jekyll site will build locally without warnings.
 

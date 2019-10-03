@@ -1,0 +1,56 @@
+---
+layout: page
+title: RSE Sheffield Blog
+---
+
+<!-- This loops through the paginated posts -->
+{% for post in paginator.posts %}
+
+  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+{% if post.author %}
+<div class="media mb-1">
+    <img class="align-self-center mr-2" src="/assets/images/icons/icons8-person-50.png" width="20"/>
+    <div class="media-body"><strong>{{ post.author }}</strong></div>
+</div>
+{% endif %}
+
+{% if post.date %}
+<div class="media mb-1">
+    <img class="align-self-center mr-2" src="/assets/images/icons/icons8-watch-50.png" width="20"/>
+    <div class="media-body"><strong>{{ post.date | date: "%-d %B %Y %H:%M" }}</strong></div>
+</div>
+{% endif %}
+
+<div class="blog-excerpt">
+    {{ post.excerpt }}
+</div>
+
+  {% if post != paginator.posts.last %}
+<hr class="blog-post-seperator"/>
+  {% endif %}
+
+{% endfor %}
+
+<!-- Pagination links -->
+<div class="pagination-wrapper">
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">
+      Previous
+    </a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">
+    Page: {{ paginator.page }} of {{ paginator.total_pages }}
+  </span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+</div>
+<div class="all-posts">
+<a href="/blog/all" class="small">Directory of Posts</a>
+</div>
+</div>

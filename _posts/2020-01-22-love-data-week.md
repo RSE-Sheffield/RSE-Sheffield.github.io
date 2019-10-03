@@ -9,12 +9,15 @@ category:
 link:
 description:
 type: text
+excerpt_separator: <!--more-->
 ---
 
 [Love Data Week](https://lovedataweek.org/about-ldw/) is an annual global event designed to 
 **raise awareness** and **build a community** to engage on topics related to **research data management**, **sharing**, **preservation**, **reuse**, and **library-based research data services**. 
 
 The [University of Sheffield's Library](https://www.sheffield.ac.uk/library) have organised several events for this year's Love Data Week (10-14 February 2020):
+
+<!--more-->
 
   * 11th Feb, 10:00 - 12:00: DDP workshop on *Looking after your Research Data*. 
     NB now **fully booked** but 

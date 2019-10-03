@@ -9,9 +9,12 @@ category:
 link:
 description:
 type: text
+excerpt_separator: <!--more-->
 ---
 
 Starting Monday 7th Feb is a 12 week course on *Parallel Computing with GPUs*. The course has been designed as an undergraduate 4th year module for Computer Science but is available to staff and PhD Students (as part of the DDP program) and regularly has staff and PhD student enrollment. 
+
+<!--more-->
 
 The first 3 weeks are focused on teaching C and OpenMP followed by GPU programming with CUDA C. Lectures are provided as pre-recorded mini lectures and there are 2 hours of scheduled support per week to undertake practical lab classes. Assessment is not required for DDP or staff participants. Virtual Remote machines will be provided with dedicated GPUs.
 

@@ -11,6 +11,13 @@
     lg @media (min-width:992px)
     xl @media (min-width:1200px)
 */
+/* Sizes for h1 to h6, overriding bootstrap css */
+h1, .h1 { font-size: 2.5rem; }
+h2, .h2 { font-size: 2rem; }
+h3, .h3 { font-size: 1.75rem; }
+h4, .h4 { font-size: 1.5rem; }
+h5, .h5 { font-size: 1.25rem; }
+h6, .h6 { font-size: 1rem; }
 
 .nav-link{
     color: #1c3248 !important;
@@ -52,6 +59,50 @@ figcaption {
     font-size: small;
 }
 
+/* Style Pagination of Blogposts */
+.pagination a, .pagination span {
+    padding: 7px 18px;
+    border: 1px solid #eee;
+    margin-left: -2px;
+    margin-right: -2px;
+    margin-bottom: 0px;
+    background-color: #ffffff;
+    display: inline-block;
+}
+.pagination a:hover {
+    background-color: #f1f1f1;
+    text-decoration: none;
+}
+.pagination a {
+    cursor: pointer;
+}
+.pagination {
+    text-align: center;
+}
+/* Adjust heading sizes for blog-excerpts */
+.blog-excerpt h1, .blog-excerpt .h1 { font-size: 2rem; }
+.blog-excerpt h2, .blog-excerpt .h2 { font-size: 1.75rem; }
+.blog-excerpt h3, .blog-excerpt .h3 { font-size: 1.5rem; }
+.blog-excerpt h4, .blog-excerpt .h4 { font-size: 1.25rem; }
+.blog-excerpt h5, .blog-excerpt .h5 { font-size: 1rem; }
+.blog-excerpt h6, .blog-excerpt .h6 { font-size: 1rem; } /* No h7 to steal a size from */
+
+ hr.blog-post-seperator {
+  width: 50%; /*Differentiate hr, to those used within markdown/blog posts*/
+  border-top: 2px solid;
+  margin-top: 32px; /*2 rem, double end of paragraph*/
+  margin-bottom: 32px;
+}
+div.pagination-wrapper {
+  justify-content: center;
+  flex-flow:row wrap;
+  display: flex;
+}
+div.all-posts {
+  flex-basis: 100%;
+  text-align: center;
+  margin-bottom: 16px; /*1 rem, same as end of paragraph*/
+}
 
 /* Extra custom styling for pre / code blocks */
 pre {

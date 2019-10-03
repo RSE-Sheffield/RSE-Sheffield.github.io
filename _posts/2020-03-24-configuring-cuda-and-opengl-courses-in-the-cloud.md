@@ -9,11 +9,14 @@ category:
 link:
 description:
 type: text
+excerpt_separator: <!--more-->
 ---
 
 Academics and RSEs have been very busy over the last few weeks coming up with creative solutions to move teaching and training online. My own under/post graduate GPU module [Parallel Computing with GPUs](https://paulrichmond.shef.ac.uk/teaching/COM4521/) has posed a significant problem. The course was designed to be run within the University of Sheffield's High Specification teaching lab which is equipped with CUDA enabled GPUs. Moving this course online clearly requires a mechanism for students to access GPUs, without presenting a significant change to their current working practice (e.g. Visual Studio development in Windows). Ideally this cold be done using the [university's high performance computing facilities](https://www.sheffield.ac.uk/it-services/research/hpc) but the provision for GPUs is currently insufficient to support 100 students (although new GPUs are on the way). The obvious solution is to move this to the cloud however there are a number of challenges to solve which are the topic of this blog post which also serves as a reference for when I forget all of this in 6 months time.
 
 *Note: This blog specifically targets AWS as it is what I have used on the [InstanceHub](https://www.instancehub.com) website which is part of the solution to Problem 3.*
+
+<!--more-->
 
 ## Problem 1: GPU Accelerated Instances with Graphical Displays
 

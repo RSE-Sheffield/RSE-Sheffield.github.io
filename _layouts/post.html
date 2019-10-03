@@ -21,16 +21,23 @@ layout: page
 
 {{ content }}
 
-
-<div class="row">
-    <div class="col-6 text-left">
+<!-- Pagination links -->
+<div class="pagination-wrapper">
+    <div class="pagination">
         {% if page.previous.url %}
-        <a class="prev" href="{{page.previous.url}}">&laquo; Previous</a>
+        <a href="{{ page.previous.url }}" class="previous">
+          Previous
+        </a>
+        {% else %}
+        <span class="previous">Previous</span>
+        {% endif %}
+        {% if page.next.url %}
+        <a href="{{ page.next.url }}" class="next">Next</a>
+        {% else %}
+        <span class="next ">Next</span>
         {% endif %}
     </div>
-    <div class="col-6 text-right">
-        {% if page.next.url %}
-        <a class="next" href="{{page.next.url}}">Next &raquo;</a>
-        {% endif %}
+    <div class="all-posts">
+        <a href="/blog/all" class="small">Directory of Posts</a>
     </div>
 </div>

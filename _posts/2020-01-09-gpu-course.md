@@ -9,11 +9,14 @@ category:
 link:
 description:
 type: text
+excerpt_separator: <!--more-->
 ---
 
 The following 12 week course in "Parallel Computing with GPUs" is available to PhD students and research staff (including academic staff).
 
 Course Details: [https://paulrichmond.shef.ac.uk/teaching/COM4521/](https://paulrichmond.shef.ac.uk/teaching/COM4521/)
+
+<!--more-->
 
 The module is traditionally taught as a 4th year undergraduate and masters course but is typically has a high update of research students and staff who are wanting to learn about shared memory parallel and GPU computing.
 
