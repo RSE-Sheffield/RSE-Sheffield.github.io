@@ -39,7 +39,7 @@ So what are our options? Here goes:
 
 This is going to take a while depending on how much code there is. The first question here is: How much are we relying on **Matlab** toolboxes? These can do a lot of things that are not in base **Python**.  One can find out what toolboxes are used by a group of *.m* files using:
 
-```
+```matlab
 [dfiles,products]=matlab.codetools.requiredFilesAndProducts(mfiles);
 ```
 
@@ -50,7 +50,7 @@ It may be a good idea to carefully scope the project to ensure that the requirem
 
 If we decide we don't fancy completely re-doing our project, other options are available. One is to call **Matlab** code from within **Python** using the [Matlab Engine for Python](https://uk.mathworks.com/help/matlab/matlab_external/install-the-matlab-engine-for-python.html). We can do this kind of thing:
 
-```
+```python
 import matlab.engine
 eng = matlab.engine.start_matlab()
 mla = eng.rand(1e3,'double')
@@ -59,7 +59,7 @@ mla_t = eng.transpose(mla)
 
 In which we make and transpose a **Matlab** array, using **Python**.  However, if we try to change a **Python** (*numpy*) array into a **Matlab** array, we can't:
 
-```
+```python
 matlab_array=eng.double(numpy_array) #fails
 ```
 
@@ -70,13 +70,13 @@ However, there are a couple of potential ways around this - see [this post](http
 
 We can call **Python** from **Matlab** like this, assuming it's installed correctly:
 
-```
+```matlab
 my_numpy_array=py.numpy.random.rand(int8(1e4),int8(1e4));
 ```
 
 Here I've made a *numpy* array. Good for me. And in this context, I can turn it into a **Matlab** array:
 
-```
+```matlab
 my_matlab_array=double(my_numpy_array);
 ```
 
