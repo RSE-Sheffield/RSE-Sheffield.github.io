@@ -57,10 +57,13 @@ For example, Team CULBIBBS was able to achieve 200x speedup by restructuring the
 
 Some of the initial feedback on the benefits of attending the GPU Hackathon to projects include:
 
-> Demonstrated the potential gains of porting to GPUs. This provided enough evidence to pursue this further
-> We now have the foundation skills of OpenACC to apply to the full code
-> It helped us get support from experienced mentors in moving forward in porting the project to GPU. It was great to get an outside perspective from the people already deeply involved in the project as they had different insights into the problem at hand
-> It helped us achieve a 20 times speed up when compared to the serial code
+> "Demonstrated the potential gains of porting to GPUs. This provided enough evidence to pursue this further"
+
+> "We now have the foundation skills of OpenACC to apply to the full code"
+
+> "It helped us get support from experienced mentors in moving forward in porting the project to GPU. It was great to get an outside perspective from the people already deeply involved in the project as they had different insights into the problem at hand"
+
+> "It helped us achieve a 20 times speed up when compared to the serial code"
 
 ## Last but not least ..
 

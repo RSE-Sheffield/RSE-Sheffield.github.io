@@ -70,3 +70,12 @@ pre {
 pre.highlight{
     line-height: 1.5;
 }
+
+
+/* Custom blockquote styling */
+blockquote {
+    margin: 0 0 1rem 0;
+    padding: 0 1rem;
+    color: #6a6a6a;
+    border-left: .3rem solid #6a6a6a;
+}
