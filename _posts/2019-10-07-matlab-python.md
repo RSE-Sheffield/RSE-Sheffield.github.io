@@ -3,7 +3,7 @@ layout: post
 title: Lost in translation? Working with Matlab and Python
 author: Robert (Bob) Turner
 slug: 2019-10-07-matlab-python
-date: 2019-10-07 09:00:00 UTC
+date: 2019-10-14 09:00:00 UTC
 tags:
 category:
 link:
