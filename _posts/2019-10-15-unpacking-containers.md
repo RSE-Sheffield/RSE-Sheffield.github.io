@@ -16,11 +16,45 @@ I worked in commercial I.T. for a few years before doing an PhD and spending man
 
 <!--more-->
 
-## Things that are not virtual machines or containers
+If you've persevered to this point in the point, you deserve an explaination of what virtual machines and containers actually are. But you are going to have to wait until I've explained how software interacts with "normal" hardware such as a laptop.
 
-## Virtual machines
+## Things that are not virtual machines or containers...
 
-## Containers
+These are physical computers made of glass, plastic and metal. The physical hardware resources (processor, memory, storage, screen) that make up a computer are (generally) given instructions by the software it runs via an operating system such as Windows or Linux. Software that has been engineered for one operating system (generally) will not work on another.
+
+**Physical Computer Hardware <-> Operating System <-> Software**
+
+When software is installed, typically a bunch of files are copied onto the computer and some other files are altered. Yet more prerequisite files might be downloaded from another source. A problem arises if, by installing one piece of software, a file on which another piece of software depends is altered or removed. This can be accidental or malicious. Malicious software can be deliberately designed to access data which should remain private to other software.
+
+Another potential problem is a situation where the software runs, but behaves differently on different computers. This could involve the software crashing, or perhaps producing slightly different results - a big problem when trying to make results reproducible.
+
+## Virtual machines...
+
+A virtual machine (or VM) is, in effect, a piece of software running on a physical computer, that acts like another operating system.
+
+**Physical Computer Hardware <-> Operating System <-> Virtual Machine <-> Software**
+
+Software can then be run on the virtual machine. Much as multiple pieces of software can be installed on a single physical computer, so can multiple virtual machines. And multiple pieces of software can be installed on each virtual machine. All this comes at a performance cost - software running on a virtual machine will not generally go as fast as the same running directly on physical hardware. So why bother with all this complexity?
+
+- We now can make loads of identical virtual computers.
+- We can copy and share these with other people.
+- **Software that runs on one of these computers will run on any another, producing the same results (and crashing in the same way).**
+- Software on one virtual machine can't easily interact with another.
+- If we need a better virtual machine, we can tell it to take up more of the resources of the physical computer on which its running.
+- If that doesn't work, we can copy the virtual machine onto (or recreate it exactly on) a more powerful physical computer, which could be on the other side of the world.
+
+So virtual machines can be really helpful, but they can be slow to run and also slow to configure.
+
+## Containers...
+
+Containers get round some of the problems with virtual machines. The term "container" is not always defined in exactly the same way, but in general: Rather than running on an operating system like virtual machines, containers allow software running in them access hardware more directly, but restrict what hardware they can use and interaction between discrete containers. This means they avoid some of the slowdown associated with virtual machines, but can still be configured and replicated to ensure that software runs consistently.
+
+**Physical Computer Hardware <-> Operating System <-> Container(Software)**
+
+The great successes of containers are in:
+
+- Packaging software for distribution such that it runs very consistently on lots of different physical computers (from desktops to high performance computers).
+- Making it easy to get multiple copies of software running, on multiple computers, on demand to deal with rapidly changing requirements.
 
 ## Linking together
 
