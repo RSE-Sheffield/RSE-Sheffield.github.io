@@ -1,0 +1,20 @@
+digraph{
+    rankdir=LR
+
+    computer [label="Physical Computer Hardware"]
+    OS [label="Operating System"]
+    VM1 [label="Virtual Machine"]
+    VM2 [label="Virtual Machine"]
+    s1 [label="Software"]
+    s2 [label="Software"]
+    s3 [label="Software"]
+    s4 [label="Software"]
+    
+    computer->OS [dir="both"]
+    OS->VM1
+    OS->VM2
+    OS->s1 [dir="both"]
+    VM1->s2 [dir="both"]
+    VM2->s3 [dir="both"]
+    VM2->s4 [dir="both"]
+}

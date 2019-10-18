@@ -22,9 +22,7 @@ If you've persevered to this point in the point, you deserve an explaination of 
 
 These are physical computers made of glass, plastic and metal. The physical *hardware* resources (processor, memory, storage, screen) that make up a computer are (generally) given instructions by the software it runs via an *operating system* such as Windows or Linux. Software that has been engineered for one operating system (generally) will not work on another.
 
-**Physical Computer Hardware <-> Operating System <-> Software**
-
-![](../_site/assets/images/vm-container-blog/vm.png)
+{% include image_caption.html url="/assets/images/vm-container-blog/no_vm.png" description="Computers, operating systems and software"%}
 
 When software is installed, typically a bunch of files are copied onto the computer and some other files are altered. Yet more prerequisite files might be downloaded from another source. A problem arises if, by installing one piece of software, a file on which another piece of software depends is altered or removed. This can be accidental or malicious. Malicious software can be deliberately designed to access data which should remain private to other software.
 
@@ -32,9 +30,9 @@ Another potential problem is a situation where the software runs, but behaves di
 
 ## Virtual machines...
 
-A virtual machine (or VM) is, in effect, a piece of software running on a physical computer, that acts like another operating system.
+A virtual machine (or VM) is, in effect, a piece of software running on a physical computer, that acts like another operating system. A computer in the imagination of another.
 
-**Physical Computer Hardware <-> Operating System <-> Virtual Machine <-> Software**
+{% include image_caption.html url="/assets/images/vm-container-blog/vm.png" description="Virtual machines"%}
 
 Software can then be run on the virtual machine. Much as multiple pieces of software can be installed on a single physical computer, so can multiple virtual machines. And multiple pieces of software can be installed on each virtual machine. All this comes at a performance cost - software running on a virtual machine will not generally go as fast as the same running directly on physical hardware. So why bother with all this complexity?
 
@@ -51,7 +49,7 @@ So virtual machines can be really helpful, but they can be slow to run and also 
 
 Containers get round some of the problems with virtual machines. The term "container" is not always defined in exactly the same way, but in general: Rather than running on an operating system like virtual machines, containers allow software running in them access hardware more directly, but restrict what hardware they can use and interaction between discrete containers. This means they avoid some of the slowdown associated with virtual machines, but can still be configured and replicated to ensure that software runs consistently.
 
-**Physical Computer Hardware <-> Operating System <-> Container(Software)**
+{% include image_caption.html url="/assets/images/vm-container-blog/containers.png" description="Containers"%}
 
 The great successes of containers are in:
 

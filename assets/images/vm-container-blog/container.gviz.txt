@@ -1,0 +1,26 @@
+digraph{
+    rankdir=LR
+
+    subgraph cluster_0 {
+        label="Container"
+        s2 [label="Software"]
+        s3 [label="Software"]
+    }
+
+    subgraph cluster_1 {
+        label="Container"
+        s4 [label="Software"]
+    }
+    
+    computer [label="Physical Computer Hardware"]
+    OS [label="Operating System"]
+    s1 [label="Software"]
+    
+    computer->OS [dir="both"]
+    OS->s1 [dir="both"]
+    OS->s2 [dir="both", style=dashed]
+    OS->s3 [dir="both", style=dashed]
+    OS->s4 [dir="both", style=dashed]
+    
+
+}
