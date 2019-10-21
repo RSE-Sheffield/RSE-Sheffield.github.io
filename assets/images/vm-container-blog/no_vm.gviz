@@ -1,5 +1,7 @@
 digraph{
     rankdir=LR
+    node[shape="rectangle" style="rounded,filled" fontname="Arial"]
+    edge [color="#006699" len=2.5]
 
     computer [label="Physical Computer Hardware"]
     OS [label="Operating System"]

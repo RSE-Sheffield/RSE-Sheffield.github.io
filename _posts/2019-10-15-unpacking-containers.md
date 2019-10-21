@@ -12,11 +12,11 @@ type: text
 excerpt_separator: <!--more-->
 ---
 
-I worked in commercial I.T. for a few years before doing an PhD and spending many years in scientific research. Coming back to software full time is a bit like coming out of cryo-stasis: Technology has moved on in ways I could not possibly have imagined and I must adapt like some kind of sci-fi person. One of the big changes over the last few years has been the increased use of virtual machines (e.g. using [Virtualbox](https://www.virtualbox.org)) and containers ([Docker](https://www.docker.com/) is a popular choice). I now feel ready to talk about this with others.
+I worked in commercial I.T. for a few years before doing an PhD and spending many years in scientific research. Coming back to software full time is a bit like coming out of cryo-stasis: Technology has moved on in ways I could not possibly have imagined and I must adapt like some kind of sci-fi person. One of the big changes over the last few years has been the increased use of virtual machines (e.g. using [Virtualbox](https://www.virtualbox.org)) and containers ([Docker](https://www.docker.com/) is a popular choice, [Singularity](https://sylabs.io/) may confer advantages in High Performance Computing (HPC)). I now feel ready to talk about this with others.
 
 <!--more-->
 
-If you've persevered to this point in the point, you deserve an explaination of what virtual machines and containers actually are. But you are going to have to wait until I've explained how software interacts with "normal" hardware such as a laptop.
+If you've persevered to this point in the post, you deserve an explanation of what virtual machines and containers actually are. But you are going to have to wait until I've explained how software interacts with "normal" hardware such as a laptop.
 
 ## Things that are not virtual machines or containers...
 
@@ -26,11 +26,11 @@ These are physical computers made of glass, plastic and metal. The physical *har
 
 When software is installed, typically a bunch of files are copied onto the computer and some other files are altered. Yet more prerequisite files might be downloaded from another source. A problem arises if, by installing one piece of software, a file on which another piece of software depends is altered or removed. This can be accidental or malicious. Malicious software can be deliberately designed to access data which should remain private to other software.
 
-Another potential problem is a situation where the software runs, but behaves differently on different computers. This could involve the software crashing, or perhaps producing slightly different results - a big problem when trying to make results reproducible.
+Another potential problem is a situation where the software runs, but behaves differently on different computers. This could involve the software crashing, or perhaps producing slightly different results — a big problem when trying to make results reproducible.
 
 ## Virtual machines...
 
-A virtual machine (or VM) is, in effect, a piece of software running on a physical computer, that acts like another operating system. A computer in the imagination of another.
+A virtual machine (or VM) is, in effect, a piece of software running on a physical computer, that supports another operating system. A computer in the imagination of another.
 
 {% include image_caption.html url="/assets/images/vm-container-blog/vm.png" description="Virtual machines"%}
 
@@ -47,7 +47,7 @@ So virtual machines can be really helpful, but they can be slow to run and also 
 
 ## Containers...
 
-Containers get round some of the problems with virtual machines. The term "container" is not always defined in exactly the same way, but in general: Rather than running on an operating system like virtual machines, containers allow software running in them access hardware more directly, but restrict what hardware they can use and interaction between discrete containers. This means they avoid some of the slowdown associated with virtual machines, but can still be configured and replicated to ensure that software runs consistently.
+Containers get round some of the problems with virtual machines. The term "container" is not always defined in exactly the same way. Containers allow software running in them to access hardware more directly than a virtual machine, but restrict what hardware they can use and interaction between discrete containers. This confers many of the advantages of using virtual machines. However,the key technical difference between a container and a virtual machine is that a container does not (generally) have its own operating system. This means they avoid some of the slowdown associated with virtual machines, but can still be configured and replicated to ensure that software runs consistently.
 
 {% include image_caption.html url="/assets/images/vm-container-blog/containers.png" description="Containers"%}
 
@@ -66,7 +66,7 @@ So far, so good. But probably not good enough to justify the current buzz around
 vagrant up
 ```
 
-Easy, eh? Every aspect of the configuration is defined as software (this is "*infrastructure as software*"). I use this to configure linked database server - web server pairs. I can use the same approach to configure virtual machines on my laptop for testing, for development servers and for live applications. Doing this with physical hardware would be epic, and the configurations would drift apart through updates and bug fixes in milliseconds (not really, but quickly though).
+Easy, eh? Every aspect of the configuration is defined as software (this is "*infrastructure as software*"). I use this to configure linked database server — web server pairs. I can use the same approach to configure virtual machines on my laptop for testing, for development servers and for live applications. Doing this with physical hardware would be epic, and the configurations would drift apart through updates and bug fixes in milliseconds (not really, but quickly though).
 
 [Kubernetes](https://kubernetes.io/), for example, takes this to perhaps even greater levels. This allows deployment of containers grouped into blocks with control of the level of interaction within and between these. This is great for scaling up to huge and variable numbers of software users by allowing hardware resources to be dynamically re-allocated to different applications.
 

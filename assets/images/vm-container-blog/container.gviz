@@ -1,14 +1,21 @@
 digraph{
     rankdir=LR
+    node[shape="rectangle" style="rounded,filled" fontname="Arial"]
+    edge[color="#006699" len=2.5]
+    
 
     subgraph cluster_0 {
         label="Container"
+        fontname="Arial"
+        style="rounded"
         s2 [label="Software"]
         s3 [label="Software"]
-    }
+    } 
 
     subgraph cluster_1 {
         label="Container"
+        fontname="Arial"
+        style="rounded"
         s4 [label="Software"]
     }
     
