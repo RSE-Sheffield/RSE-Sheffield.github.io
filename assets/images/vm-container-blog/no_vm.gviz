@@ -1,0 +1,16 @@
+digraph{
+    rankdir=LR
+    node[shape="rectangle" style="rounded,filled" fontname="Arial"]
+    edge [color="#006699" len=2.5]
+
+    computer [label="Physical Computer Hardware"]
+    OS [label="Operating System"]
+    s1 [label="Software"]
+    s2 [label="Software"]
+    s3 [label="Software"]
+
+    computer->OS [dir="both"]
+    OS->s1 [dir="both"]
+    OS->s2 [dir="both"]
+    OS->s3 [dir="both"]
+}
