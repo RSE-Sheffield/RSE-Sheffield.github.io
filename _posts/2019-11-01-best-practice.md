@@ -22,7 +22,7 @@ In this blog post, I aim to plant the seed of what this approach really entails 
 ## Core concepts
 The building blocks of good software practice in research.
 ##### Software is everything you code
-Firstly, it's worth introducing that when we say **Research Software** we aren't really specifically refering to large commercial software projects. Really what we mean is *anything you write code for*. Research Software can be as small as a script you write to process and analyse some data for a paper, or as large as a software package used by millions of users around the world. As far as research goes, software should be written with best practice in mind regardless of its scope.
+Firstly, it's worth introducing that when we say **Research Software** we aren't really specifically refering to large commercial software projects. Really what we mean is *any code written in research*. Research Software can be as small as a script you write to process and analyse some data for a paper, or as large as a software package used by millions of users around the world. As far as research goes, software should be written with best practice in mind regardless of its scope.
 
 ##### Reproducibility
 Software reproducibility, like scientific reproducibility, is the idea that computational experiments and analyses should be repeatable, verifiable and extendable by researchers other than the originators. In reality, because journal papers are the ultimate deliverable in academia, other elements often become neglected; code is jumbled together until it spits out some results and disseminating the complete code and methods often becomes an afterthought. In the ideal case, software should be: open source; able to be built with the same on a variety of systems; and capable of reproducing the original results.
@@ -40,10 +40,11 @@ It's all too easy to get to the point in writing software at which something run
 Link: [**Software Sustainability Institute** article on testing](https://software.ac.uk/resources/guides/testing-your-software)
 
 
-##### Version Control & Open Source
-If you write code, then there are so many reasons to learn version control and to make your work open source. Having only recently learned to use Git and GitHub for version control myself, it has been a total game-changer in the way that I write code, allowing me to write more collaboratively and accountably. Version control allows you to safely add functionality to your code, whilst protecting the main development branch.
+##### Version Control
+If you write code, then there are so many reasons to learn version control and to make your work open source. Having only recently learned to use [git](https://git-scm.com/) and [GitHub](https://github.com/) for version control myself, it has been a total game-changer in the way that I write code, allowing me to write more collaboratively and accountably. Version control allows you to safely add functionality to your code, whilst protecting the main development branch. **Note**: `git` can and *should* be used locally for version control, not just for sharing code to GitHub or for collaboration. When developing code just for yoruself on your local machine, you can use branching as a mechanism for developing new features.
 
-Ultimately, when you release your code, being open source (maybe using a platform like GitLab or GitHub) will allow people to use your code more easily and help to solve problems, extending the reach of your coding project and facilitating future collaboration.
+##### Open Source Development
+Ultimately, when you release your code, being open source (maybe using a platform like [GitLab](https://gitlab.com/) or [GitHub](https://github.com/)) will allow people to use your code more easily and help to solve problems, extending the reach of your coding project and facilitating future collaboration.
 
 Link: [**The Turing Way** page on version control](https://the-turing-way.netlify.com/version_control/version_control.html)
 
@@ -62,13 +63,13 @@ Examples of thrilling style guides:
  - [`MATLAB` style guide](https://uk.mathworks.com/matlabcentral/fileexchange/46056-matlab-style-guidelines-2-0)
 
 ## How can this improve research?
-Good software isn't just worth it for its own sake, it can have a greater influence on your research and the wider community and make your work more repoducible.
+Good software isn't just worth it for its own sake, it can have a greater influence on your research and the wider community and make your work more reproducible.
 
 #####  More-productive code development
 Those working on the code in future (students, collaborators, *yourself*) will have a much easier and more-productive time, ultimately getting more done and resulting in better research. By making your code easier to read and develop, your future students, postdocs and self won't have to waste time rummaging through a mess of code or reinventing the wheel. With a version control system, future workers can fork the original codebase, develop new functionality, before simply merging back into the main branch of the code. Platforms such as [GitLab](https://gitlab.com/) & [GitHub](https://github.com/) also facilitate accountable communication and review procedures as well as project management tools, giving you oversight over your research code and recording the changes made.
 
 ##### Greater impact & more citations
-Rather than keeping your code secret and only intellgible to yourself, why not make it available online and understandable to others? That way, someone can repeat your analysis and spawn a new research topic using the methods you have developed, citing your work in the process and making it a more important element of the field. Doesn't that sound great?!
+Rather than keeping your code secret and only intelligible to yourself, why not make it available online and understandable to others? That way, someone can repeat your analysis and spawn a new research topic using the methods you have developed, citing your work in the process and making it a more important element of the field. Doesn't that sound great?!
 By using software best practice your code will live on
 
 
@@ -80,7 +81,7 @@ Learning version control using `git` or another system is one of the best change
  - [Software Carpentry workshops](https://software-carpentry.org/)
  - Guides like [BES's Reproducible Code](https://www.britishecologicalsociety.org/wp-content/uploads/2019/06/BES-Guide-Reproducible-Code-2019.pdf)
 
- Further, version control through [git](https://git-scm.com/) can be done in a graphical IDE like [**Rstudio**](https://rstudio.com), [**MATLAB**](https://uk.mathworks.com/products/matlab.html), [**Visual Studio Code**](https://code.visualstudio.com/) *et al.*
+ Further, version control through [git](https://git-scm.com/) can be done in a graphical IDE like [**Rstudio**](https://rstudio.com), [**MATLAB**](https://uk.mathworks.com/products/matlab.html), [**Visual Studio Code**](https://code.visualstudio.com/) *et al.* or [**GitHub Desktop**](https://desktop.github.com/) or even some text editors such as [**atom**](https://atom.io/).
 
 ##### Open Source Development
 ...........
@@ -93,9 +94,9 @@ How to improve the reproducibility of your research is a huge question, but defi
 ##### Engage with Research Software Engineers (RSEs)
 Perhaps this all sounds like something that you need a dedicated specialist for, or maybe just somewhere that you need advice? This is where RSEs come in. Depending on the level of assistance you need, it's possible to either:
 <ol type="a">
-  <li>Hire an RSE for part of your grant (or the full duration!)</li>
-  <li>Hire an internal RSE for a few weeks or months, or</li>
-  <li>Get advice from an existing RSE,perhaps via <a href="/support/code-clinic">Sheffield RSE's Code Clinic!</a></li>
+  <li><a href="/service/">support/code-clinic""Hire an RSE</a> for part of your grant (or the full duration!)</li>
+  <li><a href="/service/">Hire an internal RSE</a> for a few weeks or months, or</li>
+  <li>Get advice from an existing RSE, perhaps via <a href="/support/code-clinic">Sheffield RSE's Code Clinic!</a></li>
 </ol>
 Of course, there is some personal bias here, but RSEs *really are* tasked with helping to deliver improved research software in a variety of ways, with the express aims of improved reproducibility, increased software impact and code with a more influential lifetime.
 
