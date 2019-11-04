@@ -11,6 +11,7 @@ description:
 type: text
 excerpt_separator: <!--more-->
 ---
+![Image: MESA by makers from Unsplash](/assets/images/best-practice-blog/stock_mesabymakers_unsplash.jpg){: .img-fluid width="500px" .float-right}
 Code written for research, and particularly in an academic context can (by my own admission...) often be a mess of comments, temporary sections, and poorly-named variables that only runs correctly whilst the researcher who made it is still around. This, despite the fact that most code-writing researchers know exactly the sins we are commiting at the time. But reproducibility is one of the central tenets of science - so why in our coding have researchers been prepared to cobble together barely working assemblages of script that can often lead to unmaintainable projects?
 
 In modern research (do the 70s count as modern?) computing is an essential tool - perhaps even more so than the humble lab book - so how can we improve our situation and, moreover, what's in it for us? Code is written in research for a huge variety of tasks, from instrument control to simulations to simple plotting scripts - where does best practice really apply?
@@ -29,7 +30,7 @@ Software reproducibility, like scientific reproducibility, is the idea that comp
 
 Link: [**Software Sustainability Institute** article on reproducible software](https://www.software.ac.uk/blog/2017-02-20-software-reproducibility-possible-and-practical)
 
-![reproducibility of data and analyses](/assets/images/reproducibility-chart.png){: .img-fluid width="50%" }
+![reproducibility of data and analyses](/assets/images/best-practice-blog/reproducibility-chart.png){: .img-fluid width="50%" }
 
 *How the Turing Way defines reproducible research. (Reproduced under CC-BY from The Turing Way)*
 
@@ -43,8 +44,8 @@ Link: [**Software Sustainability Institute** article on testing](https://softwar
 ##### Version Control
 If you write code, then there are so many reasons to learn version control and to make your work open source. Having only recently learned to use [git](https://git-scm.com/) and [GitHub](https://github.com/) for version control myself, it has been a total game-changer in the way that I write code, allowing me to write more collaboratively and accountably. Version control allows you to safely add functionality to your code, whilst protecting the main development branch. **Note**: `git` can and *should* be used locally for version control, not just for sharing code to GitHub or for collaboration. When developing code just for yoruself on your local machine, you can use branching as a mechanism for developing new features.
 
-##### Open Source Development
-Ultimately, when you release your code, being open source (maybe using a platform like [GitLab](https://gitlab.com/) or [GitHub](https://github.com/)) will allow people to use your code more easily and help to solve problems, extending the reach of your coding project and facilitating future collaboration.
+##### Make your software open source
+Ultimately, when you release your code, being open source (maybe using a platform like [GitLab](https://gitlab.com/) or [GitHub](https://github.com/)) will allow people to use your code more easily and help to solve problems, extending the reach of your coding project and facilitating future collaboration. Open source softwareis that for which the original source code is made freely available and may be redistributed and modified. As such, this aligns well with what we expect much of research to be: ie open to be learned from, developed upon, reproduced, tested and so on.
 
 Link: [**The Turing Way** page on version control](https://the-turing-way.netlify.com/version_control/version_control.html)
 
@@ -75,7 +76,9 @@ By using software best practice your code will live on
 
 ## But how?
 So you've bought into the idea that software best practice is a productive use of your team's time, but how do you actually implement it in reality? Is it truly possible to practically do this in a research context? Of course, the answer is **yes!** and plenty of researchers are doing it. But you aren't alone and there are a fantastic number of resources to help you to do this.
-##### Version Control
+![Photo by Sebastian Herrmann on Unsplash](/assets/images/best-practice-blog/sebastian-herrmann-unsplash.jpg){: .img-fluid width="500px" .float-right}
+
+##### Version control
 Learning version control using `git` or another system is one of the best changes you can make to the way you code. Though it can be daunting at first (I've only recently learned myself), ease comes with practice. There are loads of ways to learn:
  - [GitHub's interactive online training](https://lab.github.com/)
  - [Software Carpentry workshops](https://software-carpentry.org/)
@@ -83,25 +86,26 @@ Learning version control using `git` or another system is one of the best change
 
  Further, version control through [git](https://git-scm.com/) can be done in a graphical IDE like [**Rstudio**](https://rstudio.com), [**MATLAB**](https://uk.mathworks.com/products/matlab.html), [**Visual Studio Code**](https://code.visualstudio.com/) *et al.* or [**GitHub Desktop**](https://desktop.github.com/) or even some text editors such as [**atom**](https://atom.io/).
 
-##### Open Source Development
-...........
-
+##### Open source development
+In platforms such as [GitLab](https://gitlab.com/) & [GitHub](https://github.com/), open source development is very easily handled, simply by making the code available on a public repository, anyone can contribute to your project, with your control easily maintained via setting permissions. Contributors are encouraged to 'fork' code (make their own copy) before making changes, after which you can choose whether to merge their changes into your master codebase. Training is provided online via [GitHub](https://lab.github.com/) or take part in a [Software Carpentry-style workshop](https://software-carpentry.org/) to learn these skills and others.
 
 ##### Reproducibility
-How to improve the reproducibility of your research is a huge question, but definitely not an insurmountable answer. It is certainly worth ensuring that your code can be reproduced outside of your lab,
-.........
+How to improve the reproducibility of your research is a huge question, but definitely not an insurmountable answer. It is certainly worth ensuring that your code can be reproduced outside of your lab so that it can have a lifetime and influence beyond one research paper. What writing a reproducible piece of code really entails depends on the scale of your project, it could be as simple as putting your analysis into an [R notebook](https://rmarkdown.rstudio.com/) to make available online alongside a paper (or other method of disemination); or for a larger piece of code then containerisation could be a useful tool ([recent RSE blog article on containers](/blog/2019-10-15-unpacking-containers/)). Some more reproducible code resources:
+- [Reproducible Code](https://www.britishecologicalsociety.org/wp-content/uploads/2019/06/BES-Guide-Reproducible-Code-2019.pdf) - A fantastic booklet from the British Ecological Society detailing how to use these methods to improve your code reproducibility
+- [The Turing Way](https://the-turing-way.netlify.com/introduction/introduction) - Lightly opinionated guide to reproducible data science
 
 ##### Engage with Research Software Engineers (RSEs)
 Perhaps this all sounds like something that you need a dedicated specialist for, or maybe just somewhere that you need advice? This is where RSEs come in. Depending on the level of assistance you need, it's possible to either:
 <ol type="a">
-  <li><a href="/service/">support/code-clinic""Hire an RSE</a> for part of your grant (or the full duration!)</li>
-  <li><a href="/service/">Hire an internal RSE</a> for a few weeks or months, or</li>
-  <li>Get advice from an existing RSE, perhaps via <a href="/support/code-clinic">Sheffield RSE's Code Clinic!</a></li>
+  <li><a href="/service/" target="_blank">Hire an RSE</a> for part of your grant (or the full duration!)</li>
+  <li><a href="/service/" target="_blank">Hire an internal RSE</a> for a few weeks or months, or</li>
+  <li>Get advice from an existing RSE, perhaps via <a href="/support/code-clinic" target="_blank">Sheffield RSE's Code Clinic!</a></li>
 </ol>
 Of course, there is some personal bias here, but RSEs *really are* tasked with helping to deliver improved research software in a variety of ways, with the express aims of improved reproducibility, increased software impact and code with a more influential lifetime.
 
 ## Resources
  - [Research Software Engineering @ Sheffield](http://rse.shef.ac.uk) - The RSE group here can help advise on how to implement software best practices in your research. Similar RSE groups exist at increasingly many Universities.
+ - [Software Carpentry](https://software-carpentry.org/) - workshops in skills for research computing.
  - [Software Sustainability Institute](https://software.ac.uk/resources/get-speed) - A number of great articles explaining the importance and challenges of good academic software
  - [The Turing Way](https://the-turing-way.netlify.com/introduction/introduction) - Lightly opinionated guide to reproducible data science
  - [Reproducible Code](https://www.britishecologicalsociety.org/wp-content/uploads/2019/06/BES-Guide-Reproducible-Code-2019.pdf) - A fantastic booklet from the British Ecological Society detailing how to use these methods to improve your code reproducibility
