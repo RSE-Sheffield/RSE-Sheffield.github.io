@@ -181,7 +181,6 @@ To create a new page which lists all events of a given category:
     {% include events_list.html category="newcategory" %}
     ```
 
-
 ## Layout and Style
 
 The structure of Jekyll websites are controlled through *Layouts*, found in `_layouts` directory which can be specified per-page in the YAML header. 
