@@ -46,7 +46,7 @@ It's all too easy to get to the point in writing software at which something run
 If you write code, then there are so many reasons to learn version control and to make your work open source. Having only recently learned to use [git](https://git-scm.com/) and [GitHub](https://github.com/) for version control myself, it has been a total game-changer in the way that I write code, allowing me to write more collaboratively and accountably. Version control allows you to safely add functionality to your code, whilst protecting the main development branch. **Note**: `git` can and *should* be used locally for version control, not just for sharing code to GitHub or for collaboration. When developing code just for yourself on your local machine, you can use branching as a mechanism for developing new features.
 
 ##### Make your software open source
-Ultimately, when you release your code, being open source (maybe using a platform like [GitLab](https://gitlab.com/) or [GitHub](https://github.com/)) will allow people to use your code more easily and help to solve problems, extending the reach of your coding project and facilitating future collaboration. Open source software is that for which the original source code is made freely available and may be redistributed and modified. As such, this aligns well with what we expect much of research to be: ie open to be learned from, developed upon, reproduced, tested and so on.
+Ultimately, when you release your code, being open source (maybe using a platform like [GitLab](https://gitlab.com/) or [GitHub](https://github.com/)) will allow people to use your code more easily and help to solve problems, extending the reach of your coding project and facilitating future collaboration. Open source software is that for which the original source code is made freely available and may be redistributed and modified. As such, this aligns well with what we expect much of research to be: open to be learned from, developed upon, reproduced, tested and so on.
 
 [**The Turing Way** page on version control](https://the-turing-way.netlify.com/version_control/version_control.html)
 
@@ -63,7 +63,7 @@ Examples of thrilling style guides:
  - [`Python` style guide (PEP 8)](https://www.python.org/dev/peps/pep-0008/)
  - [Google's `R` style guide](https://google.github.io/styleguide/Rguide.html)
  - [`MATLAB` style guide](https://uk.mathworks.com/matlabcentral/fileexchange/46056-matlab-style-guidelines-2-0)
- If in doubt Google probably has a [style guide](https://google.github.io/styleguide/) for your language and they are reasonable places to start
+ If in doubt Google probably has a [style guide](https://google.github.io/styleguide/) for your language and they are reasonable places to start.
 
 ## How can this improve research?
 Good software isn't just worth it for its own sake, it can have a greater influence on your research and the wider community and make your work more reproducible.
