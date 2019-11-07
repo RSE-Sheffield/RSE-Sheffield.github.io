@@ -69,7 +69,3 @@ defaults:
     values:
       layout: "person"
       defaults:
-  - scope:
-      path: ""
-    values:
-      image: /assets/images/rse-logoonly-stroke.png
