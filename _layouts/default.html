@@ -7,7 +7,18 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="author" content="{{ page.author }}">
+
+    <meta property="og:site_name" content="{{ site.title }}" />
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+    <meta property="og:image" content="{{ page.image.path }}" />
+
+    <meta name="twitter:card" content="{{ site.twitter.card }}" />
+    <meta name="twitter:site" content="@{{ site.twitter.username }}" />
+    <meta name="twitter:creator" content="@{{ site.twitter.username }}" />
+
     <link href='https://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
     <!-- FontAwesome JS -->
@@ -22,7 +33,6 @@
     <!-- GitHub Button -->
     <script async defer src="https://buttons.github.io/buttons.js"></script>
     {% feed_meta %}
-    {% seo %}
 </head>
 
 <body data-spy="scroll" class="d-flex flex-column">
