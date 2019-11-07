@@ -6,15 +6,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
+    <meta name="description" content="{{ page.excerpt | strip_html | truncatewords: 50 }}">
     <meta name="author" content="{{ page.author }}">
 
+    <meta property="description" content="{{ page.excerpt | strip_html | truncatewords: 50 }}">
     <meta property="og:site_name" content="{{ site.title }}" />
     <meta property="og:title" content="{{ page.title }}" />
     <meta property="og:type" content="article" />
     <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
     {% if page.image.path %}<meta property="og:image" content="{{ site.url }}{{ page.image.path }}" />
     {% else %}<meta property="og:image" content="{{ site.url }}{{ site.logo }}" />{% endif %}
+
 
     <meta name="twitter:card" content="{{ site.twitter.card }}" />
     <meta name="twitter:site" content="@{{ site.twitter.username }}" />
