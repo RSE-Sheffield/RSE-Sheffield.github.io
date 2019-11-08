@@ -14,10 +14,10 @@ The website is hosted on github pages and can be found at https://rse.shef.ac.uk
         ```
         sudo apt install ruby-full
         ```
-2. Install `bundler` (via a terminal): 
+2. Install `bundler` (via a terminal):
    ```
-   gem install bundler jekyll 
-   ``` 
+   gem install bundler jekyll
+   ```
 3. Install other dependencies using `bundler`
     ```
     bundler install --path vendor/bundle
@@ -47,7 +47,7 @@ bundler exec jekyll serve
 ```
 
 The website can then be found at `http://127.0.0.1:4000`
-    
+
 ### Building HTML files
 
 ```
@@ -87,7 +87,7 @@ Other files could be stored in an appropriate directory within `assets`, or alte
 
 ### Linking to Local Content
 
-Ideally link to other pages using either Jekyll's Liquid variables, relative or root-relative) links. 
+Ideally link to other pages using either Jekyll's Liquid variables, relative or root-relative) links.
 
 e.g. `[Target]({{site.url}}/target/page/)`, `[Target](target/page/)` or `[Target](/target/page/)`
 
@@ -110,27 +110,30 @@ The filename **MUST** be prepended with a date (ISO 8601) e.g. `2018-01-01-foo-b
 
 Each blog post has a YAML *FrontMatter*, which **must** contain a `slug` (unique), `title`, `author`, and `date`.
 Optional fields can also be included, such as `layout`, `category` (or `categories`), `tags` etc.
+`image` is an optional field and will override the default image (RSE logo) for social cards. 
 
 The YAML header should look something like:
 
 ```
---- 
+---
 slug: foo-bar
 title: foo-bar
 author: Baz
 date: 2018-01-01 00:00:00
-category: 
-tags: 
+category:
+tags:
+image:
+  path: /assets/images/rse-logoonly-stroke.png
 ---
 ```
 
 ### Events
 
-Events are located in the `_events` directory. 
+Events are located in the `_events` directory.
 
 Events have a YAML FrontMatter, which **must** include `category`, `date`, `from` and `to`.
 
-The `category` variable classifies the type of event. 
+The `category` variable classifies the type of event.
 The list of existing categories can be found at `_data/event-categories.yml`.
 
 
@@ -152,16 +155,16 @@ The following are some of the  **FrontMatter** variables which can be set:
 | `tags`          | searchable tags, (not implemented yet) |
 
 **Note** - Permalinks *should* end with a trailing `/` so the event can be accessed with or without the trailing `/`.
- E.g. `permalink: /mycategory/2019-01-01-myevent/` will allow the page to be accessed at `https://rse.shef.ac.uk/mycategory/2019-01-01-myevent/` **and** `https://rse.shef.ac.uk/mycategory/2019-01-01-myevent`. 
+ E.g. `permalink: /mycategory/2019-01-01-myevent/` will allow the page to be accessed at `https://rse.shef.ac.uk/mycategory/2019-01-01-myevent/` **and** `https://rse.shef.ac.uk/mycategory/2019-01-01-myevent`.
 
 ### Event Categories
 
 `_data/event-categories.yml` provides the details of existing event categories
 
-Each category is identified with a unique key, such as `seminar`. 
+Each category is identified with a unique key, such as `seminar`.
 Categories should have an associated `image` representation and a `text` value for display.
 
-i.e. 
+i.e.
 
 ```
 seminar:
@@ -183,9 +186,9 @@ To create a new page which lists all events of a given category:
 
 ## Layout and Style
 
-The structure of Jekyll websites are controlled through *Layouts*, found in `_layouts` directory which can be specified per-page in the YAML header. 
+The structure of Jekyll websites are controlled through *Layouts*, found in `_layouts` directory which can be specified per-page in the YAML header.
 
-Layouts (or pages) may reference *includes* which are re-usable sections of markup, found in `_includes`. 
+Layouts (or pages) may reference *includes* which are re-usable sections of markup, found in `_includes`.
 
 Style should primarily be controlled through CSS, both through the site theme and any custom CSS rules.
 Custom CSS should be specified in `assets/css/custom.css`
