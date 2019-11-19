@@ -30,6 +30,6 @@ Databases are great at providing a window on just the information you need at th
 
 ## Validation
 
-"S. aureus", "Stpahylococcus aureus", "s aureus", "staph aureus", "s. Aureus". OK, I'm bored typing now! Everything in the preceding list means the same thing, but if I want to search or categorise on a column in a spreadsheet with values drawn from it, I will quickly become enraged. In general, there's nothing a spreadsheet can do to stop this happening.
+"*S. aureus*", "*Stpahylococcus aureus*", "*s aureus*", "*staph aureus*", "*s. Aureus*". OK, I'm bored typing now! Everything in the preceding list means the same thing, but if I want to search or categorise on a column in a spreadsheet with values drawn from it, I will quickly become enraged. In general, there's nothing a spreadsheet can do to stop this happening.
 
 In a database, "validation rules" can be applied to each column 
