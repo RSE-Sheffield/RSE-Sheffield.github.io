@@ -1,0 +1,25 @@
+{% assign project=include.project %}
+<div class="media mb-2 project-item" data-date="{{ project.date | date: "%F" }}{% if project.to %}{{project.to | date: " %H:%M:%S"}}{% endif %}">
+    <div class="media-body">
+        <h6 class="mt-0"><a href="{{ project.url }}">{{ project.title }}</a></h6>
+
+
+        <div class="media mb-1">
+            <img class="align-self-center mr-2" src="/assets/images/icons/icons8-watch-50.png" width="20" alt="Start time"/>
+            <div class="media-body"><strong>{{ project.date | date: "%-d %B %Y" }}  {% if project.end-date %} to {{ project.end-date | date: "%-d %B %Y" }}{% endif %} - {{ project.from}}{% if project.to %}-{{project.to}}{% endif %}</strong></div>
+        </div>
+        {% if project.location %}
+        <div class="media mb-1">
+            <img class="align-self-center mr-2" src="/assets/images/icons/icons8-marker-50.png" width="20" alt="Location"/>
+            <div class="media-body"><strong>{{ project.location }}</strong></div>
+        </div>
+        {% endif %}
+
+        {% if project.speaker %}
+        <div class="media mb-1">
+            <img class="align-self-center mr-2" src="/assets/images/icons/icons8-communication-skill-50.png" width="20" alt="Speaker"/>
+            <div class="media-body"><strong>{{project.speaker}}{%if project.institute%}, {{project.institute}}{%endif%}</strong></div>
+        </div>
+        {% endif %}
+    </div>
+</div>

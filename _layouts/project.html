@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<section class="section offset-header flex-fill" >
+    <div class="container">
+        <div class="row">
+            <div class="col-12" markdown=1>
+
+                {% if page.title %}
+                    <h2><a href="{{page.url}}">{{page.title}}</a></h2>
+                {% endif %}
+
+                {{ content }}
+
+            </div>
+        </div>
+    </div>
+</section>

@@ -30,6 +30,8 @@ logo: /assets/images/rse-logoonly-stroke.png
 
 future: true # required for collections with a date field, where future events are desired.
 collections:
+  projects:
+    output: true
   events:
     output: true
   people:
@@ -48,8 +50,7 @@ exclude:
   - vendor
 strict_front_matter: true
 defaults:
-  -
-    scope:
+  - scope:
       path: "pages"
     values:
       layout: "page"
@@ -58,6 +59,11 @@ defaults:
     values:
       layout: "post"
       permalink: "/blog/:slug/"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
   - scope:
       path: ""
       type: "events"

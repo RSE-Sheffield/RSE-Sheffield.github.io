@@ -1,0 +1,8 @@
+{% assign projects = (site.projects | sort: 'date' | reverse) %}
+<div class="project-listing">
+{% if projects and projects.size > 0 %}
+  {% for project in projects %}
+      {% include projects_list_item.html project=project %}
+  {% endfor %}
+{% endif %}
+</div>
