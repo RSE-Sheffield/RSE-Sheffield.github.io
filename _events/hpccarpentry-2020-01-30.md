@@ -1,4 +1,3 @@
-
 ---
 title: HPC Carpentry Workshop (2-days)
 category: workshop
@@ -24,11 +23,11 @@ The HPC training workshop is an intensive two-day workshop sponsored by [N8 CIR]
 
 More detail on schedule and setup instructions can be found in [part 1](https://aniabrown.github.io/hpc-carpentry-shell-WHPC/) and [part 2](https://aniabrown.github.io/hpc-carpentry-WHPC/) of the course.
 
-*Lunch and refreshments will be provided.*
+_Lunch and refreshments will be provided._
 
 **Instructors/helpers**
 
-- Mozhgan Kabiri chimeh (University of Sheffield)
+- Mozhgan Kabiri chimeh (NVIDIA)
 - Anna Brown (University of Oxford, University of Southampton)
 - Fouzhan Hosseini (Numerical Algorithms Group)
 - Weronika Fillinger (EPCC)
@@ -38,6 +37,4 @@ More detail on schedule and setup instructions can be found in [part 1](https://
 
 Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed as detailed at the ARCHER Software setup page. Any questions, please contact Mozhgan Kabiri chimeh at (m.kabiri-chimeh@sheffield.ac.uk).
 
-_Registration is now closed_**
-
-
+_Registration is now closed._
