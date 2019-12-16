@@ -23,7 +23,7 @@ But first, let's hear some of the success stories from the teams participated in
 
 Our project focussed on the parallelisation of an in-house explicit CFD code on GPUs. The code is written in C++ and initially has been parallelised for shared-memory architectures using OpenMP constructs. During the hackathon, the Class objects for the finite elements have been modified by removing the virtual functions, which are not supported yet with OpenACC constructs. The preliminary design changes and restructuring of data allocations has improved the performance of the serial code by about 30%. Later, the parallel code with OpenMP constructs has been tested and profiled for performance, and observed that the scalability flattens out beyond 8 threads. The code is then parallelised for GPUs by adding the OpenACC constructs. After several iterations of profiling, testing and design changes, we achieved an 28X speed-up for the medium-sized mesh consisting of 0.16 million nodes. For the fine mesh with 4 million nodes, we achieved a speed-up of 40X as opposed to the mere 10X obtained with the OpenMP code. Overall, the GPU hackathon has been a tremendous success. We are thankful for the opportunity.
 
-The source is available at [https://github.com/chennachaos/XCFD](https://github.com/chennachaos/XCFD)
+The source is available at [XCFD github](https://github.com/chennachaos/XCFD)
 
 {% include image_caption.html url="/assets/images/gpuhack19/sa2c-1.png" %}
 {% include image_caption.html url="/assets/images/gpuhack19/sa2c-2.png" %}
@@ -77,8 +77,7 @@ HashMaps and other related concepts were also discussed as efficient methods of 
 
 [2] M. Chen and F. Boyle, "Investigation of membrane mechanics using spring networks: Application to red-blood-cell modelling", Materials Science and Engineering: C, vol. 43, pp. 506-516, 2014
 
-[https://github.com/geraldgallagher/culbibbs](https://github.com/geraldgallagher/culbibbs)
-[https://www.researchgate.net/profile/Gerald_Gallagher](https://www.researchgate.net/profile/Gerald_Gallagher)
+The source is available at [culbibbs github](https://github.com/geraldgallagher/culbibbs).
 
 ## Final thoughts ..
 
