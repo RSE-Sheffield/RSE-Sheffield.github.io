@@ -35,6 +35,8 @@ _Lunch and refreshments will be provided._
 
 **Pre-requisites:** None.
 
-Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed as detailed at the ARCHER Software setup page. Any questions, please contact Mozhgan Kabiri chimeh at (m.kabiri-chimeh@sheffield.ac.uk).
+Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
+They should have a few specific software packages installed as detailed on the [setup page](https://aniabrown.github.io/hpc-carpentry-shell-WHPC/setup/).
+Any questions, please contact Mozhgan Kabiri chimeh at (m.kabiri-chimeh@sheffield.ac.uk).
 
 _Registration is now closed._
