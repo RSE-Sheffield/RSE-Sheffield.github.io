@@ -1,5 +1,5 @@
 ---
-alumnum: false
+alumnum: true
 level: 2
 published: true
 
@@ -13,6 +13,5 @@ Mozhgan is a Research Associate/Research Software Engineer who specialises in pe
 
 She is currently working on the new version of [FLAMEGPU](http://www.flamegpu.com/) software framework which allows complex systems modelling on GPU architectures.
 
-* Email: m.kabiri-chimeh (at) sheffield.ac.uk
 * Web: [mkchimeh.com](http://mkchimeh.com)
 * LinkedIn: [https://www.linkedin.com/in/mozhgankch/](https://www.linkedin.com/in/mozhgankch/)
