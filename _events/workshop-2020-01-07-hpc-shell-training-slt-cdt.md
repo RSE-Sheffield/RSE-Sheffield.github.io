@@ -1,5 +1,5 @@
 ---
-title: HPC Carpentry: shell lesson
+title: HPC Carpentry shell lesson
 category: workshop
 tags:
 permalink: /training/workshop/2020-01-07-hpc-shell-training-slt-cdt
