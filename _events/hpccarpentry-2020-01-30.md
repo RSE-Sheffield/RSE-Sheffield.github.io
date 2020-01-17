@@ -8,7 +8,7 @@ from: "09:00"
 to: "17:00"
 location: "COM-G12-Main Lewin, Computer Science Department, Regent Court, 211 Portobello St, Sheffield"
 
-image: "/assets/images/hpctraining_logo.jpg"
+image: "/assets/images/hpctraining_logo.png"
 ---
 
 The HPC training workshop is an intensive two-day workshop sponsored by [N8 CIR](https://n8cir.org.uk/) (N8 Centre of Excellence in Computationally Intensive Research) that will be run in collaboration with [Women In HPC (WHPC)](https://womeninhpc.org/) organization and [Software Sustainability Institute](https://www.software.ac.uk/). This course introduces the basics of High-Performance Computing (HPC) and how to access these resources via the command line. After completing this course, participants will:
