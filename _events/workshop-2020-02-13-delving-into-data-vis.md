@@ -37,3 +37,5 @@ chance for researchers to feed back on what services they would like to see in
 the future.
 
 [Register via Eventbrite](https://www.eventbrite.co.uk/e/data-conversations-delving-into-data-visualisations-tickets-89967480155) workshop.  
+
+<img src="/assets/images/love_data_week_logo.png" alt="Love Data week logo" style="display: block; margin-left: auto; margin-right: auto; width: 50%;" />

@@ -25,3 +25,5 @@ will then spend most of the time working with you to organise and structure
 your data - so make sure you bring some data with you!
 
 [Register via Eventbrite](https://www.eventbrite.co.uk/e/bring-your-own-data-workshop-tickets-89957440125).  
+
+<img src="/assets/images/love_data_week_logo.png" alt="Love Data week logo" style="display: block; margin-left: auto; margin-right: auto; width: 50%;" />

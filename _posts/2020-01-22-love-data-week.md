@@ -78,3 +78,5 @@ The [University of Sheffield's Library](https://www.sheffield.ac.uk/library) hav
     managing and analysing your data from experts in the Library and CiCS. We
     will then spend most of the time working with you to organise and structure
     your data - so make sure you bring some data with you!
+   
+<img src="/assets/images/love_data_week_logo.png" alt="Love Data week logo" style="display: block; margin-left: auto; margin-right: auto; width: 50%;" />
