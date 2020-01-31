@@ -60,7 +60,7 @@ The [University of Sheffield's Library](https://www.sheffield.ac.uk/library) hav
       * Colin Angus (SCHARR)
       * Charlotte Tomkins (History), Charles West (History), and Tom Stafford (Psychology)
 
-    The Library, CiCS and the Research Software Engineering team have recently
+    The Library, IT Services and the Research Software Engineering team have recently
     begun to develop new services to support data visualisation and there will be a
     chance for researchers to feed back on what services they would like to see in
     the future.
@@ -75,7 +75,7 @@ The [University of Sheffield's Library](https://www.sheffield.ac.uk/library) hav
     hands-on support and advice to get your data in order.
 
     The session will start with some brief introductions to best practice in
-    managing and analysing your data from experts in the Library and CiCS. We
+    managing and analysing your data from experts in the Library and IT Services. We
     will then spend most of the time working with you to organise and structure
     your data - so make sure you bring some data with you!
    

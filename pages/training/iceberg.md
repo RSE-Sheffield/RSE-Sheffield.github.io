@@ -19,7 +19,7 @@ The course will run in Computer Room ALG04 (40) in Bartolomé House, Winter Stre
 
 The workshop will utilise Iceberg, the University of Sheffield HPC system. Everyone should have completed the user-name request form and as a result you have been added to a special project group and queue. This will enable us to access some dedicated nodes which have been put aside for us to use. If you did not supply your user-name you can still take part however you may need to queue (wait) for an interactive session if the rest of iceberg is busy.
 
-To log into iceberg use SSH from Linux use the following command where *username* is your CICS and iceberg username.
+To log into iceberg use SSH from Linux use the following command where *username* is your IT Services and iceberg username.
 
     ssh username@iceberg.shef.ac.uk
 

@@ -49,11 +49,11 @@ FLAME or FLAME GPU to perform large scale simulations.
 
 ## High Performance Computing (HPC)
 
-We collaborate with a range of partners including CiCS, N8, Archer and
+We collaborate with a range of partners including IT Services, N8, Archer and
 Microsoft to provide you with HPC support on local, regional, national
 and cloud-based facilities.
 
-Locally, we assist CiCS in supporting users on their HPC clusters:
+Locally, we assist IT Services in supporting users on their HPC clusters:
 Iceberg and ShARC. We are major contributors to their documentation
 system and can help you with software installation, training and advice
 on how to make maximum use out of these HPC resources that are free to
@@ -92,9 +92,9 @@ SageMathCloud](http://mikecroucher.github.io/ChemEng_Jupyter_talk2016/) at the 2
 
 ## Support of site licensed RSE software
 
-The University of Sheffield's IT department, CiCS, invests heavily in
+The University of Sheffield's IT department, IT Services, invests heavily in
 the provision of best-in-class commercial software applications for the
-benefit of the University's students and researchers. We work with CiCS
+benefit of the University's students and researchers. We work with IT Services
 and software vendors such as Mathworks, Microsoft, Wolfram Research,
 Intel, NVIDIA, Maplesoft and NAG to provide training and support to
 members of the University to help maximise the impact of these
