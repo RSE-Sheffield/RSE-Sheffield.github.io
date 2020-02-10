@@ -27,5 +27,5 @@ This talk ([slides](https://rse.shef.ac.uk/rse-dcs-pres-on-hpc/)) is for the fir
   - Options for improving performance, inc. via parallelisation;
   - Larger and/or more specialised HPC systems
     and cloud computing;
-  - Getting support from RSE team and CiCS and 
+  - Getting support from RSE team and IT Services and 
     collaborating with the RSE team.

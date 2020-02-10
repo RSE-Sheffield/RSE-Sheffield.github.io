@@ -31,7 +31,7 @@ Speakers will include:
   * Colin Angus (SCHARR)
   * Charlotte Tomkins (History), Charles West (History), and Tom Stafford (Psychology)
 
-The Library, CiCS and the Research Software Engineering team have recently
+The Library, IT Services and the Research Software Engineering team have recently
 begun to develop new services to support data visualisation and there will be a
 chance for researchers to feed back on what services they would like to see in
 the future.

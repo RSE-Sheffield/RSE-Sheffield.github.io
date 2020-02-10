@@ -46,7 +46,7 @@ Over the course of the week, teams find themselves in various emotional stages. 
 
 {% include image_caption.html url="/assets/images/gpuhack19/hackatonevo.png" description="Hackathon Evolution: https://ieeexplore.ieee.org/document/8408902"%}
 
-To help getting teams out of the “pit of despair” and elevate their mood, teams spent an evening with colleagues and new acquaintances in an informal atmosphere at The York while enjoying a delicious 3-course dinner with wine. Sponsored by the University of Sheffield’s central IT dept, [CICS](https://www.sheffield.ac.uk/cics), the **social dinner** was a special treat for all the Sheffield GPU Hackathon attendees.
+To help getting teams out of the “pit of despair” and elevate their mood, teams spent an evening with colleagues and new acquaintances in an informal atmosphere at The York while enjoying a delicious 3-course dinner with wine. Sponsored by the University of Sheffield’s central IT dept, [IT Services](https://www.sheffield.ac.uk/it-services), the **social dinner** was a special treat for all the Sheffield GPU Hackathon attendees.
 
 Towards the middle of the week, teams are hopeful and know that there is a solution to the problem and are running their applications on the GPU. Towards the end of the week, teams share different lesson learned and they either leave happy with their progress or leave with the next set of possibilities to explore.
 

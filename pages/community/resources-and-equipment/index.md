@@ -28,7 +28,7 @@ ShARC is the new system and the one we recommend for new users. Both systems are
 More information of ShARC, Iceberg and research data storage is provided by the following links.
 
 * [http://docs.hpc.shef.ac.uk/en/latest/index.html](http://docs.hpc.shef.ac.uk/en/latest/index.html) - ShARC and Iceberg documentation
-* [https://shef.ac.uk/cics/research-storage](https://www.sheffield.ac.uk/cics/research-storage) - Information on applying for research storage at Sheffield
+* [https://shef.ac.uk/it-services/research-storage](https://www.sheffield.ac.uk/it-services/research-storage) - Information on applying for research storage at Sheffield
 
 ### Access to dedicated HPC resources
 

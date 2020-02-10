@@ -26,7 +26,7 @@ Carpentry events and instructor training are jointly organised by a working grou
 * RSE Sheffield
 * the [Sheffield Bioinformatics Core Facility][bio-inf-core]
 * the [Library][library]
-* [CiCS][cics]
+* [IT Services][itserv]
 
 ## Planned Carpentry Events
 
@@ -60,7 +60,7 @@ Please contact [carpentries-at-sheffield-group@sheffield.ac.uk][email-contact] t
 [soft-carp]: https://software-carpentry.org/
 [bio-inf-core]: http://sbc.shef.ac.uk/
 [library]: https://www.sheffield.ac.uk/library
-[cics]: https://www.sheffield.ac.uk/cics/research
+[itserv]: https://www.sheffield.ac.uk/it-services/research
 [announce-mail-list]: /community/
 [will-furnass]: /contact/will-furnass
 [jez-cope]: http://jcope.shef.ac.uk/

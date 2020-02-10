@@ -20,7 +20,7 @@ Week](https://lovedataweek.org/) and get hands-on support and advice to get
 your data in order.
 
 The session will start with some brief introductions to best practice in
-managing and analysing your data from experts in the Library and CiCS. They
+managing and analysing your data from experts in the Library and IT Services. They
 will then spend most of the time working with you to organise and structure
 your data - so make sure you bring some data with you!
 
