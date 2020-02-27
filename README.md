@@ -2,7 +2,7 @@
 
 This repository contains the source for the RSE-Sheffield website, built with [Jekyll](https://jekyllrb.com/).
 
-The website is hosted on github pages and can be found at https://rse.shef.ac.uk.
+The website is hosted on github pages and can be found at [https://rse.shef.ac.uk](https://rse.shef.ac.uk).
 
 ## Development
 

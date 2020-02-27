@@ -1,5 +1,5 @@
 ---
-title: Research Computing @ Sheffield 2020 Innovations in Data Analytics & High Performance Computing
+title: "Research Computing @ Sheffield 2020 Innovations in Data Analytics & High Performance Computing"
 category: workshop
 tags:
 date: 2020-04-22
