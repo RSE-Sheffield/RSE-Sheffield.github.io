@@ -127,6 +127,8 @@ image:
 ---
 ```
 
+**Warning: GitHub will refuse to serve Jekyll sites that include funny characters (e.g. `&` or `@` in the `title:` YAML field unless the entire title is enclosed in double-quotes**, even though the Jekyll site will build locally without warnings.
+
 ### Events
 
 Events are located in the `_events` directory.
