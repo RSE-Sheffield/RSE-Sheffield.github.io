@@ -134,7 +134,7 @@ of the centres opting for AMD, ARM or POWER chipsets as their main offering. The
 being adopted into more research workflows.  
 
 That's all from the HPC-SIG and HPC Champions this time, thank you for reading. If you have HPC problems you're struggling with, reach out to 
-the hpc@sheffiled.ac.uk google groups. We at the [RSE][rse] also run fortnightly [Code Clinic] sessions to help with HPC or other general technical problems in your research.  
+the hpc@sheffiled.ac.uk google groups. We at the [RSE][rse] also run fortnightly [Code Clinic][code-clinic] sessions to help with HPC or other general technical problems in your research.  
 
 
 [tier2-rap]: https://epsrc.ukri.org/funding/calls/rapopenaccesstier2autumn2019/
