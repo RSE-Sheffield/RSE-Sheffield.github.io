@@ -153,6 +153,6 @@ the hpc@sheffiled.ac.uk google groups. We at the [RSE][rse] also run fortnightly
 [thomas]: https://mmmhub.ac.uk/thomas
 [jade-access-form]: https://docs.google.com/forms/d/e/1FAIpQLSdZw561JxALOt7wOpBN5uu-KJUxDqYJ0iK7YGiY2Rh_et5gmg/viewform
 [midland-plus]: http://www.hpc-midlands.ac.uk/
-[rse]: https://rse.shef.ac.uk/
-[code-clinic]: https://rse.shef.ac.uk/support/code-clinic/
+[rse]: /
+[code-clinic]: /support/code-clinic/
 
