@@ -29,17 +29,17 @@ and user's data are pushed to the cloud on-demand. Cloud storage was still found
 took too long to retrieve data when needed. Cliff also mentioned that the cheapest nodes may not be the best e.g. for AWS while t2.medium is cheapest, 
 c4.large and c5.large allows work to finish faster.
 
-Bath is till running a pilot project with Red Oak Consulting on Microsoft's Azure platform. Early issues encountered are unexpected 
+Bath is still running a pilot project with Red Oak Consulting on Microsoft's Azure platform. Early issues encountered are unexpected 
 clauses in software agreements and delays in cost reporting and ability to map true cost to workloads. They expect the trial to be completed by summer.
  
 
 ## ARCHER 2
-[ARCHER][archer], a UK's national supercomputing service for problems with very large compute requirements (e.g. climate modelling),
+[ARCHER][archer], the UK's national supercomputing service for problems with very large compute requirements (e.g. climate modelling),
 is due to shut down this year and will be replaced with the [ARCHER 2][archer2-news] system.
 
 ![ARCHER 2 transition timeline](/assets/images/2020-02-28-hpc-sig-champions/archer-2-transition-timeline.jpg)
 
-Alan Simpson (EPCC) provided the transition timeline shown in the image above. It is expected that a 4-cabinet test system to be available by mid-june and the whole system to go
+Alan Simpson (EPCC) provided the transition timeline shown in the image above. It is expected that a 4-cabinet test system will be available by mid-june and the whole system to go
 live around 10 weeks after. It was noted that this is an optimisic timeline and there will likely be delays added to these dates.
 
 ![ARCHER Training](/assets/images/2020-02-28-hpc-sig-champions/archer-training.jpg)
@@ -52,17 +52,17 @@ throughout the UK.
 ## Tier-2 HPC Refresh
 Tier-2 HPCs are EPSRC funded regional-level supercomputing clusters, they are designed to bridge the computational power requirement gap 
 between national services (e.g. Archer, Tier-1) and local university HPCs (Tier-3). They are also testbeds for new and 
-heterogeneous HPC technologies, many geared to solve particular type of algorithm or scientific problem.
+heterogeneous HPC technologies, many geared to solve particular types of algorithm or scientific problem.
 
 If you're in an institution that's associated with these systems and are doing research inline with 
 the stated purpose of system then access is often free at point-of-use so get in touch with your local Tier-2 contact 
 to get more (and free) compute for your research! For example, **if you're doing Deep Learning or Molecular Dynamics simulation here at Sheffield you can 
-request JADE access by filling in this [JADE access form][jade-access-form]**. We're also associated with NICE and will be able to provide access once the comes on-line.
+request JADE access by filling in this [JADE access form][jade-access-form]**. We're also associated with NICE and will be able to provide access once system the comes on-line.
 
 Even if you're not associated with one of the Tier-2 institution, it is still possible to apply for access through the [EPSRC Resource Allocation Panel (RAP)][tier2-rap]. 
 Additionally, the [hpc-uk][hpc-acuk] website offer other ways of accessing the systems and has useful links to HPC training courses. 
 
-Funding has been approved for refresh of the Tier-2 centres since late last year and for this round we have an addition of 
+Funding has been approved for a refresh of the Tier-2 centres since late last year and for this round we have an addition of 
 two centres, NICE (N8) and Kelvin-2 (Queens Belfast & Ulster). All of these new systems and refresh are mostly expected to
 come on-line around end of June.
 
@@ -127,12 +127,12 @@ open platforms such as stack exchange. Packaging of HPC software, how the users 
 package managers such as conda, Spack or EasyBuild and how the centres should also give support in building software optimised for their own cluster.
 
 ## Conclusion 
-It's definitely an eventful year for UK HPC with all of the refresh happening. It's great to see the variety of CPU platforms, with just about half 
+It's definitely an eventful year for UK HPC with all of the refreshes happening. It's great to see the variety of CPU platforms, with just about half 
 of the centres opting for AMD, ARM or POWER chipsets as their main offering. There's also a big investment in GPU enabled nodes as Deep Learning is
 being adopted into more research workflows.  
 
 That's all from the HPC-SIG and HPC Champions this time, thank you for reading. If you have HPC problems you're struggling with, reach out to 
-the hpc@sheffiled.ac.uk google groups. We at the [RSE][rse] also run fortnightly [Code Clinic][code-clinic] sessions to help with HPC or other general technical problems in your research.  
+the hpc@sheffiled.ac.uk google group. We at the [RSE][rse] also run fortnightly [Code Clinic][code-clinic] sessions to help with HPC or other general technical problems in your research.  
 
 
 [tier2-rap]: https://epsrc.ukri.org/funding/calls/rapopenaccesstier2autumn2019/
