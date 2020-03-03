@@ -97,12 +97,6 @@ The Kevin-2 is an addition to the Tier-2 listing and will be the first Tier-2 cl
 
 The system will have 8000+ cores (dual 7702 64-core AMD CPus) with 32 Nvidia V100 GPUs.
 
-### HPC MIDLANDS+
-[HPC MIDLANDS+][midland-plus] is run in partnership between Loughborough, Aston, Queen Mary, Birmingham, Warwick, Nottingham and Manchester. 
-The system has 512 nodes in Huawei X6000 quad-node chassis, each with 28 cores (dual Intel Xeon E5-2680v4) and 5 POWER8 compute nodes with 20 cores each.
-
-I'm currently chasing up on news of the refresh for this system.
-
 ### Northern Intensive Computing Environment (NICE)
 The [N8][n8cir] Research Partnership is a collaboration of the eight most research intensive Universities in the North of England: 
 Durham, Lancaster, Leeds, Liverpool, Manchester, Newcastle, Sheffield and York. They've won a 3.1m EPSRC grant to create the new [NICE][nice] Tier-2 centre.
