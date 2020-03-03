@@ -11,8 +11,8 @@ description:
 type: text
 ---
 
-I've just come back from [HPC Special Interest Group (HPC-SIG)][hpc-sig] and [HPC Champions][hpc-champions] (formerly ARCHER Champions) event on the 
-25th and 26th of Feb in Bath, so thought I'd do a write-up. There's updates on Liverpool and Bath's cloud HPC, ARCHER 2 and Tier-2 HPC refresh.
+I've just come back from [HPC Special Interest Group (HPC-SIG)][hpc-sig] and [HPC Champions][hpc-champions] (formerly ARCHER Champions) events on the 
+25th and 26th of Feb in Bath, so thought I'd do a write-up. There's updates on Liverpool and Bath's cloud HPC, ARCHER 2, Tier-2 HPC refresh and how you can get extra GPU compute for your research!
 
  
 ## Liverpool and Bath's Journey to the Clouds
@@ -40,14 +40,13 @@ is due to shut down this year and will be replaced with the [ARCHER 2][archer2-n
 ![ARCHER 2 transition timeline](/assets/images/2020-02-28-hpc-sig-champions/archer-2-transition-timeline.jpg)
 
 Alan Simpson (EPCC) provided the transition timeline shown in the image above. It is expected that a 4-cabinet test system to be available by mid-june and the whole system to go
-live around 10 weeks after. It was noted that this is an optimisic timeline and there will likely be delays for when then system goes live.
+live around 10 weeks after. It was noted that this is an optimisic timeline and there will likely be delays added to these dates.
 
 ![ARCHER Training](/assets/images/2020-02-28-hpc-sig-champions/archer-training.jpg)
 
-It's also interesting to see the various training courses provided by the ARCHER team, both class based and on-line. There's also the driving test which 
+It's also interesting to see the various [training courses provided by the ARCHER team][archer-training], both class based and on-line. There's also the driving test which 
 awards a small amount of time on the service for completing the course. I've been told that all of these courses are available for all researchers 
 throughout the UK.
-
 
 
 ## Tier-2 HPC Refresh
@@ -57,14 +56,14 @@ heterogeneous HPC technologies, many geared to solve particular type of algorith
 
 If you're in an institution that's associated with these systems and are doing research inline with 
 the stated purpose of system then access is often free at point-of-use so get in touch with your local Tier-2 contact 
-to get more (and free) compute for your research! For example, if you're doing Deep Learning or Molecular Dynamics simulation here at Sheffield you can 
-request JADE access by filling in this [JADE access form][jade-access-form]. We're also associated with NICE but the system
-has not come on-line yet.
+to get more (and free) compute for your research! For example, **if you're doing Deep Learning or Molecular Dynamics simulation here at Sheffield you can 
+request JADE access by filling in this [JADE access form][jade-access-form]**. We're also associated with NICE and will be able to provide access once the comes on-line.
 
-Even if you're not associated with one of the Tier-2 institution, it is still possible to apply for access through the [EPSRC Resource Allocation Panel (RAP)][tier2-rap].
+Even if you're not associated with one of the Tier-2 institution, it is still possible to apply for access through the [EPSRC Resource Allocation Panel (RAP)][tier2-rap]. 
+Additionally, the [hpc-uk][hpc-acuk] website offer other ways of accessing the systems and has useful links to HPC training courses. 
 
 Funding has been approved for refresh of the Tier-2 centres since late last year and for this round we have an addition of 
-two centres, NICE (N8) and Kelvin (Queens Belfast & Ulster). All of these new systems and refresh are mostly expected to
+two centres, NICE (N8) and Kelvin-2 (Queens Belfast & Ulster). All of these new systems and refresh are mostly expected to
 come on-line around end of June.
 
 More information on each of the Tier-2 centres and their updates can be found below:
@@ -88,9 +87,8 @@ Isambard's upgrade is scheduled to happen over three phases which will add a var
 
 
 ### JADE
-[JADE][jade] is run by a partnership between Oxford, Alan Turing Institute, Bristol, Edinburgh, King's College, Queen Mary, Sheffield, Southampton and UCL. It consists of 22 Nvidia DGX-1, each node equipped with 8 Nvidia V100 GPUs. 
-The system was designed primarily for Deep Learning and Molecular Dynamics simulation. If you're doing Deep Learning or Molecular Dynamics simulation here at Sheffield 
-you can request JADE access by filling in this [JADE access form][jade-access-form].
+[JADE][jade] is run by a partnership between Oxford, Alan Turing Institute, Bristol, Edinburgh, King's College, Queen Mary, Sheffield, Southampton and UCL. It consists of 22 Nvidia DGX-1 nodes, each equipped with 8 Nvidia V100 GPUs. 
+The system was designed primarily for Deep Learning and Molecular Dynamics simulation.
 
 Although exact specs cannot be shared yet, the refresh will use a more power-efficient system while doubling the GPU compute power.  
 
@@ -103,7 +101,7 @@ The system will have 8000+ cores (dual 7702 64-core AMD CPus) with 32 Nvidia V10
 [HPC MIDLANDS+][midland-plus] is run in partnership between Loughborough, Aston, Queen Mary, Birmingham, Warwick, Nottingham and Manchester. 
 The system has 512 nodes in Huawei X6000 quad-node chassis, each with 28 cores (dual Intel Xeon E5-2680v4) and 5 POWER8 compute nodes with 20 cores each.
 
-I'm currently chasing up on news of the refresh.
+I'm currently chasing up on news of the refresh for this system.
 
 ### Northern Intensive Computing Environment (NICE)
 The [N8][n8cir] Research Partnership is a collaboration of the eight most research intensive Universities in the North of England: 
@@ -155,4 +153,5 @@ the hpc@sheffiled.ac.uk google groups. We at the [RSE][rse] also run fortnightly
 [midland-plus]: http://www.hpc-midlands.ac.uk/
 [rse]: /
 [code-clinic]: /support/code-clinic/
-
+[archer-training]: https://www.archer.ac.uk/training/
+[hpc-acuk]: https://www.hpc-uk.ac.uk/
