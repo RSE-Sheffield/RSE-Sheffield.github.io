@@ -2,8 +2,8 @@
 layout: post
 title: HPC-SIG and HPC Champions, update on the state of Archer and Tier-2 HPCs
 author: Twin Karmakharm
-slug: 2020-02-28-hpc-sig-champions
-date: 2020-02-28 17:00:00 UTC
+slug: 2020-03-03-hpc-sig-champions
+date: 2020-03-03 17:00:00 UTC
 tags: hpc
 category:
 link:
