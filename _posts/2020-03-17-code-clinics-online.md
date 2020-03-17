@@ -11,7 +11,7 @@ description:
 type: text
 ---
 
-In response to the need for increased remote working, we're going to be doing our [Code Clinics](/support/code-clinic) remotely using Google Hangouts for now.
+In response to the need for increased remote working as a result of the current Covid-19 situation, we're going to be doing our [Code Clinics](/support/code-clinic) remotely using Google Hangouts for now.
 
 Code Clinics remain a great way to get help with writing and maintaining code and with reduced physical access to labs, perhaps now is good time to focus on this aspect of research. **We can offer advice on working with and executing code remotely.**
 

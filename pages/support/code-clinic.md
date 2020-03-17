@@ -6,7 +6,7 @@ slug: code-clinic
 type: text
 ---
 
-> Code clinics will be done online using Google Hangouts for the foreseeable future.
+> Code clinics will be done online using Google Hangouts for the foreseeable future due to the current Covid-19 situation.
 
 *Stop wasting valuable time trying to fix issues on your own.*
 
