@@ -17,7 +17,7 @@ review code, advise, troubleshoot and suggest ways to improve your computational
 
 ### Where?
 
-A Google Hangouts link will be provided.
+A Google Hangouts link will be provided in the Google Calendar invite issued when you book a clinic.
 
 ### Who: Are you...
 
