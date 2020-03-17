@@ -6,23 +6,18 @@ slug: code-clinic
 type: text
 ---
 
+> Code clinics will be done online using Google Hangouts for the foreseeable future.
 
 *Stop wasting valuable time trying to fix issues on your own.*
 
-
-Code Clinics are research software engineering (RSE) **fortnightly support sessions** run by **RSE@Sheffield**. 
-They are open to **anyone at TUoS writing code for research** to 
-get help with programming problems and general advice on best practice.
+Code Clinics are research software engineering (RSE) **fortnightly support sessions** run by **RSE@Sheffield**. They are open to **anyone at TUoS writing code for research** to  get help with programming problems and general advice on best practice.
 
 At each session, **members of the RSE team will be available to 
-review code, 
-advise, 
-troubleshoot and 
-suggest ways to improve your computational workflows**.
+review code, advise, troubleshoot and suggest ways to improve your computational workflows**.
 
-### Where: Room COM-G25
+### Where?
 
-[Regent Court, Dept. of Computer Science, The University of Sheffield, 211 Portobello, Sheffield, S1 4DP](https://goo.gl/maps/t88GdT9Yjmz).
+A Google Hangouts link will be provided.
 
 ### Who: Are you...
 
