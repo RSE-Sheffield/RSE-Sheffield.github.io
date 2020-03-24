@@ -1,5 +1,5 @@
 ---
-title: "Research Computing @ Sheffield 2020 Innovations in Data Analytics & High Performance Computing"
+title: "[CANCELLED] Research Computing @ Sheffield 2020 Innovations in Data Analytics & High Performance Computing"
 category: workshop
 tags:
 date: 2020-04-22
@@ -8,6 +8,8 @@ to: "16:00"
 location: "Firth Hall"
 institute: "University of Sheffield"
 ---
+
+**UPDATE: this event has been cancelled.  A smaller-scale online event may be run instead.  Keep an eye out for updates from IT Services and/or the RSE team regarding this.**
 
 Robert Chisholm and Bob Turner from the RSE team are going to be speaking at this event. Robert's talk is "Accelerating the modelling of tumour growth using GPUs: lessons learned" and Bob's is "Infrastructure and Configuration as Code".
 
