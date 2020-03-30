@@ -45,12 +45,16 @@ Once a favorable review has been received (the reviewer clicks a button), the de
 
 ## Convinced?
 
-What I've described here is a complete system for managing changes to software, from the small to the large, in the context of a multi-disciplinary team that can be spread across the world (or a small area of South Yorkshire!). 
+What I've described here is a complete system for managing changes to software, from the small to the large, in the context of a multi-disciplinary team that can be spread across the world (or a small area of South Yorkshire!).
 
 Whilst **git** is perhaps always going to be the domain of the engineer, **GitHub**'s issue tracking and project boards can be engaged with by anyone with a web browser. No USB sticks. Everyone knows where to find the latest version.
 
 If you've got a software project with multiple stakeholders (a professor and a student is enough), get on this!
 
-*If you want some help getting going (and you're a University of Sheffield researcher), consider signing up for one of our [online code clinics](/support/code-clinic).* 
+## More resources
 
-[This **git** tutorial was recommended by one of our team.](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
+- [**git** tutorial](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
+- [Getting deep into **git**](http://gitimmersion.com/)
+- [Get going with **GitHub**](https://guides.github.com/activities/hello-world/)
+
+*If you want some help getting going (and you're a University of Sheffield researcher), consider signing up for one of our [online code clinics](/support/code-clinic).*
