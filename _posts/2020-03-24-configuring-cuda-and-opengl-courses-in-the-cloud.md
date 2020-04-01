@@ -49,7 +49,7 @@ In order to interact with students a screen sharing mechanism is required. Remot
 6) Optionally the Remote Desktop Plugin has a host installer which improves integration and adds a desktop shortcut. This can be [downloaded](https://dl.google.com/edgedl/chrome-remote-desktop/chromeremotedesktophost.msi) and saved to your instance storage (e.g. in ```c:\ChromeRemoteAssistance```). To ensure this is installed for each user open Regedit and navigate to ```Create a string key in registry at: HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\RunOnce```. Create a new String Value and call it ```Chrome Remote Assistance```. Set the value data to the location of the ```chromeremotedesktophost.msi``` file.
 7) Optionally change the UAC control settings to Never Notify if you don't want the user to be prompted about the install when they log on. This of course will have security implications so only do this if you are certain it is not an issue. For my course machines are destroyed after each session so it doesn't matter if users trash the instances.
 
-By following the above, new users on the instance will be able to create a support request from ```https://remotedesktop.google.com/support/``` By clicking the ```Generate Code``` button. This can then be shared with lab demonstrators so that they can share control of the machine which discussing via Google meet.
+By following the above, new users on the instance will be able to create a support request from ```https://remotedesktop.google.com/support/``` By clicking the ```Generate Code``` button. This can then be shared with lab demonstrators so that they can share control of the machine while discussing via Google meet.
 
 ## Problem 2: Configuring Custom AWS Images
 
@@ -81,7 +81,7 @@ The final challenge and usually the most restrictive when it comes to cloud comp
 * A fixed time period for the instances (after which any running instance will be terminated)
 * Specification of a list of users (by email address) who are permitted to take the lab and access an instance for a fixed number of sessions.
 	
-Any user who signs up to the site and has been allocated a session on a lab will be able to click the Start Lab button. Behind the scenes the InstanceHub website will start and instance using the Boto3 API and use the User Data approach to create a disposable user account for each user. The USer account will be displayed to users on the website so that they can connect. The above effective allows each student on my GPU course access to a disposable instance a fixed number of times putting a restriction on the spending budget.
+Any user who signs up to the site and has been allocated a session on a lab will be able to click the Start Lab button. Behind the scenes the InstanceHub website will start and instance using the Boto3 API and use the User Data approach to create a disposable user account for each user. The User account will be displayed to users on the website so that they can connect. The above effective allows each student on my GPU course access to a disposable instance a fixed number of times putting a restriction on the spending budget.
 
 For security the lab set up for my GPU course uses a VPC which restricts access to instances to those from within the University of Sheffield. Each student must therefore be on the VPN to access the instance via RDP.
 
