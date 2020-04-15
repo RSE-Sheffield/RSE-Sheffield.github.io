@@ -95,7 +95,7 @@ ability to skip or peek ahead if you get bored or stuck.
 There are a few available, but
 the ones that were mentioned are [Project Euler](https://projecteuler.net/)
 which is very well known and fairly mathematical, and
-[Rosalind](rosalind.info) which has a strong bioinformatics
+[Rosalind](http://rosalind.info) which has a strong bioinformatics
 slant—my followers and nearby network are probably enriched for biologists.
 
 Lots of people are self-starting learners,

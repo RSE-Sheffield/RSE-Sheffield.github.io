@@ -55,7 +55,7 @@ for i in np.arange(0,len(bands),1): #loop through bands in NetCDF file
     S2vals[i,:,:] = S2BXvals # append to 'master' ND array
 S2vals = vals/10000 # correct unit from S2 L2A data to reflectance between 0-1
 ```
-In the next stage, a scikit-learn classifier is applied to the 9D array. This classifier has been trained in a separate script, saved to a .pkl file and then loaded in here. The 9D array is also converted into a layer that applies a conversion formula to predict the albedo -or reflectivity - of the surface. This is a stripped down version of a code developed at www.github.com/jmcook1186/IceSurfClassifiers/ - go there for the complete scripts.
+In the next stage, a scikit-learn classifier is applied to the 9D array. This classifier has been trained in a separate script, saved to a .pkl file and then loaded in here. The 9D array is also converted into a layer that applies a conversion formula to predict the albedo -or reflectivity - of the surface. This is a stripped down version of the code developed in my [IceSurfClassifiers GitHub repository](https://www.github.com/jmcook1186/IceSurfClassifiers/) - go there for the complete scripts.
 ``` python
 #load pickled model
 clf = joblib.load('/home/Code/Sentinel2_classifier.pkl')
@@ -135,4 +135,4 @@ Note that in reality there was some more formatting applied prior to plotting, i
 xarray is a powerful tool for working with large structured, labelled datasets. It is quite intuitive to users familiar with numpy and pandas and plays well with both. It also provides a neat route to standardised data archiving in NetCDF format with metadata and attributes stored alongside the data.
 
 ### Further Reading
-More info about xarray is available in the [documentation](http://xarray.pydata.org/en/stable/dask.html) and several excellent [blogs](https://rabernat.github.io/research_computing/xarray.html). The code shown above is a reduced version from this [repository](www.github.com/jmcook1186/IceSurfClassifiers/).
+More info about xarray is available in the [documentation](https://xarray.pydata.org/en/stable/dask.html) and several excellent [blogs](https://rabernat.github.io/research_computing/xarray.html). The code shown above is a reduced version from this [repository](https://www.github.com/jmcook1186/IceSurfClassifiers/).

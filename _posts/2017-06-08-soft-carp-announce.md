@@ -16,7 +16,7 @@ The University of Sheffield is now a Software Carpentry Partner Organisation, al
 
 **Edit**: 
 
-Our first Software Carpentry workshop is scheduled for [16th and 17th August](/2017-08-16-sheffield/)!
+Our first Software Carpentry workshop is scheduled for [16th and 17th August](/training/carpentry/2017-08-16/)!
 
 ---
 
@@ -98,7 +98,7 @@ We are now planning our first Software Carpentry and Data Carpentry workshops.  
 [sc]: https://software-carpentry.org/
 [sql]: https://en.wikipedia.org/wiki/SQL
 [unix-shell]: https://en.wikipedia.org/wiki/Unix_shell
-[uos-hpc-docs]: http://docs.hpc.shef.ac.uk/en/latest/
+[uos-hpc-docs]: https://docs.hpc.shef.ac.uk/en/latest/
 [vcs]: https://en.wikipedia.org/wiki/Version_control
 [sc-inclusive]: https://software-carpentry.org/blog/2017/02/inclusion.html
 [sc-coc]: https://software-carpentry.org/conduct/

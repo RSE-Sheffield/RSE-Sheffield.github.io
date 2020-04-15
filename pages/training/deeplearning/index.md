@@ -24,7 +24,7 @@ If you would like to contribute to the list, please get in touch with Twin at [t
         * [Online book & Exercises by Michael Nielson](http://neuralnetworksanddeeplearning.com/)
         * [Stanford DL tutorial](http://ufldl.stanford.edu/tutorial/)
     * Reading
-        * [Online book Ian Goofellow et al](http://www.deeplearningbook.org/)
+        * [Online book Ian Goofellow et al](https://www.deeplearningbook.org/)
         * [Yann Lecun's NYU spring 2017 DL course](http://cilvr.nyu.edu/doku.php?id=courses:deeplearning2017:start) - Slides & course notes
     * Video
         * [Andrew Ng's Machine Learning Coursera module](https://www.coursera.org/learn/machine-learning) - Provides excellent foundation on ML techniques
@@ -40,18 +40,18 @@ If you would like to contribute to the list, please get in touch with Twin at [t
         * [Deep Belief Networks](http://deeplearning.net/tutorial/DBN.html)
         * [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
 * Interactive & Demonstrators
-    * [Tensorflow playground](http://playground.tensorflow.org/)
-    * [Stanford ConvnetJS](http://cs.stanford.edu/people/karpathy/convnetjs/)
+    * [Tensorflow playground](https://playground.tensorflow.org/)
+    * [Stanford ConvnetJS](https://cs.stanford.edu/people/karpathy/convnetjs/)
 * Major DL software packages
-    * [Caffe](http://caffe.berkeleyvision.org/)
+    * [Caffe](https://caffe.berkeleyvision.org/)
     * [Caffe2](https://caffe2.ai/)
     * [CNTK](https://www.microsoft.com/en-us/cognitive-toolkit/)
     * [DIGITS](https://developer.nvidia.com/digits) - GUI and scheduler that uses Caffe and Torch backend
     * [Keras](https://keras.io/) - Wrapper over Tensorflow, Theano and CNTK
     * [MXNet](https://mxnet.apache.org/)
-    * [PyTorch](http://pytorch.org/)
+    * [PyTorch](https://pytorch.org/)
     * [Tensorflow](https://www.tensorflow.org/)
-    * [Theano](deeplearning.net/software/theano)
+    * [Theano](http://deeplearning.net/software/theano)
     * [Torch](http://torch.ch/)
 * Datasets
     * [MNIST](http://yann.lecun.com/exdb/mnist/) - Handwritten digits dataset

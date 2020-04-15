@@ -18,7 +18,7 @@ Will is a Research Software Engineer who is curently working on:
 
 Previous projects:
 
-  - A [JupyterHub service for the University's ShARC HPC system](http://docs.hpc.shef.ac.uk/en/latest/hpc/jupyterhub.html),
+  - A [JupyterHub service for the University's ShARC HPC system](https://docs.hpc.shef.ac.uk/en/latest/hpc/jupyterhub.html),
     plus training materials that can be delivered using that service
     (the materials relate to [multithreading/multiprocessing using Python](https://github.com/RSE-Sheffield/hi-perf-ipynb).
     Work conducted as part of [OpenDreamKit](https://opendreamkit.org/),

@@ -28,7 +28,7 @@ as mentioned in my earlier post
 this his job validation mechanism sometimes results in *false negatives* i.e. you are told that a job cannot run even though though in reality it can.  
 This is something that the HPC sysadmin team at the University of Leeds alerted us to.
 
-Here's an example of a false positive (using our [ShARC](http://docs.hpc.shef.ac.uk/en/latest/sharc/) cluster.  
+Here's an example of a false positive (using our [ShARC](https://docs.hpc.shef.ac.uk/en/latest/sharc/) cluster.  
 If you ask for a single-core interactive session with access to four GPUs then dry-run validation fails:
 
         [te1st@sharc-login1 ~]$ qrsh -l gpu=4 -w v

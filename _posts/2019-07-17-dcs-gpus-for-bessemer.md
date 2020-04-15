@@ -71,11 +71,11 @@ there are [12 CPU-only nodes with high core counts and/or large amounts of RAM][
 ^ Only seven are usable at present as there is a memory fault with one device.
 
 [bessemer]: https://sites.google.com/a/sheffield.ac.uk/rcg/my-blog/introducingsharc2-bessemer
-[dcs-cpu-nodes]: http://docs.hpc.shef.ac.uk/en/latest/sharc/groupnodes/
+[dcs-cpu-nodes]: https://docs.hpc.shef.ac.uk/en/latest/sharc/groupnodes/
 [dcs]: https://www.sheffield.ac.uk/dcs
-[dgx1]: http://docs.hpc.shef.ac.uk/en/latest/sharc/groupnodes/dgx-1.html     
+[dgx1]: https://docs.hpc.shef.ac.uk/en/latest/sharc/groupnodes/dgx-1.html     
 [nvlink]: https://www.nvidia.com/en-gb/data-center/nvlink/
-[sharc]: http://docs.hpc.shef.ac.uk/en/latest/sharc/index.html
+[sharc]: https://docs.hpc.shef.ac.uk/en/latest/sharc/index.html
 [slurm-19-05]: http://on-demand.gputechconf.com/gtcdc/2018/pdf/dc8214-slurm-workload-management-for-gpu-systems-presented-by-schedmd-llc.pdf
 [slurm]: https://slurm.schedmd.com/overview.html
 [tensor-cores]: https://www.nvidia.com/en-gb/data-center/tensorcore/

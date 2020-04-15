@@ -28,7 +28,7 @@ Here are the results for maximum matrix sizes of 10000 by 10000, sorted worst to
 * [458 Gigaflops](https://github.com/mikecroucher/Jupyter-Matrix-Matrix/blob/master/results/Sheffield_sharc_16cores.ipynb) - Standard ShARC node (16 cores)
 * [802 Gigaflops](https://github.com/mikecroucher/Jupyter-Matrix-Matrix/blob/master/results/Sheffield_sharc_32cores.ipynb) - 32 core ShARC node (only available to [RSE queue contributors](/community/resources-and-equipment/))
 
-According to the [Iceberg cluster specs](http://docs.hpc.shef.ac.uk/en/latest/iceberg/cluster_specs.html), over half of Iceberg is made up of the old 'Westmere' nodes.  According to these benchmarks, these are almost **4 times slower** than a standard node on ShARC.
+According to the [Iceberg cluster specs](https://docs.hpc.shef.ac.uk/en/latest/iceberg/cluster_specs.html), over half of Iceberg is made up of the old 'Westmere' nodes.  According to these benchmarks, these are almost **4 times slower** than a standard node on ShARC.
 
 ## The RSE project - the fastest nodes available
 

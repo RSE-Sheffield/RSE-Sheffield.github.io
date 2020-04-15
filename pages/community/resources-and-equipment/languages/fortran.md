@@ -36,7 +36,7 @@ not as easy to use.
 
 -   Suitable for Teaching and Learning
 -   Installed on the Iceberg High Performance Computing facility:
-    <http://docs.hpc.shef.ac.uk/en/latest/iceberg/software/compilers/nag.html>
+    <https://docs.hpc.shef.ac.uk/en/latest/iceberg/software/compilers/nag.html>
 -   Unlimited number of licenses for members of the University
 -   Network access not required at compile time
 -   Download (University staff and students only):
@@ -59,7 +59,7 @@ LAPACK, FFTW etc.
 -   Small number of network licenses. Need to be connected to the
     network at compile time
 -   Installed on the Iceberg High Performance Computing facility:
-    <http://docs.hpc.shef.ac.uk/en/latest/iceberg/software/compilers/intel_compilers.html>
+    <https://docs.hpc.shef.ac.uk/en/latest/iceberg/software/compilers/intel_compilers.html>
 -   Can be used as a mex compiler for MATLAB (Windows only)
 -   Download (University staff and students only):
     <https://www.sheffield.ac.uk/software/>
@@ -77,7 +77,7 @@ licenses so this compiler is not suitable for teaching.
 -   Small number of network licenses. Need to be connected to the
     network at compile time
 -   Installed on the Iceberg High Performance Computing facility:
-    <http://docs.hpc.shef.ac.uk/en/latest/iceberg/software/compilers/pgi.html>
+    <https://docs.hpc.shef.ac.uk/en/latest/iceberg/software/compilers/pgi.html>
 -   Vendor Website: <https://www.pgroup.com/>
 
 Silverfrost Fortran Compiler (Windows only)
@@ -118,7 +118,7 @@ numerical libraries:
         <https://www.sheffield.ac.uk/software/>
     -   NAG Fortran Library documentation on Sheffield's High
         Performance Computing cluster:
-        <http://docs.hpc.shef.ac.uk/en/latest/iceberg/software/libs/nagfortran.html>
+        <https://docs.hpc.shef.ac.uk/en/latest/iceberg/software/libs/nagfortran.html>
     -   Complete list of functions provided by the NAG Fortran library:
         <https://www.nag.co.uk/numeric/fl/nagdoc_fl25/html/FRONTMATTER/manconts.html>
 -   [Intel Math kernel Library

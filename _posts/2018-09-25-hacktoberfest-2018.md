@@ -26,7 +26,7 @@ type: text
 ### [**Hacktoberfest**](https://hacktoberfest.digitalocean.com/) is back! a **one month celebration of open source software**, all about encouraging meaningful contributions to the open source ecosystem, **for beginners and veterans alike**.
 
 
-We had a great time last year, hosting hacktoberfest sessions as part of the [Sheffield R Users group](/blog/sheffieldR-hacktoberfest/) and [Code First Girls](/blog/codefirstgirls-meets-hacktoberfest/) so we're doing it again!
+We had a great time last year, hosting hacktoberfest sessions as part of the [Sheffield R Users group](/blog/sheffieldr-hacktoberfest/) and [Code First Girls](/blog/codefirstgirls-meets-hacktoberfest/) so we're doing it again!
 
 We're **offering a range of sessions, open to anyone, in a friendly informal environment**, as a great opportunity to learn more about:
 

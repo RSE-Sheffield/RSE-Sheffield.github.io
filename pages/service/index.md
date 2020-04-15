@@ -11,7 +11,7 @@ The RSE group provides a mixture of
 
 * Paid service via grant funding (as percentages of an RSE FTE)
 * Paid service for departments and core accounts (as percentages of an RSE FTE)
-* Limited free at point of use support (via [community](../community) activities, [training](../training) and the [code clinic](../support)). 
+* Limited free at point of use support (via [community](../community) activities, [training](../training) and the [code clinic](../support/code-clinic)). 
 
 Areas of expertise within the group include: Code optimisation and performance, reproducibility and embedding good software engineering practice with your project or team, GPU computing and Deep Learning, Statistical Analysis and Data Visualisation, High Performance Computing for local/national/international/cloud systems, general software development, development of impact case studies, consultancy, training and education delivery and support. Our list of specialist expertise is constantly changing and improving so please feel free to contact us if you are unsure if we can support your research software needs or read more on [what we do](./activities).
 
