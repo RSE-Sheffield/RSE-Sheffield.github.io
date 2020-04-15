@@ -2,29 +2,32 @@
 
 This repository contains the source for the RSE-Sheffield website, built with [Jekyll](https://jekyllrb.com/).
 
-The website is hosted on github pages and can be found at [https://rse.shef.ac.uk](https://rse.shef.ac.uk).
+The website is hosted on GitHub Pages and can be found at [https://rse.shef.ac.uk](https://rse.shef.ac.uk).
 
 ## Development
 
 ### Install Dependencies
 
-1. Install ruby
+1. Install Ruby
     * On Windows, this installer can be used [https://rubyinstaller.org/](https://rubyinstaller.org/)
     * On Linux, follow the instructions according to your distribution e.g. for Debian/Ubuntu:
-        ```
+        ```sh
         sudo apt install ruby-full
         ```
 2. Install `bundler` (via a terminal):
-   ```
+   ```sh
    gem install bundler jekyll
    ```
-3. Install other dependencies using `bundler`
-    ```
-    bundler install --path vendor/bundle
+3. Install other dependencies:
+    ```sh
+    cd path/to/clone/of/this/repo
+    bundle config set path vendor/bundle
+    bundle install
     ```
 
 **Note:** if you get an error related to the `public_suffix` package, try installing and updating bundler before rebuilding the site:
-```
+
+```sh
 gem install public_suffix --version 3.0.3
 bundler update
 ```
@@ -33,25 +36,24 @@ bundler update
 
 Ensure ruby packages are up to date, to avoid differences between local and github/travis builds:
 
+```sh
+bundle update --all
 ```
-bundler update --all
-```
-
 
 ### Serving a Local Copy of the Website
 
 To build and serve a local copy of the website, run
 
-```
-bundler exec jekyll serve
+```sh
+bundle exec jekyll serve
 ```
 
 The website can then be found at `http://127.0.0.1:4000`
 
 ### Building HTML files
 
-```
-bundler exec jekyll build
+```sh
+bundle exec jekyll build
 ```
 
 Generated HTML files can be found in `_site`.
