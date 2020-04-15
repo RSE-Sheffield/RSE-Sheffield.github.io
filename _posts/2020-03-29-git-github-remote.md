@@ -29,13 +29,13 @@ As soon as you start working together you need to know who's doing what on what 
 
 ### Issue
 
-Go to **GitHub** and find a repository. There's an *issues* tab. This is used to describe a problem, a new feature or something that's not working with a *repository*. An issue can stem from an external user having a problem with your repository. Or an action from a developer meeting. Or a stakeholder / customer requesting a new feature. In a fairly recent development, *issues* can be put on a **kanban**-style project board, which divides tasks into to-do, work-in-progress and done, facilitating agile project management approaches. An issue is assigned (or self-assigned) to a software engineer who then works to resolve it.
+Go to **GitHub** and find a repository. There's an *issues* tab. This is used to describe a problem, a new feature or something that's not working with a *repository*. An issue can stem from an external user having a problem with your repository. Or an action from a developer meeting. Or a stakeholder / customer requesting a new feature. In a fairly recent development, *issues* can be put on a [kanban](https://en.wikipedia.org/wiki/Kanban_board)-style project board, which divides tasks into to-do, work-in-progress and done, facilitating [agile project management](https://www.apm.org.uk/resources/find-a-resource/agile-project-management/) approaches. An issue is assigned (or self-assigned) to a software engineer who then works to resolve it.
 
 ### Branch
 
-The engineer (developer, whatever) then makes a new *branch*. This enables them to edit the code to resolve the issue without changing the current "latest and greatest" code, and leaving a trail of comments (*commits*) explaining why they've made what changes. This *branch* is synchorised between the developer's computer and the *remote repository* on **GitHub**.
+The engineer (developer, whatever) then makes a new *branch*. This enables them to edit the code to resolve the issue without changing the current "latest and greatest" code, and leaving a trail of comments (*commits*) explaining why they've made what changes. This *branch* is synchronised between the developer's computer and the *remote repository* on **GitHub**.
 
-### Pull request
+### Pull Request
 
 When the engineer thinks they've got the job done, they make a **pull request**. This might carry the comment "this resolves issue x". At this point they will (generally) request a review of their changes by another engineer (or the person paying for their time). A *pull request* can also be used to trigger automated testing using e.g. [Travis](https://travis-ci.org/), [GitHub Actions](https://github.com/features/actions) or [Appveyor](https://www.appveyor.com/). There may be some back and forth between the developer and the reviewer at this stage. Old grudges surface. If we're lucky, there's no violence. What I mean is, everyone must be excruciatingly polite and respectful at all times, or this doesn't work.
 
