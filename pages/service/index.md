@@ -30,7 +30,7 @@ Outside of the free activities which we organise, the RSE service is a paid serv
 
 ### RSE Service charge
 
-If you require paid RSE support which cannot be budgeted into a research grant, we provide an different mechanism for buying RSE support. In this case we charge an internal RSE service day rate of £303 for internal grants and £561+VAT for external partners and industry. The service rate is based off an average cost of an RSE in our group and has a 10% faculty administration cost.
+If you require paid RSE support which cannot be budgeted into a research grant, we provide an different mechanism for buying RSE support. In this case we charge an internal RSE service day rate of £313 for internal grants and £580+VAT for external partners and industry (rates valid for 2019-2020 Financial Year). The service rate is based off an average cost of an RSE in our group and has a 10% faculty administration cost.
 
 ### Collaborative Research Software Development
 
@@ -41,6 +41,6 @@ If you wish to undertake a collaborative software engineering project where the 
 
 ## Contributing to the RSE Group (Underwriting an RSE role)
 
-If you have a considerable requirement for RSE staff you may consider underwriting an RSE staff member with the group. By doing so you will ensure that a member of staff will exist with the specific skills which you require for your research. You will also be given the opportunity to join our strategy group to influence how free RSE time should be allocated. Underwriting a post does not guarantee that the staff member will be available to you 100% of the time. The staff member will be costed onto grants (benefiting you are your research group) in the normal way. Our method of cost recovery will allow us to recover up to 75% of the staff costs which will be reimbursed annually. Cost recovery will be reported on at each RSE strategy group meeting which you will be invited to attend as a contributor to the group. Examples of current contributors include The Department of Computer Science and CICS.
+If you have a considerable requirement for RSE staff you may consider underwriting an RSE staff member with the group. By doing so you will ensure that a member of staff will exist with the specific skills which you require for your research. You will also be given the opportunity to join our strategy group to influence how free RSE time should be allocated. Underwriting a post does not guarantee that the staff member will be available to you 100% of the time. The staff member will be costed onto grants (benefiting you are your research group) in the normal way. Our method of cost recovery will allow us to recover up to 75% of the staff costs which will be reimbursed annually. Cost recovery will be reported on at each RSE strategy group meeting which you will be invited to attend as a contributor to the group. Examples of current contributors include The Department of Computer Science and IT Services.
 
 

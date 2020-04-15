@@ -35,7 +35,7 @@ Some of the other benefits of being an NVIDIA Eduction (and also an NVIDIA Resea
 
 ## Other Training Opportunities
 
-Through [RSE Sheffield](/) and [GPUComputing@Sheffield](http://gpucomputing.sites.sheffield.ac.uk) shorter courses for GPU computing are also available. I will be announcing dates for 1-2 day CUDA courses shortly and am working with CICS in developing new Python CUDA material. 
+Through [RSE Sheffield](/) and [GPUComputing@Sheffield](http://gpucomputing.sites.sheffield.ac.uk) shorter courses for GPU computing are also available. I will be announcing dates for 1-2 day CUDA courses shortly and am working with IT Services in developing new Python CUDA material. 
 
 For those that missed the sign-up, we are also running a two day deep learning with GPUs course in July. The places for this were in high demand and filled up within a day. This course will be repeated in due time and material from the course will be made available off-line.
 

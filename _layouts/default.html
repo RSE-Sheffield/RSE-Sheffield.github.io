@@ -6,8 +6,22 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="{{ page.excerpt | strip_html | truncatewords: 50 }}">
+    <meta name="author" content="{{ page.author }}">
+
+    <meta property="og:description" content="{{ page.excerpt | strip_html | truncatewords: 50 }}">
+    <meta property="og:site_name" content="{{ site.title }}" />
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+    {% if page.image.path %}<meta property="og:image" content="{{ site.url }}{{ page.image.path }}" />
+    {% else %}<meta property="og:image" content="{{ site.url }}{{ site.logo }}" />{% endif %}
+
+
+    <meta name="twitter:card" content="{{ site.twitter.card }}" />
+    <meta name="twitter:site" content="@{{ site.twitter.username }}" />
+    <meta name="twitter:creator" content="@{{ site.twitter.username }}" />
+
     <link href='https://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
     <!-- FontAwesome JS -->
@@ -15,7 +29,6 @@
     <!-- Global CSS -->
     <link rel="stylesheet" href="/assets/plugins/bootstrap/css/bootstrap.min.css">
     <!-- Plugins CSS -->
-    <link rel="stylesheet" href="/assets/plugins/prism/prism.css">
     <!-- Theme CSS -->
     <link id="theme-style" rel="stylesheet" href="/assets/css/theme-3.css">
     <!-- Custom CSS -->
@@ -75,11 +88,9 @@
 <script type="text/javascript" src="/assets/plugins/popper.min.js"></script>
 <script type="text/javascript" src="/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="/assets/plugins/jquery-scrollTo/jquery.scrollTo.min.js"></script>
-<script type="text/javascript" src="/assets/plugins/prism/prism.js"></script>
 <script type="text/javascript" src="/assets/plugins/moment-with-locales.js"></script>
 <script type="text/javascript" src="/assets/js/main.js"></script>
 
 
 </body>
 </html>
-

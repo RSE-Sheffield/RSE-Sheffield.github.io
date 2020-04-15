@@ -5,6 +5,9 @@ author: David Jones
 date: 2019-08-22 12:00:00
 category:
 tags: python
+excerpt_separator: <!--more-->
+image:
+  path: /assets/images/DGCali-72.jpg
 ---
 
 The RSE team has a recurring interest in learning Python:
@@ -13,6 +16,8 @@ because we want to enhance the skills of our existing staff,
 because we deliver training courses, and
 because we are often asked for our advice on how others should
 learn Python.
+
+<!--more-->
 
 Python is one of my favourite tools for solving computing
 problems, and I use it day-to-day, but I'm not involved in the

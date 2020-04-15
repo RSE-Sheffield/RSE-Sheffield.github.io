@@ -87,7 +87,7 @@ A windows based Fortran and C Compiler suite with excellent debugging
 facilities. Sheffield has a site license for teaching and research use.
 
 -   Download (University staff and students only):
-    <https://www.sheffield.ac.uk/cics/research/software/silverfrost>
+    <https://www.sheffield.ac.uk/it-services/research/software/silverfrost>
 
 Free, Open Source Fortran Compilers
 ===================================
@@ -113,7 +113,7 @@ numerical libraries:
 -   [NAG Fortran Library](https://www.nag.co.uk/nag-fortran-library).
     Contains 1844 user-callable routines covering a huge variety of
     mathematical and statistical areas.
-    -   Obtain the NAG Fortran Library from CiCS' software download
+    -   Obtain the NAG Fortran Library from IT Services' software download
         site. (University staff and students only).
         <https://www.sheffield.ac.uk/software/>
     -   NAG Fortran Library documentation on Sheffield's High
@@ -126,7 +126,7 @@ numerical libraries:
     fast functions for linear algebra, fourier transforms, data fitting
     and statistics.
     -   The MKL is distributed as part of the Intel compiler suite which
-        can be obtained from CiCS' software download site. (University
+        can be obtained from IT Services' software download site. (University
         staff and students only) <https://www.sheffield.ac.uk/software/>
 
 Additional Fortran Resources

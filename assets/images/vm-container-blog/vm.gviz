@@ -1,0 +1,27 @@
+digraph{
+    rankdir=LR
+    node[shape="rectangle" style="rounded,filled" fontname="Arial"]
+    edge [color="#006699" len=2.5]
+
+    computer [label="Physical Computer Hardware"]
+    OS [label="Operating System"]
+    VOS1 [label="Operating System"]
+    VOS2 [label="Operating System"]
+    VM1 [label="Virtual Machine"]
+    VM2 [label="Virtual Machine"]
+    s1 [label="Software"]
+    s2 [label="Software"]
+    s3 [label="Software"]
+    s4 [label="Software"]
+    
+    computer->OS [dir="both"]
+    OS->VM1
+    OS->VM2
+    OS->s1 [dir="both"]
+    VM1->VOS1
+    VM2->VOS2
+
+    VOS1->s2 [dir="both"]
+    VOS2->s3 [dir="both"]
+    VOS2->s4 [dir="both"]
+}
