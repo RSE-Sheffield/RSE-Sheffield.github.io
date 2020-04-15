@@ -26,7 +26,7 @@ github_username: RSE-Sheffield
 twitter:
   username: rse_sheffield
   card: summary
-logo: /assets/images/rse-logoonly-stroke.png
+logo: /assets/images/logo/rse-logoonly-stroke.png
 
 future: true # required for collections with a date field, where future events are desired.
 collections:

@@ -125,7 +125,7 @@ date: 2018-01-01 00:00:00
 category:
 tags:
 image:
-  path: /assets/images/rse-logoonly-stroke.png
+  path: /assets/images/logo/rse-logoonly-stroke.png
 ---
 ```
 
