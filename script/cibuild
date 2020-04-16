@@ -2,4 +2,11 @@
 set -e # halt script on error
 
 bundle exec jekyll build
-#bundle exec htmlproofer --allow-hash-href ./_site
+bundle exec htmlproofer \
+    --file-ignore="/\/node_modules\//" \
+    --checks-to-ignore=ScriptCheck,ImageCheck \
+    --disable-external \
+    --internal-domains shef.ac.uk,sheffield.ac.uk,insigneo.org \
+    --alt-ignore=assets/* \
+    --allow-hash-href \
+    _site
