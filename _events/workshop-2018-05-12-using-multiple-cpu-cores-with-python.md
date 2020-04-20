@@ -8,4 +8,4 @@ from: "09:00"
 to: "17:00"
 ---
 
-Workshop on [using multiple CPU cores with Python, multithreading and multiprocessing](https://www.eventbrite.co.uk/e/using-multiple-cpu-cores-with-python-multithreading-multiprocessing-tickets-44913511522#).  Taught using [JupyterHub on the University's ShARC HPC cluster](http://docs.hpc.shef.ac.uk/en/latest/hpc/jupyterhub.html#using-jupyter-on-sharc).
+Workshop on [using multiple CPU cores with Python, multithreading and multiprocessing](https://www.eventbrite.co.uk/e/using-multiple-cpu-cores-with-python-multithreading-multiprocessing-tickets-44913511522#).  Taught using [JupyterHub on the University's ShARC HPC cluster](https://docs.hpc.shef.ac.uk/en/latest/hpc/jupyterhub.html#using-jupyter-on-sharc).

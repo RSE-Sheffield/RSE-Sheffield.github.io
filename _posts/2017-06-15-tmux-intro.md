@@ -12,7 +12,7 @@ type: text
 
 Today we have a guide to 'terminal multiplexing' including suggestions
 on how to use it on computer clusters such as [ShARC and
-Iceberg](http://docs.hpc.shef.ac.uk/).
+Iceberg](https://docs.hpc.shef.ac.uk/).
 
 ------------------------------------------------------------------------
 
@@ -300,17 +300,17 @@ Using tmux on HPC clusters
 ==========================
 
 Terminal Multiplexers can be useful if doing [interactive
-work](http://docs.hpc.shef.ac.uk/en/latest/hpc/scheduler/sge.html#interactive-sessions))
+work](https://docs.hpc.shef.ac.uk/en/latest/hpc/scheduler/submit.html#interactive-sessions))
 on a [HPC](https://en.wikipedia.org/wiki/Supercomputer) cluster such as
 the University of Sheffield clusters [ShARC and
-Iceberg](http://docs.hpc.shef.ac.uk/) (assuming that you don't need a
+Iceberg](https://docs.hpc.shef.ac.uk/) (assuming that you don't need a
 [GUI](https://en.wikipedia.org/wiki/Graphical_user_interface)).
 
 On ShARC and Iceberg can:
 
 1.  Start a tmux or GNU Screen session on a login node;
 2.  Start an interactive job using [qrshx or
-    qrsh](http://docs.hpc.shef.ac.uk/en/latest/hpc/scheduler/sge.html);
+    qrsh](https://docs.hpc.shef.ac.uk/en/latest/hpc/scheduler/submit.html);
 3.  Disconnect and reconnect from the tmux/Screen session (either
     deliberately or due an issue with the SSH connection to the
     cluster);

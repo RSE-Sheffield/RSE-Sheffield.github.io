@@ -10,7 +10,7 @@ description:
 type: text
 ---
 
-As part of our support for a Large scale machine learning MSc course in Computer Science, the Sheffield RSE group put together a tutorial for how to use [Spark](http://spark.apache.org/) and Scala on [Sheffields HPC systems](http://docs.hpc.shef.ac.uk/en/latest/).
+As part of our support for a Large scale machine learning MSc course in Computer Science, the Sheffield RSE group put together a tutorial for how to use [Spark](http://spark.apache.org/) and Scala on [Sheffields HPC systems](https://docs.hpc.shef.ac.uk/en/latest/).
 We are sharing with the rest of the community in case its useful to you [https://github.com/mikecroucher/Intro_to_HPC/blob/gh-pages/README.md](https://github.com/mikecroucher/Intro_to_HPC/blob/gh-pages/README.md) 
 
 Its for people whove never used a HPC system before. By the time theyve finished, they are able to submit their own Spark jobs to the HPC cluster.

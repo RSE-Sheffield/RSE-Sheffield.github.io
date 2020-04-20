@@ -20,7 +20,7 @@ when things go wrong.
 For example, on our ShARC cluster, which runs the (Son of) Grid Engine (SGE) scheduler, 
 if you request a longer run-time than is permitted by any of the cluster's job queue configurations 
 then your job will sit there queueing indefinitely until you or someone else deletes it.  
-For example, let's use [qsub](http://docs.hpc.shef.ac.uk/en/latest/hpc/scheduler/sge.html#running-batch-jobs-on-iceberg) 
+For example, let's use [qsub](https://docs.hpc.shef.ac.uk/en/latest/hpc/scheduler/submit.html#running-batch-jobs) 
 to submit a job where we ask for 1000 hours of run time and 4 GiB of RAM:
 
 ```bash

@@ -21,5 +21,5 @@ According to the [2015 Fortran UK compiler comparisons](https://www.fortran.uk/f
 **NAG Links**
 
 * [University of Sheffield's NAG Page](https://www.nag.co.uk/edu/uk/sheffield) - Go here to download software and request licenses
-* [NAG Fortran Compiler on Iceberg](http://docs.hpc.shef.ac.uk/en/latest/iceberg/software/compilers/nag.html) - Access the compiler on Sheffield's High Performance Computing system.
-* [NAG Fortran library on Iceberg](http://docs.hpc.shef.ac.uk/en/latest/iceberg/software/libs/nagfortran.html)
+* [NAG Fortran Compiler on Iceberg](https://docs.hpc.shef.ac.uk/en/latest/iceberg/software/compilers/nag.html) - Access the compiler on Sheffield's High Performance Computing system.
+* [NAG Fortran library on Iceberg](https://docs.hpc.shef.ac.uk/en/latest/iceberg/software/libs/nagfortran.html)

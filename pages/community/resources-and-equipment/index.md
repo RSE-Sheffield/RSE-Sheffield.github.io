@@ -13,8 +13,8 @@ Here you'll find details of hardware and software resources that will be of inte
 * [Maple](languages/maple): How to get Maple on your machine at Sheffield. High Performance computing tutorials.
 * [MATLAB](languages/matlab): High performance computing, training, tips and how to get MATLAB at Sheffield.
 * [Mathematica](languages/mathematica): How to get Mathematica on your machine, basic training and High Performance Computing.
-* [NAG](languages/NAG): Numerical Algorithms Group (NAG) software at Sheffield
-* [R](languages/rstats): Training and high performance computing.
+* [NAG](languages/nag): Numerical Algorithms Group (NAG) software at Sheffield
+* [R](languages/r): Training and high performance computing.
 
 ## Site licensed Software at Sheffield
 
@@ -22,12 +22,12 @@ The University of Sheffield provides a range of site licensed software to its st
 
 ## High Performance Computing at Sheffield
 
-The University of Sheffield provides staff and students with access to two High Performance Computing (HPC) systems called ShARC and Iceberg.
+The University of Sheffield provides staff and students with access to three High Performance Computing (HPC) systems: Bessemer, called ShARC and Iceberg.
 ShARC is the new system and the one we recommend for new users. Both systems are free to academics and researchers (students can be added with permission of supervisors) and work on a fair share basis.
 
 More information of ShARC, Iceberg and research data storage is provided by the following links.
 
-* [http://docs.hpc.shef.ac.uk/en/latest/index.html](http://docs.hpc.shef.ac.uk/en/latest/index.html) - ShARC and Iceberg documentation
+* [https://docs.hpc.shef.ac.uk/en/latest/index.html](https://docs.hpc.shef.ac.uk/en/latest/index.html) - ShARC and Iceberg documentation
 * [https://shef.ac.uk/it-services/research-storage](https://www.sheffield.ac.uk/it-services/research-storage) - Information on applying for research storage at Sheffield
 
 ### Access to dedicated HPC resources
@@ -38,7 +38,7 @@ The RSE group has access to a set of private nodes on ShARC (GPU and big memory 
 
 The Joint Academic Data Science Endeavour (JADE) is the largest GPU facility in the UK supporting world-leading research in machine learning. The computational hub will harness the capabilities of the NVIDIA DGX-1 Deep Learning System and comprise of 22 servers, each containing 8 of the newest NVIDIA Tesla P100 GPUs linked by NVIDIA's NV link interconnect technology. The new JADE facility aims to address the gap between university systems and access to national HPC services. This will drive forward innovation in machine learning, identifying new applications and insights in to research challenges.
 
-The RSE group director (Paul Richmond) is a co-investigator in the [EPSRC Tier 2 JADE system](http://www.jade.ac.uk/). As such members of the University of Sheffield are able to access this resource for free (for use with deep learning research). Please [contact us](/contact/) for more information on accessing this resource.
+The RSE group director (Paul Richmond) is a co-investigator in the [EPSRC Tier 2 JADE system](https://www.jade.ac.uk/). As such members of the University of Sheffield are able to access this resource for free (for use with deep learning research). Please [contact us](/contact/) for more information on accessing this resource.
 
 ### Cloud Computing
 

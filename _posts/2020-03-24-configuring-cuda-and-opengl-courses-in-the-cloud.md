@@ -13,7 +13,7 @@ type: text
 
 Academics and RSEs have been very busy over the last few weeks coming up with creative solutions to move teaching and training online. My own under/post graduate GPU module [Parallel Computing with GPUs](https://paulrichmond.shef.ac.uk/teaching/COM4521/) has posed a significant problem. The course was designed to be run within the University of Sheffield's High Specification teaching lab which is equipped with CUDA enabled GPUs. Moving this course online clearly requires a mechanism for students to access GPUs, without presenting a significant change to their current working practice (e.g. Visual Studio development in Windows). Ideally this cold be done using the [university's high performance computing facilities](https://www.sheffield.ac.uk/it-services/research/hpc) but the provision for GPUs is currently insufficient to support 100 students (although new GPUs are on the way). The obvious solution is to move this to the cloud however there are a number of challenges to solve which are the topic of this blog post which also serves as a reference for when I forget all of this in 6 months time.
 
-*Note: This blog specifically targets AWS as it is what I have used on the [InstanceHub](www.instancehub.com) website which is part of the solution to Problem 3.*
+*Note: This blog specifically targets AWS as it is what I have used on the [InstanceHub](https://www.instancehub.com) website which is part of the solution to Problem 3.*
 
 ## Problem 1: GPU Accelerated Instances with Graphical Displays
 
@@ -21,7 +21,7 @@ Creating an AWS image with accelerated Rendering and CUDA support is surprisingl
 
 The suggested method of providing accelerated rendering is to use an image with the NVIDIA Grid drivers pre installed. Most of these images are out dated so you can [install the grid drivers yourself](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/install-nvidia-driver.html) on a clean Tesla backed Windows instance. Perfect so this should provide GPU accelerated rendering with ability to run CUDA applications right? Yes, [but with some restrictions](https://docs.nvidia.com/grid/latest/grid-vgpu-user-guide/index.html#cuda-open-cl-support-vgpu) including no debugging with NSight or profiling. Not so useful for a GPU course. 
 
-The final option is to install the CUDA driver (which will run in TCC mode) and then switch the driver mode to the windows driver display model (WDDM) rather than TCC. This mode is slightly less performant than TCC mode but is used for consumer and Quadro cards which drive displays as well as perform CDUA compute. Through trial and error this will only work on certain Tesla cards. K80s are not supported but M60s do. By running the following command (from the C:\Program Files\NVIDIA Corporation\NVSMI location as Administrator) you can put the M60 device into WDDM mode after a reboot.
+The final option is to install the CUDA driver (which will run in TCC mode) and then switch the driver mode to the windows driver display model (WDDM) rather than TCC. This mode is slightly less performant than TCC mode but is used for consumer and Quadro cards which drive displays as well as perform CUDA compute. Through trial and error this will only work on certain Tesla cards. K80s are not supported but M60s do. By running the following command (from the `C:\Program Files\NVIDIA Corporation\NVSMI location` as *Administrator*) you can put the M60 device into WDDM mode after a reboot.
 
 	nvidia-smi -g 0 -dm 0
 	
@@ -74,7 +74,7 @@ If something goes wrong with your user data then you have a persistent Administr
 
 ## Problem 3: How much will it cost?
 
-The final challenge and usually the most restrictive when it comes to cloud computing is the question of "How much will it cost?". It is not possible to provide an instance to each student for the duration of the course as the costs of this would be outrageously high and utilisation would probably be poor (representing bad value for money). For my labs I need to be able to spin up ~100 GPU instances for a short time period (roughly 2 hours) and then ensure that they are shut down and incur no further cost. Fortunately I developed a solution to this some time ago, a website called [InstanceHub](www.instancehub.com). InstanceHub allow you to design a lab which includes;
+The final challenge and usually the most restrictive when it comes to cloud computing is the question of "How much will it cost?". It is not possible to provide an instance to each student for the duration of the course as the costs of this would be outrageously high and utilisation would probably be poor (representing bad value for money). For my labs I need to be able to spin up ~100 GPU instances for a short time period (roughly 2 hours) and then ensure that they are shut down and incur no further cost. Fortunately I developed a solution to this some time ago, a website called [InstanceHub](https://www.instancehub.com). InstanceHub allow you to design a lab which includes;
 
 * A description of an instance (image, machine type, VPC, etc.)
 * An availability range (a set of dates in which instances can be created)

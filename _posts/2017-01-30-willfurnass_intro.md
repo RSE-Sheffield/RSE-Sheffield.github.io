@@ -77,8 +77,8 @@ remote systems could be:
 -   **the HPC clusters operated by so many academic institutions**.
 
 This is where my part of OpenDreamKit comes in. Computer clusters such
-as [Iceberg](http://docs.hpc.shef.ac.uk/en/latest/iceberg/index.html)
-and [ShARC](http://docs.hpc.shef.ac.uk/en/latest/sharc/index.html) here
+as [Iceberg](https://docs.hpc.shef.ac.uk/en/latest/iceberg/index.html)
+and [ShARC](https://docs.hpc.shef.ac.uk/en/latest/sharc/index.html) here
 at the University of Sheffield allow users to run computational jobs
 with more resources than typically available in researchers' own
 machines. Jobs can have parallel threads of execution running on up to
@@ -94,15 +94,15 @@ help make HPC more accessible and useful to those without a strong
 understanding of Linux and the command-line.
 
 We already have [an instance of JupyterHub
-running](http://docs.hpc.shef.ac.uk/en/latest/hpc/jupyterhub.html) to
+running](https://docs.hpc.shef.ac.uk/en/latest/hpc/jupyterhub.html) to
 allow users to start Jupyter sessions on our
-[Iceberg](http://docs.hpc.shef.ac.uk/en/latest/iceberg/index.html)
+[Iceberg](https://docs.hpc.shef.ac.uk/en/latest/iceberg/index.html)
 cluster thanks to the efforts of [Stuart
 Mumford](http://stuartmumford.uk/). I will be working on:
 
 -   Upgrading this to use the latest version of JupyterHub;
 -   Setting up JupyterHub on our new cluster
-    ([ShARC](http://docs.hpc.shef.ac.uk/en/latest/sharc/index.html));
+    ([ShARC](https://docs.hpc.shef.ac.uk/en/latest/sharc/index.html));
 -   Developing a mechanism for easily requesting resources (more RAM /
     CPU cores / GPUs) from the Grid Engine scheduler;
 -   Making the JupyterHub and Grid Engine integration more robust.
@@ -139,7 +139,7 @@ post-doc experience in [water
 engineering](https://www.sheffield.ac.uk/civil/) (where I developed
 semi-physical and data-driven models of water quality in water
 distribution networks) and I have provided support to the users of the
-University of Sheffield's [HPC clusters](http://docs.hpc.shef.ac.uk/).
+University of Sheffield's [HPC clusters](https://docs.hpc.shef.ac.uk/).
 In addition I taught or helped run RSE, water engineering and study
 skills workshops.
 
