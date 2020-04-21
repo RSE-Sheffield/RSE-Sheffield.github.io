@@ -41,7 +41,7 @@ Participants get to work with other people’s material in a low-pressure enviro
 ### Ways to Participate
 
 #### Submit a paper
-In the run-up to the event, you can submit details of your paper, code and data for reproduction and review here: https://sheffield-university.shinyapps.io/n8cir-reprohacks/
+In the run-up to the event, you can [submit details of your paper, code and data for reproduction and review here](https://sheffield-university.shinyapps.io/n8cir-reprohacks/).
 
 **Benefits to authors:**
 
@@ -61,11 +61,10 @@ Ultimately, engaging with such materials is the only way to assess how reproduci
 
 ***
 
-Read more about previous ReproHacks on the Software Sustainability Institute blog:
+Read more about previous ReproHacks on the [Software Sustainability Institute](https://www.software.ac.uk)'s blog:
 
-- Manchester Carpentry Connect ReproHack:  https://www.software.ac.uk/blog/2019-08-07-reprohacking-carpentryconnect-manchester-2019
-
-- Leiden NL ReproHack: https://www.software.ac.uk/blog/2020-01-15-reproducibility-hackathon-netherlands-aftermath
+- [Manchester Carpentry Connect ReproHack](https://www.software.ac.uk/blog/2019-08-07-reprohacking-carpentryconnect-manchester-2019)
+- [Leiden NL ReproHack](https://www.software.ac.uk/blog/2020-01-15-reproducibility-hackathon-netherlands-aftermath)
 
 
 Hope to See you there! 
