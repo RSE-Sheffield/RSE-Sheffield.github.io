@@ -7,7 +7,6 @@ date: 2018-12-18
 from: "09:00"
 to: "16:00"
 location: "Computer Room 4 (Room 2.06), 2nd Floor, The Diamond, University of Sheffield"
-eventbrite_id: "52664367541"
 ---
 
 ![Nvidia DLI Banner](/assets/images/DLI-email-header-motif-640x150.jpg)
@@ -28,3 +27,4 @@ In this full-day workshop, you will learn the basics of deep learning by trainin
 
 **Platforms:** [Nvidia DIGITS](https://developer.nvidia.com/digits) and [Caffe](http://caffe.berkeleyvision.org/)
 
+[Register via Eventbrite](https://eventbrite.co.uk/e/52664367541).
