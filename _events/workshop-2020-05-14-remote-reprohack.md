@@ -7,11 +7,10 @@ to: "17:00"
 location: "Online"
 speaker: "Anna Krystalli"
 institute: "University of Sheffield"
-title: "N8 Remote ReproHack"
-eventbrite_id: https://www.eventbrite.co.uk/e/remote-reprohack-tickets-102069657092
+title: "N8 CIR Remote ReproHack"
 ---
 
-> [**REGISTER**](https://www.eventbrite.co.uk/e/remote-reprohack-tickets-102069657092)
+> [**REGISTER here**](https://www.eventbrite.co.uk/e/remote-reprohack-tickets-102069657092)
 
 <br>
 
