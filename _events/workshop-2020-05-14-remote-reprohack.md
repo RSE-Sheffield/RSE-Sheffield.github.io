@@ -62,11 +62,10 @@ Ultimately, engaging with such materials is the only way to assess how reproduci
 
 ***
 
-Read more about previous ReproHacks on the Software Sustainability Institute blog:
+Read more about previous ReproHacks on the [Software Sustainability Institute](https://www.software.ac.uk)'s blog:
 
-- Manchester Carpentry Connect ReproHack:  https://www.software.ac.uk/blog/2019-08-07-reprohacking-carpentryconnect-manchester-2019
-
-- Leiden NL ReproHack: https://www.software.ac.uk/blog/2020-01-15-reproducibility-hackathon-netherlands-aftermath
+- [Manchester Carpentry Connect ReproHack](https://www.software.ac.uk/blog/2019-08-07-reprohacking-carpentryconnect-manchester-2019)
+- [Leiden NL ReproHack](https://www.software.ac.uk/blog/2020-01-15-reproducibility-hackathon-netherlands-aftermath)
 
 
 Hope to See you there! 
