@@ -42,7 +42,7 @@ Participants get to work with other people’s material in a low-pressure enviro
 ### Ways to Participate
 
 #### Submit a paper
-In the run-up to the event, you can submit details of your paper, code and data for reproduction and review here: https://sheffield-university.shinyapps.io/n8cir-reprohacks/
+In the run-up to the event, you can [submit details of your paper, code and data for reproduction and review here](https://sheffield-university.shinyapps.io/n8cir-reprohacks/).
 
 **Benefits to authors:**
 
