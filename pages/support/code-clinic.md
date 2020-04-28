@@ -41,7 +41,7 @@ A Google Meet link will be provided in the Google Calendar invite issued when yo
 
 ### When
 
-Every second Wednesday (14:00 - 16:00).
+Every second Wednesday (13:30 - 15:30).
 
 ### Book a slot
 
