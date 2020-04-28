@@ -39,9 +39,9 @@ A Google Meet link will be provided in the Google Calendar invite issued when yo
 
 **We can help!**
 
-### When: Every second Wed (14:00 - 16:00)
+### When
 
-Clinics launch on **Wednesday, Oct 3rd, 2018** and run fortnightly after that.
+Every second Wednesday (14:00 - 16:00).
 
 ### Book a slot
 
