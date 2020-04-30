@@ -7,7 +7,6 @@ date: 2018-11-28
 from: "09:00"
 to: "16:00"
 location: "Computer Room 4 (Room 2.06), 2nd Floor, The Diamond, University of Sheffield"
-eventbrite_id: "51506466227"
 
 ---
 
@@ -29,3 +28,5 @@ In this full-day workshop, you will learn the basics of deep learning by trainin
 **Pre-requisites:** Technical background and basic understanding of deep learning concepts. Knowledge of Python is helpful but is not a requirement.
 
 **Platforms:** [Nvidia DIGITS](https://developer.nvidia.com/digits) and [Caffe](http://caffe.berkeleyvision.org/)
+
+[Register via Eventbrite](https://eventbrite.co.uk/e/51506466227).

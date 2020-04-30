@@ -155,7 +155,6 @@ The following are some of the  **FrontMatter** variables which can be set:
 | `from`          | Starting time with format: HH:MM |
 | `to`            | Ending time with format: HH:MM |
 | `location`      | Location of your event |
-| `eventbrite_id` | **Optional** The ID of your event on eventbrite. This will automatically include the eventbrite's ticket purchasing/registration widget |
 | `tags`          | searchable tags, (not implemented yet) |
 
 **Note** - Permalinks *should* end with a trailing `/` so the event can be accessed with or without the trailing `/`.
