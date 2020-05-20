@@ -50,6 +50,8 @@ bundle exec jekyll serve
 
 The website can then be found at `http://127.0.0.1:4000`
 
+Note that if you are running Ruby 2.7 then you [will see lots of deprecation warnings until Jekyll 4.1 is released](https://github.com/jekyll/jekyll/pull/7948#issuecomment-584132037).
+
 ### Building HTML files
 
 ```sh
