@@ -74,8 +74,7 @@ cache your passphrase in memory for some time.
     there may be more secure ways of doing things.
 -   Do not re-use your University password as a passphrase to encrypt a
     SSH private key.
--   Do not copy your private key to remote machines unless there is a
-    good reason and you are confident it is safe to do so.
+-   Do not copy your private key to remote machines.
 -   Use a SSH Agent to save you from having to retype your passphrase
     very frequently.
 -   Do not install your public key in other users' home directories in
