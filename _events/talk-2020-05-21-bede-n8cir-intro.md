@@ -4,9 +4,9 @@ date: 2020-05-21
 published: true
 from: "15:00"
 to: "16:00"
-location: "Online @ 'Research reproducibility and good practice in statistical software', RSS Leeds / Bradford Local Group Seminar"
+location: "Online"
 speaker: "Alan Real and Paul Richmond"
-institute: "University of Sheffield"
+institute: "N8"
 title: "Introducing the N8 Bede GPU HPC cluster"
 ---
 
