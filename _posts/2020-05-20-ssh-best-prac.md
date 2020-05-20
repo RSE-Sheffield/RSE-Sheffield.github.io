@@ -36,7 +36,7 @@ information, such as something you have plus something you know, where possible
 internet-accessible University cluster, now requires a [VPN
 connection][tuos-vpn] (with its distinct password) or [an additional,
 one-time-only password][tuos-hpc-connecting] (via [Duo MFA][tuos-duo-mfa], if
-supported, when accessed off campus.  Note that multi-factor authentication via
+supported, when accessed off campus.  Note that currently multi-factor authentication via
 Duo when using SSH is only mandatory if Duo MFA has been enabled for your
 University account.  You should continue to [manage your University password
 carefully][tuos-pw-mgmt] even when using MFA (password plus VPN or Duo MFA).
@@ -45,7 +45,7 @@ Another common way to authenticate using SSH is using a **public/private key
 pair**.  You generate the key pair on your own machine, which results in two
 files containing cryptographically-linked contents, then install *just* the
 public key file on the remote machine(s) you want to SSH to.  For example, you
-might install one of your public keys on the ShARC HPC system and you would
+might install one of your public keys on the ShARC HPC system and, under the current setup, you would
 then be able to connect to it *without* entering your University password.
   Public/private key pairs are potentially more secure than using just a
 password to authenticate as an attacker must have the private key file to
