@@ -22,8 +22,6 @@
       url: /training/events
     - title: Code Clinic
       url: /support/code-clinic
-    - title: Software and Data Carpentry
-      url: /training/carpentry
     - title: Deep Learning
       url: /training/deeplearning
 - title: RSE Community
