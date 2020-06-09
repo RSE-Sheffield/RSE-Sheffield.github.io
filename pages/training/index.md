@@ -6,10 +6,18 @@ type: text
 permalink: /training/
 ---
 
-We offer and support the delivery of a range of training courses in topics such as Programming, High Performance Computing and Software Engineering. Most of these are free to members of the University of Sheffield.
+We are able offer and support the delivery of a range of training courses. Several members of the team are ["Software Carpentry"](https://software-carpentry.org/) trainers and we can tailor and deliver these courses. We have recently delivered training commissioned by Doctoral Training Centres on "Reproducible Research Data & Project Management in R" and on use of the Linux shell for accessing HPC systems.
 
-Check out out complete list of [training events](./events) or find out more about [Software and Data Carpentry](./carpentry).
+Some example topics in which we have expertise include:
 
-In the future we aim to run a DDP module on Software Engineering best practice. The design of this module is currently under review for delivery in 2019.
+- Python
+- R
+- Matlab
+- Reproducible Research
+- C, C+, C++
+- git and GitHub
+- Linux shell
+- High Performance Computing
+- GPU Computing
 
-
+Our team has a very broad range of skills and we are passionate about passing them on. We can develop bespoke training courses to suit your department, research group or team. If you are interested in training, please [contact us](../contact/index.md).
