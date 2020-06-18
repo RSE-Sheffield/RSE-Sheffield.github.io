@@ -1,5 +1,3 @@
 {% for post in site.posts %}
-    {% unless post.tags contains "newsletter"%}
-        {% include post_list_item.html post=post %}
-    {% endunless %}
+    {% include post_list_item.html post=post %}
 {% endfor %}
