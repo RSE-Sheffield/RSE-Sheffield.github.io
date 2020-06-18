@@ -69,3 +69,8 @@ defaults:
     values:
       layout: "person"
       defaults:
+  - scope:
+      path: "_newsletters"
+    values:
+      layout: "post"
+      permalink: "/newsletter/:slug/"
