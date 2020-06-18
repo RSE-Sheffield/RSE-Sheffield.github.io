@@ -70,10 +70,8 @@ defaults:
       type: "people"
     values:
       layout: "person"
-      defaults:
   - scope:
       path: ""
       type: "newsletters"
     values:
       layout: "newsletter"
-      defaults:

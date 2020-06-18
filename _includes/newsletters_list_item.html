@@ -1,21 +1,21 @@
 {% assign newsletter = include.newsletter %}
 
-<div class="media mb-2 event-item" data-date="{{ post.date }}">
+<div class="media mb-2 event-item" data-date="{{ newsletter.date }}">
 
     <div class="media-body">
-        <h6 class="mt-0"><a href="{{ newsletter.url }}">{{ post.title }}</a></h6>
+        <h6 class="mt-0"><a href="{{ newsletter.url }}">{{ newsletter.title }}</a></h6>
 
-        {% if post.author %}
+        {% if newsletter.author %}
         <div class="media mb-1">
             <img class="align-self-center mr-2" src="/assets/images/icons/icons8-person-50.png" width="20" alt="Posted By"/>
-            <div class="media-body"><strong>{{ post.author }}</strong></div>
+            <div class="media-body"><strong>{{ newsletter.author }}</strong></div>
         </div>
         {% endif %}
 
-        {% if post.date %}
+        {% if newsletter.date %}
         <div class="media mb-1">
             <img class="align-self-center mr-2" src="/assets/images/icons/icons8-watch-50.png" width="20" alt="Date"/>
-            <div class="media-body"><strong>{{ post.date | date: "%-d %B %Y %H:%M" }}</strong></div>
+            <div class="media-body"><strong>{{ newsletter.date | date: "%-d %B %Y %H:%M" }}</strong></div>
         </div>
         {% endif %}
 
