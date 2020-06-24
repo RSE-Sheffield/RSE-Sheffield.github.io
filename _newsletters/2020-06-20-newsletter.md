@@ -13,33 +13,38 @@ type: text
 
 ## University of Sheffield Research Software Engineering Team Newsletter July 2020
 
+Welcome to our new newsletter! The Research Software Engineering Team are passionate about community and training, so we recently had a think about how we get the most out of the resources we currently have for this. Our plan is to run a monthly newsletter, kick off a new series of talks / discussions: "LunchBytes" run online and to provide more information on online training resources. We'll also be signposting fantastic work and events from outside our team. If you'd like the newsletter delivered to your inbox for maximum convenience, please sign up to our [Google Group](https://groups.google.com/a/sheffield.ac.uk/forum/#!forum/rse-group).
+
 ### Events
 
 Events and diary dates that might be of interest...
 
-* [Gaussian Process Summer School](http://gpss.cc/gpss20/) September 14 2020 to September 17 2020 - **Learn about Gaussian Processes with experts from the University of Sheffield and beyond.**
+* [Women in Machine Learning Un-Workshop](https://wimlworkshop.org/icml2020/cfp/) July 13th 2020 - **From Fariba Yousefi: Please join us at WiML un-workshop at ICML 2020. We will have a full day of great invited speakers and break out sessions to maximize interaction between participants. Please fill in the [form](https://docs.google.com/forms/d/e/1FAIpQLSeufB3shV56OcphF7awadd8XcUTjXVUxFBktSM2kIGc_4LWrw/viewform) and check our [website](https://wimlworkshop.org/icml2020/) for more details. To attend the un-workshop, you need to register for [ICML](https://icml.cc/).**
+* [FLAME GPU tutorial at ALIFE](https://na.eventscloud.com/ereg/index.php?eventid=493515&) July 13 2020 to July 18 2020
 * [Sheffield GPU Hackathon](https://www.gpuhackathons.org/event/sheffield-gpu-hackathon) July 20 2020 to July 29 2020 - **Sponsored by NVIDIA, teams from industry and academia work together to accelerate software using GPUs. Sorry - applications for this are now closed.**
-* [Women in Machine Learning Un-Workshop](https://wimlworkshop.org/icml2020/cfp/) July 13th 2020 - **ToDo contact Fariba for info?**
+* LunchBytes August 12 2020 12:00-13:00 **Python-themed. Save the date. More information soon.**
+* [Gaussian Process Summer School](http://gpss.cc/gpss20/) September 14 2020 to September 17 2020 - **Learn about Gaussian Processes with experts from the University of Sheffield and beyond.**
+
+Research IT Support provides [training in a range of research software related areas](https://www.sheffield.ac.uk/it-services/research/training).
+
+The Library provides training and support for data management planning.
 
 ### Opportunities
 
-* Chan Zuckerberg Initiative [Essential Open Source Software for Science, Cycle 3](https://chanzuckerberg.com/rfa/essential-open-source-software-for-science/)
-* EPSRC [Research Software Engineer (RSE) Fellowships](https://epsrc.ukri.org/funding/calls/pre-announcement-for-research-software-engineer-rse-fellowships/)
+* Chan Zuckerberg Initiative [Essential Open Source Software for Science, Cycle 3](https://chanzuckerberg.com/rfa/essential-open-source-software-for-science/) August 4 2020 deadline
+* EPSRC [Research Software Engineer (RSE) Fellowships](https://epsrc.ukri.org/funding/calls/pre-announcement-for-research-software-engineer-rse-fellowships/) August 18 2020 deadline
 
 ### Web and Blogs
 
-* [Critiqued coronavirus simulation gets thumbs up from code-checking efforts](https://www.nature.com/articles/d41586-020-01685-y)
+* Keen to learn R from the comfort of your home? [Online training from the Sheffield Bioinformatics Core](https://sbc.shef.ac.uk/training/r-introduction-online/) may be the answer.
+* [RSEs and coronavirus](https://society-rse.org/covid-software-statement/)
+* Blog post from Will Furnass on [securely accessing HPC resources](https://rse.shef.ac.uk/blog/2020-05-20-ssh-best-prac/)
+* Blog post from Bob Turner on [Remote working with git and GitHub](https://rse.shef.ac.uk/blog/2020-03-29-git-github-remote/)
+* Blog post from Rob Chisholm on using [git rebase](ToDo)
+* Online [supercomputing course](https://www.futurelearn.com/courses/supercomputing)
 
-### Sheffield RSE Projects
+### Sheffield RSE Team Services
 
-**ToDo: Check admin tool and summarise current work?**
+The RSE team aims to collaborate with you to help improve your research software. We can provide dedicated staff to ensure that you can deliver excellent research software engineering on your research projects.
 
-### Sheffield RSE Team
-
-The RSE team aims to collaborate with you to help improve your research software. We can provide dedicated staff to ensure that you can deliver excellent research software engineering on your research projects (see example projects and testimonials). Supporting the entire University, we have collaborators in every faculty and have supported researchers in a range of subject areas including engineering, mathematics, computer science, biology, linguistics, physics, chemistry and geography.
-
-The RSE team provides:
-
-* [Code clinics](https://rse.shef.ac.uk/support/code-clinic/) - free help with your code.
-* Paid service via grant funding (as percentages of an RSE FTE)
-* Paid service for departments and core accounts (as percentages of an RSE FTE)
+The RSE team provides free [Code clinics](https://rse.shef.ac.uk/support/code-clinic/) and [paid services](https://rse.shef.ac.uk/service/) allowing us to collaborate longer term.
