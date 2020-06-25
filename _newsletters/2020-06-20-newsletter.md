@@ -25,18 +25,20 @@ Events and diary dates that might be of interest...
 * LunchBytes August 12 2020 12:00-13:00 **Python-themed. Save the date. More information soon.**
 * [Gaussian Process Summer School](http://gpss.cc/gpss20/) September 14 2020 to September 17 2020 - **Learn about Gaussian Processes with experts from the University of Sheffield and beyond.**
 
-Research IT Support provides [training in a range of research software related areas](https://www.sheffield.ac.uk/it-services/research/training).
+### Training
 
-The Library provides training and support for data management planning.
+* IT Services: Research provides [training in a range of research software related areas](https://www.sheffield.ac.uk/it-services/research/training).
+* The Library’s Scholarly Communications Team provides provides [training and support for data management planning](https://www.sheffield.ac.uk/library/rdm/training).
+* Keen to learn R from the comfort of your home? [Online R training](https://sbc.shef.ac.uk/training/r-introduction-online/) from the Sheffield Bioinformatics Core may be the answer!
 
 ### Opportunities
 
 * Chan Zuckerberg Initiative [Essential Open Source Software for Science, Cycle 3](https://chanzuckerberg.com/rfa/essential-open-source-software-for-science/) August 4 2020 deadline
 * EPSRC [Research Software Engineer (RSE) Fellowships](https://epsrc.ukri.org/funding/calls/pre-announcement-for-research-software-engineer-rse-fellowships/) August 18 2020 deadline
+* [UKRI Coronavirus Hub](https://www.ukri.org/research/coronavirus/) - Collaborations between RSEs and academics can be very productive ways of developing epidemiological models.
 
 ### Web and Blogs
 
-* Keen to learn R from the comfort of your home? [Online training from the Sheffield Bioinformatics Core](https://sbc.shef.ac.uk/training/r-introduction-online/) may be the answer.
 * [RSEs and coronavirus](https://society-rse.org/covid-software-statement/)
 * Blog post from Will Furnass on [securely accessing HPC resources](https://rse.shef.ac.uk/blog/2020-05-20-ssh-best-prac/)
 * Blog post from Bob Turner on [Remote working with git and GitHub](https://rse.shef.ac.uk/blog/2020-03-29-git-github-remote/)
