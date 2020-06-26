@@ -16,6 +16,8 @@
   subitems:
     - title: Overview
       url: /training/
+    - title: Researcher Programming Resources
+      url: /training/programming
     - title: Training Events
       url: /training/events
     - title: Code Clinic

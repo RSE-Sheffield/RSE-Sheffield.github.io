@@ -1,5 +1,5 @@
 ---
-title: Training
+title: Support & Training
 layout: page
 slug: index
 type: text
@@ -11,3 +11,5 @@ We offer and support the delivery of a range of training courses in topics such 
 Check out out complete list of [training events](./events) or find out more about [Software and Data Carpentry](./carpentry).
 
 In the future we aim to run a DDP module on Software Engineering best practice. The design of this module is currently under review for delivery in 2019.
+
+
