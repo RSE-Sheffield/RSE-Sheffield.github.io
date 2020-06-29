@@ -28,7 +28,7 @@ Events and diary dates that might be of interest...
 ### Training
 
 * IT Services: Research provides [training in a range of research software related areas](https://www.sheffield.ac.uk/it-services/research/training).
-* The Library’s Scholarly Communications Team provides provides [training and support for data management planning](https://www.sheffield.ac.uk/library/rdm/training).
+* The Library’s Scholarly Communications Team provides [training and support for data management planning](https://www.sheffield.ac.uk/library/rdm/training).
 * Keen to learn R from the comfort of your home? [Online R training](https://sbc.shef.ac.uk/training/r-introduction-online/) from the Sheffield Bioinformatics Core may be the answer!
 
 ### Opportunities
@@ -39,11 +39,11 @@ Events and diary dates that might be of interest...
 
 ### Web and Blogs
 
-* [RSEs and coronavirus](https://society-rse.org/covid-software-statement/)
-* Blog post from Will Furnass on [securely accessing HPC resources](https://rse.shef.ac.uk/blog/2020-05-20-ssh-best-prac/)
-* Blog post from Bob Turner on [Remote working with git and GitHub](https://rse.shef.ac.uk/blog/2020-03-29-git-github-remote/)
-* Blog post from Rob Chisholm on using [git rebase](ToDo)
-* Online [supercomputing course](https://www.futurelearn.com/courses/supercomputing)
+* Research software has been in the news, but it's not all been positive. Read what the RSE Society has to say about [RSEs and coronavirus](https://society-rse.org/covid-software-statement/).
+* More bad news about hacked supercomputers! Will Furnass will help you [securely access HPC resources](https://rse.shef.ac.uk/blog/2020-05-20-ssh-best-prac/).
+* Bob Turner has been enjoying using [GitHub to remotely collaborate on software projects](https://rse.shef.ac.uk/blog/2020-03-29-git-github-remote/) during lockdown.
+* Rob Chisholm was so "inspired" by Bob's failure to do this well that he wrote a blog post on [git rebase](ToDo)!
+* If you're curious about supercomputers, check out this online [supercomputing course](https://www.futurelearn.com/courses/supercomputing).
 
 ### Sheffield RSE Team Services
 
