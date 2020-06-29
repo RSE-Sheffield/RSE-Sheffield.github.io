@@ -28,8 +28,6 @@
   subitems:
     - title: Overview
       url: /community
-    - title: Seminar Series
-      url: /community/seminars
     - title: Resources and Equipment
       url: /community/resources-and-equipment
     - title: RSE Job Descriptions
