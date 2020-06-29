@@ -13,7 +13,7 @@ This page is a compilation of resources and learning materials that starts with 
 
 ## Learning to program, where to start?
 
-Often the software you use to carry out your research will influence your language choice, but if you’re starting from zero, we’d generally recommend learning to program in Python. 
+Often the software you use to carry out your research will influence your language choice, but if you’re starting from zero, Python is a great choice.
 
 
 ### Python
@@ -31,7 +31,7 @@ Often the software you use to carry out your research will influence your langua
 We’ve compiled a list of resources for learning Python from scratch. 
 
 *   On-line interactive lessons
-    *   [Learn Python website](https://www.learnpython.org/) teaches python concepts from the ground up along with code examples that you can run right from your browser. 
+    *   [Learn Python website](https://www.learnpython.org/) teaches Python concepts from the ground up along with code examples that you can run right from your browser. 
 *   Books
     *   [Automate the boring stuff](https://automatetheboringstuff.com/) teaches Python through a series of practical examples for automating your workflow. The book is available for free on-line.
 *   Code along youtube video courses
@@ -73,11 +73,14 @@ Here’s a demonstration of a notebook which is used to illustrate working throu
 
 No matter what programming language you use, we always recommend using version control systems such as [Git](https://git-scm.com/) in your project. 
 
-With version, control, all changes made to your code are progressively tracked. This means you can always change or delete code with the confidence that you can always revert the changes if necessary. It becomes absolutely essential when collaboratively working on the same code. Additionally, any text file works well with version control systems e.g. latex documents.
+With version control, all changes made to your code are progressively tracked. This means you can always change or delete code with the confidence that you can always revert the changes if necessary. It becomes absolutely essential when collaboratively working on the same code. Additionally, any text file works well with version control systems e.g. latex documents.
 
-With Git, a folder/directory is converted into a `repository` that can track changes of all of its contained files and subdirectories. The repository can then be uploaded and synchronized with on-line services such as [Github](github.com), backing up your work and enabling you to access it from anywhere in the world.
+With Git, a folder/directory is converted into a `repository` that can track changes of all of its contained files and subdirectories. The repository can then be uploaded and synchronized with on-line services such as [Github](github.com), backing up your work and enabling you to access it from anywhere in the world. See our [remote working with github](/blog/2020-03-29-git-github-remote/) guide for more details.
 
-Needing to get help on a particular piece of your code? It's easy to share your on-line repository's access with helpers e.g. [Code Clinic](https://rse.shef.ac.uk/support/code-clinic/).
+
+Needing to get help on a particular piece of your code? It's easy to share your on-line repository's access with helpers e.g. [Code Clinic](/support/code-clinic/).
+
+
 
 
 ### Getting and installing Git
@@ -93,18 +96,19 @@ Download and installation instructions for all platforms can be found at:
 Familiarity with the command-line interface is required as git is a command-line tool.
 
 
-
-*   [https://rogerdudler.github.io/git-guide/](https://rogerdudler.github.io/git-guide/)
-*   [https://www.atlassian.com/git/tutorials](https://www.atlassian.com/git/tutorials)
+*   [Git - the simple guide](https://rogerdudler.github.io/git-guide/), more of a reference than a full tutorial. It quickly goes through the commands used in basic git operations.
+*   [Git tutorial by Atlassian](https://www.atlassian.com/git/tutorials/tutorials/what-is-version-control), a more in-depth guide to git.
+*   [Git immersion](https://gitimmersion.com/index.html), demonstrates the use of git through code along examples and exercises.
 
 
 ### On-line Git repository hosting
 
-The services below offer free hosting for personal repositories and some even offer pro versions for academia.
+The services below offer free hosting for personal repositories and some even offer free pro versions for academia.
 
 
 
 *   [Github](github.com)
+    * [A quick introductory guide to using github.](https://guides.github.com/activities/hello-world/)
 *   [Gitlab](gitlab.com)
 *   [Bitbucket](bitbucket.org)
 
@@ -149,11 +153,11 @@ Access to these clusters are open to all UoS researchers and academics and they�
 
 ### HPC Learning resources
 
-All HPC clusters mentioned above run on Linux operating system which you have to interact with using the command line interface (although for some you can launch a GUI application such as matlab on them). 
+All HPC clusters mentioned above run on Linux operating system. Generally  you have to interact with them using the command line interface (although for some you can launch a GUI application such as matlab though them). 
 
 As you have limited user permissions on these systems, you have to use pre-installed software (using modules) and custom installation of software is normally done through packages such as [conda](https://conda.io) or [spack](https://spack.io/) that allows installation of software and their dependencies to your home directory.
 
-HPC clusters use a job scheduler to make sure everyone has a chance to run their tasks. You write a job script that tells HPC what tasks to run and what computing resources you need and then send it to the scheduler to be added to the queue. The scheduler will then run your job when it’s your turn in the queue and there’s enough resource available on the cluster.
+HPC clusters use a job scheduler to make sure everyone has a chance to run their tasks. You write a job script that tells the HPC what tasks to run and what computing resources you need and then send it to the scheduler to be added to the queue. The scheduler will then run your job when it’s your turn in the queue and there’s enough resource available on the cluster.
 
 
 
