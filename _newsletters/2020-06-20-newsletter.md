@@ -43,7 +43,7 @@ Events and diary dates that might be of interest...
 * Research software has been in the news, but it's not all been positive. Read what the RSE Society has to say about [RSEs and coronavirus](https://society-rse.org/covid-software-statement/).
 * More bad news about hacked supercomputers! Will Furnass will help you [securely access HPC resources](https://rse.shef.ac.uk/blog/2020-05-20-ssh-best-prac/).
 * Bob Turner has been enjoying using [GitHub to remotely collaborate on software projects](https://rse.shef.ac.uk/blog/2020-03-29-git-github-remote/) during lockdown.
-* Rob Chisholm was so "inspired" by Bob's failure to do this well that he wrote a blog post on [git rebase](ToDo)!
+* Rob Chisholm was so "inspired" by Bob's failure to do this well that he wrote a blog post on [git rebase](https://rse.shef.ac.uk/blog/2020-06-23-git-rebase-vs-merge/)!
 * If you're curious about supercomputers, check out this online [supercomputing course](https://www.futurelearn.com/courses/supercomputing).
 
 ### Sheffield RSE Team Services
