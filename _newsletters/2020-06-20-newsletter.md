@@ -30,7 +30,7 @@ Events and diary dates that might be of interest...
 * IT Services: Research provides [training in a range of research software related areas](https://www.sheffield.ac.uk/it-services/research/training).
 * The Library’s Scholarly Communications Team provides [training and support for data management planning](https://www.sheffield.ac.uk/library/rdm/training).
 * Keen to learn R from the comfort of your home? [Online R training](https://sbc.shef.ac.uk/training/r-introduction-online/) from the Sheffield Bioinformatics Core may be the answer!
-* Twin Karmakharm from the RSE team has put together a [list of online training resources](../training/programming), mainly around **Python** and **git**.
+* Twin Karmakharm from the RSE team has put together a [list of online training resources](https://rse.shef.ac.uk/training/programming), mainly around **Python** and **git**.
 
 ### Opportunities
 
