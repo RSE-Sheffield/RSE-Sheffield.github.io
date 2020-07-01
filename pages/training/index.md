@@ -6,7 +6,7 @@ type: text
 permalink: /training/
 ---
 
-We offer a limited "free at the point of use" support service:
+We offer a "free at the point of use" support service:
 [code clinics](../support/code-clinic.md) which allow researchers to spend time with RSEs working on problems.
 More general software support within the University of Sheffield is provided by [IT Services][its],
 who also offer a range of [free training courses][its-courses].
