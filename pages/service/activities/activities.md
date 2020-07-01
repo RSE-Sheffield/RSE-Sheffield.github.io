@@ -100,7 +100,7 @@ Intel, NVIDIA, Maplesoft and NAG to provide training and support to
 members of the University to help maximise the impact of these
 investments.
 
-# Training, outreach and education
+## Training, outreach and education
 
 The group is involved in a range of training and outreach activities
 including Code Cafe, Software Carpentry and a full module in [Parallel

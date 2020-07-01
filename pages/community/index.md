@@ -7,9 +7,6 @@ type: text
 
 The RSE group supports research software developers (any researcher who develops software) and research software engineers
 across the university through our community activities.
-We run regular social events and seminars
-as well as providing training code help.
-Many of these activities are completely free.
 The best way to keep updated on these is to 
 join [**RSE Sheffield's Announcements Google Group**](https://groups.google.com/a/sheffield.ac.uk/forum/#!forum/rse-group):
 
