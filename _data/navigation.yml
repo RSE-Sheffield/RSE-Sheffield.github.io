@@ -1,7 +1,3 @@
-- title: Blog
-  url: /blog/
-- title: Events
-  url: /events/
 - title: RSE Service
   subitems:
     - title: RSE Service Overview
@@ -32,8 +28,12 @@
       url: /community/resources-and-equipment
     - title: RSE Job Descriptions
       url: /community/job-descriptions
-- title: Newsletter
-  url: /newsletters/
+    - title: Events
+      url: /events/
+    - title: Newsletter
+      url: /newsletters/
+    - title: Blog
+      url: /blog/
 - title: Contact
   subitems:
     - title: Contact us
