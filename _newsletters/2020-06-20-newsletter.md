@@ -19,6 +19,7 @@ Welcome to our new newsletter! The Research Software Engineering Team are passio
 
 Events and diary dates that might be of interest...
 
+* RSE Society [webinar](https://forms.gle/PMBZ3n9bzmDG7j318 ) on the new [EPSRC RSE Fellowships call](https://epsrc.ukri.org/funding/calls/research-software-engineer-fellowships-2020/). July 7th 2020
 * [Women in Machine Learning Un-Workshop](https://wimlworkshop.org/icml2020/cfp/) July 13th 2020 - **From Fariba Yousefi ([Machine Learning Group](https://www.sheffield.ac.uk/dcs/research/groups/machine-learning)): Please join us at WiML un-workshop at ICML 2020. We will have a full day of great invited speakers and break out sessions to maximize interaction between participants. Please fill in the [form](https://docs.google.com/forms/d/e/1FAIpQLSeufB3shV56OcphF7awadd8XcUTjXVUxFBktSM2kIGc_4LWrw/viewform) and check our [website](https://wimlworkshop.org/icml2020/) for more details. To attend the un-workshop, you need to register for [ICML](https://icml.cc/).**
 * [FLAME GPU tutorial at ALIFE](https://na.eventscloud.com/ereg/index.php?eventid=493515&) July 13 2020 to July 18 2020
 * [Sheffield GPU Hackathon](https://www.gpuhackathons.org/event/sheffield-gpu-hackathon) July 20 2020 to July 29 2020 - **Sponsored by NVIDIA, teams from industry and academia work together to accelerate software using GPUs. Sorry - applications for this are now closed.**
