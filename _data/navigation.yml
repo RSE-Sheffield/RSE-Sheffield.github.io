@@ -32,6 +32,8 @@
       url: /community/resources-and-equipment
     - title: RSE Job Descriptions
       url: /community/job-descriptions
+- title: Newsletter
+  url: /newsletters/
 - title: Contact
   subitems:
     - title: Contact us
