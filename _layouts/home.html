@@ -51,7 +51,15 @@ layout: default
     <div class="container">
         <br/>
         <div class="row">
-            <div class="col-md-4">
+            <div class="col-md-6">
+                <h2><a href="/newsletters/">Newsletters</a></h2>
+                <br/>
+                {% include newsletters_latest.html %}
+                <p>
+                    <a href="/newsletters/">Previous newsletters >></a>
+                </p>
+                <hr />
+
                 <h2><a href="/blog/">Blog</a></h2>
                 <br/>
                 {% include post_list_prev10.html %}
@@ -62,7 +70,7 @@ layout: default
 
             </div>
 
-            <div class="col-md-4">
+            <div class="col-md-6">
                 <h2><a href="/events/">Upcoming Events</a></h2>
                 <br/>
                 {% include events_list_upcoming.html %}
@@ -70,12 +78,6 @@ layout: default
                 <p>
                     <a href="/events/">All of our upcoming and previous events >></a>
                 </p>
-            </div>
-
-            <div class="col-md-4">
-                <h2><a href="/newsletters/">Newsletters</a></h2>
-                <br/>
-                {% include newsletters_list.html %}
             </div>
 
         </div>

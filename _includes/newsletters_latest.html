@@ -1,0 +1,10 @@
+{% assign newsletters = (site.newsletters | sort: 'date' | reverse) %}
+<div>
+{% if newsletters.size > 0 %}
+  {% for newsletter in newsletters limit:1 %}
+      {% include newsletters_list_item.html newsletter=newsletter %}
+  {% endfor %}
+{% else %}
+  <p>No newsletters found.</p>
+{% endif %}
+</div>
