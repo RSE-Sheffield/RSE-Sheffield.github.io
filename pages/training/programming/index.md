@@ -10,6 +10,8 @@ A certain amount of technical ability is required as a modern researcher. From r
 
 This page is a compilation of resources and learning materials that starts with learning to program from scratch to using the University’s High Performance Computing (HPC) clusters.
 
+* Do not remove this line (it will not be displayed)
+{:toc}
 
 ## Learning to program, where to start?
 
@@ -41,12 +43,9 @@ We’ve compiled a list of resources for learning Python from scratch.
     *   [Code Academy](https://www.codecademy.com/learn/learn-python-3)
 
 
-
 #### Python editors and IDEs
 
 Integrated Development Environments (IDEs) are text editors designed for writing code. They generally feature syntax highlighting, offer code suggestions and code debugging, allowing you to pause your program and examine it when checking for errors.
-
-
 
 *   [Visual studio code](https://code.visualstudio.com/) - Open source, available on all platforms
 *   [PyCharm](https://www.jetbrains.com/pycharm/) - Free for academia, available on all platforms
@@ -67,9 +66,10 @@ There are Python IDEs with data science focus such as [Rodeo](https://rodeo.yhat
 
 Here’s a demonstration of a notebook which is used to illustrate working through a machine learning exercise:  [https://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/ml/ML-Exercise1.ipynb](https://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/ml/ML-Exercise1.ipynb)
 
+---
+
 <a id="git"></a>
 ## Version control your code with **Git**
-
 
 No matter what programming language you use, we always recommend using version control systems such as [Git](https://git-scm.com/) in your project. 
 
@@ -81,12 +81,9 @@ With Git, a folder/directory is converted into a `repository` that can track cha
 Needing to get help on a particular piece of your code? It's easy to share your on-line repository's access with helpers e.g. [Code Clinic](/support/code-clinic/).
 
 
-
-
 ### Getting and installing Git
 
 Download and installation instructions for all platforms can be found at:
-
 
 *   [https://git-scm.com/downloads](https://git-scm.com/downloads)
 
@@ -94,7 +91,6 @@ Download and installation instructions for all platforms can be found at:
 ### Learning to use Git
 
 Familiarity with the command-line interface is required as git is a command-line tool.
-
 
 *   [Git - the simple guide](https://rogerdudler.github.io/git-guide/), more of a reference than a full tutorial. It quickly goes through the commands used in basic git operations.
 *   [Git tutorial by Atlassian](https://www.atlassian.com/git/tutorials/tutorials/what-is-version-control), a more in-depth guide to git.
@@ -104,8 +100,6 @@ Familiarity with the command-line interface is required as git is a command-line
 ### On-line Git repository hosting
 
 The services below offer free hosting for personal repositories and some even offer free pro versions for academia.
-
-
 
 *   [Github](github.com)
     * [A quick introductory guide to using github.](https://guides.github.com/activities/hello-world/)
@@ -122,6 +116,7 @@ GUI tools can really help with routine Git operations and especially when trying
 *   [Gitkraken](https://www.gitkraken.com/) (Windows, Mac, Linux)
 *   [SourceTree](https://www.sourcetreeapp.com/) (Windows, Mac)
 
+---
 
 ## Use HPC for large computing tasks
 
@@ -133,8 +128,6 @@ A HPC cluster essentially consists of a number of computers connected through a 
 ### HPC clusters available through the University of Sheffield
 
 Access to these clusters are open to all UoS researchers and academics and they’re free at the point-of-use.
-
-
 
 *   University of Sheffield hosted HPC
     *   Single account provides access to all three clusters, contact [it-servicedesk@sheffield.ac.uk](mailto:it-servicedesk@sheffield.ac.uk) for access.
@@ -159,14 +152,7 @@ As you have limited user permissions on these systems, you have to use pre-insta
 
 HPC clusters use a job scheduler to make sure everyone has a chance to run their tasks. You write a job script that tells the HPC what tasks to run and what computing resources you need and then send it to the scheduler to be added to the queue. The scheduler will then run your job when it’s your turn in the queue and there’s enough resource available on the cluster.
 
-
-
 *   General HPC
     *   HPC Carpentry series [https://hpc-carpentry.github.io/](https://hpc-carpentry.github.io/)
 *   Linux and the command line
     *   Ubuntu’s terminal tutorial [https://ubuntu.com/tutorials/command-line-for-beginners#1-overview](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
-
-
-
-
-
