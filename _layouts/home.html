@@ -52,6 +52,14 @@ layout: default
         <br/>
         <div class="row">
             <div class="col-md-6">
+                <h2><a href="/newsletters/">Newsletters</a></h2>
+                <br/>
+                {% include newsletters_latest.html %}
+                <p>
+                    <a href="/newsletters/">Previous newsletters >></a>
+                </p>
+                <hr />
+
                 <h2><a href="/blog/">Blog</a></h2>
                 <br/>
                 {% include post_list_prev10.html %}
@@ -71,7 +79,6 @@ layout: default
                     <a href="/events/">All of our upcoming and previous events >></a>
                 </p>
             </div>
-
 
         </div>
     </div>
