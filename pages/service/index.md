@@ -30,7 +30,12 @@ Outside of the free activities which we organise, the RSE service is a paid serv
 
 ### RSE Service charge
 
-If you require paid RSE support which cannot be budgeted into a research grant, we provide an different mechanism for buying RSE support. In this case we charge an internal RSE service day rate of £313 for internal grants and £580+VAT for external partners and industry (rates valid for 2019-2020 Financial Year). The service rate is based off an average cost of an RSE in our group and has a 10% faculty administration cost.
+If you require paid RSE support which cannot be budgeted into a research grant, we provide an different mechanism for buying RSE support.
+In this case we charge 
+an internal RSE service day rate of £324 (2020/2021 rate) for internal grants and 
+£585+VAT (2020/2021 rate) for external partners and industry.
+The service rate is based on an average cost of an RSE in our group
+and has a 10% faculty administration cost.
 
 ### Collaborative Research Software Development
 
