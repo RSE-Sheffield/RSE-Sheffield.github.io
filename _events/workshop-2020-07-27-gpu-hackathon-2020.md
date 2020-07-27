@@ -3,7 +3,7 @@ title: GPU Hackathon 2020
 category: workshop
 tags: GPUs
 permalink: /training/workshop/2020-07-27-gpu-hackathon-2020
-date: 2020-07-29
+date: 2020-07-27
 from: "09:00"
 to: "17:00"
 location: "Online"
