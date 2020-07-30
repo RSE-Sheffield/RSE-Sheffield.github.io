@@ -142,7 +142,7 @@ export SINGULARITYENV_POSTGRES_DB="$PGDB"
 # Require a password for TCP PostgreSQL connections (inc from localhost)
 export SINGULARITYENV_POSTGRES_HOST_AUTH_METHOD=md5
 export SINGULARITYENV_POSTGRES_INITDB_ARGS='--auth-host=md5'
-export SINULARITYENV_PGPORT="$PGPORT"
+export SINGULARITYENV_PGPORT="$PGPORT"
 # The following three lines are required if using this Docker image
 export SINGULARITYENV_LANG=en_US.UTF-8
 export SINGULARITYENV_LC_ALL=en_US.UTF-8
