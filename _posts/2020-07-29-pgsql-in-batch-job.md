@@ -208,16 +208,20 @@ When running all of the above as a batch job, MATLAB and Singularity plus the Po
 if the job runs out of execution time or exceeds memory limits then it will rightfully be terminated, which is what the HPC system administrator would want.
 
 **For Singularity geeks**: those familiar with Singularity know it's supposedly possible to run containers as background processes.
-The use of [`singularity instance`](https://sylabs.io/guides/3.0/user-guide/running_services.html)
+The use of [`singularity instance`][singularity-instance] or [singularity-compose][singularity-compose]
 could have simplified the above shell script but
-I couldn't get it to work
-(the containerised service would always exit prematurely without creating any useful log info).
+I couldn't get either to work
+(with `singularity instance` the containerised service would always exit prematurely without creating any useful log info).
+
 
 [gridengine]: https://arc.liv.ac.uk/trac/SGE
-[postgresql]: https://www.postgresql.org/
-[singularity]: https://sylabs.io/singularity/
-[slurm]: https://slurm.schedmd.com/
-[uos-hpc]: https://docs.hpc.shef.ac.uk/en/latest/
-[sqlite]: https://www.sqlite.org/index.html
 [ml-jdbc]: https://uk.mathworks.com/products/database/driver-installation.html
 [pg-stored-proc]: https://www.postgresql.org/docs/12/xplang.html
+[postgresql]: https://www.postgresql.org/
+[singularity-compose]: https://singularityhub.github.io/singularity-compose/#/
+[singularity-instance]: https://sylabs.io/guides/3.0/user-guide/running_services.html
+[singularity]: https://sylabs.io/singularity/
+[slurm]: https://slurm.schedmd.com/
+[sqlite]: https://www.sqlite.org/index.html
+[uos-hpc]: https://docs.hpc.shef.ac.uk/en/latest/
+
