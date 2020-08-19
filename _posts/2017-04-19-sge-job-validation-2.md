@@ -10,7 +10,7 @@ description:
 type: text
 ---
 
-In [a previous post](link://slug/sge-job-validation), 
+In [a previous post]({% post_url 2017-03-20-sge-job-validation %}), 
 I noted that if you're not sure if a Sun Grid Engine (SGE) job can ever run on an [HPC cluster](https://en.wikipedia.org/wiki/Supercomputer)
 you can perform 'dry-run' job validation:
 by passing `-w v` as arguments to `qrsh`/`qrshx`/`qsh`/`qalter` you can ask the SGE scheduler software 
