@@ -9,10 +9,14 @@ role: Research Software Engineer
 
 ---
 
-David has a background as a researcher using methods from physics and engineering to tackle research questions in Animal Sensory Biology. Following a Physics degree at the University of Bath with a placement year at Rutherford Appleton Laboratory, he began a PhD in the Bristol Centre for Functional Nanomaterials, taking this to the Schools of Biological Sciences and Physics, completing with a thesis on the optics of the avian retina using a range of numerical simulation techniques. Following this, David undertook postdoctoral research at the University of Bristol and Lund University, tackling a wide variety of projects in animal vision, most recently in developing automated analyses of large microCT scans of the eyes of bumblebees and hoverflies.
+Following a PhD in Physics & Biology at the University of Bristol employing HPC-based optical simulation techniques and postdoctoral research at Bristol and Lund Universities in behavioural experimentation and ray tracing simulation in sensory biology, David made the transition to research software engineering in 2019. He is experienced in Python and MATLAB, with developing interest also in the languages R and Go.
 
-In the RSE team, David's role is to undertake work in developing the impact of software built at the University of Sheffield.
+David's interests in research software relate to: impact enhancement, reproducibility and sustainability, best practice and environmental and social responsibility.
+
+He has been involved with projects in: python packaging, web dashboards for data visualisation, service containerisation, API development and data visualisation.
+
+Other technologies that David has worked with are: Django, TensorFlow, Docker, Jupyter notebooks, Javascript & Google App Script.
 
 * Email: d.wilby (at) sheffield.ac.uk
 * Twitter: [@DrDavidWilby](https://twitter.com/drdavidwilby)
-* [Google Scholar](http://bit.ly/wilbyScholar)
+* Web: [davidwilby.github.io/](https://davidwilby.github.io/)
