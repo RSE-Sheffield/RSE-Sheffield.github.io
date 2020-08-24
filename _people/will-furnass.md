@@ -8,16 +8,19 @@ surname: Furnass
 role: Research Software Engineer
 
 ---
-Will is a Research Software Engineer who is curently working on:
+Will is a Research Software Engineer who is currently:
 
-  - Workflows and data management for the [Sheffield Biomedical Research Centre](http://sheffieldbrc.nihr.ac.uk/)
-  - Research computing strategy and support for the [Insigneo Institute for in silico Medicine](https://insigneo.org/)
-  - Software development and code optimisation for [Out Of Our Minds](http://outofourminds.shef.ac.uk/),
-    a Leverhume Trust-funded project to "develop new, accurate ways of describing speakers’ linguistic knowledge, by
-    using machine-learning techniques that mimic the way in which humans learn".
+  - Helping Paul Richmond lead the RSE team
+  - Contributing to the development and maintenance of University research computing platforms (inc. HPC)
 
 Previous projects:
 
+  - Packaging, test infrastructure, releases and documentation for the [MuMoT multi-scale modelling tool](https://mumot.readthedocs.io/en/stable/).
+  - Workflows and data management for the [Sheffield Biomedical Research Centre](http://sheffieldbrc.nihr.ac.uk/).
+  - Research computing strategy and support for the [INSIGNEO Institute for in silico Medicine](https://insigneo.org/).
+  - Software development and code optimisation for [Out Of Our Minds](http://outofourminds.shef.ac.uk/),
+    a Leverhume Trust-funded project to "develop new, accurate ways of describing speakers’ linguistic knowledge, by
+    using machine-learning techniques that mimic the way in which humans learn".
   - A [JupyterHub service for the University's ShARC HPC system](https://docs.hpc.shef.ac.uk/en/latest/hpc/jupyterhub.html),
     plus training materials that can be delivered using that service
     (the materials relate to [multithreading/multiprocessing using Python](https://github.com/RSE-Sheffield/hi-perf-ipynb).
