@@ -22,6 +22,8 @@
   subitems:
     - title: Overview
       url: /community
+    - title: Lunch Bytes talks
+      url: /community/lunch-bytes
     - title: Seminar Series
       url: /community/seminars
     - title: Resources and Equipment
