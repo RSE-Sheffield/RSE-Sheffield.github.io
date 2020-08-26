@@ -8,13 +8,13 @@ type: text
 **A monthly series of short talks from the research community on research software, data and infrastructure.**
 
 The University has many talks/seminar series centered around research domains
-but far fewer on the tools and methods that of value across research domains.
+but far fewer on the tools and methods that are of value across research domains.
 
-In this new monthly series of short talks those in the research community at TUOS who 
+This is a new monthly series of short talks for those in the research community at TUOS who 
 work with/write code, 
 use/manage research data and 
 use/manage research infrastructure
-can get together to discuss best practices and useful methods/tools.
+We hope through these talks we as a come together as a community to discuss best practices and useful methods/tools.
 
 For those familiar with the [RSE seminar series](/community/seminars/), LunchBytes has replaced it but is different in flavour: 
 each session features several related short talks on a theme (each being ~10 mins) rather than one longer talk.
