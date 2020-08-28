@@ -15,7 +15,7 @@ type: text
 
 This is the 3rd monthly newsletter from the Research Software Engineering Team at Sheffield. We aim to share our experiences and information of other communities for those using software for research.
 This newsletter is a collection of interesting events and opportunities over the coming month. It also includes signposting to other resources that we have found beneficial or interesting.
-You may find the content within interest if you are a Research Technology Professional: someone in research using software, such as researchers, research developers, or people paid to develop software like Research Software Engineers (RSEs).
+You may find the content within interest if you are someone in research using software: such as researchers, research developers, or people paid to develop software like Research Software Engineers (RSEs).
 
 To receive this newsletter as an email each month, please sign up to our [Google Group](https://groups.google.com/a/sheffield.ac.uk/forum/#!forum/rse-group).
 
@@ -30,7 +30,7 @@ To receive this newsletter as an email each month, please sign up to our [Google
 	* [I Wanna Dance With Somebody](https://sorse.github.io/programme/talks/event-001/) - 14:10 2nd September 
 	* [UXF - Framework for creating Virtual Reality human behavior experiments in Unity](https://sorse.github.io/programme/talks/event-012/) - 20:00 22nd September 
 	* [Towards Knowledge Graphs of Research Software metadata](https://sorse.github.io/programme/talks/event-010/) - 20:30 22nd September
-* [The Annual General Meeting of the Society of Research Software Engineering](https://society-rse.org/events/agm-2020/) - 14:00 7th September 
+* [The Annual General Meeting of the Society of Research Software Engineering](https://society-rse.org/events/agm-2020/). Learn about what the society has been up to, as well as their aims and directions, and join in the trustee elections - 14:00 7th September 
 
 
 #### Lunchbytes
@@ -57,12 +57,12 @@ The following Lunchbytes is scheduled for October. It will be lead by our own Da
 * [Innovation Scholars: Data Science Training in Health & Bioscience](https://esrc.ukri.org/funding/funding-opportunities/innovation-scholars-data-science-training-in-health-bioscience/) - 30th September
 * [EPSRC Doctoral Prize Fellowship 2020](https://www.sheffield.ac.uk/rs/scholarships/calls) - 22nd October
 * [N8 CIR RSE Theme Lead Job](https://n8cir.org.uk/news/n8-cir-are-recruiting/) - 11th September
-
+* [The CIUK Cluster Challenge](https://www.scd.stfc.ac.uk/Pages/CIUK2020.aspx). Undergraduate and graduate students participate in numerous mini challenges leading up to the CIUK conference. Winners secure a place at the ISC Cluster Challenge in Germany next year-30th September
+* [NVIDIA Graduate Fellowship Awards](https://www.nvidia.com/en-us/research/graduate-fellowships/). For students in GPU-based research who have completed the 1st year of Ph.D. - 11th September
 
 ### Web and Blogs
-* Pauls Richmond has made a society trustee report (link?)
-* Twin has done something with TPUs.
-* [Mike Croucher compares the performance to cost of Amazon HPC processor architectures](https://www.nag.com/blog/sunny-weather-forecast-arms-cost-solution-cloud-hpc)
+* Pauls Richmond has been preparing for the RSE Society AGM with a [trustee report](http://bit.ly/socrse-report-2020)
+* Mike Croucher compares the [performance to cost of Amazon HPC processor architectures](https://www.nag.com/blog/sunny-weather-forecast-arms-cost-solution-cloud-hpc)
 
 ### Training Resources
 
@@ -70,6 +70,13 @@ The following Lunchbytes is scheduled for October. It will be lead by our own Da
 * The Library’s Scholarly Communications Team provides [training and support for data management planning](https://www.sheffield.ac.uk/library/rdm/training).
 * Keen to learn R from the comfort of your home? [Online R training](https://sbc.shef.ac.uk/training/r-introduction-online/) from the Sheffield Bioinformatics Core may be the answer!
 * Twin Karmakharm from the RSE team has put together a [list of online training resources](https://rse.shef.ac.uk/training/programming), mainly around **Python** and **git**.
+* Staff and Students at the University of Sheffield have free access to [FutureLearn if they register by October](https://www.futurelearn.com/campus/the-university-of-sheffield). Futurelearn contains a collection short online courses. Of particular usefulness are 5 courses provided by [PRACE](https://prace-ri.eu/):
+	* Defensive Programming and Debugging
+	* Managing Big Data with R and Hadoop
+	* Python in High Performance Computing
+	* Supercomputing
+	* MPI: A Short Introduction to One-sided Communication
+
 
 If you think there are other great training resources we should advertise, please get in [contact](rse-team-group@sheffield.ac.uk).
 
