@@ -21,6 +21,8 @@ Each will be ~10 minutes, leaving half an hour for discussion/questions.
 
 [Google JamBoard for Q&A](https://jamboard.google.com/d/1AHQInvcGk5es3Tmk8--o9Rztt-L2AbNeYfhuo_-NL6s/): note down questions/comments (using JamBoard Sticky Notes) before/during the event.  
 
+* [Intro/Outro slides](https://rse.shef.ac.uk/lunch-bytes-intro1/)
+
 ## Type hinting in Python
 
 *Joe Heffer, Research Data Engineer, IT Services*
@@ -30,14 +32,16 @@ Make your Python code more readable, for yourself and your collaborators,
 reduce risk of incorrect inputs and increase your IDE productivity by
 annotating your functions with type hints.
 
+* [Google Slides](https://docs.google.com/presentation/d/1mFgQOG4zIZJW-Kl-STi8VnbekVgxzNF_JSO-UOzjHnU/edit?usp=sharing)
+
 ## A Practical Introduction to pytest
 
 *David Jones, Research Software Engineer, RSE team*
 
 You can test your Python code with pytest, one of the leading systems for testing Python code.
-Here I will gently introduce you to pytest with practical examples. As pytest themselves put it:
+Here I will gently introduce you to pytest with practical examples. As pytest themselves put it pytest "helps you write better programs".
 
-    pytest: helps you write better programs
+* [Slides](https://github.com/RSE-Sheffield/2020-09-talk-pytest)
 
 ## Avoiding 'side effects': writing functions that are easier to test
 
@@ -50,3 +54,5 @@ By creating functions that only return useful values and don't perform side effe
 Here we discuss why, when and when not to write functions without side effects.  
 This talk should be of interest to those who write Python code and code in other languages.
 
+* [Slides](https://willfurnass.github.io/avoiding-side-effects/#1)
+* [Source for slides](https://github.com/willfurnass/avoiding-side-effects)
