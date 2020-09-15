@@ -4,7 +4,7 @@ date: 2020-10-07
 published: True
 from: "12:00"
 to: "13:00"
-location: "Blackboard Collaborate"
+location: "Google meet"
 speaker: "Fedor Gorokhovik, and others"
 institute: "University of Sheffield"
 title: "Lunch bytes #2: Notebooks - pros and cons"
