@@ -21,6 +21,7 @@ Each will be ~10 minutes, leaving half an hour for discussion/questions.
 
 [Google JamBoard for Q&A](https://jamboard.google.com/d/1AHQInvcGk5es3Tmk8--o9Rztt-L2AbNeYfhuo_-NL6s/): note down questions/comments (using JamBoard Sticky Notes) before/during the event.  
 
+* [Video recording](https://digitalmedia.sheffield.ac.uk/media/1_muuuuhoj) of the session.
 * [Intro/Outro slides](https://rse.shef.ac.uk/lunch-bytes-intro1/)
 
 ## Type hinting in Python
