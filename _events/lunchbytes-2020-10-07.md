@@ -19,14 +19,14 @@ At this LunchBytes event we'll be exploring computational notebooks and their pr
 Each will be ~10 minutes, leaving half an hour for discussion/questions.
 
 ### Joining instructions
-This lunchBytes session will be run at the following [Google meet](https://meet.google.com/anf-oxok-xsp) (https://meet.google.com/anf-oxok-xsp) which is open to members of the University of Sheffield. If you would like to attend and do not have a Sheffield account, please contact the organiser by email at *d.wilby [at] sheffield.ac.uk*.
+This lunchBytes session will be run at the following <a href="https://meet.google.com/anf-oxok-xsp" target="_blank">Google meet</a> (https://meet.google.com/anf-oxok-xsp) which is open to members of the University of Sheffield. If you would like to attend and do not have a Sheffield account, please contact the organisers by email at [lunchbytes-organisers-group@sheffield.ac.uk](mailto:lunchbytes-organisers-group@sheffield.ac.uk).
 
 [Google JamBoard for Q&A](https://jamboard.google.com/d/1TLW-_5tfMt0oBYYyW9WalqGlA4WGRQU59Eq3OLi8KuU): note down questions/comments (using JamBoard Sticky Notes) before/during the event.  
 
 ### Talks
 #### (Mis)uses of notebooks as production tools in the financial industry
 
-*Fedor Gorokhovik, Man group*
+*Fedor Gorokhovik, <a href="https://www.man.com" target="_blank">Man group</a>*
 
 
 __More speakers TBC__
