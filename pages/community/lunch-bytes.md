@@ -10,13 +10,13 @@ type: text
 The University has many talks/seminar series centered around research domains
 but far fewer on the tools and methods that are of value across research domains.
 
-This is a new monthly series of short talks for those in the research community at TUOS who 
-work with/write code, 
-use/manage research data and 
-use/manage research infrastructure
-We hope through these talks we as a come together as a community to discuss best practices and useful methods/tools.
+This is a new monthly series of short talks for those in the research community at TUOS who
+work with/write code,
+use/manage research data and
+use/manage research infrastructure.
+We hope through these talks we will come together as a community to discuss best practices and useful methods/tools.
 
-For those familiar with the [RSE seminar series](/community/seminars/), LunchBytes has replaced it but is different in flavour: 
+For those familiar with the [RSE seminar series](/community/seminars/), LunchBytes has replaced it but is different in flavour:
 each session features several related short talks on a theme (each being ~10 mins) rather than one longer talk.
 
 ## Notifications about future events
@@ -43,4 +43,3 @@ Please add requests/offers of LunchBytes talks to [this JamBoard](https://jamboa
 
 <!-- List of upcoming and past Lunchbytes sessions -->
 {% include events_list.html category="lunchbytes" %}
-
