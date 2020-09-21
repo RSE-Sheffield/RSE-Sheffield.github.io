@@ -29,9 +29,11 @@ The focus of this initial session will be on using GitHub to explore and contrib
 **Location**
 Whilst we'll be using the University of Sheffield's Blackboard Collaborate platform to host the events, they're open for anyone in Sheffield to come along and participate. [**Please register your interest using this Google Form**](https://forms.gle/hkJtLUTgrNamANF86) and we'll send you the link to the meetups.
 
-
 **Future sessions**
 Each Tuesday for the rest of October we'll be hosting online meetups for you to contribute to more projects and earn your pull requests. See the [RSE events page](/events) for details.
+
+**Google chat**
+We will also have a google chat room open for the duration of Hacktoberfest for participants to chat about projects and get support from their fellow hackers. [**Please register your interest using this Google Form**](https://forms.gle/hkJtLUTgrNamANF86) and we'll send you the link to chat room and weekly meetups.
 
 <p align="center">
 <img src="/assets/images/hacktoberfest_2020_image.png" alt="Hacktoberfest 2020 logo" />
