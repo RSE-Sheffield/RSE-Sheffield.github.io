@@ -9,7 +9,7 @@ category:
 link:
 description:
 type: text
-excerpt_separator: <!--more-->
+image: /assets/images/cluster-diag-plain.svg
 ---
 
 Two challenges PhD students encounter are: 
@@ -38,4 +38,7 @@ The talk covered:
  - Local community resources (e.g. mailing lists, talks, workshops)
  - Info about the RSE team.
 
-[The slides](https://rse.shef.ac.uk/rse-dcs-pres-on-hpc/#1) include lots of detail I didn't cover 'in person' but told the students they could explore if interested/a need arises.
+[**The slides**](https://rse.shef.ac.uk/rse-dcs-pres-on-hpc/#1) include lots of detail I didn't cover 'in person' but told the students they could explore if interested/a need arises.
+
+<img src="/assets/images/cluster-diag-plain.svg" alt="Diagram of an example HPC system" style="display: block; margin-left: auto; margin-right: auto; width: 400px;" />
+
