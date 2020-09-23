@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Open Source"
+title: "Open Source and Hacktoberfest"
 author: Robert (Bob) Turner
 slug: 2020-09-21-open-source
 date: 2020-09-21 12:00:00 UTC
@@ -12,7 +12,7 @@ type: text
 excerpt_separator: <!--more-->
 ---
 
-This is going to be my personal perspective on open source, and hopefully encouragement for you to get involved with Hacktoberfest, a month-long event encouraging participation and coding, which the RSE Team at the University of Sheffield are supporting. I hope to introduce some of the legal, technical, economic and academic aspects of open source – providing context for experts and a gateway for the newly interested. *Note: I have no legal training, consult someone who does if you need to!*. But, my perspective, so we’re going back to when I was first exposed to open source, back around the millennium…
+This is going to be my personal perspective on open source, and hopefully encouragement for you to get involved with [Hacktoberfest](https://hacktoberfest.digitalocean.com/), a month-long event encouraging participation and coding, which the RSE Team at the University of Sheffield are supporting. I hope to introduce some of the legal, technical, economic and academic aspects of open source – providing context for experts and a gateway for the newly interested. *Note: I have no legal training, consult someone who does if you need to!*. But, my perspective, so we’re going back to when I was first exposed to open source, back around the millennium…
 
 <!--more-->
 
@@ -39,12 +39,25 @@ So what do you do if you have a monopoly on some software and some undermines th
 
 ## So who won?
 
-You did. Software businesses, large and small, are still a huge part of everyone's lives. However, there is now something of a symbiosis between closed and open, commercial and free. The perspective of a software entrepreneur I spoke to was that open source gives developers all of the core stuff they need (e.g. menu bars, web servers, programming languages) to operate and innovate without a requirement to reinvent the wheel. I get this perspective - it explains a lot of the pro-open source behaviour of big companies.
+Everyone kind of got together and hugged. Sort of.
 
-In research, open source software means that we often get great software pretty much for free and we can fully articulate the steps we take in coming to our conclusions, rendering our research open and reproducible. I was once told by a closed-source software vendor that specifying the version of their product used to process my images was sufficient to make my paper open and reproducible in this regard. Rubbish. We need to be able to point to the source code.
+Software businesses, large and small, are still a huge part of everyone's lives. However, there is now something of a symbiosis between closed and open, commercial and free. The perspective of a software entrepreneur I spoke to was that open source gives developers all of the core stuff they need (e.g. menu bars, web servers, programming languages) to operate and innovate without a requirement to reinvent the wheel. I get this perspective - it explains a lot of the pro-open source behaviour of big companies.
+
+In research, open source software means that we often get great software pretty much for free and we can fully articulate the steps we take in coming to our conclusions, rendering our research open and reproducible. I was once told by a closed-source software vendor that specifying the version of their product used to process my images was sufficient to make my paper open and reproducible in this regard. Rubbish. We need to be able to point to the source code (and data), and publishers and funders are increasingly demanding this.
 
 ## What next?
 
-[Hacktoberfest is nearly upon us](events/hacktoberfest)! The open source software you rely on, relies on contributions from volunteers, like you (and sometimes also state and corporate funding!). Hacktoberfest is a chance to get involved with contributing to open source. If you're new to this then it should offer support, if your a gnarly veteran developer, it should create time for you to work on projects that matter. And for all to get a [free T-shirt](https://hacktoberfest.digitalocean.com/). If you run an open source project, it's an opportunity to get some input to help.
+So while this is great, in principle, **these benefits need to be available to more than just the open source in-crowd**. Opening up research software and data can be daunting and time consuming, it requires skills we might not have. I did not do always do an exemplary job of this in my research career! Research Software Engineering seeks to assist with this, as best we can. Events like [Hackotberfest](../../training/workshop/2020-10-06-hacktoberfest-2020/) and [ReproHacks](https://n8cir.org.uk/news/reprohacks/) are ways we hope we can do this.
 
-*The Hacktoberfest events run by the Research Software Engineering team at the University of Sheffield start with an [introduction to open source and version control](events/hacktoberfest).*
+## Hacktoberfest
+
+Would you like to be more involved in open source software as a means of helping with your research practise, getting better at coding or just contibuting to a good project? [Hacktoberfest is nearly upon us](../../training/workshop/2020-10-06-hacktoberfest-2020/) and is a chance to get involved with contributing to open source. If you're new to this then it will offer support, if your a gnarly veteran developer, it will create time for you to work on projects that matter. And an opportunity for all to get a [free T-shirt](https://hacktoberfest.digitalocean.com/) - I didn't get one last year, the regret... If you run an open source project, it's an opportunity to get some input to help.
+
+## Hacktoberfest from the Research Software Engineering Team
+
+* 6/10/2020 [Introduction to open source and version control and hack session 1](../../training/workshop/2020-10-06-hacktoberfest-2020/)
+* 13/10/2020 [Hack session 2](../../training/workshop/2020-10-13-hacktoberfest-2020/)
+* 20/10/2020 [Hack session 3](../../training/workshop/2020-10-20-hacktoberfest-2020/)
+* 27/10/2020 [Hack session 4](../../training/workshop/2020-10-27-hacktoberfest-2020/)
+
+We also have a [Google chat room](https://chat.google.com/u/1/room/AAAACIgHIK0) open throughout October for peer support.
