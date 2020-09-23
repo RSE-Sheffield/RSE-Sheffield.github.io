@@ -14,7 +14,7 @@ type: text
 excerpt_separator: <!--more-->
 ---
 
-This is going to be my personal perspective on open source, and hopefully encouragement for you to get involved with [Hacktoberfest](https://hacktoberfest.digitalocean.com/), a month-long event encouraging participation and coding, which the RSE Team at the University of Sheffield are supporting. I hope to introduce some of the legal, technical, economic and academic aspects of open source – providing context for experts and a gateway for the newly interested. *Note: I have no legal training, consult someone who does if you need to!*. But, my perspective, so we’re going back to when I was first exposed to open source, back around the millennium…
+This is going to be my personal perspective on open source, and hopefully encouragement for you to get involved with [Hacktoberfest](https://hacktoberfest.digitalocean.com/), a month-long event encouraging participation and coding, which the RSE Team at the University of Sheffield are supporting. I hope to introduce some of the legal, technical, economic and academic aspects of open source – providing context for experts and a gateway for the newly interested. *Note: I have no legal training, consult someone who does if you need to!* But, my perspective, so we’re going back to when I was first exposed to open source, back around the millennium…
 
 <!--more-->
 
@@ -33,15 +33,13 @@ While record labels and movie producers were worried about file sharing, some la
 
 We find that, practically, the former work better where there are lots of volunteer contributors and the latter where there is private sector backing. Another ideological battleground. [https://choosealicense.com/](https://choosealicense.com/) is a good source for more information.
 
-*If you make your code open source, you do this using your copyright - code without a copyright notice and license does not revert to being free to copy, it just means we don't know who owns the copyright and what they'll allow!*
+*If you make your code open source, you do this using your copyright - code without a copyright notice and / or license does not revert to being free to copy, it just means we don't know who owns the copyright and what they'll allow!*
 
 ## Patents
 
 So what do you do if you have a monopoly on some software and some undermines this by giving a similar thing away for free? Patents are a legal avenue to stop others from copying an invention. It has been argued that aspects of software are inventions and can thus be patented, or that the law should change such that they could be. We were a bit terrified that every time we wanted to include say, a menu bar, in a GUI, we'd need the permission of whoever held the patent. The rules on this, it turns out, vary around the world, and the stuff we felt threatened by in the U.K. never really came to be.
 
-## So who won?
-
-Everyone kind of got together and hugged. Sort of.
+## Back to 2020
 
 Software businesses, large and small, are still a huge part of everyone's lives. However, there is now something of a symbiosis between closed and open, commercial and free. The perspective of a software entrepreneur I spoke to was that open source gives developers all of the core stuff they need (e.g. menu bars, web servers, programming languages) to operate and innovate without a requirement to reinvent the wheel. I get this perspective - it explains a lot of the pro-open source behaviour of big companies.
 
