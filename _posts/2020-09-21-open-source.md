@@ -12,7 +12,7 @@ type: text
 excerpt_separator: <!--more-->
 ---
 
-This is going to be my perspective, to some extent, but hopefully also introduces some of the legal, technical, economic and academic aspects of open source – providing context for experts and a gateway for the newly interested. *Note: I have no legal training, consult someone who does if you need to!*. But, my perspective, so we’re going back to when I was first exposed to open source, back around the millennium…
+This is going to be my personal perspective on open source, and hopefully encouragement for you to get involved with Hacktoberfest, a month-long event encouraging participation and coding, which the RSE Team at the University of Sheffield are supporting. I hope to introduce some of the legal, technical, economic and academic aspects of open source – providing context for experts and a gateway for the newly interested. *Note: I have no legal training, consult someone who does if you need to!*. But, my perspective, so we’re going back to when I was first exposed to open source, back around the millennium…
 
 <!--more-->
 
