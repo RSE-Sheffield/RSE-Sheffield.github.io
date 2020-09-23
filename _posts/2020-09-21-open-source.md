@@ -8,6 +8,8 @@ tags:
 category:
 link:
 description:
+image:
+    path: /assets/images/open_sign.jpg
 type: text
 excerpt_separator: <!--more-->
 ---
@@ -51,7 +53,9 @@ So while this is great, in principle, **these benefits need to be available to m
 
 ## Hacktoberfest
 
-Would you like to be more involved in open source software as a means of helping with your research practise, getting better at coding or just contibuting to a good project? [Hacktoberfest is nearly upon us](../../training/workshop/2020-10-06-hacktoberfest-2020/) and is a chance to get involved with contributing to open source. If you're new to this then it will offer support, if your a gnarly veteran developer, it will create time for you to work on projects that matter. And an opportunity for all to get a [free T-shirt](https://hacktoberfest.digitalocean.com/) - I didn't get one last year, the regret... If you run an open source project, it's an opportunity to get some input to help.
+Would you like to be more involved in open source software as a means of helping with your research practise, getting better at coding or just contibuting to a good project? 
+
+[Hacktoberfest is nearly upon us](../../training/workshop/2020-10-06-hacktoberfest-2020/) and is a chance to get involved with contributing to open source. If you're new to this then it will offer support, if your a gnarly veteran developer, it will create time for you to work on projects that matter. And an opportunity for all to get a [free T-shirt](https://hacktoberfest.digitalocean.com/) - I didn't get one last year, the regret... If you run an open source project, it's an opportunity to get some input to help.
 
 ## Hacktoberfest from the Research Software Engineering Team
 
