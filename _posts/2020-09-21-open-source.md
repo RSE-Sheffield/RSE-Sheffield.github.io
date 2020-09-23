@@ -31,7 +31,7 @@ While record labels and movie producers were worried about file sharing, some la
 - Derivative works must also be open source and carry the same license as the original code (**Copyleft** e.g. [GPL](https://www.gnu.org/licenses/gpl-3.0.en.html)).
 - Derivative works must just carry an acknowledgement of the open source code (e.g. [BSD](https://opensource.org/licenses/BSD-3-Clause).
 
-We find that, practically, the former work better where there are lots of volunteer contributors and the latter where there is private sector backing. Another ideological battleground.
+We find that, practically, the former work better where there are lots of volunteer contributors and the latter where there is private sector backing. Another ideological battleground. [https://choosealicense.com/](https://choosealicense.com/) is a good source for more information.
 
 *If you make your code open source, you do this using your copyright - code without a copyright notice and license does not revert to being free to copy, it just means we don't know who owns the copyright and what they'll allow!*
 
