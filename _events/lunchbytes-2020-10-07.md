@@ -5,9 +5,9 @@ published: True
 from: "12:00"
 to: "13:00"
 location: "Google meet"
-speaker: "Fedor Gorokhovik, and others"
+speaker: "Fedor Gorokhovik, John Charlton, Richard Darst"
 institute: "University of Sheffield"
-title: "Lunch bytes #2: Notebooks - pros and cons"
+title: "Lunch bytes #2: Jupyter Notebooks - pros and cons"
 image:
 slides_url:
 ---
@@ -15,7 +15,7 @@ slides_url:
 *LunchBytes is a new monthly series of short talks for those in the research community at TUOS who work with/write code, use/manage research data and use/manage research infrastructure. We hope through these talks we will come together as a community to discuss best practices and useful methods/tools.*
 
 Notebooks (Jupyter, R etc) have become a popular tools for research and prototyping in data science, but what are the advantages and pitfalls?
-At this LunchBytes event we'll be exploring computational notebooks and their pros and cons via three short talks.
+At this LunchBytes event we'll be exploring Jupyter notebooks and their pros and cons via three short talks.
 Each will be ~10 minutes, leaving half an hour for discussion/questions.
 
 ### Joining instructions
@@ -25,8 +25,12 @@ This lunchBytes session will be run at the following <a href="https://meet.googl
 
 ### Talks
 #### (Mis)uses of notebooks as production tools in the financial industry
-
 *Fedor Gorokhovik, <a href="https://www.man.com" target="_blank">Man group</a>*
 
 
-__More speakers TBC__
+#### Making the most out of notebooks
+*John Charlton, <a href="https://rse.shef.ac.uk/" target="_blank">Sheffield RSE Team</a>*
+
+
+#### Pitfalls of Jupyter notebooks
+*Richard Darst, <a href="https://scicomp.aalto.fi/" target="_blank">Aalto Scientific Computing</a>, <a href="https://www.aalto.fi/en" target="_blank">Aalto University</a>*
