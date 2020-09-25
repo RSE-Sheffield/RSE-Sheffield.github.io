@@ -1,5 +1,5 @@
 ---
-title: Hacktoberfest 2020 - session 4/4
+title: Hacktoberfest 2020 Showcase - session 4/4
 category: workshop
 tags:
 permalink: /training/workshop/2020-10-27-hacktoberfest-2020/
@@ -9,6 +9,8 @@ to: "18:00"
 location: "Blackboard Collaborate"
 speaker: "RSE Team"
 institute: "University of Sheffield"
+image:
+  path: /assets/images/hacktoberfest2020_icon.png
 ---
 
 Many of the world's most influential software projects are open source - and it doesn't take a master developer to contribute meaningful code and help them improve. Hacktoberfest is all about encouraging meaningful contributions to the open-source ecosystem
@@ -21,7 +23,9 @@ a **global initiative to encourage participation in open-source software project
 
 Anyone in Sheffield (not just The University of Sheffield) is welcome to come along to the 3 drop-in hack sessions (13th, 20th, 27th Oct 2020) where you'll be able to chat open source, get guidance from your fellow hackers and socialise with the Sheffield open source community. Members of the RSE team will be on hand to help you find suitable projects to contribute to throughout Hacktoberfest.
 
-**Get free swag!** - By making 4 contributions to open source projects on GitHub during October, you will earn a free stylish Hacktoberfest t-shirt! See [Hacktoberfest][hacktoberfest] for details.
+In this last session, we will have an informal showcase for everyone to show off what they've been up to and what they've learned throughout the month
+
+**Get free swag/trees!** - By making 4 contributions to open source projects on GitHub during October, you will earn either a free stylish Hacktoberfest t-shirt or the opportunity to plant a tree! See [Hacktoberfest][hacktoberfest] for details.
 
 **Location**
 Whilst we'll be using the University of Sheffield's Blackboard Collaborate platform to host the events, they're open for anyone in Sheffield to come along and participate. [**Please register your interest using this Google Form**](https://forms.gle/hkJtLUTgrNamANF86) and we'll send you the link to the meetups.
