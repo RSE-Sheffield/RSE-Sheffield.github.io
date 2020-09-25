@@ -2,7 +2,7 @@
 title: Intro to Open Source Contribution - Hacktoberfest 2020 - session 1/4
 category: workshop
 tags:
-permalink: /training/workshop/2020-10-06-hacktoberfest-2020/
+permalink: /training/workshop/2020-10-06-hacktoberfest/
 date: 2020-10-06
 from: "16:00"
 to: "18:00"
@@ -15,6 +15,8 @@ image:
 
 Many of the world's most influential software projects are open source - and it doesn't take a master developer to contribute meaningful code and help them improve. Hacktoberfest is all about encouraging meaningful contributions to the open-source ecosystem
 and Hacktoberfest meetups are **for beginners and veterans alike**!
+
+To read more about open source, check out [Bob's blog post](/blog/2020-09-21-open-source/).
 
 [Research Software Engineering (RSE) Sheffield](/),
 are organising a **series in of hackathons** during October
@@ -33,9 +35,9 @@ Whilst we'll be using the University of Sheffield's Blackboard Collaborate platf
 
 **Future sessions**
 Each Tuesday for the rest of October we'll be hosting online meetups for you to contribute to more projects and earn your pull requests.
-* 13/10/2020 [Hack session 2](../../training/workshop/2020-10-13-hacktoberfest-2020/)
-* 20/10/2020 [Hack session 3](../../training/workshop/2020-10-20-hacktoberfest-2020/)
-* 27/10/2020 [Hack session 4](../../training/workshop/2020-10-27-hacktoberfest-2020/)
+* 13/10/2020 [Hack session 2](../2020-10-13-hacktoberfest/)
+* 20/10/2020 [Hack session 3](../2020-10-20-hacktoberfest/)
+* 27/10/2020 [Hack session 4](../2020-10-27-hacktoberfest/)
 
 **Google chat**
 We will also have a google chat room open for the duration of Hacktoberfest for participants to chat about projects and get support from their fellow hackers. [**Please register your interest using this Google Form**](https://forms.gle/hkJtLUTgrNamANF86) and we'll send you the link to chat room and weekly meetups.

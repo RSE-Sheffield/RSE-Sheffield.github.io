@@ -4,7 +4,7 @@ title: "Open Source and Hacktoberfest"
 author: Robert (Bob) Turner
 slug: 2020-09-21-open-source
 date: 2020-09-21 12:00:00 UTC
-tags: 
+tags:
 category:
 link:
 description:
@@ -51,15 +51,15 @@ So while this is great, in principle, **these benefits need to be available to m
 
 ## Hacktoberfest
 
-Would you like to be more involved in open source software as a means of helping with your research practise, getting better at coding or just contibuting to a good project? 
+Would you like to be more involved in open source software as a means of helping with your research practise, getting better at coding or just contibuting to a good project?
 
 [Hacktoberfest is nearly upon us](../../training/workshop/2020-10-06-hacktoberfest-2020/) and is a chance to get involved with contributing to open source. If you're new to this then it will offer support, if your a gnarly veteran developer, it will create time for you to work on projects that matter. And an opportunity for all to get a [free T-shirt](https://hacktoberfest.digitalocean.com/) - I didn't get one last year, the regret... If you run an open source project, it's an opportunity to get some input to help.
 
 ## Hacktoberfest from the Research Software Engineering Team
 
-* 6/10/2020 [Introduction to open source and version control and hack session 1](../../training/workshop/2020-10-06-hacktoberfest-2020/)
-* 13/10/2020 [Hack session 2](../../training/workshop/2020-10-13-hacktoberfest-2020/)
-* 20/10/2020 [Hack session 3](../../training/workshop/2020-10-20-hacktoberfest-2020/)
-* 27/10/2020 [Hack session 4](../../training/workshop/2020-10-27-hacktoberfest-2020/)
+* 6/10/2020 [Introduction to open source and version control and hack session 1](../../training/workshop/2020-10-06-hacktoberfest/)
+* 13/10/2020 [Hack session 2](../../training/workshop/2020-10-13-hacktoberfest/)
+* 20/10/2020 [Hack session 3](../../training/workshop/2020-10-20-hacktoberfest/)
+* 27/10/2020 [Hack session 4](../../training/workshop/2020-10-27-hacktoberfest/)
 
 We also have a [Google chat room](https://chat.google.com/u/1/room/AAAACIgHIK0) open throughout October for peer support.
