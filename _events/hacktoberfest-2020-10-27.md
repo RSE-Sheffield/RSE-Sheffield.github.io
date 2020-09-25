@@ -2,7 +2,7 @@
 title: Hacktoberfest 2020 Showcase - session 4/4
 category: workshop
 tags:
-permalink: /training/workshop/2020-10-27-hacktoberfest-2020/
+permalink: /training/workshop/2020-10-27-hacktoberfest/
 date: 2020-10-27
 from: "16:00"
 to: "18:00"
@@ -15,6 +15,8 @@ image:
 
 Many of the world's most influential software projects are open source - and it doesn't take a master developer to contribute meaningful code and help them improve. Hacktoberfest is all about encouraging meaningful contributions to the open-source ecosystem
 and Hacktoberfest meetups are **for beginners and veterans alike**!
+
+To read more about open source, check out [Bob's blog post](/blog/2020-09-21-open-source/).
 
 [Research Software Engineering (RSE) Sheffield](/),
 are organising a **series in of hackathons** during October
