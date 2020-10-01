@@ -9,7 +9,8 @@ category:
 link:
 description:
 type: text
-image: /assets/images/cluster-diag-plain.svg
+image: 
+  path: /assets/images/cluster-diag-plain.svg
 ---
 
 Two challenges PhD students encounter are: 
