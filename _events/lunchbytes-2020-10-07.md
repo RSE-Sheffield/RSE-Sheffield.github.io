@@ -23,14 +23,25 @@ This lunchBytes session will be run at the following <a href="https://meet.googl
 
 [Google JamBoard for Q&A](https://jamboard.google.com/d/1TLW-_5tfMt0oBYYyW9WalqGlA4WGRQU59Eq3OLi8KuU): note down questions/comments (using JamBoard Sticky Notes) before/during the event.  
 
+### Materials presented
+* [Video recording](https://digitalmedia.sheffield.ac.uk/media/t/1_3qv4p0mw) of the session.
+* [Intro/Outro slides](/lunch-bytes-intro-2)
+
 ### Talks
 #### (Mis)uses of notebooks as production tools in the financial industry
 *Fedor Gorokhovik, <a href="https://www.man.com" target="_blank">Man group</a>*
 
+This short presentation aims at introducing how Jupyter became one of the main tools in the financial industry, slowly replacing Excel. Why is it the perfect tool for the trade, and what are the risks?
+* [Powerpoint File](https://github.com/FiodorG/LunchBytes/blob/main/Misuses%20of%20notebooks%20as%20production.pptx)
 
 #### Making the most out of notebooks
 *John Charlton, <a href="https://rse.shef.ac.uk/" target="_blank">Sheffield RSE Team</a>*
 
+How to use extensions and libraries with Jupyter Notebooks to tackle some of its shortcomings and support the strengths.
+* [Slides](https://github.com/coolmule0/Making-the-most-of-jupyter-notebooks)
 
 #### Pitfalls of Jupyter notebooks
 *Richard Darst, <a href="https://scicomp.aalto.fi/" target="_blank">Aalto Scientific Computing</a>, <a href="https://www.aalto.fi/en" target="_blank">Aalto University</a>*
+
+Jupyter Notebooks are a great tool for research, data science type things, and teaching. But they are not perfect - they support exploration, but not other parts of the coding phase such as modularity and scaling. This talk lists some common limitations and pitfalls and what you can do to avoid them.
+* [Presentation](https://scicomp.aalto.fi/scicomp/jupyter-pitfalls/)
