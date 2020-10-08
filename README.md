@@ -34,7 +34,7 @@ bundler update
 
 ### Updating Dependencies
 
-Ensure ruby packages are up to date, to avoid differences between local and github/travis builds:
+Ensure ruby packages are up to date, to avoid differences between local and GitHub/GitHub Actions builds:
 
 ```sh
 bundle update --all
