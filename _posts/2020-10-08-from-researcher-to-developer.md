@@ -8,8 +8,7 @@ tags:
 category:
 link:
 description:
-image:
-  path: /assets/images/best-practice-blog/stock_mesabymakers_unsplash.jpg
+social_image: /assets/images/best-practice-blog/stock_mesabymakers_unsplash.jpg
 type: text
 excerpt_separator: <!--more-->
 ---
