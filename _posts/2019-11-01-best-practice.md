@@ -10,8 +10,7 @@ link:
 description:
 type: text
 excerpt_separator: <!--more-->
-image:
-  path: /assets/images/best-practice-blog/stock_mesabymakers_unsplash.jpg
+social_image: /assets/images/best-practice-blog/stock_mesabymakers_unsplash.jpg
 ---
 ![Image: MESA by makers from Unsplash](/assets/images/best-practice-blog/stock_mesabymakers_unsplash.jpg){: .img-fluid width="500px" .float-right}
 Code written for research, and particularly in an academic context can (by my own admission...) often be a mess of comments, temporary sections, and poorly-named variables that only runs correctly whilst the researcher who made it is still around. This, despite the fact that most code-writing researchers know exactly the sins we are commiting at the time. But reproducibility is one of the central tenets of science - so why in our coding have researchers been prepared to cobble together barely working assemblages of script that can often lead to unmaintainable projects?

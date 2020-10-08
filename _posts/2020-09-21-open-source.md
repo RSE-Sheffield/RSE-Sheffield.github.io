@@ -8,8 +8,7 @@ tags:
 category:
 link:
 description:
-image:
-    path: /assets/images/open_sign.jpg
+social_image: /assets/images/open_sign.jpg
 type: text
 excerpt_separator: <!--more-->
 ---
