@@ -6,8 +6,7 @@ date: 2019-08-22 12:00:00
 category:
 tags: python
 excerpt_separator: <!--more-->
-image:
-  path: /assets/images/DGCali-72.jpg
+social_image: /assets/images/DGCali-72.jpg
 ---
 
 The RSE team has a recurring interest in learning Python:

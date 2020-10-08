@@ -9,8 +9,7 @@ category:
 link:
 description:
 type: text
-image:
-  path: /assets/images/gpuhack19/gpuhackthon.jpg
+social_image: /assets/images/gpuhack19/gpuhackthon.jpg
 ---
 
 _\*This blog post first appeared on the [OpenACC blog](https://www.openacc.org/blog)._

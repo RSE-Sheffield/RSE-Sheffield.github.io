@@ -9,8 +9,7 @@ to: "18:00"
 location: "Blackboard Collaborate"
 speaker: "RSE Team"
 institute: "University of Sheffield"
-image:
-  path: /assets/images/hacktoberfest2020_icon.png
+social_image: /assets/images/hacktoberfest2020_icon.png
 ---
 
 Many of the world's most influential software projects are open source - and it doesn't take a master developer to contribute meaningful code and help them improve. Hacktoberfest is all about encouraging meaningful contributions to the open-source ecosystem
