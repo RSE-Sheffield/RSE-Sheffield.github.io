@@ -11,7 +11,7 @@ description:
 type: text
 ---
 
-## University of Sheffield Research Software Engineering Team Newsletter September 2020
+## University of Sheffield Research Software Engineering Team Newsletter October 2020
 
 This is the 4th monthly newsletter from the Research Software Engineering Team at Sheffield. We aim to share our experiences and information of other communities for those using software for research.
 This newsletter is a collection of interesting events and opportunities over the coming month. It also includes signposting to other resources that we have found beneficial or interesting.
