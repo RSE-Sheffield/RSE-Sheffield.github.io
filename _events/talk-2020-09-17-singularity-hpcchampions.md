@@ -10,4 +10,4 @@ slides_url: "https://docs.google.com/presentation/d/1Lwe94dIKxYH9XCK-iseQI2S9AuH
 title: "Singularity for HPC"
 ---
 
-Twin Karmakharm gave a talk on [Singualrity](https://sylabs.io/singularity/) for HPC at the HPC Champions event. The talk gives an introduction to the Singularity container technology and experiences learned from its uses at the University of Sheffield.
+Twin Karmakharm gave a talk on [Singularity](https://sylabs.io/singularity/) for HPC at the HPC Champions event. The talk gives an introduction to the Singularity container technology and experiences learned from its uses at the University of Sheffield.
