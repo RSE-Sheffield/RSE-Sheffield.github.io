@@ -21,19 +21,33 @@ To receive this newsletter as an email each month, please sign up to our [Google
 
 *All dates and times are in GMT (UTC+00)*
 
+### News
+* The Software Sustainability Institute along with REF sub-panel 11 have produced and agreed [a set of guidelines for submitting software as a research output to REF2021](https://www.software.ac.uk/REF2021guidance).
+* Save the date! [SSI Collaborations Workshop](https://www.software.ac.uk/news/save-date-collaborations-workshop-2021) announced for 30th March - 1st April 2021 - The Software Sustainability Institute’s Collaborations Workshop series brings together researchers, developers, innovators, managers, funders, publishers, policy makers, leaders and educators to explore best practices and the future of research software. The themes of CW21 will be around the following areas of research software: FAIR Research Software, Diversity and Inclusion, Software Sustainability.
+* This month there have been a number of significant changes to the terms and conditions of vital software services, including:
+  * [Anaconda](https://www.anaconda.com/blog/anaconda-commercial-edition-faq?utm_medium=twitter&utm_source=social-media-organic&utm_campaign=blog&utm_term=blog&utm_content=blog) - changes to the availability of Anaconda for commercial software, which may affect some research work.
+  * [Travis](https://blog.travis-ci.com/2020-11-02-travis-ci-new-billing) - new pricing model, including a reduction in the compute time available to open source projects.
+  * [Docker Hub](https://www.docker.com/increase-rate-limits?utm_source=docker&utm_medium=web%20referral&utm_campaign=pull%20limits%20hub%20home%20page&utm_budget=) - new rate limits imposed for pulling images from docker hub for free and anonymous users from 2nd November.
+* The [Python Developers Survey 2020](https://surveys.jetbrains.com/s3/c12-python-developers-survey-2020) is open, complete the survey for your chance to win a "Python surprise gift pack" apparently.
+* [News from the Society of Research Software Engineering](https://society-rse.org/newsletter-october-2020/) - including newly elected trustees, appointment of RSE Sheffield's own Paul Richmond to the position of president, and lots lots more.
+* Check out the excellent [Imperial College Research Software Community Newsletter](https://imperialcollegelondon.github.io/rs-community-newsletters/2020-10.html) for another great source of RSE news.
+* Wellcome are running [a survey for researchers who use health data](https://wellcometrust.eu.qualtrics.com/jfe/form/SV_9tckQlGHjKNX70x).
+
+
 ### Events
 
 * [**SuperComputing20**](https://sc20.supercomputing.org/) - 9-19th Nov 2020, online - including a number of free-to-attend sessions, the premier supercomputing/HPC conference this year features tutorials, workshops, talks and exhibits.
 * [**Sheffield Digital Festival**](https://sheffielddigitalfestival.com/events) - 16th-22nd Nov 2020, online - a number of online events for Sheffield's digital community.
 * [**AI and data science in the age of COVID-19**](https://www.turing.ac.uk/events/ai-and-data-science-age-covid-19) Tues 24th Nov 2020, online -
     In its role as national centre for data science and AI, The Alan Turing Institute is convening a public conference to assess the response of the UK's data science and AI community to COVID-19. This one-day conference will explore the lessons learned during the COVID-19 pandemic. The event will be for researchers and policy makers to share best practice and work together to understand how the UK AI and data science research community can be better positioned to respond to major crises in the future.
-* [**NVIDIA GPU Technology Conference**](https://www.nvidia.com/en-us/gtc/call-for-submissions/) - Call for poster and talk submissions, deadline Fri 4th Dec 2020 -
-    The NVIDIA GTC brings together a broad community of developers, researchers, engineers, and innovators with the common goal of sharing their achievements while discovering new technologies and tools that drive change around the globe
 * [**Research Reproducibility 2020: Educating for Reproducibility**](https://pwd.aa.ufl.edu/researchre-pro/home/) - 2nd-3rd December 2020, online (Abstract submission closed) -
     Free conference bringing together experts and novices, researchers and educators, and students and administrators from multiple disciplines and institutions to explore best practices, innovations, policies, and new ideas for education around reproducibility, replicability, and rigour.
+* [**NVIDIA GPU Technology Conference**](https://www.nvidia.com/en-us/gtc/call-for-submissions/) - Call for poster and talk submissions, deadline Fri 4th Dec 2020 -
+    The NVIDIA GTC brings together a broad community of developers, researchers, engineers, and innovators with the common goal of sharing their achievements while discovering new technologies and tools that drive change around the globe
 * [**PyJamas Conf 2020**](https://pyjamas.live/) - 5th Dec 2020, online - 24 hours streaming of talks about Python and connecting with Python communities around the world that you can access at home, in your PJs.
 * [**GitHub Universe**](https://githubuniverse.com/) - 8-10th Dec 2020, online -
     Join GitHub team leaders, industry icons, and artists inspired by code for three days of live interactive sessions as we explore the future of software for developers, enterprises, and students.
+* [**Virtual Data Analysis in Atomic Force Microscopy Meeting**](https://www.rms.org.uk/data-analysis-in-atomic-force-microscopy.html) - 10th Dec 2020, online - This event aims to bring together the AFM community to tackle the lack of consensus across the field regarding data analysis and availability.
 * The Scholarly Communications team at TUoS Library are hosting [**Open Research Conversations**](https://www.sheffield.ac.uk/library/research), a series of online discussions on Open Research Practices. Sessions will include talks from researchers who have
 made their research open and other experts sharing their experiences, promoting best practices and discussing the challenges they are facing:
     - 18th November [Visualising CoVid-19 Data](https://www.eventbrite.co.uk/e/open-research-conversation-visualising-covid-19-data-tickets-123684364263): a conversation about researchers' experiences of visualising CoVid-19 data and the impact these are having on policy and society with James Wilsdon & Colin Angus.
@@ -44,7 +58,8 @@ Kate Petherbridge.
     University of Bristol RSE Team will host a free 2-day workshop in partnership with AWS aimed at researchers and research software engineers with the goals of: learning how to port and optimise applications for the cloud, using portable cloud technologies, such as terraform, to configure and deploy infrastructure-as-code applications, and gaining real hands-on experience of developing cloud applications in partnership with experienced RSEs and AWS solutions architects
 * [**Joint Roadmap for Open Science Tools 2020 Conference**](https://investinopen.org/community/jrost-2020-conference/) - 14-16 Dec 2020, online - a virtual event designed to hold space for the community of practitioners building, maintaining, and advocating for open tools to support research and collaboration.
 * [**Advent of Code**](https://adventofcode.com/) - Dec 2020 - No details for this year yet, but expect a month of advent-themed coding challenges throughout December!
-* [**SSI Collaborations Workshop**](https://www.software.ac.uk/news/save-date-collaborations-workshop-2021) - save the date! 30th March - 1st April 2021, online - The Software Sustainability Institute’s Collaborations Workshop series brings together researchers, developers, innovators, managers, funders, publishers, policy makers, leaders and educators to explore best practices and the future of research software. The themes of CW21 will be around the following areas of research software: FAIR Research Software, Diversity and Inclusion, Software Sustainability.
+* **Research IT Forum** - 16th Dec 2020, 15:00-16:30, Blackboard Collaborate - **save the date!** -  The [Research IT team](https://www.sheffield.ac.uk/it-services/research/support) will be holding its next Research IT forum event on the 16th of December from 3 - 4.30pm. These quarterly events will celebrate research at Sheffield.
+This December’s event will be dedicated to showcasing machine learning at Sheffield. You can expect to hear about the statistics behind machine learning and the use of machine learning in medical imaging. You’ll also hear about two new high performance computing resources that will be available to users here at the University of Sheffield.
 
 
 #### SORSE
@@ -96,16 +111,6 @@ Video recordings and slides from previous LunchBytes sessions are available via 
 - [RStudio v1.4 Preview: Python Support](https://blog.rstudio.com/2020/10/07/rstudio-v1-4-preview-python-support/): Find out about a number of features that will further improve the Python editing experience in Rstudio release 1.4.
 - VSCode extension of the month - my pick for handy VScode extension of the month goes to the [**GitHub Actions**](https://marketplace.visualstudio.com/items?itemName=cschleiden.vscode-github-actions) extension, which gives you the abilitiy to see the status of your GitHub workflows directly from your IDE.
 
-### News
-* The Software Sustainability Institute along with REF sub-panel 11 have produced and agreed [a set of guidelines for submitting software as a research output to REF2021](https://www.software.ac.uk/REF2021guidance).
-* This month there have been a number of significant changes to the terms and conditions of vital software services, including:
-  * [Anaconda](https://www.anaconda.com/blog/anaconda-commercial-edition-faq?utm_medium=twitter&utm_source=social-media-organic&utm_campaign=blog&utm_term=blog&utm_content=blog) - changes to the availability of Anaconda for commercial software, which may affect some research work.
-  * [Travis](https://blog.travis-ci.com/2020-11-02-travis-ci-new-billing) - new pricing model, including a reduction in the compute time available to open source projects.
-  * [Docker Hub](https://www.docker.com/increase-rate-limits?utm_source=docker&utm_medium=web%20referral&utm_campaign=pull%20limits%20hub%20home%20page&utm_budget=) - new rate limits imposed for pulling images from docker hub for free and anonymous users from 2nd November.
-* The [Python Developers Survey 2020](https://surveys.jetbrains.com/s3/c12-python-developers-survey-2020) is open, complete the survey for your chance to win a "Python surprise gift pack" apparently.
-* [News from the Society of Research Software Engineering](https://society-rse.org/newsletter-october-2020/) - including newly elected trustees, appointment of RSE Sheffield's own Paul Richmond to the position of president, and lots lots more.
-* Check out the excellent [Imperial College Research Software Community Newsletter](https://imperialcollegelondon.github.io/rs-community-newsletters/2020-10.html) for another great source of RSE news.
-* Wellcome are running [a survey for researchers who use health data](https://wellcometrust.eu.qualtrics.com/jfe/form/SV_9tckQlGHjKNX70x).
 
 ### Resources
 * The British Ecological Society has a number of excellent [*Guides to Better Science*](https://www.britishecologicalsociety.org/publications/guides-to/), including:
