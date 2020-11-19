@@ -29,7 +29,7 @@ As soon as you start working together you need to know who's doing what on what 
 
 ### Issue
 
-Go to **GitHub** and find a repository. There's an *issues* tab. This is used to describe a problem, a new feature or something that's not working with a *repository*. An issue can stem from an external user having a problem with your repository. Or an action from a developer meeting. Or a stakeholder / customer requesting a new feature. In a fairly recent development, *issues* can be put on a [kanban](https://en.wikipedia.org/wiki/Kanban_board)-style project board, which divides tasks into to-do, work-in-progress and done, facilitating [agile project management](https://www.apm.org.uk/resources/find-a-resource/agile-project-management/) approaches. An issue is assigned (or self-assigned) to a software engineer who then works to resolve it.
+Go to **GitHub** and find a repository. There's an *issues* tab. This is used to describe a problem, a new feature or something that's not working with a *repository*. An issue can stem from an external user having a problem with your repository. Or an action from a developer meeting. Or a stakeholder / customer requesting a new feature. In a fairly recent development, *issues* can be put on a [kanban](https://en.wikipedia.org/wiki/Kanban_board)-style project board, which divides tasks into to-do, work-in-progress and done, facilitating [agile project management](https://thedigitalprojectmanager.com/agile-project-management/) approaches. An issue is assigned (or self-assigned) to a software engineer who then works to resolve it.
 
 ### Branch
 
