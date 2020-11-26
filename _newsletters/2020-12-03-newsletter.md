@@ -94,7 +94,7 @@ Video recordings and slides from previous LunchBytes sessions are available via 
   you haven't tried it yet. Find out about a number of features that will further improve the Python editing experience in Rstudio release 1.4.
 - Tool of the month — my pick for ancient Unix tool of the month
   is the venerable [dot from graphviz](https://www.graphviz.org/about/).
-  I have been using this to draw graph networks from git repos.
+  I have recently been using this to draw graph networks from git repos.
   `dot` converts a simple text representation of a graph network
   into a PNG file or other graphic format.
 
