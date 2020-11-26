@@ -21,6 +21,21 @@ To receive this newsletter as an email each month, please sign up to our [Google
 
 *All dates and times are in GMT (UTC+00)*
 
+### Puzzle Corner
+
+If you think that programming is fun, and you might be looking
+for a pastime as the (boreal) winter nights draw in, you might
+like to try [Project Euler](https://projecteuler.net/) which is
+a series of problems that are designed to be solved with the aid
+of a computer.
+
+Euler Problem 1―Multiples of 3 and 5― is:
+
+> If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
+> 
+> Find the sum of all the multiples of 3 or 5 below 1000.
+
+
 ### News
 
 
