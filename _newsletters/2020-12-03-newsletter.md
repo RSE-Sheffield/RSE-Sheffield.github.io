@@ -107,20 +107,23 @@ Video recordings and slides from previous LunchBytes sessions are available via 
   Support](https://blog.rstudio.com/2020/10/07/rstudio-v1-4-preview-python-support/):
   The preview has had a minor update, so might be worth a look if
   you haven't tried it yet. Find out about a number of features that will further improve the Python editing experience in Rstudio release 1.4.
-- Tool of the month — my pick for ancient Unix tool of the month
+- Tool of the month — [dot from graphviz](https://www.graphviz.org/about/)
+  <br>![A 4 layer graph with a K<sub>2,2</sub> in the
+  middle](/assets/images/dot-example.png){: float: left}
+  My pick for ancient Unix tool of the month
   is the venerable [dot from graphviz](https://www.graphviz.org/about/).
   I have recently been using this to draw graph networks from git repos.
   `dot` converts a simple text representation of a graph network
   into a PNG file or other graphic format.
+  The shell script to generate the network graphic:
 
+    ```
     dot -Tpng > graph.png <<EOF
     digraph G {
       a -> {b1 b2} -> {c1 c2} -> d
     }
     EOF
-
-![A 4 layer graph with a K<sub>2,2</sub> in the
-middle](/assets/images/dot-example.png.jpg){: .img-fluid width="50%" .float-right}
+    ```
 
 
 ### Resources
