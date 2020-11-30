@@ -1,6 +1,6 @@
 ---
 layout: post
-title: December 2020
+title: December 2020 Newsletter
 editor: David Jones
 slug: 2020-12-03-newsletter
 date: 2020-12-03 12:00:00 UTC
