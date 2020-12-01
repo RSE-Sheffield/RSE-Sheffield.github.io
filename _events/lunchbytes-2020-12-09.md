@@ -14,7 +14,7 @@ slides_url:
 
 *LunchBytes is a new monthly series of short talks for those in the research community at TUOS who work with/write code, use/manage research data and use/manage research infrastructure. We hope through these talks we will come together as a community to discuss best practices and useful methods/tools.*
 
-At this LunchBytes event we'll be exploring the process of accelerating machine learning on the cloud and using machine learning to acclerate physics simulations.
+At this LunchBytes event we'll be exploring the process of accelerating machine learning on the cloud and using machine learning to accelerate physics simulations.
 
 [Google JamBoard for Q&A](https://jamboard.google.com/d/1KZ1opLyLQ194sv1ZI0RV-0cr7J16XAVAMNYpkBtpX5w/viewer?f=0): note down questions/comments (using JamBoard Sticky Notes) before/during the event. 
 
