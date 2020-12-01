@@ -13,8 +13,11 @@ type: text
 
 ## University of Sheffield Research Software Engineering Team Newsletter December 2020
 
-This is the 6th monthly newsletter from the Research Software Engineering Team at The University of Sheffield. We aim to share our experiences and information of other communities for those using software for research.
-This newsletter is a collection of interesting events and opportunities over the coming month. It also includes signposting to other resources that we have found beneficial or interesting.
+This is the 6th monthly newsletter from
+the [Research Software Engineering Team](https://rse.shef.ac.uk/) at The University of Sheffield.
+We aim to share our experiences and information of other communities for those using software for research.
+This newsletter collects interesting events and opportunities over the coming month.
+It also signposts to other resources that we find beneficial or interesting.
 You may find the content interesting if you are someone in research using software: such as researchers, research developers, or people paid to develop software like Research Software Engineers (RSEs).
 
 To receive this newsletter as an email each month, please sign up to our [Google Group](https://groups.google.com/a/sheffield.ac.uk/forum/#!forum/rse-group).
@@ -23,11 +26,11 @@ To receive this newsletter as an email each month, please sign up to our [Google
 
 ### Puzzle Corner
 
-If you think that programming is fun, and you might be looking
-for a pastime as the (boreal) winter nights draw in, you might
-like to try [Project Euler](https://projecteuler.net/) which is
+Are you looking for a fun programming based set of puzzles to
+while away those long (boreal) winter nights?
+You might like to try [Project Euler](https://projecteuler.net/) which is
 a series of problems that are designed to be solved with the aid
-of a computer.
+of a computer (no particular programming language is recommended).
 
 Euler Problem 1―Multiples of 3 and 5― is:
 
@@ -41,9 +44,11 @@ Euler Problem 1―Multiples of 3 and 5― is:
 
 ### Events
 
+* [**Advent of Code**](https://adventofcode.com/) — Dec 2020 05:00 — Advent of Code has started already, but it's never too late to start, and you can proceed at your own pace.
+  A month of advent-themed themed coding challenges throughout December!
 * [**NVIDIA GPU Technology Conference**](https://www.nvidia.com/en-us/gtc/call-for-submissions/) — Call for poster and talk submissions, deadline Fri 4th Dec 2020 —
     The NVIDIA GTC brings together a broad community of developers, researchers, engineers, and innovators with the common goal of sharing their achievements while discovering new technologies and tools that drive change around the globe
-* [**PyJamas Conf 2020**](https://pyjamas.live/) — 5th Dec 2020, online, beginng 08:30 UTC — 24 hours streaming of talks about Python and connecting with Python communities around the world that you can access at home, in your PJs.
+* [**PyJamas Conf 2020**](https://pyjamas.live/) — 5th Dec 2020, online, beginng 08:00 UTC — 24 hours streaming of talks about Python and connecting with Python communities around the world that you can access at home, in your PJs.
 * [**GitHub Universe**](https://githubuniverse.com/) — 8–10th Dec 2020, online —
     Join GitHub team leaders, industry icons, and artists inspired by code for three days of live interactive sessions as we explore the future of software for developers, enterprises, and students.
 * [**Virtual Data Analysis in Atomic Force Microscopy Meeting**](https://www.rms.org.uk/data-analysis-in-atomic-force-microscopy.html) — 10th Dec 2020, online — This event aims to bring together the AFM community to tackle the lack of consensus across the field regarding data analysis and availability.
@@ -55,15 +60,13 @@ Kate Petherbridge.
 * [**Christmas in the Cloud**](https://clusterinthecloud.github.io/xmas-workshop/) — 10-11th Dec 2020, online —
     University of Bristol RSE Team will host a free 2-day workshop in partnership with AWS aimed at researchers and research software engineers with the goals of: learning how to port and optimise applications for the cloud, using portable cloud technologies, such as terraform, to configure and deploy infrastructure-as-code applications, and gaining real hands-on experience of developing cloud applications in partnership with experienced RSEs and AWS solutions architects
 * [**Joint Roadmap for Open Science Tools 2020 Conference**](https://investinopen.org/community/jrost-2020-conference/) — 14–16 Dec 2020, online — a virtual event designed to hold space for the community of practitioners building, maintaining, and advocating for open tools to support research and collaboration.
-* [**Advent of Code**](https://adventofcode.com/) — Dec 2020
-* 05:00 — The traditional start date for 2020 Advent of Code is confirmed, expect a month of advent-themed coding challenges throughout December!
 * **Research IT Forum** — 16th Dec 2020, 15:00–16:30, Blackboard Collaborate — **save the date!** —  The [Research IT team](https://www.sheffield.ac.uk/it-services/research/support) will be holding its next Research IT forum event on the 16th of December from 3–4:30pm. These quarterly events will celebrate research at Sheffield.
 This December’s event will be dedicated to showcasing machine learning at Sheffield. You can expect to hear about the statistics behind machine learning and the use of machine learning in medical imaging. You’ll also hear about two new high performance computing resources that will be available to users here at the University of Sheffield.
 
 
 #### SORSE
 [A Series of Online Research Software Events (SORSE)](https://sorse.github.io/) is organized by volunteers from the international Research Software Engineers community — an international answer to the COVID-19-induced cancellation of many national RSE conferences.
-#### Upcoming SORSE events
+##### Upcoming SORSE events
 * [Optimal time frequency analysis for biological data - pyBOAT](https://sorse.github.io/programme/software-demos/event-023/) — 4th Dec 14:00–15:00
 * [Bringing Imaging-Based Artificial Intelligence into Clinical Practice in NHS Radiology](https://sorse.github.io/programme/talks/event-015/) — 7th Dec 14:00–14:30
 * [From experimental software to research infrastructure maturity ](https://sorse.github.io/programme/talks/event-009/) — 7th Dec 14:30–15:00
