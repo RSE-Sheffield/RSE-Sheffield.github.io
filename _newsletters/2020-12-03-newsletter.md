@@ -41,11 +41,36 @@ Euler Problem 1―Multiples of 3 and 5― is:
 
 ### News
 
+* On Nov 6, the RSE Team at Sheffield published their [November Newsletter](https://rse.shef.ac.uk/newsletters/2020-11-06-newsletter.html)!
+* In November the Consortium for Python Data API Standards
+  announced a call for comments on and contributions to their
+  first release of the Array API Standard. This attempts to
+  create a uniform API, at least for basic operations, across
+  array libraries such as NumPy, TensorFlow, Dask, JAX, and so
+  on.
+  See more at [their blog post](https://data-apis.org/blog/array_api_standard_release/)
+* [Marion Weinzer is joining the N8 Centre of Excellence in Computationally Intensive Research as their Research Software Engineering theme leader](https://n8cir.org.uk/news/new-rse-theme-leader/); welcome!
+* Our own RSE Team leader Paul Richmond has been [appointed President of the Society of Research Software Engineering](https://insigneo.org/2020/11/dr-paul-richmond-appointed-president-of-the-society-of-research-software-engineering/);
+  congratulations!
+* JISC are launching a new interdisciplinary research community;
+  we heard about it from [the Software Sustainability Institute's blog article about it](https://www.software.ac.uk/news/new-interdisciplinary-research-community-improve-research-practice).
+* @@@ Write something about nbdev here: https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices/
+* The Software Sustainability Institute has their annual Collaborations Workshop, and 2021 is no exception.
+  [Registration is now open](https://www.eventbrite.co.uk/e/collaborations-workshop-2021-cw21-collabw21-tickets-125883600237)
+
+
+We don't do a comprehensive survey of the journals, but we keep
+an eye out for relevant published articles. We have:
+* [Ten simple rules for writing Dockerfiles for reproducible data science](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008316)
+* [Five rules for evidence communication](https://www.nature.com/articles/d41586-020-03189-1)
+
 
 ### Events
 
 * [**Advent of Code**](https://adventofcode.com/) — Dec 2020 05:00 — Advent of Code has started already, but it's never too late to start, and you can proceed at your own pace.
   A month of advent-themed themed coding challenges throughout December!
+  If you fancy making your Advent of Code social, join the
+  `#adventofcode` channel on [our Slack](https://rse-uos.slack.com/signup#/).
 * [**NVIDIA GPU Technology Conference**](https://www.nvidia.com/en-us/gtc/call-for-submissions/) — Call for poster and talk submissions, deadline Fri 4th Dec 2020 —
     The NVIDIA GTC brings together a broad community of developers, researchers, engineers, and innovators with the common goal of sharing their achievements while discovering new technologies and tools that drive change around the globe
 * [**PyJamas Conf 2020**](https://pyjamas.live/) — 5th Dec 2020, online, beginng 08:00 UTC — 24 hours streaming of talks about Python and connecting with Python communities around the world that you can access at home, in your PJs.
