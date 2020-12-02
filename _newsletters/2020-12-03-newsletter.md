@@ -57,12 +57,20 @@ Euler Problem 1―Multiples of 3 and 5― is:
 * @@@ Write something about nbdev here: https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices/
 * The Software Sustainability Institute has their annual Collaborations Workshop, and 2021 is no exception.
   [Registration is now open](https://www.eventbrite.co.uk/e/collaborations-workshop-2021-cw21-collabw21-tickets-125883600237)
+* ExCALIBUR, DiRAC, N8, and groups at Durham are hosting a
+  series on online workshops on performance analysis of HPC
+  codes. They are encouraging teams to apply and their [Call For
+  Proposals is open](http://www.peano-framework.org/index.php/workshops/2021-performance-analysis-workshop-from-analysis-to-insight/)
 
 
 We don't do a comprehensive survey of the journals, but we keep
 an eye out for relevant published articles. We have:
 * [Ten simple rules for writing Dockerfiles for reproducible data science](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008316)
 * [Five rules for evidence communication](https://www.nature.com/articles/d41586-020-03189-1)
+* [Implementing version control with Git and GitHub as a learning objective in statistics and data science courses](https://www.tandfonline.com/doi/full/10.1080/10691898.2020.1848485);
+  a welcome write-up of one groups experiences in teaching `git`
+  and GitHub.
+* [Nature announce that Google's AlphaFold has solved protein folding](https://www.nature.com/articles/d41586-020-03348-4)
 
 
 ### Events
@@ -76,6 +84,10 @@ an eye out for relevant published articles. We have:
 * [**PyJamas Conf 2020**](https://pyjamas.live/) — 5th Dec 2020, online, beginng 08:00 UTC — 24 hours streaming of talks about Python and connecting with Python communities around the world that you can access at home, in your PJs.
 * [**GitHub Universe**](https://githubuniverse.com/) — 8–10th Dec 2020, online —
     Join GitHub team leaders, industry icons, and artists inspired by code for three days of live interactive sessions as we explore the future of software for developers, enterprises, and students.
+* [Cloud-powered academic research](https://mktoevents.com/Microsoft+Event/215936/157-GQE-382) — Dec 9th 09:00–10:45, online —
+  Microsoft Azure bring together Researchers and Research
+  Technology Professionals to discuss how Cloud can accelerate
+  your time to insights and breakthrough discoveries.
 * [**Virtual Data Analysis in Atomic Force Microscopy Meeting**](https://www.rms.org.uk/data-analysis-in-atomic-force-microscopy.html) — 10th Dec 2020, online — This event aims to bring together the AFM community to tackle the lack of consensus across the field regarding data analysis and availability.
 * The Scholarly Communications team at TUoS Library are hosting [**Open Research Conversations**](https://www.sheffield.ac.uk/library/research), a series of online discussions on Open Research Practices. Sessions will include talks from researchers who have
 made their research open and other experts sharing their experiences, promoting best practices and discussing the challenges they are facing:
@@ -131,9 +143,13 @@ Video recordings and slides from previous LunchBytes sessions are available via 
 
 ### Software and Updates
 
+- [GitHub on nbdev](https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices/)
+  GitHub have a nice blog article about their collaboration with
+  fastai in bring `nbdev` to GitHub's web-offering (in preview
+  only at the moment). Definitely one to keep an eye on.
 - [RStudio v1.4 Preview: Python
   Support](https://blog.rstudio.com/2020/10/07/rstudio-v1-4-preview-python-support/):
-  The preview has had a minor update, so might be worth a look if
+  The RStudio preview has had a minor update, so might be worth a look if
   you haven't tried it yet. Find out about a number of features that will further improve the Python editing experience in Rstudio release 1.4.
 - Tool of the month — [dot from graphviz](https://www.graphviz.org/about/)
   <br>![A 4 layer graph with a K<sub>2,2</sub> in the
