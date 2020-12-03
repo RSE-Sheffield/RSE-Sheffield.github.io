@@ -136,7 +136,7 @@ Video recordings and slides from previous LunchBytes sessions are available via 
 ### Opportunities
 
 - Exciting new [opportunities for **EPSRC funded fellowships**](https://epsrc.ukri.org/files/funding/calls/2020/epsrc-postdoctoral-and-open-fellowships-guidance/) with opportunity for early career stage onwards applicants to focus on innovation, instrumentation/technique development or software engineering or to include non‐technical elements to create positive change in the research community.
-- The **Sheffield ReproducibiliTea network** is looking for a new coordinator. [ReproduciibiliTea](https://reproducibilitea.org/) is a peer-led journal club formed to help early-career researchers improve Open Science. There are groups all around the world. Would suit early-career researcher, including PhD candidates. Join the Google Group to start a  discussion: https://groups.google.com/a/sheffield.ac.uk/g/reproducibilitea"
+- The **Sheffield ReproducibiliTea network** is looking for a new coordinator. [ReproducibiliTea](https://reproducibilitea.org/) is a peer-led journal club formed to help early-career researchers improve Open Science. There are groups all around the world. Would suit early-career researcher, including PhD candidates. Join the Google Group to start a  discussion: https://groups.google.com/a/sheffield.ac.uk/g/reproducibilitea"
 
 ### Web and Blogs
 
