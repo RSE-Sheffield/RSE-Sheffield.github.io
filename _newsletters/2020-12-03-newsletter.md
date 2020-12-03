@@ -99,7 +99,11 @@ Kate Petherbridge.
     University of Bristol RSE Team will host a free 2-day workshop in partnership with AWS aimed at researchers and research software engineers with the goals of: learning how to port and optimise applications for the cloud, using portable cloud technologies, such as terraform, to configure and deploy infrastructure-as-code applications, and gaining real hands-on experience of developing cloud applications in partnership with experienced RSEs and AWS solutions architects
 * [**Joint Roadmap for Open Science Tools 2020 Conference**](https://investinopen.org/community/jrost-2020-conference/) — 14–16 Dec 2020, online — a virtual event designed to hold space for the community of practitioners building, maintaining, and advocating for open tools to support research and collaboration.
 * **Research IT Forum** — 16th Dec 2020, 15:00–16:30, Blackboard Collaborate — **save the date!** —  The [Research IT team](https://www.sheffield.ac.uk/it-services/research/support) will be holding its next Research IT forum event on the 16th of December from 3–4:30pm. These quarterly events will celebrate research at Sheffield.
-This December’s event will be dedicated to showcasing machine learning at Sheffield. You can expect to hear about the statistics behind machine learning and the use of machine learning in medical imaging. You’ll also hear about two new high performance computing resources that will be available to users here at the University of Sheffield.
+This December’s event will be dedicated to showcasing machine
+learning at Sheffield. You can expect to hear about the
+statistics behind machine learning and the use of machine
+learning in medical imaging. You’ll also hear about two new high
+performance computing resources that will soon be available to users here at the University of Sheffield.
 
 
 #### SORSE
