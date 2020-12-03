@@ -79,3 +79,8 @@ blockquote {
     color: #6a6a6a;
     border-left: .3rem solid #6a6a6a;
 }
+
+/* optionally make .btn's wrap text */ 
+.btn-wrap {
+    white-space: normal;
+}
