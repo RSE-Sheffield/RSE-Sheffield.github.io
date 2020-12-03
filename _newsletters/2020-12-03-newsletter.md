@@ -109,7 +109,7 @@ If you're interested in curating a session or giving a talk, get in touch at: lu
 * [Lunch bytes #3: Accelerated Machine Learning](https://rse.shef.ac.uk/events/lunchbytes-2020-12-09.html) — 12:00 Wednesday 9th December, online Google meet.
   We have short talks from NAG and NVIDIA covering Accelerated
   Machine Learning using cloud computing, and how accelerated
-  machine learning can be used to tackle simulation in physica
+  machine learning can be used to tackle simulation in physics
   and engineering. There will be opportunity for discussion and
   questions too!
 * [Lunch bytes #4: Data Visualisation](https://rse.shef.ac.uk/events/lunchbytes-2021-01-13.html) — 12:00 Wednesday 13th January
