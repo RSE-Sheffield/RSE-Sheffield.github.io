@@ -63,7 +63,7 @@ an eye out for relevant published articles. We have:
 * [Ten simple rules for writing Dockerfiles for reproducible data science](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008316)
 * [Five rules for evidence communication](https://www.nature.com/articles/d41586-020-03189-1)
 * [Implementing version control with Git and GitHub as a learning objective in statistics and data science courses](https://www.tandfonline.com/doi/full/10.1080/10691898.2020.1848485);
-  a welcome write-up of one groups experiences in teaching `git`
+  a welcome write-up of one group’s experiences in teaching `git`
   and GitHub.
 * [Nature announce that Google's AlphaFold has solved protein folding](https://www.nature.com/articles/d41586-020-03348-4)
 
