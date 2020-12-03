@@ -13,7 +13,7 @@ type: text
 
 ## University of Sheffield Research Software Engineering Team Newsletter December 2020
 
-Before you read the rest of the newletter, I'd like to point out
+Before you read the rest of the newsletter, I'd like to point out
 our own [Lunch bytes talks on Dec 9](https://rse.shef.ac.uk/events/lunchbytes-2020-12-09.html).
 This month's theme is Accelerated Machine Learning, and we have
 short talks from NAG and NVIDIA.
