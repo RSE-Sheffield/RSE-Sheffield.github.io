@@ -13,6 +13,11 @@ type: text
 
 ## University of Sheffield Research Software Engineering Team Newsletter December 2020
 
+Before you read the rest of the newletter, I'd like to point out
+our own [Lunch bytes talks on Dec 9](https://rse.shef.ac.uk/events/lunchbytes-2020-12-09.html).
+This month's theme is Accelerated Machine Learning, and we have
+short talks from NAG and NVIDIA.
+
 This is the 6th monthly newsletter from
 the [Research Software Engineering Team](https://rse.shef.ac.uk/) at The University of Sheffield.
 We aim to share our experiences and information of other communities for those using software for research.
@@ -32,7 +37,7 @@ You might like to try [Project Euler](https://projecteuler.net/) which is
 a series of problems that are designed to be solved with the aid
 of a computer (no particular programming language is recommended).
 
-Euler Problem 1―Multiples of 3 and 5― is:
+Euler Problem 1―Multiples of 3 and 5―is:
 
 > If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
 > 
@@ -54,7 +59,6 @@ Euler Problem 1―Multiples of 3 and 5― is:
   congratulations!
 * JISC are launching a new interdisciplinary research community;
   we heard about it from [the Software Sustainability Institute's blog article about it](https://www.software.ac.uk/news/new-interdisciplinary-research-community-improve-research-practice).
-* @@@ Write something about nbdev here: https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices/
 * The Software Sustainability Institute has their annual Collaborations Workshop, and 2021 is no exception.
   [Registration is now open](https://www.eventbrite.co.uk/e/collaborations-workshop-2021-cw21-collabw21-tickets-125883600237)
 * ExCALIBUR, DiRAC, N8, and groups at Durham are hosting a
@@ -109,14 +113,19 @@ This December’s event will be dedicated to showcasing machine learning at Shef
 * [From experimental software to research infrastructure maturity ](https://sorse.github.io/programme/talks/event-009/) — 7th Dec 14:30–15:00
 * And if you've ever wanted to Ask SORSE Anything, there's an event for that: [SORSE — Ask Us Anything sessions](https://sorse.github.io/programme/ask-us-anything/) — 16th Dec 10:00–mystery-lunch-time.
 
-#### LunchBytes
-[LunchBytes](https://rse.shef.ac.uk/community/lunch-bytes/) is a monthly series of short talks for those in the research community at TUOS who work with/write code, use/manage research data and use/manage research infrastructure. Through these talks we come together as a community to discuss best practices and useful methods/tools.
+#### Lunch bytes
+[Lunch bytes](https://rse.shef.ac.uk/community/lunch-bytes/) is a monthly series of short talks for those in the research community at TUOS who work with/write code, use/manage research data and use/manage research infrastructure. Through these talks we come together as a community to discuss best practices and useful methods/tools.
 
 If you're interested in curating a session or giving a talk, get in touch at: lunchbytes-organisers-group@sheffield.ac.uk
 
-##### Upcoming LunchBytes
-* [LunchBytes #3: Accelerated Machine Learning](https://rse.shef.ac.uk/events/lunchbytes-2020-12-09.html) — 12:00 Wednesday 9th December
-* [LunchBytes #4: Data Visualisation](https://rse.shef.ac.uk/events/lunchbytes-2021-01-13.html) — 12:00 Wednesday 13th January
+##### Upcoming Lunch bytes
+* [Lunch bytes #3: Accelerated Machine Learning](https://rse.shef.ac.uk/events/lunchbytes-2020-12-09.html) — 12:00 Wednesday 9th December, online Google meet.
+  We have short talks from NAG and NVIDIA covering Accelerated
+  Machine Learning using cloud computing, and how accelerated
+  machine learning can be used to tackle simulation in physica
+  and engineering. There will be opportunity for discussion and
+  questions too!
+* [Lunch bytes #4: Data Visualisation](https://rse.shef.ac.uk/events/lunchbytes-2021-01-13.html) — 12:00 Wednesday 13th January
 
 ##### Previous LunchBytes
 Video recordings and slides from previous LunchBytes sessions are available via the [RSE Sheffield website](https://rse.shef.ac.uk/)
