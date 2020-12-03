@@ -50,8 +50,10 @@ Euler Problem 1―Multiples of 3 and 5―is:
 * [Marion Weinzer is joining the N8 Centre of Excellence in Computationally Intensive Research as their Research Software Engineering theme leader](https://n8cir.org.uk/news/new-rse-theme-leader/); welcome!
 * Our own RSE Team leader Paul Richmond has been [appointed President of the Society of Research Software Engineering](https://insigneo.org/2020/11/dr-paul-richmond-appointed-president-of-the-society-of-research-software-engineering/);
   congratulations!
-* The Software Sustainability Institute has their annual Collaborations Workshop, and 2021 is no exception.
-  [Registration is now open](https://www.eventbrite.co.uk/e/collaborations-workshop-2021-cw21-collabw21-tickets-125883600237)
+* The Software Sustainability Institute's 2021 Collaborations Workshop
+  [is now open for registration is now open](https://www.eventbrite.co.uk/e/collaborations-workshop-2021-cw21-collabw21-tickets-125883600237);
+  this is an annual event that always proves to be fruitful and
+  a great experience for all attending.
 * ExCALIBUR, DiRAC, N8, and groups at Durham are hosting a
   series on online workshops on performance analysis of HPC
   codes. They are encouraging teams to apply and their [Call For
