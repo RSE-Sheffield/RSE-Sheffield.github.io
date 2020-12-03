@@ -18,6 +18,10 @@ our own [Lunch bytes talks on Dec 9](https://rse.shef.ac.uk/events/lunchbytes-20
 This month's theme is Accelerated Machine Learning, and we have
 short talks from NAG and NVIDIA.
 
+One item, the call for the the [NVIDIA GPU Technology Conference](https://www.nvidia.com/en-us/gtc/call-for-submissions/),
+closes tomorrow, so this is a final reminder to press submit if
+you already have a proposal in draft form.
+
 This is the 6th monthly newsletter from
 the [Research Software Engineering Team](https://rse.shef.ac.uk/) at The University of Sheffield.
 We aim to share our experiences and information of other communities for those using software for research.
