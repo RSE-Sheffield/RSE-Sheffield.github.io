@@ -18,7 +18,7 @@ our own [Lunch bytes talks on Dec 9](https://rse.shef.ac.uk/events/lunchbytes-20
 This month's theme is Accelerated Machine Learning, and we have
 short talks from NAG and NVIDIA.
 
-One item, the call for the the [NVIDIA GPU Technology Conference](https://www.nvidia.com/en-us/gtc/call-for-submissions/),
+One item, the call for the [NVIDIA GPU Technology Conference](https://www.nvidia.com/en-us/gtc/call-for-submissions/),
 closes tomorrow, so this is a final reminder to press submit if
 you already have a proposal in draft form.
 
@@ -41,7 +41,7 @@ To receive this newsletter as an email each month, please sign up to our [Google
 * Our own RSE Team leader Paul Richmond has been [appointed President of the Society of Research Software Engineering](https://insigneo.org/2020/11/dr-paul-richmond-appointed-president-of-the-society-of-research-software-engineering/);
   congratulations!
 * The Software Sustainability Institute's 2021 Collaborations Workshop
-  [is now open for registration is now open](https://www.eventbrite.co.uk/e/collaborations-workshop-2021-cw21-collabw21-tickets-125883600237);
+  [is now open for registration](https://www.eventbrite.co.uk/e/collaborations-workshop-2021-cw21-collabw21-tickets-125883600237);
   this is an annual event that always proves to be fruitful and
   a great experience for all attending.
 * ExCALIBUR, DiRAC, N8, and groups at Durham are hosting a
@@ -63,7 +63,7 @@ an eye out for relevant published articles. We have:
 ### Events
 
 * [**Advent of Code**](https://adventofcode.com/) — Dec 2020 05:00 — Advent of Code has started already, but it's never too late to start, and you can proceed at your own pace.
-  A month of advent-themed themed coding challenges throughout December!
+  A month of advent-themed coding challenges throughout December!
   If you fancy making your Advent of Code social, join the
   `#adventofcode` channel on [our Slack](https://rse-uos.slack.com/signup#/).
 * [**NVIDIA GPU Technology Conference**](https://www.nvidia.com/en-us/gtc/call-for-submissions/) — Call for poster and talk submissions, deadline Fri 4th Dec 2020 —
