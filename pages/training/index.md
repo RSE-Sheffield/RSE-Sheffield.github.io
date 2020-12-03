@@ -45,6 +45,6 @@ Our team has a very broad range of skills and we are passionate about passing th
 [data-carp]: https://datacarpentry.org/
 [hpc-carp-shell]: https://rse.shef.ac.uk/hpc-shell-tuos-training-cluster/
 [its-courses]: https://www.sheffield.ac.uk/it-services/research/training/timetable
-[its]: https://www.sheffield.ac.uk/it-services/research/support
+[its]: https://www.sheffield.ac.uk/it-services/research
 [repro-res-r]: https://annakrystalli.me/rrresearchACCE20/
 [soft-carp]: https://software-carpentry.org/
