@@ -47,18 +47,9 @@ Euler Problem 1―Multiples of 3 and 5―is:
 ### News
 
 * On Nov 6, the RSE Team at Sheffield published their [November Newsletter](https://rse.shef.ac.uk/newsletters/2020-11-06-newsletter.html)!
-* In November the Consortium for Python Data API Standards
-  announced a call for comments on and contributions to their
-  first release of the Array API Standard. This attempts to
-  create a uniform API, at least for basic operations, across
-  array libraries such as NumPy, TensorFlow, Dask, JAX, and so
-  on.
-  See more at [their blog post](https://data-apis.org/blog/array_api_standard_release/)
 * [Marion Weinzer is joining the N8 Centre of Excellence in Computationally Intensive Research as their Research Software Engineering theme leader](https://n8cir.org.uk/news/new-rse-theme-leader/); welcome!
 * Our own RSE Team leader Paul Richmond has been [appointed President of the Society of Research Software Engineering](https://insigneo.org/2020/11/dr-paul-richmond-appointed-president-of-the-society-of-research-software-engineering/);
   congratulations!
-* JISC are launching a new interdisciplinary research community;
-  we heard about it from [the Software Sustainability Institute's blog article about it](https://www.software.ac.uk/news/new-interdisciplinary-research-community-improve-research-practice).
 * The Software Sustainability Institute has their annual Collaborations Workshop, and 2021 is no exception.
   [Registration is now open](https://www.eventbrite.co.uk/e/collaborations-workshop-2021-cw21-collabw21-tickets-125883600237)
 * ExCALIBUR, DiRAC, N8, and groups at Durham are hosting a
@@ -139,6 +130,15 @@ Video recordings and slides from previous LunchBytes sessions are available via 
 
 ### Web and Blogs
 
+* In November the Consortium for Python Data API Standards
+  announced a call for comments on and contributions to their
+  first release of the Array API Standard. This attempts to
+  create a uniform API, at least for basic operations, across
+  array libraries such as NumPy, TensorFlow, Dask, JAX, and so
+  on.
+  See more at [their blog post](https://data-apis.org/blog/array_api_standard_release/)
+* JISC are launching a new interdisciplinary research community;
+  we heard about it from [the Software Sustainability Institute's blog article about it](https://www.software.ac.uk/news/new-interdisciplinary-research-community-improve-research-practice).
 - The [**RSE Stories Podcasts**](http://us-rse.org/rse-stories/)
   continues to be strong, with several excellent audio logs recently taped:
     * [Open Science is Critical](http://us-rse.org/rse-stories/2020/michelle-barker/) says *Michelle Barker*.
