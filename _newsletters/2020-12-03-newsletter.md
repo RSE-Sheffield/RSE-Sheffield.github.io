@@ -135,20 +135,15 @@ Video recordings and slides from previous LunchBytes sessions are available via 
 ### Opportunities
 
 - Exciting new [opportunities for **EPSRC funded fellowships**](https://epsrc.ukri.org/files/funding/calls/2020/epsrc-postdoctoral-and-open-fellowships-guidance/) with opportunity for early career stage onwards applicants to focus on innovation, instrumentation/technique development or software engineering or to include non‐technical elements to create positive change in the research community.
-
-- Two exciting new **Research Software Engineering positions advertised at the Leiden Institute of Advanced Computer Science**. The Dutch Language requirement is negotiable. https://www.universiteitleiden.nl/en/vacancies/2020/q3/20-432-research-software-engineers
 - The **Sheffield ReproducibiliTea network** is looking for a new coordinator. [ReproduciibiliTea](https://reproducibilitea.org/) is a peer-led journal club formed to help early-career researchers improve Open Science. There are groups all around the world. Would suit early-career researcher, including PhD candidates. Join the Google Group to start a  discussion: https://groups.google.com/a/sheffield.ac.uk/g/reproducibilitea"
 
 ### Web and Blogs
 
-- [**RSE Stories Podcasts**](http://us-rse.org/rse-stories/). Another bunch of excellent RSE Stories podcasts were released last month, including an interview with our very own RSE Anna Krystalli:
-    * [Publish Without Perish](http://us-rse.org/rse-stories/2020/emmy-tsang/), *Emmy Tsang*
-    * [The Wisdom of the Systems Engineer](http://us-rse.org/rse-stories/2020/bruce-wilson/), *Bruce Wilson*
-    * [R for Reproducibility](https://us-rse.org/rse-stories/2020/anna-krystalli/), *Anna Krystalli*
-    * [Establish or Perish](http://us-rse.org/rse-stories/2020/kenton-mchenry/), *Kenton McHenry*
-    * [Pushing the bubble](http://us-rse.org/rse-stories/2020/mike-spencer/) *Mike Spencer*
-    * [The Fortran Maestro](http://us-rse.org/rse-stories/2020/damian-rouson/), *Damian Rouson*
-
+- The [**RSE Stories Podcasts**](http://us-rse.org/rse-stories/)
+  continues to be strong, with several excellent audio logs recently taped:
+    * [Open Science is Critical](http://us-rse.org/rse-stories/2020/michelle-barker/) says *Michelle Barker*.
+    * [Key is your value set](http://us-rse.org/rse-stories/2020/brian-hills/), *Brian Hills*.
+    * [Give me Security, Give me Hope](http://us-rse.org/rse-stories/2020/alex-koufos/), *Alex Koufos*.
 
 ### Software and Updates
 
