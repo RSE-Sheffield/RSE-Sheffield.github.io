@@ -33,20 +33,6 @@ To receive this newsletter as an email each month, please sign up to our [Google
 
 *All dates and times are in GMT (UTC+00)*
 
-### Puzzle Corner
-
-Are you looking for a fun programming based set of puzzles to
-while away those long (boreal) winter nights?
-You might like to try [Project Euler](https://projecteuler.net/) which is
-a series of problems that are designed to be solved with the aid
-of a computer (no particular programming language is recommended).
-
-Euler Problem 1―Multiples of 3 and 5―is:
-
-> If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
-> 
-> Find the sum of all the multiples of 3 or 5 below 1000.
-
 
 ### News
 
@@ -133,6 +119,21 @@ Video recordings and slides from previous LunchBytes sessions are available via 
 * [LunchBytes #2: pros and cons of Jupyter Notebooks](https://rse.shef.ac.uk/events/lunchbytes-2020-10-07.html)
 * [LunchBytes #1: writing safer (Python) code](https://rse.shef.ac.uk/events/lunchbytes-2020-09-09.html)
 
+### Puzzle Corner
+
+Are you looking for a fun programming based set of puzzles to
+while away those long (boreal) winter nights?
+You might like to try [Project Euler](https://projecteuler.net/) which is
+a series of problems that are designed to be solved with the aid
+of a computer (no particular programming language is recommended).
+
+Euler Problem 1―Multiples of 3 and 5―is:
+
+> If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
+> 
+> Find the sum of all the multiples of 3 or 5 below 1000.
+
+
 ### Opportunities
 
 - Exciting new [opportunities for **EPSRC funded fellowships**](https://epsrc.ukri.org/files/funding/calls/2020/epsrc-postdoctoral-and-open-fellowships-guidance/) with opportunity for early career stage onwards applicants to focus on innovation, instrumentation/technique development or software engineering or to include non‐technical elements to create positive change in the research community.
@@ -148,7 +149,7 @@ Video recordings and slides from previous LunchBytes sessions are available via 
   on.
   See more at [their blog post](https://data-apis.org/blog/array_api_standard_release/)
 * JISC are launching a new interdisciplinary research community;
-  we heard about it from [the Software Sustainability Institute's blog article about it](https://www.software.ac.uk/news/new-interdisciplinary-research-community-improve-research-practice).
+  read more about it over at [the Software Sustainability Institute's blog](https://www.software.ac.uk/news/new-interdisciplinary-research-community-improve-research-practice).
 - The [**RSE Stories Podcasts**](http://us-rse.org/rse-stories/)
   continues to be strong, with several excellent audio logs recently taped:
     * [Open Science is Critical](http://us-rse.org/rse-stories/2020/michelle-barker/) says *Michelle Barker*.
@@ -159,7 +160,7 @@ Video recordings and slides from previous LunchBytes sessions are available via 
 
 - [GitHub on nbdev](https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices/)
   GitHub have a nice blog article about their collaboration with
-  fastai in bring `nbdev` to GitHub's web-offering (in preview
+  fastai to bring `nbdev` to GitHub's web-offering (in preview
   only at the moment). Definitely one to keep an eye on.
 - [RStudio v1.4 Preview: Python
   Support](https://blog.rstudio.com/2020/10/07/rstudio-v1-4-preview-python-support/):
