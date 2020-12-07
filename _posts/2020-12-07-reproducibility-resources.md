@@ -28,6 +28,9 @@ To go along with my talk at the [Royal Microscopical Society's Virtual Data Anal
 **Put your data on Figshare:**
 * [ORDA](https://www.sheffield.ac.uk/library/rdm/orda)
 
+**Advice on intellectual property (from a commercialisation prespective):**
+* [Research Services](https://www.sheffield.ac.uk/rs/commercialisation)
+
 ## Reproducibility...
 
 **A readable survey report on reproducibility:**
@@ -36,11 +39,17 @@ To go along with my talk at the [Royal Microscopical Society's Virtual Data Anal
 **The UK government roadmap (Summer 2020):**
 * [UK Research and Development Roadmap](https://www.gov.uk/government/publications/uk-research-and-development-roadmap)
 
+**International views on digital skills training for reproducibility:**
+* [OECD Global Science Forum Building digital workforce capacity and skills for data-intensive science](http://www.oecd.org/officialdocuments/publicdisplaydocumentpdf/?cote=DSTI/STP/GSF(2020)6/FINAL&docLanguage=En)
+
 **Detailled help with reproducible data science:**
 * [The Turing Way](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science)
 
 **Tools for Open Science using the R programming language:**
 * [rOpenSci](https://ropensci.org/)
+
+**A key article on what constitutes reproducible research:**
+* [Reproducible Research in Computational Science](https://science.sciencemag.org/content/334/6060/1226)
 
 ## Open Data...
 
@@ -74,6 +83,9 @@ To go along with my talk at the [Royal Microscopical Society's Virtual Data Anal
 
 **Organisation supporting better research software:**
 * [Software Sustainability Institute](https://www.software.ac.uk/)
+
+**Applying FAIR-like priniciples to code:**
+* [Fair-code](https://faircode.io/)
 
 # Training / Learning...
 
