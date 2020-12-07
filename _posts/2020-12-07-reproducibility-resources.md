@@ -89,6 +89,9 @@ To go along with my talk at the [Royal Microscopical Society's Virtual Data Anal
 **Applying FAIR-like priniciples to code:**
 * [Fair-code](https://faircode.io/)
 
+**Example completed software checklist:**
+* [SCRC Software checklist](https://github.com/ScottishCovidResponse/simple_network_sim/blob/master/software_checklist.md)
+
 # Training / Learning...
 
 **Leading organisation for software and data science training courses:**
