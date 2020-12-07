@@ -67,11 +67,13 @@ To go along with my talk at the [Royal Microscopical Society's Virtual Data Anal
 **Help with finding the right license for your work:**
 * [Choose a license](https://choosealicense.com)
 
-# Publishing...
+# Publishing / Impact...
 
 **"Nature"'s rules for code:**
 * [“Nature Reporting Standards.” Nature Editorial Policy, 2020](https://www.nature.com/nature-research/editorial-policies/reporting-standards#availability-of-computer-code)
 
+**Recognising more diverse research outputs:**
+* [The hidden REF](https://hidden-ref.org/)
 # Research Software Engineering...
 **RSE Communities:**
 * [UK RSE Society](https://society-rse.org/)
