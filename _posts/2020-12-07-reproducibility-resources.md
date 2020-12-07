@@ -62,19 +62,21 @@ To go along with my talk at the [Royal Microscopical Society's Virtual Data Anal
 **Repositories for specific data types in biomedicine:**
 * Example biomedical data repositories: [GenBank](https://www.ncbi.nlm.nih.gov/genbank/), [Protein Data Bank](https://www.rcsb.org/), [UniProt](https://www.uniprot.org/)
 
-# Copyright / licensing...
+## Copyright / licensing...
 
 **Help with finding the right license for your work:**
 * [Choose a license](https://choosealicense.com)
 
-# Publishing / Impact...
+## Publishing / Impact...
 
 **"Nature"'s rules for code:**
 * [“Nature Reporting Standards.” Nature Editorial Policy, 2020](https://www.nature.com/nature-research/editorial-policies/reporting-standards#availability-of-computer-code)
 
 **Recognising more diverse research outputs:**
 * [The hidden REF](https://hidden-ref.org/)
-# Research Software Engineering...
+
+## Research Software Engineering...
+
 **RSE Communities:**
 * [UK RSE Society](https://society-rse.org/)
 * [Germany](https://de-rse.org/en/)
@@ -92,7 +94,7 @@ To go along with my talk at the [Royal Microscopical Society's Virtual Data Anal
 **Example completed software checklist:**
 * [SCRC Software checklist](https://github.com/ScottishCovidResponse/simple_network_sim/blob/master/software_checklist.md)
 
-# Training / Learning...
+## Training / Learning...
 
 **Leading organisation for software and data science training courses:**
 * [The Carpentries](https://carpentries.org/)
