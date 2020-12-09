@@ -16,7 +16,7 @@ slides_url:
 
 At this LunchBytes event we'll be exploring the process of accelerating machine learning on the cloud and using machine learning to accelerate physics simulations.
 
-* [Video recording of the session](https://drive.google.com/file/d/13i4UVGevnBbtQhAQJLP-uRdTcttpT2Ap/view?usp=sharing)
+* [Video recording of the session](https://digitalmedia.sheffield.ac.uk/media/t/1_9ukwvbqx)
 * [Intro & outro slides](https://drive.google.com/file/d/1Kfd0nxmvISmFAwU4bSL7PZzSgPxo88LH/view?usp=sharing)
 
 
