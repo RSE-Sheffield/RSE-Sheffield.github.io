@@ -16,7 +16,8 @@ slides_url:
 
 At this LunchBytes event we'll be exploring the process of accelerating machine learning on the cloud and using machine learning to accelerate physics simulations.
 
-[Google JamBoard for Q&A](https://jamboard.google.com/d/1KZ1opLyLQ194sv1ZI0RV-0cr7J16XAVAMNYpkBtpX5w/edit?usp=sharing): note down questions/comments (using JamBoard Sticky Notes) before/during the event. 
+* [Video recording of the session](https://digitalmedia.sheffield.ac.uk/media/t/1_9ukwvbqx)
+* [Intro & outro slides](https://drive.google.com/file/d/1Kfd0nxmvISmFAwU4bSL7PZzSgPxo88LH/view?usp=sharing)
 
 
 ## Scalable ML in the Cloud - First Steps on MS Azure 
@@ -32,7 +33,9 @@ For new users the cloud can be a complex and overwhelming environment, even for 
 
 Accelerating physics and engineering using Physics Informed Neural Network (PINN)
 
+## Q & A Jamboard
 
+[Google JamBoard for Q&A](https://jamboard.google.com/d/1KZ1opLyLQ194sv1ZI0RV-0cr7J16XAVAMNYpkBtpX5w/edit?usp=sharing): note down questions/comments (using JamBoard Sticky Notes) before/during the event. 
 
 
 ### Joining instructions
