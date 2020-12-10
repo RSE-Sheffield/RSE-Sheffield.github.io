@@ -26,6 +26,8 @@ At this LunchBytes event we'll be exploring the process of accelerating machine 
 
 For new users the cloud can be a complex and overwhelming environment, even for experienced users of traditional HPC and on-premises computing. In this talk I will look at some of the common issues experienced when deploying machine learning training in the cloud, and how to get going quickly and efficiently. I will share my own experiences of performing distributed ML training on Microsoft Azure, including what worked, what didn't, and what I wish someone had told me before I started!
 
+**[Slides](https://drive.google.com/file/d/18cvQWAJmbbaF2Zy1sKRpYllxsKc2LPHB/view?usp=sharing)**
+
 
 ## NVIDIA SimNet
 
