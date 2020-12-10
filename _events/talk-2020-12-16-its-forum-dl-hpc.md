@@ -7,7 +7,7 @@ to: "16:30"
 location: "Online"
 speaker: "Twin Karmakharm, Paul Richmond"
 slides_url: 
-title: "JADE II and Bede Tier-2 HPC Cluster"
+title: "JADE II and Bede Tier-2 HPC Cluster (IT Services Forum)"
 ---
 
 Two talks on JADE II and Bede Tier-2 HPC cluster will be given by the RSE team (Twin Karmakharm and Paul Richmond respectively) at the IT Services forum. 
@@ -15,9 +15,9 @@ Two talks on JADE II and Bede Tier-2 HPC cluster will be given by the RSE team (
 **Register for the event at [https://www.eventbrite.co.uk/e/research-it-forum-tickets-129300781117](https://www.eventbrite.co.uk/e/research-it-forum-tickets-129300781117).**
 
 
-### About this event
+### About the ITS Forum Event
 
-Our theme is machine/deep learning at TUoS, with emphasis on background maths/stats, an application of deep learning to medical images, and a high level overview of the new Tier 2 GPU clusters (Jade 2 & Bede).
+The theme is machine/deep learning at TUoS, with emphasis on background maths/stats, an application of deep learning to medical images, and a high level overview of the new Tier 2 GPU clusters (Jade 2 & Bede).
 
 The forum structure is:
 
