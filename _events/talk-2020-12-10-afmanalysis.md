@@ -10,7 +10,9 @@ title: "Royal Microscopical Society: Virtual Data Analysis in Atomic Force Micro
 
 ---
 
-[Register](https://www.rms.org.uk/data-analysis-in-atomic-force-microscopy.html)
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTiYzbk9AzBz9DtZwEtD_ObfMiN7fZfrMNbLzRdypcolrekuAobZZxGdtoto6xUpsVxLVkpvWV1uGNk/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+[Useful Links](/posts/2020-12-07-reproducibility-resources)
 
 **How can we make AFM data analysis more open and reproducible?** Making science more open and reproducible is increasingly a priority for government<sup>1</sup>, funding bodies and journals. It’s also a way of making research outputs including data, software and publications more impactful and accessible. Many of the practical steps needed to make research open and reproducible also make analysis workflows more effective and reduce the need for rework.
 
