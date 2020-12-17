@@ -7,7 +7,7 @@ to: "13:00"
 location: "Blackboard Collaborate"
 speaker: "Niall Gandy, Mark Dunning, Angus Taggart"
 institute: "University of Sheffield"
-title: "Lunch bytes #4: Data visualisation"
+title: "Lunch bytes #4: Beyond Static Data Visualisations"
 image:
 slides_url:
 ---
