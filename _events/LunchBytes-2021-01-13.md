@@ -4,7 +4,7 @@ date: 2021-01-13
 published: True
 from: "12:00"
 to: "13:00"
-location: "Blackboard Collaborate"
+location: "Google Meet"
 speaker: "Niall Gandy, Mark Dunning, Angus Taggart"
 institute: "University of Sheffield"
 title: "Lunch bytes #4: Beyond Static Data Visualisations"
@@ -15,7 +15,7 @@ slides_url:
 Data visualisation doesn't have to be confined to static two dimensional graphs. This session will look at some exciting alternatives to give you some food for thought.   
 Each talk will be ~10 minutes, leaving roughly half an hour for discussion/questions.
 
-[Google Meet event](https://meet.google.com/cmn-nxjd-tpf)
+[Google Meet event](meet.google.com/dyj-sbax-kmr)
 (participants can join 15 mins before the start of the session).
 
 [Google JamBoard for Q&A](https://jamboard.google.com/d/1e54F92qX1clBqqrp5_Vt8sibNJQsNixjhdBB8QLPU-k/): note down questions/comments (using JamBoard Sticky Notes) before/during the event.  
