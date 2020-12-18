@@ -3,7 +3,7 @@ title: "Deep Learning with Tensorflow through Keras in R"
 category: workshop
 tags:
 permalink: /training/workshop/2021-02-18-deep-learning-with-tensorflow-in-r
-date: 2021-02-11
+date: 2021-02-18
 from: "09:00"
 to: "17:00"
 location: "Online"
