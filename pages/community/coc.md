@@ -143,12 +143,14 @@ action will be taken.
 # Alternative Contact Points
 
 If you would prefer other ways to contact us,
-an email to <rse@sheffield.ac.uk> will be seen by the RSE Sheffield management team.
+an email to `rse@sheffield.ac.uk` will be seen by the RSE Sheffield management team.
 If you are uncomfortable reporting to the team,
 incidents can also be reported by email to any of the team:
 
--   Director of RSE Sheffield: [Paul Richmond](mailto:p.richmond@sheffield.ac.uk)
--   Senior Research Software Engineer : [Will Furnass](mailto:w.furnass@sheffield.ac.uk)
+  * Director of RSE Sheffield: [Paul Richmond](mailto:p.richmond@sheffield.ac.uk)
+  * Senior Research Software Engineer : [Will Furnass](mailto:w.furnass@sheffield.ac.uk)
+
+Any particular event may also list one or more additional event-specific contacts for Code of Conduct issues.
 
 # Update Logs
 
