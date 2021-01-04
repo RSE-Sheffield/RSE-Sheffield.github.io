@@ -1,6 +1,11 @@
-# RSE Sheffield's Events Code of Conduct
+---
+title: RSE Sheffield's Events Code of Conduct
+permalink: /community/coc/
+slug: seminars
+type: text
+---
 
-## Code of Conduct (Summary View)
+# Summary
 
 We are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity.
 By participating in activities organised by the University of Sheffield's Research Software Engineering team,
@@ -19,12 +24,12 @@ we encourage the following kinds of behaviours in all activities and events:
 If you believe someone is violating the Code of Conduct, we ask that you
 report it to the RSE Sheffield Events Code of Conduct Committee by [completing
 this
-form](ADD LINK),
+form](https://forms.gle/Ckx6PTFeiNLsyZMp8),
 who will take the appropriate action to address the situation.
 
-## [Code of Conduct (Detailed View)]{#detail}
+# Detailed View
 
-### Part 1. Introduction
+## Part 1. Introduction
 
 RSE Sheffield value the involvement of everyone at our events.
 We are committed to creating a friendly and respectful place for learning, teaching and contributing.
@@ -38,7 +43,7 @@ The RSE Sheffield management team is responsible for enforcing the Code of Condu
 They can be contacted by emailing `rse@sheffield.ac.uk>`.
 All reports will be reviewed by RSE Sheffield's managers and will be kept confidential.
 
-### Part 2. RSE Sheffield's Events Code of Conduct
+## Part 2. RSE Sheffield's Events Code of Conduct
 
 RSE Sheffield is dedicated to providing a welcoming and supportive environment at its events for all people, regardless of background or identity.
 As such, we do not tolerate behaviour that is disrespectful to our teachers, learners or admin staff,
@@ -74,7 +79,7 @@ Workshop hosts are expected to assist with the enforcement of the Code of Conduc
 By participating, participants indicate their acceptance of the procedures by which RSE Sheffield resolves any Code of Conduct incidents,
 which may include storage and processing of their personal information.
 
-### Part 2.1 Expected behaviour
+## Part 2.1 Expected behaviour
 
 All participants in our events and communications are expected to show respect and courtesy to others.
 All interactions should be professional regardless of platform: either online or in-person.
@@ -87,7 +92,7 @@ we encourage the following kinds of behaviours in all RSE Sheffield activities a
   - Focus on what is best for the community
   - Show courtesy and respect towards other community members
 
-### Part 2.2 Unacceptable behaviour
+## Part 2.2 Unacceptable behaviour
 
 Examples of unacceptable behaviour by participants in any RSE Sheffield
 events include:
@@ -110,7 +115,7 @@ events include:
     recording) with someone after being asked to stop
 -   publication of private communication without consent
 
-### Part 2.3 Consequences of Unacceptable behaviour
+## Part 2.3 Consequences of Unacceptable behaviour
 
 Participants who are asked to stop any inappropriate behaviour are
 expected to comply immediately. This applies to any RSE Sheffield events, 
@@ -120,7 +125,7 @@ the offender, ask them to leave the event or platform (without refund),
 or engage RSE Sheffield events Code of Conduct Committee to investigate the
 Code of Conduct violation and impose appropriate sanctions.
 
-## Reporting a Potential Code of Conduct Incident
+# Reporting a Potential Code of Conduct Incident
 
 If you believe someone violated the Code of Conduct during an RSE Sheffield
 event we ask that you report it. You are encouraged to submit
@@ -129,13 +134,13 @@ form may be completed anonymously, or you may include your contact
 information.
 
 [Submit a Code of Conduct Incident
-Report](TODO)
+Report](https://forms.gle/Ckx6PTFeiNLsyZMp8)
 
 The RSE Sheffield team takes all incident reports seriously and will review
 all reports. A report guarantees review, but not necessarily that an
 action will be taken.
 
-## Alternative Contact Points
+# Alternative Contact Points
 
 If you would prefer other ways to contact us,
 an email to <rse@sheffield.ac.uk> will be seen by the RSE Sheffield management team.
@@ -145,11 +150,11 @@ incidents can also be reported by email to any of the team:
 -   Director of RSE Sheffield: [Paul Richmond](mailto:p.richmond@sheffield.ac.uk)
 -   Senior Research Software Engineer : [Will Furnass](mailto:w.furnass@sheffield.ac.uk)
 
-## Update Logs
+# Update Logs
 
   - 2021-01-04 Initial version
 
-### About this document
+# About this document
 
 This document is adapted from [The ARCHER Training Code of Conduct](http://www.archer.ac.uk/training/code-of-conduct/index.php),
 which in turn was adapted from [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html),
