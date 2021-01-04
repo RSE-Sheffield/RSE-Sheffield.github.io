@@ -40,7 +40,7 @@ This Code of Conduct applies to all spaces managed by RSE Sheffield including, b
 Workshop hosts are expected to assist with the enforcement of the Code of Conduct.
 
 The RSE Sheffield management team is responsible for enforcing the Code of Conduct.
-They can be contacted by emailing `rse@sheffield.ac.uk>`.
+They can be contacted by emailing `rse@sheffield.ac.uk`.
 All reports will be reviewed by RSE Sheffield's managers and will be kept confidential.
 
 ## Part 2. RSE Sheffield's Events Code of Conduct
