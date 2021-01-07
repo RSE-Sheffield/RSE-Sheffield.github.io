@@ -5,7 +5,7 @@ published: True
 from: "12:00"
 to: "13:00"
 location: "Google Meet"
-speaker: "Niall Gandy, Mark Dunning, Angus Taggart, Hosts: Gemma Ives (IT Services), Will Furnass"
+speaker: "Niall Gandy, Mark Dunning, Angus Taggart, Host: Gemma Ives (IT Services)"
 institute:
 title: "Lunch bytes #4: Beyond Static Data Visualisations"
 image:
