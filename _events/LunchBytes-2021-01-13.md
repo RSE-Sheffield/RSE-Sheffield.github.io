@@ -5,8 +5,8 @@ published: True
 from: "12:00"
 to: "13:00"
 location: "Google Meet"
-speaker: "Niall Gandy, Mark Dunning, Angus Taggart"
-institute: "University of Sheffield"
+speaker: "Niall Gandy, Mark Dunning, Angus Taggart, Host: Gemma Ives (IT Services)"
+institute:
 title: "Lunch bytes #4: Beyond Static Data Visualisations"
 image:
 slides_url:
@@ -15,8 +15,7 @@ slides_url:
 Data visualisation doesn't have to be confined to static two dimensional graphs. This session will look at some exciting alternatives to give you some food for thought.   
 Each talk will be ~10 minutes, leaving roughly half an hour for discussion/questions.
 
-[Google Meet event](meet.google.com/dyj-sbax-kmr)
-(participants can join 15 mins before the start of the session).
+This session will take place on [Google Meet](https://meet.google.com/dyj-sbax-kmr) (https://meet.google.com/dyj-sbax-kmr) and participants can join 15 mins before the start of the session.
 
 [Google JamBoard for Q&A](https://jamboard.google.com/d/1e54F92qX1clBqqrp5_Vt8sibNJQsNixjhdBB8QLPU-k/): note down questions/comments (using JamBoard Sticky Notes) before/during the event.  
 
