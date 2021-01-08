@@ -28,3 +28,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Proofer for testing HTML output
 gem "html-proofer"
+
+# For redirects
+gem "jekyll-redirect-from"

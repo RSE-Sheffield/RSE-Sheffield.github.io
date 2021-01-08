@@ -9,6 +9,8 @@ speaker: "Niall Gandy, Mark Dunning, Angus Taggart, Host: Gemma Ives (IT Service
 institute:
 title: "Lunch bytes #4: Beyond Static Data Visualisations"
 image:
+redirect_from:
+  - /events/LunchBytes-2021-01-13.html
 slides_url:
 ---
 
