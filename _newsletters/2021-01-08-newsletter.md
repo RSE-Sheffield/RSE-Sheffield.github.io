@@ -105,7 +105,7 @@ Euler Problem 2 - Even Fibonacci Numbers is:
     * [The Purple Pythonista](http://us-rse.org/rse-stories/2021/tania-allard/), *Tania Allard*.
     * [All things R](http://us-rse.org/rse-stories/2020/maelle-salmon/), *Maëlle Salmon*.
     * [Founding Fathers - How research software engineering came to be](http://us-rse.org/rse-stories/2020/robert-haines/), *Robert Haines*.
-- [How to Make Your Code Reviewer Fall in Love with You] (https://mtlynch.io/code-review-love/) - A blog post on how to best contribute to the code review process as the writer of the code rather than the reviewer.
+- [How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/) - A blog post on how to best contribute to the code review process as the writer of the code rather than the reviewer.
 - [Making the most of an SSI Fellowship](https://www.software.ac.uk/blog/2021-01-05-how-make-most-ssi-fellowship-through-online-activities)
 - [Python Jupyter Notebooks in Excel](https://towardsdatascience.com/python-jupyter-notebooks-in-excel-5ab34fc6439) - A blog post describing a curious hybridisation of Jupyter Notebooks and Excel. Learn how to share data, write Excel functions in your notebook and script Excel using Python.
 	
