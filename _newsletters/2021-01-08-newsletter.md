@@ -46,6 +46,8 @@ making your research accessible from 22nd February to 7th March 2021.
 made their research open and other experts sharing their experiences, promoting best practices and discussing the challenges they are facing:
     - 18th January 2021 [Reproducibility in Practice](https://www.eventbrite.co.uk/e/open-research-conversation-reproducibility-in-practice-tickets-123726442119): a discussion on the importance of reproducibility and the challenges faced when attempting to reproduce others' research with Tom Stafford & Anna Krystalli
 * ARCHER2 are providing [training courses](https://www.archer2.ac.uk/training/#upcoming-training) throughout January which are free to academics and researchers.
+* [CSV Conference](https://csvconf.com/) is a community conference for data makers everywhere that features stories about data sharing and data analysis from science, journalism, government, and open source.
+
 
 
 #### SORSE
@@ -95,6 +97,7 @@ Euler Problem 2 - Even Fibonacci Numbers is:
 
 - Exciting new [opportunities for **EPSRC funded fellowships**](https://epsrc.ukri.org/files/funding/calls/2020/epsrc-postdoctoral-and-open-fellowships-guidance/) with opportunity for early career stage onwards applicants to focus on innovation, instrumentation/technique development or software engineering or to include non-technical elements to create positive change in the research community.
 - The Turing Institute are looking for a Research Associate for a machine learning project, [Molecular structure from images under physical constraints](https://www.turing.ac.uk/research/research-projects/molecular-structure-images-under-physical-constraints).
+- The University of Bristol are looking for a new [Senior Support Specialist (Research)](https://www.bristol.ac.uk/jobs/find/details/?jobId=206054&jobTitle=Senior%20Support%20Specialist%20(Research))
 
 ### Web and Blogs
 
