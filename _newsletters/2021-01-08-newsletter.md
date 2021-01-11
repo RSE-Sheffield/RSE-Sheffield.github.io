@@ -2,8 +2,8 @@
 layout: post
 title: January 2021 Newsletter
 editor: Matthew Leach
-slug: 2021-01-08-newsletter
-date: 2021-01-08 12:00:00 UTC
+slug: 2021-01-11-newsletter
+date: 2021-01-11 12:00:00 UTC
 tags:
 category:
 link:
@@ -31,19 +31,13 @@ To receive this newsletter as an email each month, please sign up to our [Google
 * The Software Sustainability Institute's 2021 Collaborations Workshop
   [is now open for registration](https://www.eventbrite.co.uk/e/collaborations-workshop-2021-cw21-collabw21-tickets-125883600237);
   this is an annual event that always proves to be fruitful and
-  a great experience for all attending.
+  a great experience for all attending. The event will bring together the research software community to discuss FAIR Research Software, Diversity & Inclusion, & Software Sustainability.
 * The Software Sustainability Institute has opened applications for their [2021 Fellowship Programme](https://www.software.ac.uk/programmes-and-events/fellowship-programme).
-
-
-We don't do a comprehensive survey of the journals, but we keep
-an eye out for relevant published articles. We have:
-* [Does GPT-2 Know Your Phone Number?](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008316) A blog post with accompanying paper on reproducing training set data verbatim in the GPT-2 language model.
-
 
 
 ### Events
 
-* [**LunchBytes: Beyond Static Data Visualisation**] — A series of short talks hosted by the Sheffield RSE group. This month, the theme for the talks is forms of data visualisation beyond simple static graphs.
+* [**LunchBytes: Beyond Static Data Visualisation**](https://rse.shef.ac.uk/events/LunchBytes-2021-01-13.html) — A series of short talks hosted by the Sheffield RSE group. This month, the theme for the talks is forms of data visualisation beyond simple static graphs.
 * The Software Sustainability Institute is running its first [online Research Software Camp](https://www.software.ac.uk/news/join-our-first-online-research-software-camp) on the topic of 
 making your research accessible from 22nd February to 7th March 2021.
 * [N8 CIR Bede HPC Cluster Introductory Event](https://n8cir.org.uk/events/bede-intro-jan-21/) - This introductory event offers those who are new to HPC the opportunity to learn more about Bede’s hardware and software, as well as the support that is available to users, regardless of their experience of HPC. The event is running online 28 Jan 2021 10 a.m. — 11:30 a.m.
@@ -51,7 +45,7 @@ making your research accessible from 22nd February to 7th March 2021.
 * The Scholarly Communications team at TUoS Library are hosting [Open Research Conversations](https://www.sheffield.ac.uk/library/research), a series of online discussions on Open Research Practices. Sessions will include talks from researchers who have
 made their research open and other experts sharing their experiences, promoting best practices and discussing the challenges they are facing:
     - 18th January 2021 [Reproducibility in Practice](https://www.eventbrite.co.uk/e/open-research-conversation-reproducibility-in-practice-tickets-123726442119): a discussion on the importance of reproducibility and the challenges faced when attempting to reproduce others' research with Tom Stafford & Anna Krystalli
-* ARCHER2 are providing training courses throughout January which are free to
+* ARCHER2 are providing [training courses](https://www.archer2.ac.uk/training/#upcoming-training) throughout January which are free to academics and researchers.
 
 
 #### SORSE
@@ -63,12 +57,12 @@ made their research open and other experts sharing their experiences, promoting 
 * [Web apps with the power of Python](https://sorse.github.io/programme/software-demos/event-034/) - February 3, 2021, 16:00 – 17:00 UTC
 
 
-#### Lunch bytes
-[Lunch bytes](https://rse.shef.ac.uk/community/lunch-bytes/) is a monthly series of short talks for those in the research community at TUOS who work with/write code, use/manage research data and use/manage research infrastructure. Through these talks we come together as a community to discuss best practices and useful methods/tools.
+#### LunchBytes
+[LunchBytes](https://rse.shef.ac.uk/community/lunch-bytes/) is a monthly series of short talks for those in the research community at TUOS who work with/write code, use/manage research data and use/manage research infrastructure. Through these talks we come together as a community to discuss best practices and useful methods/tools.
 
 If you're interested in curating a session or giving a talk, get in touch at: lunchbytes-organisers-group@sheffield.ac.uk
 
-##### Upcoming Lunch bytes
+##### Upcoming LunchBytes
 * [LunchBytes #4: Data Visualisation](https://rse.shef.ac.uk/events/LunchBytes-2021-01-13.html) - 12:00 Wednesday 13th January, online Google meet.
   This month, we have talks on plotting data in time using video,
   the use of Shiny to develop interactive web interfaces to represent 
@@ -100,10 +94,7 @@ Euler Problem 2 - Even Fibonacci Numbers is:
 ### Opportunities
 
 - Exciting new [opportunities for **EPSRC funded fellowships**](https://epsrc.ukri.org/files/funding/calls/2020/epsrc-postdoctoral-and-open-fellowships-guidance/) with opportunity for early career stage onwards applicants to focus on innovation, instrumentation/technique development or software engineering or to include non-technical elements to create positive change in the research community.
-- The **Sheffield ReproducibiliTea network** is looking for a new coordinator. [ReproducibiliTea](https://reproducibilitea.org/) is a peer-led journal club formed to help early-career researchers improve Open Science. There are groups all around the world. Would suit early-career researcher, including PhD candidates. Join the Google Group to start a discussion: https://groups.google.com/a/sheffield.ac.uk/g/reproducibilitea"
-- Applications are open to [join the ReproducibiliTea steering committee](https://reproducibilitea.org/sc/2020/12/10/steering-committee-applications) until January 10th 2021 (midnight GMT). 
 - The Turing Institute are looking for a Research Associate for a machine learning project, [Molecular structure from images under physical constraints](https://www.turing.ac.uk/research/research-projects/molecular-structure-images-under-physical-constraints).
-- There are a couple of days left to squeeze in an application for the [Open Life Science ambassador training program](https://openlifesci.org/).
 
 ### Web and Blogs
 
@@ -126,13 +117,13 @@ Euler Problem 2 - Even Fibonacci Numbers is:
 
 
 ### Resources
-* The British Ecological Society has a number of excellent [*Guides to Better Science*](https://www.britishecologicalsociety.org/publications/guides-to/), including:
-  * [Reproducible Code](https://www.britishecologicalsociety.org/wp-content/uploads/2019/06/BES-Guide-Reproducible-Code-2019.pdf) [PDF]
-  * [Data Management](https://www.britishecologicalsociety.org/wp-content/uploads/2019/06/BES-Guide-Data-Management-2019.pdf) [PDF]
-* [Free online docker course](https://training.play-with-docker.com/) -  labs and tutorials that help you get hands-on experience using Docker.
-* [LinkedIn Learning](https://www.sheffield.ac.uk/nap/service/redirect/lilearning) - TUoS members have access to a host of excellent training courses via LinkedIn Learning, covering an enormous base of different technologies. 
+* A Nature review of [reproducibility in research](https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970).
+* ACM recommendations for [alternatives to commonly used exclusive language terms](https://www.acm.org/diversity-inclusion/words-matter) within computing.
+* A nice [summary of various tensor computation libraries](https://eigenfoo.xyz/tensor-computation-libraries/).
+* A course on [Practical Data Science](https://www.coursera.org/specializations/practical-data-science-matlab).
 
-If you think there are other great training resources we should advertise, please get in [contact](rse-team-group@sheffield.ac.uk).
+
+If you think there are other great training resources we should advertise, please get in contact (rse-team-group@sheffield.ac.uk).
 
 ### Sheffield RSE Team Services
 
