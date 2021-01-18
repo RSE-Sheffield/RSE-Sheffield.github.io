@@ -5,7 +5,7 @@ published: True
 from: "12:00"
 to: "13:00"
 location: "Google Meet"
-speaker: "Niall Gandy, Mark Dunning, Angus Taggart, Host: Gemma Ives (IT Services)"
+speaker: "Niall Gandy, Mark Dunning, Angus Taggart, Seb James; Host: Gemma Ives (IT Services)"
 institute:
 title: "Lunch bytes #4: Beyond Static Data Visualisations"
 image:
@@ -15,7 +15,7 @@ slides_url:
 ---
 
 Data visualisation doesn't have to be confined to static two dimensional graphs. This session will look at some exciting alternatives to give you some food for thought.   
-Each talk will be ~10 minutes, leaving roughly half an hour for discussion/questions.
+Each talk will be ~10 minutes, leaving roughly 20 minutes for discussion/questions.
 
 This session will take place on [Google Meet](https://meet.google.com/dyj-sbax-kmr) (https://meet.google.com/dyj-sbax-kmr) and participants can join 15 mins before the start of the session.
 
@@ -42,3 +42,7 @@ In this short talk I will outline how the Sheffield Bioinformatics Core is using
 
 Considering the problem data visualisation solves and a look at the alternative tools in the toolbox. 
 
+
+## Take 4: High performance data visualisation with OpenGL
+
+*Seb James, Research Associate, Dept. of Psychology, The University of Sheffield*
