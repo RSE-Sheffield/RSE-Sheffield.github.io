@@ -1,14 +1,15 @@
 ---
 layout: post
-title: "Managing Container Security with GitHub"
+title: Managing Container Security with GitHub
 author: David Wilby
 slug: 2021-01-21-github-container-security
-date: 2020-01-21 12:00:00 UTC
+date: 2021-01-21 12:00:00 UTC
 tags:
 category:
 link:
 description:
 type: text
+excerpt_separator: <!--more-->
 social_image: /assets/images/logo/rse-logoonly-stroke.png
 ---
 
@@ -21,6 +22,8 @@ In a recent project, I have been developing an API server using Django run from 
 2. Run weekly security vulnerability checks and generate an alert if there are any problems.
 
 In this blog post, I'll describe the approach I took, why, and the drawbacks.
+
+<!--more-->
 
 # Project Background
 Simply put, this project was to create an API server for running (well-defined) simulations on an HPC resource. The API is used by a collaborator's web service to submit sets of parameters which are used to run a biomedical simulation. The API user also needs to monitor the progress of the batch job and once it's complete, download the results.
