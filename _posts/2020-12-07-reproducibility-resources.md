@@ -11,7 +11,9 @@ description:
 type: text
 ---
 
-To go along with my talk at the [Royal Microscopical Society's Virtual Data Analysis in Atomic Force Microscopy Meeting](https://www.rms.org.uk/data-analysis-in-atomic-force-microscopy.html), I've put together what I hope will be some useful links:
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTiYzbk9AzBz9DtZwEtD_ObfMiN7fZfrMNbLzRdypcolrekuAobZZxGdtoto6xUpsVxLVkpvWV1uGNk/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+To go along with my talk at the Royal Microscopical Society's [Virtual Data Analysis in Atomic Force Microscopy Meeting](https://www.rms.org.uk/data-analysis-in-atomic-force-microscopy.html) ([Event Page](/events/talk-2020-12-10-afmanalysis)), I've put together what I hope will be some useful links:
 
 ## If you’re a researcher at the University of Sheffield...
 
