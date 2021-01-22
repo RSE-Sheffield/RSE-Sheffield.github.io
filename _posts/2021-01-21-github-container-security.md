@@ -29,6 +29,7 @@ In this blog post, I'll describe the approach I took, why, and the drawbacks.
 Simply put, this project was to create an API server for running (well-defined) simulations on an HPC resource. The API is used by a collaborator's web service to submit sets of parameters which are used to run a biomedical simulation. The API user also needs to monitor the progress of the batch job and once it's complete, download the results.
 Not least because of 2020's [attacks on HPC clusters](blog/2020-05-20-ssh-best-prac/) - it is vital to take a defensive approach to any web-exposed software that grants any access to a computing resource. In this case, our app runs on an institutional virtual machine (VM), which has managed software updates designed to patch security vulnerabilities. However, due to our choice of using Docker/Docker-compose to manage the stack, we had to look after the updates ourselves.
 One option would have been to manage this on the VM using cron jobs and a mail server for alerts; but in this case we decided to run the tasks using some GitHub services, since we we already use GitHub frequently as a remote code repository, collaboration and project management tool.
+Arguably, this is a type of _Immutable infrastructure_ - whereby infrastructure components are developed and replaced, rather than changing them in place.
 
 # Containers
 It's perhaps beyond the scope of this blog post, but in brief, containers can be thought of as being a bit more than a virtual environment and a bit less than a virtual machine, running like a little computer on your computer, with just enough of an operating system and just enough resources to do the task they need to do.
@@ -37,7 +38,7 @@ Often (right now) when we mention containers we're talking about _Docker_ contai
 # GitHub Container Registry
 A container registry is a repository (or collection of repositories) of container images. Basically, they're places from which we can download container images.
 
-GitHub launched a container registry service in September 2020, as part of their packages ecosystem. Whilst DockerHub is the most common registry for docker images, for this project we wanted to keep our images private. Finding that GitHub container registry is free for private packages (up to a point, see below) for GitHub pro accounts (including pro for education, available to university members) whereas DockerHub is not, we elected to go the cheap-skate route. (As well as reducing the number of different services used..)
+GitHub launched a container registry service in September 2020, as part of their packages ecosystem. Whilst DockerHub is the most common registry for docker images, for this project we wanted to keep our images private. Finding that GitHub container registry is free for private packages (up to a point, see below) for GitHub pro accounts (including pro for education, available to university members) whereas DockerHub is not, we elected to go the cheap-skate route. (As well as reducing the number of different services used.)
 
 # GitHub Actions for Continuous Integration
 In addition, GitHub has a framework which can be used for continuous integration/development (CI/CD). CI is a practice in which code can be continually added to a project, checked, tested and deployed without having to stick to a rigid release procedure. In this case, one of the useful qualities of a CI platform is its ability to run processes on a schedule, or in response to changes to the code repository - and run those changes on a cloud instance.
@@ -172,6 +173,7 @@ steps:
     accessToken: ${{ secrets.GH_REG_PAT }}
     containerRegistry: true
 ```
+**Note**: There will only be one image tagged with a particular tag in the registry (eg `v0.1` or `latest`). When you push something with a tag that's already applied to an image in the repo, the tag is only applied to the most recent image and removed from the old one.
 
 # Run regular vulnerability checks
 In addition to automating image management, regular security vulnerability checks were paramount. We used GitHub actions again to run [Trivy](https://github.com/aquasecurity/trivy) - a container scanning tool; and [safety](https://pypi.org/project/safety/) - a python dependency scanner. Fortunately, off the shelf GitHub actions exist for both of these.
