@@ -1,8 +1,6 @@
 ---
 shortname: seaice
 longname: Polar Portal
-startdate: 01/11/2019
-enddate: 01/02/2020
 current: false
 rses: Bob Turner
 ---
