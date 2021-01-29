@@ -6,6 +6,8 @@
       url: /service/provision/
     - title: What we do
       url: /service/activities
+    - title: Projects
+      url: /service/projects
     - title: Testimonials
       url: /service/testimonials
 - title: "Support &amp; Training"

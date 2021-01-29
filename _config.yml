@@ -37,6 +37,8 @@ collections:
   people:
     output: true
     permalink: /contact/:path/
+  projects:
+    output: true
 
 # Build settings
 markdown: kramdown
