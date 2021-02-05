@@ -11,15 +11,25 @@ Research Software Engineering team projects are listed below.
 
 ## Current Projects
 
-{% assign projects = site.projects | sort: 'longname' %}
+{% assign projects = site.data.projects | sort: 'title' %}
+{% assign project_descriptions = site.project_descriptions %}
+{% assign today_date = 'now' | date: '%s' %}
+
 <div class="current-project-list">
-    {% for project in site.projects %}
-        {% if project.current == true %}
-            <b>{{project.longname}}</b>
-            <br/>
-            RSEs involved: <em>{{project.rses}}</em>
-            <br/>
-                {{ project.content }}
+    {% for project in projects %}
+        {% assign project_end_date = project.end | date: '%s' %}
+        {% if project_end_date >= today_date %}
+            {% for project_description in project_descriptions %}
+                {% if project_description.key == project.key %}
+                    <b>{{project.long_title}}</b>
+                    <br/>
+                    Collaborating Department: {{project.department}}
+                    <br/>
+                    Description
+                    <br/>
+                    {{project_description.content}}
+                {% endif %}
+            {% endfor %}
         {% endif %}
     {% endfor %}
 </div>
@@ -28,15 +38,21 @@ Research Software Engineering team projects are listed below.
 
 ## Previous Projects
 
-{% assign projects = site.projects | sort: 'longname' %}
-<div class="current-project-list">
-    {% for project in site.projects %}
-        {% if project.current == false %}
-            <b>{{project.longname}}</b>
-            <br/>
-            RSEs involved: <em>{{project.rses}}</em>
-            <br/>
-                {{ project.content }}
+<div class="previous-project-list">
+    {% for project in projects %}
+        {% assign project_end_date = project.end | date: '%s' %}
+        {% if project_end_date < today_date %}
+            {% for project_description in project_descriptions %}
+                {% if project_description.key == project.key %}
+                    <b>{{project.long_title}}</b>
+                    <br/>
+                    Collaborating Department: {{project.department}}
+                    <br/>
+                    Description
+                    <br/>
+                    {{project_description.content}}
+                {% endif %}
+            {% endfor %}
         {% endif %}
     {% endfor %}
 </div>
