@@ -68,7 +68,7 @@ Note that **slots can only be booked 48 hours or more before the scheduled time*
     so any confidential information shared over this medium
     is only covered by Google's standard privacy policy.
     If you have any questions regarding the information security implications of sharing your screen 
-    please contact the TUOS Information Security team via helpdesk@sheffield.ac.uk
+    please contact the TUOS Information Security team via it-servicedesk@sheffield.ac.uk
 
 ### On the day
 
