@@ -54,3 +54,4 @@ Considering the problem data visualisation solves and a look at the alternative 
 Data visualisation in c++: watching the action while it happens with morphologica's Visual class, a  "game engine" for data vis
 
 * **[Recording](https://www.youtube.com/watch?v=UejRHe-6LoM&list=PLwiQ_IuTOr_Us9_tBde96VLYQlRWOYeAP&index=1)**
+* **[Blog Post](https://dataviz.shef.ac.uk/blog/25/01/2021/Morphologica)**
