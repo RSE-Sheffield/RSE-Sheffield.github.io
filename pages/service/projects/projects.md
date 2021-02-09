@@ -23,11 +23,14 @@ Research Software Engineering team projects are listed below.
                 {% if project_description.key == project.key %}
                     <b>{{project.long_title}}</b>
                     <br/>
-                    Collaborating Department: {{project.department}}
+                    Collaborating Department: <em>{{project.department}}</em>
+                    <br/>
+                    Technology and methods: <em>{{project.tech_methods}}</em>
                     <br/>
                     Description
                     <br/>
                     {{project_description.content}}
+                    RSEs involved: <em>{{project.rses}}</em>
                 {% endif %}
             {% endfor %}
         {% endif %}
@@ -46,11 +49,14 @@ Research Software Engineering team projects are listed below.
                 {% if project_description.key == project.key %}
                     <b>{{project.long_title}}</b>
                     <br/>
-                    Collaborating Department: {{project.department}}
+                    Collaborating Department: <em>{{project.department}}</em>
+                    <br/>
+                    Technology and methods: <em>{{project.tech_methods}}</em>
                     <br/>
                     Description
                     <br/>
                     {{project_description.content}}
+                    RSEs involved: <em>{{project.rses}}</em>
                 {% endif %}
             {% endfor %}
         {% endif %}
