@@ -19,8 +19,8 @@ We aim to share our experiences and information of other communities for those u
 This newsletter collects interesting events and opportunities over the coming month.
 It also signposts to other resources that we find beneficial or interesting.
 You may find the content interesting if you are someone in research using software,
-such as a researcher, *research developer**,
-or a person paid to develop software (like a Research Software Engineer (RSE)).
+are a person paid to develop software (like a Research Software Engineer (RSE)).
+or are somewhere in-between (a *research developer*).
 
 To receive this newsletter as an email each month, please sign up to our [Google Group][rses-mail-list].
 
@@ -29,7 +29,7 @@ To receive this newsletter as an email each month, please sign up to our [Google
 
 ### News
 
-An [*International Council of RSE Associations*](https://researchsoftware.org/2021/01/27/introducing-the-international-council-of-RSE-associations.html) has been founded
+An [**International Council of RSE Associations**](https://researchsoftware.org/2021/01/27/introducing-the-international-council-of-RSE-associations.html) has been founded
 to help the various existing national Research Software Engineering associations work better together and
 to help develop new national RSE associations.
 The UK [Society of Research Software Engineering](https://society-rse.org/) is one of the founding member organisations.
@@ -54,13 +54,14 @@ Through this group members will share good practice, events and facilitating con
 
 ---
 
-The Research IT team in IT Services are now on Twitter ([@RIT_Sheffield](https://twitter.com/RIT_Sheffield)).
-Follow them for news regarding new resources and training.
+
+**Stanford have conducted a survey on the use and creation of research software**; see the [results here](https://stanford-rc.github.io/stanford-software-survey/).
+The RSE team at Sheffield conducted a similar survey here recently and will be sharing the results soon. 
 
 ---
 
-Stanford have conducted a survey on the use and creation of research software; see the [results here](https://stanford-rc.github.io/stanford-software-survey/).
-The RSE team at Sheffield conducted a similar survey here recently and will be sharing the results soon. 
+The Research IT team in IT Services are now on Twitter ([@RIT_Sheffield](https://twitter.com/RIT_Sheffield)).
+Follow them for news regarding new resources and training.
 
 ### Future events
 
@@ -77,22 +78,27 @@ Course Registration:
 
 ---
 
-**12-week course on parallel computing with GPus** starting 2021-02-07. 
+**12-week course on parallel computing with GPUs** starting 2021-02-07. 
 The course has been designed as an undergraduate 4th year module for the Dept of Computer Science
 but is available to staff and PhD Students (as part of the DDP program) and regularly has staff and PhD student enrollment.  
 The first 3 weeks are focused on teaching C and OpenMP followed by GPU programming with CUDA C. 
 Lectures are provided as pre-recorded mini lectures and there are 2 hours of scheduled support per week to undertake practical lab classes. 
 Assessment is not required for DDP or staff participants. 
 If you are interested in enrolling as a PhD student then please do so via [DDP](https://www.sheffield.ac.uk/rs/ddpportal/reg). 
-You will need to contact the DDP team to enroll (https://www.sheffield.ac.uk/rs/ddpportal/enquiry).
+You will need to [contact the DDP team to enroll](https://www.sheffield.ac.uk/rs/ddpportal/enquiry).
 Staff interested in enrolling for the module should contact `p.richmondsheffield.ac.uk`.
 
 ---
 
-[LunchBytes](https://rse.shef.ac.uk/community/lunch-bytes/) is a monthly series of short talks for those in the research community at TUOS who work with/write code, use/manage research data and use/manage research infrastructure. Through these talks we come together as a community to discuss best practices and useful methods/tools. If you're interested in curating a session or giving a talk, get in touch at: lunchbytes-organisers-group@sheffield.ac.uk
+[**LunchBytes**](https://rse.shef.ac.uk/community/lunch-bytes/) is a monthly series of **short talks for those in the research community at TUOS who work with/write code, use/manage research data and use/manage research infrastructure**. Through these talks we come together as a community to discuss best practices and useful methods/tools. If you're interested in curating a session or giving a talk, get in touch at: lunchbytes-organisers-group@sheffield.ac.uk
 
-The ****next LunchBytes** event will be in early to mid March, with a provional theme of **Making GPU programming more accessible**.
+The **next LunchBytes event** will be in early to mid March, with a provional theme of **Making GPU programming more accessible**.
 The exact date and details of talks will be advertised soon via the RSE team's [mailing list](https://groups.google.com/a/sheffield.ac.uk/g/rse-group).
+
+---
+
+ITS have announced 2021 dates for [**lots more Linux, shell scripting, HPC and numerous Python workshops**][its-workshops].
+Follow the link for dates and registration info.
 
 ---
 
@@ -112,16 +118,6 @@ This will allow participants to ask questions and start conversations around Chr
 
 ---
 
-External workshop on **Sustainable Software Development for Researchers**: At this workshop, attendees will learn about the basic steps to prepare code for sharing with others and make it ready for citation in a research paper.
-
-This workshop is run by [Carina Haupt](https://www.dlr.de/sc/en/desktopdefault.aspx/tabid-1192/1635_read-28643/sortby-lastname/), Head of Group Software at the German Aerospace Centre. It consists of two sessions taking place on Thursday 25 February 13:00 to 17:00 GMT and Friday 26 February 9:00 to 12:30 GMT -- participants attend both sessions. [Register on Eventbrite](https://www.eventbrite.co.uk/e/research-software-camp-sustainable-software-development-for-researchers-tickets-139626658093?aff=erelpanelorg).
-
-External workshop on **Boosting your research reproducibility with Binder**
-
-"During this free workshop, we will discuss reproducible computing environments and why they're important, show examples of others' projects in [mybinder.org](https://mybinder.org/) and help you learn how to prepare a binder-ready project." The workshop is run by The Turing Way, and will take place on Wednesday 3 March 2021, 10:00 to 16:30 GMT. [Register on Eventbrite.](https://www.eventbrite.co.uk/e/research-software-camp-boost-your-research-reproducibility-with-binder-tickets-138852787425)
-
----
-
 If you are part of a team that already or wants to accelerate some software using GPU programming (e.g. CUDA, Sykl, rocM, OpenCL)
 then you may be interested in a [**GPU hackathon being organised by EPCC**](https://gpuhackathons.org/event/epcc-gpu-hackathon-2021) 
 at which you could get support from experienced, knowledgable mentors. 
@@ -130,6 +126,16 @@ See these [blog](https://rse.shef.ac.uk/blog/2019-10-10-gpu-hackathon/) [posts](
 for what a GPU hackathon can offer.
 Application deadline: 2021-02-19.
 Event itself: 2021-04-19, 2021-04-26, 2021-04-27, 2021-04-28.
+
+---
+
+External workshop on **Sustainable Software Development for Researchers**: At this workshop, attendees will learn about the basic steps to prepare code for sharing with others and make it ready for citation in a research paper.
+
+This workshop is run by [Carina Haupt](https://www.dlr.de/sc/en/desktopdefault.aspx/tabid-1192/1635_read-28643/sortby-lastname/), Head of Group Software at the German Aerospace Centre. It consists of two sessions taking place on Thursday 25 February 13:00 to 17:00 GMT and Friday 26 February 9:00 to 12:30 GMT -- participants attend both sessions. [Register on Eventbrite](https://www.eventbrite.co.uk/e/research-software-camp-sustainable-software-development-for-researchers-tickets-139626658093?aff=erelpanelorg).
+
+---
+
+External workshop on **Boosting your research reproducibility with Binder**: "During this free workshop, we will discuss reproducible computing environments and why they're important, show examples of others' projects in [mybinder.org](https://mybinder.org/) and help you learn how to prepare a binder-ready project." The workshop is run by The Turing Way, and will take place on Wednesday 3 March 2021, 10:00 to 16:30 GMT. [Register on Eventbrite.](https://www.eventbrite.co.uk/e/research-software-camp-boost-your-research-reproducibility-with-binder-tickets-138852787425)
 
 ---
 
@@ -160,13 +166,6 @@ DAFNI is a national project to provide a platform for securely storing data and 
 
 The Library are running [an event on Electronic Lab Notebooks](https://www.sheffield.ac.uk/library/research) on the 2021-04-22.
 
----
-
-In January [Tom Stafford](https://tomstafford.staff.shef.ac.uk/) and [Anna Krystalli](https://annakrystalli.me/) 
-presented at a TUOS *Open Research Conversations* event on 
-future directions of reproducible research advocacy at TUOS and on some of the technical challenges.
-Slides from the event are now available here: [DOI:10.15131/shef.data.13516274](https://doi.org/10.15131/shef.data.13516274).
-
 
 ### Previous events
 
@@ -180,6 +179,13 @@ tools in the toolbox,
 plus an overview of a interactive data visualisation tool written in C++.
 
 Information on all previous LunchBytes sessions (including links to slides/video where available) can be [found on our site](https://rse.shef.ac.uk/community/lunch-bytes/).
+
+---
+
+In January [Tom Stafford](https://tomstafford.staff.shef.ac.uk/) and [Anna Krystalli](https://annakrystalli.me/) 
+presented at a TUOS *Open Research Conversations* event on 
+future directions of reproducible research advocacy at TUOS and on some of the technical challenges.
+Slides from the event are now available here: [DOI:10.15131/shef.data.13516274](https://doi.org/10.15131/shef.data.13516274).
 
 ---
 
@@ -205,29 +211,46 @@ For RSE vacancies across the UK and elsewhere see the Sociey of RSE's [jobs boar
 
 ### Web and Blogs
 
+
+A [post from UKRI chief executive Professor Dame Ottoline Leyser](https://www.ukri.org/news/viewpoint-researchs-lone-genius-image-is-unhelpful/)
+on why **research's 'lone genius' image is unhelpful**: 
+good research is often facilated by teams of people with complementary backgrounds and expertise.
+Dame Leyser is collaborting with "Minister for Science Research and Innovation, Amanda Solloway, to 
+find 101 people, doing 101 different jobs that 
+make major contributions to research and innovation, but who are not researchers and innovators."
+
+---
+
 HPCWire featured an [article on the Julia programming language](https://www.hpcwire.com/2021/01/13/julia-update-adoption-keeps-climbing-is-it-a-python-challenger/),
-which it argues could now be a serious challenger to Python, R and MATLAB given performance features provided by the language itself plus its expanding array of libraries (with the lack of libraries in its early days having limited adoption then).
+which it argues could now be a serious challenger to Python, R and MATLAB given performance features provided by the language itself plus 
+its expanding array of libraries 
+(with the lack of libraries in its early days having limited adoption then).
 
 ---
 
-A new paper in the EMBO Journal (molecular and cell biology) entitled *Reproducible image handling and analysis* looks at common problems with image data and analysis in the biosciences, suggests protocols that help avoid these issues and provides guidance to journal editors on how to faciltate the submission of reproducible methods. [DOI:10.15252/embj.2020105889](https://doi.org/10.15252/embj.2020105889).
+A new paper in the EMBO Journal (molecular and cell biology) entitled *Reproducible image handling and analysis* looks at 
+**common problems with image data and analysis in the biosciences**, 
+suggests protocols that help avoid these issues and 
+provides guidance to journal editors on how to faciltate the submission of reproducible methods. 
+[DOI:10.15252/embj.2020105889](https://doi.org/10.15252/embj.2020105889).
 
 ---
 
-A blog post what someone learned when porting some code from MATLAB to Python, including the importance of version control, packaging and documentation.
-TODO
-https://www.adina-wagner.com/posts/portcode/_portmatlab/
+A blog post on [what someone learned when](https://www.adina-wagner.com/posts/portcode/_portmatlab/) 
+**porting some code from MATLAB to Python**, including 
+the importance of version control, packaging and documentation.
 
+  
+---
+
+A Nature article on **Five reasons why researchers should learn to love the command line**: 
+[DOI:10.1038/d41586-021-00263-0](https://doi.org/10.1038/d41586-021-00263-0).
 
 ---
 
-https://www.ukri.org/news/viewpoint-researchs-lone-genius-image-is-unhelpful/
-
-https://www.nature.com/articles/d41586-021-00263-0?utm_source=Nature+Briefing&utm_campaign=adf0f33809-briefing-dy-20210202&utm_medium=email&utm_term=0_c9dfd39373-adf0f33809-43672809
-
-
----
-https://matklad.github.io//2021/02/06/ARCHITECTURE.md.html
+A post arguing for [**all software projects to have easily discoverable guides to the software's architecture**](https://matklad.github.io//2021/02/06/ARCHITECTURE.md.html).
+(Editor: I'm very much in favour of this; such guides are a massive help when trying to familiarise oneself with someone else's code and 
+a lack of architectural information might result in an open-source software project stagnating through a lack of contribution).
 
 
 ### Software and Updates
@@ -265,9 +288,6 @@ If that floats your boat you may also be interested in:
   * the back catalogue of the (seemingly now defunct) [RCECast](https://www.rce-cast.com/) podcast,
     which is largely focussed on high-performance computing technologies.
 
----
-
-ITS have announced 2021 dates for [lots more Linux, shell scripting, HPC and numerous Python workshops][its-workshops]!
 
 ---
 
