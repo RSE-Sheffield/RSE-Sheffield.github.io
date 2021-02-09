@@ -29,7 +29,7 @@ To receive this newsletter as an email each month, please sign up to our [Google
 
 ### News
 
-[An *International Council of RSE Associations* has been founded](https://researchsoftware.org/2021/01/27/introducing-the-international-council-of-RSE-associations.html)
+An [*International Council of RSE Associations*](https://researchsoftware.org/2021/01/27/introducing-the-international-council-of-RSE-associations.html) has been founded
 to help the various existing national Research Software Engineering associations work better together and
 to help develop new national RSE associations.
 The UK [Society of Research Software Engineering](https://society-rse.org/) is one of the founding member organisations.
@@ -54,23 +54,15 @@ Through this group members will share good practice, events and facilitating con
 
 ---
 
-The Research IT team in IT Services are now on Twitter ([@RIT_Sheffield](https://twitter.com/RIT_Sheffield).
+The Research IT team in IT Services are now on Twitter ([@RIT_Sheffield](https://twitter.com/RIT_Sheffield)).
 Follow them for news regarding new resources and training.
 
+---
 
+Stanford have conducted a survey on the use and creation of research software; see the [results here](https://stanford-rc.github.io/stanford-software-survey/).
+The RSE team at Sheffield conducted a similar survey here recently and will be sharing the results soon. 
 
-TODO
-
-Other EPCC news: https://www.archer2.ac.uk/news/2021/01/27/newsletter
-
-
-https://itcommunity.stanford.edu/take5/results-first-stanford-software-survey
-I need to publish ours
-
-
-
-
-### Events
+### Future events
 
 The Sheffield RSE team is running two full-day practial workshops on **Deep Learning, focussing on the use of TensorFlow with Python and R (plus Keras)**. Content includes:
 
@@ -97,9 +89,26 @@ Staff interested in enrolling for the module should contact `p.richmondsheffield
 
 ---
 
-The [Software Sustainability Institute](https://www.software.ac.uk/) will host its first online [**Research Software Camp on research accessibility**](https://www.software.ac.uk/RSCamp-research-accessibility) from Monday 22 February to Friday 5 March 2021. This is a free online event encompassing live sessions, web resources and social media activities. It will focus on different aspects of research accessibility, ranging from making tools, techniques, datasets, software and protocols used in research reproducible, open and sustainable, to exploring formats and tools to facilitate and improve accessibility for people with disabilities. We welcome anyone involved with research and research software from all career stages to attend any or all of the live sessions, and take part in our social media and website activities.
+[LunchBytes](https://rse.shef.ac.uk/community/lunch-bytes/) is a monthly series of short talks for those in the research community at TUOS who work with/write code, use/manage research data and use/manage research infrastructure. Through these talks we come together as a community to discuss best practices and useful methods/tools. If you're interested in curating a session or giving a talk, get in touch at: lunchbytes-organisers-group@sheffield.ac.uk
 
-[Chris Hartgerink](https://chjh.nl/), from Liberate Science, will deliver a [pre-recorded keynote talk](https://www.software.ac.uk/news/dr-chris-hartgerink-deliver-keynote-talk-our-research-software-camp-research-accessibility) on "Social Model of Inaccessibility" which will become available first thing on Monday 22 February, followed by a live Q&A session with Chris on 24 February at 3:30pm GMT via Zoom. This will allow participants to ask questions and start conversations around Chris' talk.[Register for free live Q&A with Chris.](https://www.eventbrite.co.uk/e/research-software-camp-chris-hartgerinks-keynote-talk-live-qa-tickets-137794590329)
+The ****next LunchBytes** event will be in early to mid March, with a provional theme of **Making GPU programming more accessible**.
+The exact date and details of talks will be advertised soon via the RSE team's [mailing list](https://groups.google.com/a/sheffield.ac.uk/g/rse-group).
+
+---
+
+The [Software Sustainability Institute](https://www.software.ac.uk/) will 
+host its first online [**Research Software Camp on research accessibility**](https://www.software.ac.uk/RSCamp-research-accessibility) 
+from Monday 22 February to Friday 5 March 2021. 
+This is a free online event encompassing live sessions, web resources and social media activities. 
+It will focus on different aspects of research accessibility, ranging from making tools, techniques, datasets, software and protocols used in research reproducible, open and sustainable, 
+to exploring formats and tools to facilitate and improve accessibility for people with disabilities. 
+They welcome anyone involved with research and research software from all career stages to attend any or all of the live sessions, and take part in our social media and website activities.
+
+[Chris Hartgerink](https://chjh.nl/), from Liberate Science, 
+will deliver a [pre-recorded keynote talk](https://www.software.ac.uk/news/dr-chris-hartgerink-deliver-keynote-talk-our-research-software-camp-research-accessibility) on "Social Models of Inaccessibility" 
+which will become available first thing on Monday 22 February, followed by a live Q&A session with Chris on 24 February at 3:30pm GMT via Zoom. 
+This will allow participants to ask questions and start conversations around Chris' talk.  
+[Register for free live Q&A with Chris](https://www.eventbrite.co.uk/e/research-software-camp-chris-hartgerinks-keynote-talk-live-qa-tickets-137794590329).
 
 ---
 
@@ -136,12 +145,6 @@ The organisers currently appear to be [planning for an in-person event](https://
 
 ---
 
-**FOSDEM**, one of the biggest conferences on Free and Open-Source software happened on 2021-02-06 / 2021-02-07.
-There were [lots of talks on a great variety of topics](https://fosdem.org/2021/schedule/), including a high-performance computing track.  
-Recordings of many of the talks will no doubt end up on YouTube soon.
-
----
-
 [TIER](https://www.projecttier.org/about/mission-statement/), the Sheffield Methods Institute and the UK Reproducibility Network 
 are co-organising a symposium across Fridays in March entitled 
 **Instruction in Reproducible Research: Educational Outcomes**
@@ -155,25 +158,19 @@ DAFNI is a national project to provide a platform for securely storing data and 
 
 ---
 
+The Library are running [an event on Electronic Lab Notebooks](https://www.sheffield.ac.uk/library/research) on the 2021-04-22.
+
+---
+
 In January [Tom Stafford](https://tomstafford.staff.shef.ac.uk/) and [Anna Krystalli](https://annakrystalli.me/) 
 presented at a TUOS *Open Research Conversations* event on 
 future directions of reproducible research advocacy at TUOS and on some of the technical challenges.
 Slides from the event are now available here: [DOI:10.15131/shef.data.13516274](https://doi.org/10.15131/shef.data.13516274).
 
-#### LunchBytes
 
-[LunchBytes](https://rse.shef.ac.uk/community/lunch-bytes/) is a monthly series of short talks for those in the research community at TUOS who work with/write code, use/manage research data and use/manage research infrastructure. Through these talks we come together as a community to discuss best practices and useful methods/tools.
+### Previous events
 
-If you're interested in curating a session or giving a talk, get in touch at: lunchbytes-organisers-group@sheffield.ac.uk
-
-##### Upcoming LunchBytes
-
-The next LunchBytes event will be in early to mid March, with a provional theme of **Making GPU programming more accessible**.
-The exact date and details of talks will be advertised soon via the RSE team's [mailing list](https://groups.google.com/a/sheffield.ac.uk/g/rse-group).
-
-##### Previous LunchBytes
-
-The title and theme of the last LunchBytes event (2021-01-13) was *Beyond Static Data Visualisations*.  [A recording of the event and slides for most talks are now available](https://rse.shef.ac.uk/events/LunchBytes-2021-01-13.html).
+A recording of the **last LunchBytes event** (**Beyond Static Data Visualisations** on 2021-01-13)  and slides for most talks [are now available](https://rse.shef.ac.uk/events/LunchBytes-2021-01-13.html).
 
 At the event
 we had talks on plotting data in time using video,
@@ -183,6 +180,12 @@ tools in the toolbox,
 plus an overview of a interactive data visualisation tool written in C++.
 
 Information on all previous LunchBytes sessions (including links to slides/video where available) can be [found on our site](https://rse.shef.ac.uk/community/lunch-bytes/).
+
+---
+
+**FOSDEM**, one of the biggest conferences on Free and Open-Source software happened on 2021-02-06 / 2021-02-07.
+There were [lots of talks on a great variety of topics](https://fosdem.org/2021/schedule/), including a high-performance computing track.  
+Recordings of many of the talks will no doubt end up on YouTube soon.
 
 ### Opportunities
 
@@ -196,55 +199,56 @@ check out [this Twitter thread by Yo Yehudi](https://twitter.com/yoyehudi/status
 the [Google Summer of Code](https://opensource.google.com/community) programme
 and to [Outreachy](https://www.outreachy.org/) (Internships Supporting Diversity in Tech).
 
-TODO
+---
 
-Dear Member of the HPC-SIG Community,
-(Please note there's now an additional prize (sponsored by NAG) of £250 for the winner of the 2021 CoSec Impact Award  https://web.cvent.com/event/2f0687c1-a924-4de8-8c48-0805fa35c641/summary )
-Would you describe yourself (or someone you know*) as a Masters or PhD student, or an Early Career Researcher (i.e. with up to 5 years post doctoral experience at 28th February 2021)?
-If so, you could be eligible to apply for the 2021 (Computational Science Centre for Research Communities: https://www.scd.stfc.ac.uk/Pages/CoSeC.aspx) CoSeC Impact Award: https://web.cvent.com/event/2f0687c1-a924-4de8-8c48-0805fa35c641/summary
-We would love to hear how being a member of any of the CoSeC-supported communities has benefitted your work, for example:
-• Have you run a simulation using CoSeC-supported software that has a clear social or economic impact?
-• Have you attended a CoSeC-supported training course that helped you run such a simulation?
-Receiving this award would be a boost to your cv, plus, there is a range of prizes on offer including working with us to write up your application into a case study  - see examples developed from this year's winning entries: https://www.scd.stfc.ac.uk/Pages/CoSeC_Impact_Award_Nov2020.aspx
-Should you have any questions about the award and/or the application process, please contact: dawn.geatches@stfc.ac.uk
-*If you would like to nominate a colleague for this award, please send their name and email address to dawn.geatches@stfc.ac.uk and they will be invited to make a full application
-
-https://hub-vph.org/en/recruitment/
-^ RSE job in Lyon
+For RSE vacancies across the UK and elsewhere see the Sociey of RSE's [jobs board](https://society-rse.org/careers/vacancies/).
 
 ### Web and Blogs
 
 HPCWire featured an [article on the Julia programming language](https://www.hpcwire.com/2021/01/13/julia-update-adoption-keeps-climbing-is-it-a-python-challenger/),
 which it argues could now be a serious challenger to Python, R and MATLAB given performance features provided by the language itself plus its expanding array of libraries (with the lack of libraries in its early days having limited adoption then).
 
+---
+
+A new paper in the EMBO Journal (molecular and cell biology) entitled *Reproducible image handling and analysis* looks at common problems with image data and analysis in the biosciences, suggests protocols that help avoid these issues and provides guidance to journal editors on how to faciltate the submission of reproducible methods. [DOI:10.15252/embj.2020105889](https://doi.org/10.15252/embj.2020105889).
 
 ---
 
-**Exciting new things in MATLAB**: [Mike Croucher](https://walkingrandomly.com/) (RSE Sheffield alumnus) took up a new post at Mathworks at the start of 2021 so we've been learning about developments in the world of MATLAB:
- - 
-
+A blog post what someone learned when porting some code from MATLAB to Python, including the importance of version control, packaging and documentation.
 TODO
 https://www.adina-wagner.com/posts/portcode/_portmatlab/
+
+
+---
 
 https://www.ukri.org/news/viewpoint-researchs-lone-genius-image-is-unhelpful/
 
 https://www.nature.com/articles/d41586-021-00263-0?utm_source=Nature+Briefing&utm_campaign=adf0f33809-briefing-dy-20210202&utm_medium=email&utm_term=0_c9dfd39373-adf0f33809-43672809
 
 
+---
 https://matklad.github.io//2021/02/06/ARCHITECTURE.md.html
 
 
 ### Software and Updates
 
-TODO
-Arrow https://news.ycombinator.com/item?id=26018187
+**Exciting new things in MATLAB**: [Mike Croucher](https://walkingrandomly.com/) (RSE Sheffield alumnus) took up a new post at Mathworks at the start of 2021 so we've been learning about developments in the world of MATLAB:
 
+  * All TUOS staff and students can now run MATLAB online (without installing anything on their own machines) 
+    via [https://matlab.mathworks.com/](https://matlab.mathworks.com/) if they 
+    have a [Mathworks account](https://mathworks.com/login) tied to their uni email address.
+    There's even [mobile access](https://uk.mathworks.com/products/matlab-mobile.html) to MATLAB Online.
+  * Data persistence is handled by [MATLAB Drive](https://mathworks.com/products/matlab-drive.html). 
+    TUOS staff and students get 5GB each (ensure you understand the data governance implications before saving data to it).
+  * MATLAB Drive can also be [mounted on your own machine](https://www.mathworks.com/help/matlabdrive/ug/install-matlab-drive.html).
+  * For those wanting something like MATLAB Online but running on their own hardware there's [MATLAB Online Server](https://uk.mathworks.com/support/requirements/matlab-online-server.html).
+
+---
 
 Support for Python 2 [has been dropped](https://pip.pypa.io/en/stable/news/#id1)
 in the newest version of Pip (the most common tool for installing (pure) Python packages).
 This is another reminder that Python 2 in general [is no longer supported](https://www.python.org/doc/sunset-python-2/) and
 people should migrate to Python 3.x if possible.
-
 
 ### Resources
 
@@ -257,30 +261,18 @@ a Senior Research Software Developer at UCL.
 If that floats your boat you may also be interested in:
 
   * the more established [RSE Stories](http://us-rse.org/rse-stories/posts/) podcast,
-    run by the super-prolific [Vanessa Soch](https://vsoch.github.io/).
+    run by the super-prolific [Vanessa Sochat](https://vsoch.github.io/).
   * the back catalogue of the (seemingly now defunct) [RCECast](https://www.rce-cast.com/) podcast,
     which is largely focussed on high-performance computing technologies.
 
 ---
 
-A new paper in the EMBO Journal (molecular and cell biology) entitled *Reproducible image handling and analysis* looks at common problems with image data and analysis in the biosciences, suggests protocols that help avoid these issues and provides guidance to journal editors on how to faciltate the submission of reproducible methods. [DOI:10.15252/embj.2020105889](https://doi.org/10.15252/embj.2020105889).
+ITS have announced 2021 dates for [lots more Linux, shell scripting, HPC and numerous Python workshops][its-workshops]!
 
 ---
 
-ITS have announced 2021 dates for [lots more Linux, shell scripting, HPC and numerous Python workshops][its-workshops]!
-
-TODO
-https://twitter.com/walkingrandomly/status/1353739870544539651
-Also: online training that's also included in the campus wide license. https://matlabacademy.mathworks.com
-Fast OnRamps alongside more in-depth courses on things like Deep Learning and programming techniques.
-Re storage for matlab.mathworks.com:
-
-If you are at a University with a @MATLAB
- Campus Wide License:
-
-Get yourself a Mathworks account using your uni email address https://mathworks.com/login
-
-Go to http://matlab.mathworks.com to run MATLAB in the browser.  No install required.
+Online, self-paced MATLAB training is availble to all at TUOS via the [MATLAB Academy](https://matlabacademy.mathworks.com).  
+There are courses on more specific topics such as image processing and deep learning in addition to the fundamentals of MATLAB.
 
 ---
 
