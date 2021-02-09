@@ -19,20 +19,22 @@ Research Software Engineering team projects are listed below.
     {% for project in projects %}
         {% assign project_end_date = project.end | date: '%s' %}
         {% if project_end_date >= today_date %}
+            <b>{{project.long_title}}</b>
+            <br/>
+            Collaborating Department: <em>{{project.department}}</em>
+            <br/>
+            Technology and methods: <em>{{project.tech_methods}}</em>
+            <br/>
             {% for project_description in project_descriptions %}
-                {% if project_description.key == project.key %}
-                    <b>{{project.long_title}}</b>
-                    <br/>
-                    Collaborating Department: <em>{{project.department}}</em>
-                    <br/>
-                    Technology and methods: <em>{{project.tech_methods}}</em>
-                    <br/>
-                    Description
+                {% if project_description.key == project.key %}                    
+                    Description       
                     <br/>
                     {{project_description.content}}
-                    RSEs involved: <em>{{project.rses}}</em>
+                    <br/>
                 {% endif %}
-            {% endfor %}
+            {% endfor %}            
+            RSEs involved: <em>{{project.rses}}</em>
+            <br/><br/>
         {% endif %}
     {% endfor %}
 </div>
@@ -45,20 +47,22 @@ Research Software Engineering team projects are listed below.
     {% for project in projects %}
         {% assign project_end_date = project.end | date: '%s' %}
         {% if project_end_date < today_date %}
+            <b>{{project.long_title}}</b>
+            <br/>
+            Collaborating Department: <em>{{project.department}}</em>
+            <br/>
+            Technology and methods: <em>{{project.tech_methods}}</em>
+            <br/>
             {% for project_description in project_descriptions %}
-                {% if project_description.key == project.key %}
-                    <b>{{project.long_title}}</b>
-                    <br/>
-                    Collaborating Department: <em>{{project.department}}</em>
-                    <br/>
-                    Technology and methods: <em>{{project.tech_methods}}</em>
-                    <br/>
-                    Description
+                {% if project_description.key == project.key %}                    
+                    Description       
                     <br/>
                     {{project_description.content}}
-                    RSEs involved: <em>{{project.rses}}</em>
+                    <br/>
                 {% endif %}
-            {% endfor %}
+            {% endfor %}            
+            RSEs involved: <em>{{project.rses}}</em>
+            <br/><br/>
         {% endif %}
     {% endfor %}
 </div>
