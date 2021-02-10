@@ -76,7 +76,7 @@ examples of collaborations which the RSE team has been involved in.
 
 ---
 
-The RSE Sheffield team is running two full-day practial workshops on **Deep Learning, focussing on the use of TensorFlow with Python in one workshop and R (plus Keras) in the other**. Content includes:
+The RSE Sheffield team is running two full-day practical workshops on **Deep Learning, focussing on the use of TensorFlow with Python in one workshop and R (plus Keras) in the other**. Content includes:
 
   * Introduction to Regression and Classification using neural networks
   * Image classification with Convolutional neural networks
@@ -103,7 +103,7 @@ Staff interested in enrolling for the module should contact `p.richmondsheffield
 
 [**LunchBytes**](https://rse.shef.ac.uk/community/lunch-bytes/) is a monthly series of **short talks for those in the research community at TUOS who work with/write code, use/manage research data and use/manage research infrastructure**. Through these talks we come together as a community to discuss best practices and useful methods/tools. If you're interested in curating a session or giving a talk, get in touch at: lunchbytes-organisers-group@sheffield.ac.uk
 
-The **next LunchBytes event** will be in early to mid March, with a provional theme of **Making GPU programming more accessible**.
+The **next LunchBytes event** will be in early to mid March, with a provisional theme of **Making GPU programming more accessible**.
 The exact date and details of talks will be advertised soon via the RSE team's [mailing list][rses-mail-list].
 
 ---
@@ -131,7 +131,7 @@ This will allow participants to ask questions and start conversations around Chr
 
 If you are part of a team that already or wants to accelerate some software using GPU programming (e.g. CUDA, Sykl, rocM, OpenCL)
 then you may be interested in a [**GPU hackathon being organised by EPCC**](https://gpuhackathons.org/event/epcc-gpu-hackathon-2021)
-at which you could get support from experienced, knowledgable mentors.
+at which you could get support from experienced, knowledgeable mentors.
 This is the successor to the GPU hackathon held in Sheffield in recent years.
 See these [blog](https://rse.shef.ac.uk/blog/2019-10-10-gpu-hackathon/) [posts](https://rse.shef.ac.uk/blog/2019-12-16-gpu-hackathon/)
 for what a GPU hackathon can offer.
@@ -224,15 +224,15 @@ and to [Outreachy](https://www.outreachy.org/) (Internships Supporting Diversity
 
 ---
 
-For RSE vacancies across the UK and elsewhere see the Sociey of RSE's [jobs board](https://society-rse.org/careers/vacancies/).
+For RSE vacancies across the UK and elsewhere see the Society of RSE's [jobs board](https://society-rse.org/careers/vacancies/).
 
 ### Web and Blogs
 
 
 A [post from UKRI chief executive Professor Dame Ottoline Leyser](https://www.ukri.org/news/viewpoint-researchs-lone-genius-image-is-unhelpful/)
 on why **research's 'lone genius' image is unhelpful**:
-good research is often facilated by teams of people with complementary backgrounds and expertise.
-Dame Leyser is collaborting with "Minister for Science Research and Innovation, Amanda Solloway, to
+good research is often facilitated by teams of people with complementary backgrounds and expertise.
+Dame Leyser is collaborating with "Minister for Science Research and Innovation, Amanda Solloway, to
 find 101 people, doing 101 different jobs that
 make major contributions to research and innovation, but who are not researchers and innovators."
 
@@ -248,7 +248,7 @@ its expanding array of libraries
 A new paper in the EMBO Journal (molecular and cell biology) entitled *Reproducible image handling and analysis* looks at
 **common problems with image data and analysis in the biosciences**,
 suggests protocols that help avoid these issues and
-provides guidance to journal editors on how to faciltate the submission of reproducible methods.
+provides guidance to journal editors on how to facilitate the submission of reproducible methods.
 [DOI:10.15252/embj.2020105889](https://doi.org/10.15252/embj.2020105889).
 
 ---
@@ -308,7 +308,7 @@ If that floats your boat you may also be interested in:
 
 ---
 
-Online, self-paced MATLAB training is availble to all at TUOS via the [MATLAB Academy](https://matlabacademy.mathworks.com).
+Online, self-paced MATLAB training is available to all at TUOS via the [MATLAB Academy](https://matlabacademy.mathworks.com).
 There are courses on more specific topics such as image processing and deep learning in addition to the fundamentals of MATLAB.
 
 ---
