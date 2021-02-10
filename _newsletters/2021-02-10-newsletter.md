@@ -2,8 +2,8 @@
 layout: post
 title: February 2021 Newsletter
 editor: Will Furnass
-slug: 2021-02-08-newsletter
-date: 2021-02-08 12:00:00 UTC
+slug: 2021-02-10-newsletter
+date: 2021-02-10 16:00:00 UTC
 tags:
 category:
 link:
