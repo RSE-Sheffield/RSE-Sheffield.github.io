@@ -68,7 +68,7 @@ Here’s a demonstration of a notebook which is used to illustrate working throu
 
 
 ### IT Services Training Courses
-IT Services run a number of [half-day training sessions](https://www.sheffield.ac.uk/it-services/research/one-day-sessions) in topics such as:
+IT Services run a number of [half-day training sessions][1] in topics such as:
   * Introduction to Linux
   * Linux Shell Scripting Tutorial
   * Introduction to Running Software on the HPC
@@ -94,6 +94,11 @@ However, there are great courses on almost any topic in research computing. Why 
   * [Learning Linux Command Line](https://www.linkedin.com/learning/learning-linux-command-line-2/learning-linux-command-line)
 
 **Note**: You'll need to be on the [university VPN](https://www.sheffield.ac.uk/it-services/vpn) to get access.
+
+
+### MATLAB Academy
+Online, self-paced MATLAB training is available to all at TUoS via the [MATLAB Academy](https://matlabacademy.mathworks.com/). There are courses on more specific topics such as image processing and deep learning in addition to the fundamentals of MATLAB.
+
 
 ---
 
@@ -193,3 +198,12 @@ HPC clusters use a job scheduler to make sure everyone has a chance to run their
     *   HPC Carpentry series [https://hpc-carpentry.github.io/](https://hpc-carpentry.github.io/)
 *   Linux and the command line
     *   Ubuntu’s terminal tutorial [https://ubuntu.com/tutorials/command-line-for-beginners#1-overview](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
+* [IT Services Training Courses][1]
+  * Introduction to Linux
+  * Linux Shell Scripting Tutorial
+  * Introduction to Running Software on the HPC
+
+
+
+<!-- Reference Links -->
+[1]: https://www.sheffield.ac.uk/it-services/research/one-day-sessions
