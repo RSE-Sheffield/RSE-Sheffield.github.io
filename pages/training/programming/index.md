@@ -66,7 +66,43 @@ There are Python IDEs with data science focus such as [Rodeo](https://rodeo.yhat
 
 Here’s a demonstration of a notebook which is used to illustrate working through a machine learning exercise:  [https://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/ml/ML-Exercise1.ipynb](https://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/ml/ML-Exercise1.ipynb)
 
+
+### IT Services Training Courses
+IT Services run a number of [half-day training sessions][1] in topics such as:
+  * Introduction to Linux
+  * Linux Shell Scripting Tutorial
+  * Introduction to Running Software on the HPC
+  * Introduction to Matlab
+  * Introduction/Intermediate/Advanced Python Programming
+  * Python for Data Science
+  * Introduction to Machine Learning with Python
+
+
+
+### LinkedIn Learning Courses
+TUoS researchers have access to a host of excellent training courses via [LinkedIn Learning](https://www.sheffield.ac.uk/nap/service/redirect/lilearning), covering an enormous base of different technologies. A good example is the ['*code clinic*' series](https://www.linkedin.com/learning/search?keywords=code%20clinic) (no relation to [RSE Code Clinics](/support/code-clinic)) in which a similar set of problems are tackled in different languages, a good way to transfer your knowledge of one language to another:
+  * [R](https://www.linkedin.com/learning/code-clinic-r-2)
+  * [Python](https://www.linkedin.com/learning/code-clinic-python-2)
+  * [C++](https://www.linkedin.com/learning/code-clinic-c-plus-plus-2)
+  * [Java](https://www.linkedin.com/learning/code-clinic-java-2)
+
+However, there are great courses on almost any topic in research computing. Why not try one of these?
+  * [Docker for developers](https://www.linkedin.com/learning/docker-for-developers-2/practical-backend-with-compose)
+  * [Unit Testing and Test Driven Development in Python](https://www.linkedin.com/learning/unit-testing-and-test-driven-development-in-python)
+  * [Learning the R Tidyverse](https://www.linkedin.com/learning/learning-the-r-tidyverse)
+  * [Learning MATLAB](https://www.linkedin.com/learning/learning-matlab-2)
+  * [Learning Linux Command Line](https://www.linkedin.com/learning/learning-linux-command-line-2/learning-linux-command-line)
+
+**Note**: You'll need to be on the [university VPN](https://www.sheffield.ac.uk/it-services/vpn) to get access.
+
+
+### MATLAB Academy
+Online, self-paced MATLAB training is available to all at TUoS via the [MATLAB Academy](https://matlabacademy.mathworks.com/). There are courses on more specific topics such as image processing and deep learning in addition to the fundamentals of MATLAB.
+
+
 ---
+
+# Best Practice in Writing Research Code
 
 <a id="git"></a>
 ## Version control your code with **Git**
@@ -117,15 +153,21 @@ GUI tools can really help with routine Git operations and especially when trying
 *   [SourceTree](https://www.sourcetreeapp.com/) (Windows, Mac)
 
 ---
+## Reproducible Code & Data Management
+* The British Ecological Society has a number of excellent [*Guides to Better Science*](https://www.britishecologicalsociety.org/publications/guides-to/), including:
+  * [Reproducible Code](https://www.britishecologicalsociety.org/wp-content/uploads/2019/06/BES-Guide-Reproducible-Code-2019.pdf) [PDF]
+  * [Data Management](https://www.britishecologicalsociety.org/wp-content/uploads/2019/06/BES-Guide-Data-Management-2019.pdf) [PDF]
 
-## Use HPC for large computing tasks
+---
+
+# Use HPC for large computing tasks
 
 When running large simulations or doing analysis on large datasets, your tasks can take hours or even days to complete, you may struggle to even load everything into memory or can’t fit the dataset or results onto your hard disk. If this sounds like something you’re facing, it may be time to start having a look at using the HPC (High Performance Computing) clusters provided through the University of Sheffield.
 
 A HPC cluster essentially consists of a number of computers connected through a fast network. Each machine, or node, normally has far more CPU cores and RAM than the average PC. The best way to take advantage of a HPC cluster is to split your computation into small, independent tasks and distribute them to run concurrently across multiple CPU cores or nodes.
 
 
-### HPC clusters available through the University of Sheffield
+## HPC clusters available through the University of Sheffield
 
 Access to these clusters are open to all UoS researchers and academics and they’re free at the point-of-use.
 
@@ -144,7 +186,7 @@ Access to these clusters are open to all UoS researchers and academics and they�
     *   Bede (coming soon)
 
 
-### HPC Learning resources
+## HPC Learning resources
 
 All HPC clusters mentioned above run on Linux operating system. Generally  you have to interact with them using the command line interface (although for some you can launch a GUI application such as matlab though them). 
 
@@ -156,3 +198,12 @@ HPC clusters use a job scheduler to make sure everyone has a chance to run their
     *   HPC Carpentry series [https://hpc-carpentry.github.io/](https://hpc-carpentry.github.io/)
 *   Linux and the command line
     *   Ubuntu’s terminal tutorial [https://ubuntu.com/tutorials/command-line-for-beginners#1-overview](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
+* [IT Services Training Courses][1]
+  * Introduction to Linux
+  * Linux Shell Scripting Tutorial
+  * Introduction to Running Software on the HPC
+
+
+
+<!-- Reference Links -->
+[1]: https://www.sheffield.ac.uk/it-services/research/one-day-sessions
