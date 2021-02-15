@@ -1,6 +1,6 @@
 ---
 title: "Deep Learning with Tensorflow in Python"
-category: workshop
+category: dltraining
 tags: deep-learning, python
 permalink: /training/workshop/2021-02-11-deep-learning-with-tensorflow-in-python
 date: 2021-02-11
