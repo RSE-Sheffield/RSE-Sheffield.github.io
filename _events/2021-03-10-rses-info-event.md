@@ -17,3 +17,5 @@ You will also find out about how you can embed Research Software Engineers withi
 examples of collaborations which the RSE team has been involved in.
 
 [Register via EventBrite](https://www.eventbrite.co.uk/e/research-software-engineering-at-sheffield-tickets-140969420331).
+
+![People collaborating around laptop](/assets/images/collab-laptop.webp)
