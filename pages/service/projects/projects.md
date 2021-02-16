@@ -21,20 +21,21 @@ Research Software Engineering team projects are listed below.
         {% if project_end_date >= today_date %}
             <b>{{project.long_title}}</b>
             <br/>
-            Collaborating Department: <em>{{project.department}}</em>
+            {{project.start}} - {{project.end}}
+            <br/>
+            Collaborating dept/group/org: <em>{{project.department}}</em>
             <br/>
             Technology and methods: <em>{{project.tech_methods}}</em>
             <br/>
+            RSEs involved: <em>{{project.rses}}</em>
+            <br/>
             {% for project_description in project_descriptions %}
                 {% if project_description.key == project.key %}                    
-                    Description       
                     <br/>
                     {{project_description.content}}
-                    <br/>
                 {% endif %}
             {% endfor %}            
-            RSEs involved: <em>{{project.rses}}</em>
-            <br/><br/>
+            <br/>
         {% endif %}
     {% endfor %}
 </div>
@@ -49,20 +50,21 @@ Research Software Engineering team projects are listed below.
         {% if project_end_date < today_date %}
             <b>{{project.long_title}}</b>
             <br/>
-            Collaborating Department: <em>{{project.department}}</em>
+            {{project.start}} - {{project.end}}
+            <br/>
+            Collaborating dept/group/org: <em>{{project.department}}</em>
             <br/>
             Technology and methods: <em>{{project.tech_methods}}</em>
             <br/>
+            RSEs involved: <em>{{project.rses}}</em>
+            <br/>
             {% for project_description in project_descriptions %}
                 {% if project_description.key == project.key %}                    
-                    Description       
                     <br/>
                     {{project_description.content}}
-                    <br/>
                 {% endif %}
             {% endfor %}            
-            RSEs involved: <em>{{project.rses}}</em>
-            <br/><br/>
+            <br/>
         {% endif %}
     {% endfor %}
 </div>
