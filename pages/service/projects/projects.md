@@ -26,7 +26,7 @@ The Research Software Engineering team at Sheffield has worked on projects invol
 {% assign proj_tags = proj.tech_methods | split: "," %}
 {% assign all_tags = all_tags | concat: proj_tags %}
 {% endfor %}
-{{ all_tags | sort_natural | uniq: | join: " &middot; " }}
+{{ all_tags | sort_natural | uniq | join: " &middot; " }}
 
 Some projects we have worked on:
 
