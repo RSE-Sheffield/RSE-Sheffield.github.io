@@ -15,13 +15,19 @@ Research Software Engineering team projects are listed below.
 
 <div class="current-project-list">
     {% for project in projects %}
-        {% assign project_end_date = project.end | date: '%s' %}
+    {% assign project_end_date = project.end | date: '%s' %}
+    {% if project_end_date >= today_date %}
+        {% assign current = true %}
+    {% else %}
+        {% assign current = false %}
+    {% endif %}
+    <div style="background-color: {% if current %}#eebf3f{% else %}#999{% endif %}">
         <b>{{project.long_title}}</b>
         <br/>
-        {% if project_end_date >= today_date %}
-        <b>Active project</b>
+        {% if current %}
+            <b>Active project</b>
         {% else %}
-        <b>Completed project</b>
+            <b>Completed project</b>
         {% endif %}
         <br>
         {{project.start}} - {{project.end}}
@@ -39,6 +45,7 @@ Research Software Engineering team projects are listed below.
             {% endif %}
         {% endfor %}            
         <br/>
+    </div>
     {% endfor %}
 </div>
 
