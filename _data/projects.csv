@@ -20,20 +20,20 @@ id,key,title,long_title,tech_methods,rses,start,end,department
 24,,Polar Portal,Polar Portal,"python, docker, matlab",Robert Turner,01/11/2019,01/02/2020,Geography
 25,,A Network For Lemons,A Network For Lemons,,Anna Krystalli,09/09/2019,08/09/2020,Management School
 27,,IMPACT Acceleration,IMPACT Acceleration,,David Wilby,01/08/2019,31/07/2021,Computer Science
-28,,IT Services HPC Support 2019-2020,IT Services HPC Support 2019-2020,,Will Furnass,01/08/2019,31/07/2020,CICS
+28,,IT Services HPC Support 2019-2020,IT Services HPC Support 2019-2020,,Will Furnass,01/08/2019,31/07/2020,IT Services
 30,,Accelerate,Accelerate,,"Peter Heywood, Mozhgan Kabiri Chimeh, Matt Leach",01/03/2016,01/10/2021,Computer Science
 31,,Teaching Support for GPU Module,Teaching Support for GPU Module,,Mozhgan Kabiri Chimeh,01/02/2019,31/05/2019,Computer Science
 32,,SoBigData++,SoBigData++,,"David Jones, Twin Karmakharm",01/01/2020,01/01/2022,Computer Science
 33,,RISIS II (includes WeVerfiy and some ELG),RISIS II (includes WeVerfiy and some ELG),,,01/01/2020,30/06/2021,Computer Science
 34,,Learning to move as a human,Learning to move as a human,,,01/10/2019,01/01/2021,Computer Science
 36,,Insigneo TO 2020,Insigneo TO 2020,,,01/08/2020,01/08/2021,INSIGNEO
-40,,JADE II Support,JADE II Support,,,01/02/2020,01/08/2021,CICS
+40,,JADE II Support,JADE II Support,,,01/02/2020,01/08/2021,IT Services
 41,,Aquaponics monitoring and control,Aquaponics monitoring and control,,,01/02/2020,01/10/2020,Computer Science
 43,,MuMoT (phase 3),MuMoT (phase 3),,,10/02/2020,29/05/2020,Computer Science
 45,,BasisFlow,BasisFlow,,,01/01/2021,31/12/2023,Chemistry
-52,,IT Services HPC Support 2020-2021,IT Services HPC Support 2020-2021,,,01/08/2020,01/08/2021,CICS
+52,,IT Services HPC Support 2020-2021,IT Services HPC Support 2020-2021,,,01/08/2020,01/08/2021,IT Services
 53,ramp,RAMP SCRC Covid Support,RAMP SCRC Covid Support,"python, agile, software testing, continuous integration, documentation",Robert Turner,01/05/2020,01/08/2020,Computer Science
-54,,RStudio service for APS,RStudio service for APS,,,07/06/2020,07/08/2020,CICS
+54,,RStudio service for APS,RStudio service for APS,,,07/06/2020,07/08/2020,IT Services
 55,,IFPRI,IFPRI,,,01/07/2020,01/08/2020,Computer Science
 56,,Opening Up Minds,Opening Up Minds,,,18/01/2021,18/06/2021,Psychology
 57,,Flood Modelling Festival of the Mind,Flood Modelling Festival of the Mind,,,01/07/2020,01/09/2020,Civil Engineering
