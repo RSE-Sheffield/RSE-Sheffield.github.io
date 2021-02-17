@@ -28,8 +28,6 @@ id,key,title,long_title,tech_methods,rses,start,end,department
 34,,Learning to move as a human,Learning to move as a human,,,01/10/2019,01/01/2021,Computer Science
 36,,Insigneo TO 2020,Insigneo TO 2020,,,01/08/2020,01/08/2021,INSIGNEO
 40,,JADE II Support,JADE II Support,,,01/02/2020,01/08/2021,IT Services
-41,,Aquaponics monitoring and control,Aquaponics monitoring and control,,,01/02/2020,01/10/2020,Computer Science
-43,,MuMoT (phase 3),MuMoT (phase 3),,,10/02/2020,29/05/2020,Computer Science
 45,,BasisFlow,BasisFlow,,,01/01/2021,31/12/2023,Chemistry
 52,,IT Services HPC Support 2020-2021,IT Services HPC Support 2020-2021,,,01/08/2020,01/08/2021,IT Services
 53,ramp,RAMP SCRC Covid Support,RAMP SCRC Covid Support,"python, agile, software testing, continuous integration, documentation",Robert Turner,01/05/2020,01/08/2020,Computer Science
