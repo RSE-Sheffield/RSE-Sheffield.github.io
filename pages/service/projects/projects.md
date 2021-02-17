@@ -5,9 +5,22 @@ slug: projects
 type: text
 ---
 
-Research Software Engineering team projects are listed below.
+<style>
+    .active {
+        padding: 10px;
+        border: 1px solid gray;
+        margin: 10px;
+        }   
+    .completed {
+        color: #656565;
+        background-color: WhiteSmoke;
+        padding: 10px;
+        border: 1px solid gray;
+        margin: 10px;
+    }    
+</style>
 
-<hr/>
+Research Software Engineering team projects are listed below.
 
 {% assign projects = site.data.projects | sort: 'title' %}
 {% assign project_descriptions = site.project_descriptions %}
@@ -21,30 +34,28 @@ Research Software Engineering team projects are listed below.
     {% else %}
         {% assign current = false %}
     {% endif %}
-    <div style="background-color: {% if current %}#eebf3f{% else %}#999{% endif %}">
-        <b>{{project.long_title}}</b>
-        <br/>
+    <div class="{% if current %}active{% else %}completed{% endif %}">
+        <b>{{project.long_title}} </b>
         {% if current %}
-            <b>Active project</b>
+            (Active project)
         {% else %}
-            <b>Completed project</b>
+            (Completed project)
         {% endif %}
-        <br>
+        <hr/>
         {{project.start}} - {{project.end}}
         <br/>
-        Collaborating dept/group/org: <em>{{project.department}}</em>
+        Collaborating with: <em>{{project.department}}</em>
         <br/>
         Technology and methods: <em>{{project.tech_methods}}</em>
         <br/>
         RSEs involved: <em>{{project.rses}}</em>
-        <br/>
+        <hr/>
         {% for project_description in project_descriptions %}
             {% if project_description.key == project.key %}                    
                 <br/>
                 {{project_description.content}}
             {% endif %}
         {% endfor %}            
-        <br/>
     </div>
     {% endfor %}
 </div>
