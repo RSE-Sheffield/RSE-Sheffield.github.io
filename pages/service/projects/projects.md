@@ -28,7 +28,7 @@ The Research Software Engineering team at Sheffield has worked on projects invol
 {% endfor %}
 {{ all_tags | sort_natural | uniq | join: " &middot; " }}
 
-Some projects we have worked on:
+Some projects we have worked on (not a comprehensive list):
 
 {% assign projects = site.data.projects | sort: 'title' %}
 {% assign project_descriptions = site.project_descriptions %}
