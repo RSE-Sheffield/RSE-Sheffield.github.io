@@ -24,7 +24,7 @@ id,key,title,long_title,tech_methods,rses,start,end,department
 31,,Teaching Support for GPU Module,Teaching Support for GPU Module,,"Mozhgan Kabiri Chimeh, Robert Chisholm",01/02/2019,01/09/2021,Computer Science
 32,,SoBigData++,SoBigData++,,"David Jones, Twin Karmakharm",01/01/2020,01/01/2022,Computer Science
 33,,RISIS II (includes WeVerfiy and some ELG),RISIS II (includes WeVerfiy and some ELG),,"Twin Karmakharm, David Wilby",01/01/2020,30/06/2021,Computer Science
-34,,Learning to move as a human,Learning to move as a human,,Robert Turner,01/10/2019,01/01/2021,Computer Science
+34,,Learning to move as a human,Learning to move as a human,"python, Gaussian processes, documentation, testing, continuous integration",Robert Turner,01/10/2019,01/01/2021,Computer Science
 40,,JADE II Support,JADE II Support,,"Anna Krystalli, Twin Karmakharm",01/02/2020,01/08/2021,IT Services
 45,,BasisFlow,BasisFlow,,Twin Karmakharm,01/01/2021,31/12/2023,Chemistry
 53,ramp,RAMP SCRC Covid Support,RAMP SCRC Covid Support,"python, agile, software testing, continuous integration, documentation",Robert Turner,01/05/2020,01/08/2020,Computer Science
@@ -32,7 +32,7 @@ id,key,title,long_title,tech_methods,rses,start,end,department
 56,,Opening Up Minds,Opening Up Minds,,Anna Krystalli,18/01/2021,18/06/2021,Psychology
 57,,Flood Modelling Festival of the Mind,Flood Modelling Festival of the Mind,,"Matt Leach, Paul Richmond",01/07/2020,01/09/2020,Civil Engineering
 58,,RateSetter / Merseyrail,RateSetter / Merseyrail,,Twin Karmakharm,18/11/2019,01/12/2020,Mechanical Engineering
-64,,SCRC Follow on,SCRC Follow on,,Robert Turner,01/01/2021,01/01/2022,External
+64,,SCRC Follow on,SCRC Follow on,"python, agile, software testing, continuous integration, documentation",Robert Turner,01/01/2021,01/01/2022,External
 65,,Hole in the Road,Hole in the Road,,Matt Leach,24/09/2020,13/10/2020,Computer Science
 71,,JBC: Data and Data Science,JBC: Data and Data Science,,"David Jones, David Wilby",01/01/2021,01/07/2021,Department of Health and Social Care
 75,airqo,AirQo: Air Quality (Google),AirQo: Air Quality (Google),"python, scrum, testing, machine learning, Gaussian processes, containers, cloud, continuous integration",Robert Turner,01/03/2021,01/05/2021,Computer Science
