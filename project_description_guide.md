@@ -15,6 +15,8 @@ The following project data (and metadata) are to be populated in `projects.csv`:
 | start | Project start date `dd/mm/yyyy` | Yes |
 | end | Project end date `dd/mm/yyyy` | Yes |
 | department | Collaborator department. | Yes |
+| level | Priority level for display - currently set to 1 if project has a description, 2 if not. |
+| show | Set to 1 if the project is to be displayed, 0 if not. |
 
 Project descriptions are to be written in markdown with a header containing the project key:
 
