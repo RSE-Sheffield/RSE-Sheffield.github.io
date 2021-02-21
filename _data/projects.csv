@@ -1,39 +1,38 @@
-id,key,title,long_title,tech_methods,rses,start,end,department
-1,,Neurodegenerative Dementia,Neurodegenerative Dementia,,Daniele Tartarini,01/03/2020,28/02/2023,Computer Science
-2,,EMODnet,EMODnet,,Anna Krystalli,01/01/2020,18/04/2023,Animal and Plant Science
-4,citcom,CITCoM,CITCoM,"python, docker, HPC, machine learning",Robert Turner,01/01/2021,01/07/2024,Computer Science
-6,,Strituvad,Strituvad,,"Peter Heywood, David Wilby",16/04/2018,01/11/2021,Mathematics and Statistics
-7,,BBSRC: Cell Modelling,BBSRC: Cell Modelling,,Twin Karmakharm,01/10/2018,30/09/2021,Mathematics and Statistics
-8,,CompBioMed2,CompBioMed2,,Daniele Tartarini,01/10/2019,30/09/2023,INSIGNEO
-9,,Primage,Primage,,Robert Chisholm,01/01/2019,31/12/2022,INSIGNEO
-10,,Google DNI Journalist,Google DNI Journalist,,"David Jones, Twin Karmakharm",01/01/2019,01/01/2020,Computer Science
-11,,ELG,ELG,,David Jones,07/01/2019,01/01/2020,Computer Science
-12,,BRC,BRC,"databases, ansible, training, matlab, R, REDCap, XNAT, servers","Anna Krystalli, Will Furnass, Robert Turner",01/05/2018,31/03/2022,INSIGNEO
-13,,E2EEHM Vibration Analytics,E2EEHM Vibration Analytics,,David Jones,01/11/2019,31/03/2020,Automatic Control and Systems Engineering
-14,,Physically: Kampala Air Modelling,Physically: Kampala Air Modelling,"python, machine learning, agile",Robert Turner,01/10/2019,30/09/2021,Computer Science
-16,,Insigneo TO 2019,Insigneo TO 2019,,Daniele Tartarini,01/08/2019,01/08/2021,INSIGNEO
-17,,ACCE DTP,ACCE DTP,,Anna Krystalli,01/01/2020,30/04/2020,University of York
-19,,Reprohacks,Reprohacks,,Anna Krystalli,01/01/2020,31/03/2020,N8 
-21,,RateSetter+,RateSetter+,,John Charlton,18/11/2019,17/03/2021,Mechanical Engineering
-22,,Prognostic: Cardiac MRI with ML,Prognostic: Cardiac MRI with ML,"python, version control, static analysis, GitHub","David Jones, Robert Turner, Will Furnass",01/10/2020,30/09/2021,Computer Science
-24,,Polar Portal,Polar Portal,"python, docker, matlab",Robert Turner,01/11/2019,01/02/2020,Geography
-25,,A Network For Lemons,A Network For Lemons,,Anna Krystalli,09/09/2019,08/09/2020,Management School
-27,,IMPACT Acceleration,IMPACT Acceleration,,David Wilby,01/08/2019,31/07/2021,Computer Science
-28,itshpc,IT Services HPC Support 2019-2021,IT Services HPC Support 2019-2021,"HPC, Slurm, Puppet, Nagios, collectd, Grafana, InfluxDB, SGE, Grid Engine, Singularity",Will Furnass,01/08/2019,01/08/2021,IT Services
-30,,Accelerate,Accelerate,,"Peter Heywood, Mozhgan Kabiri Chimeh, Matt Leach",01/03/2016,01/10/2021,Computer Science
-31,,Teaching Support for GPU Module,Teaching Support for GPU Module,,"Mozhgan Kabiri Chimeh, Robert Chisholm",01/02/2019,01/09/2021,Computer Science
-32,,SoBigData++,SoBigData++,,"David Jones, Twin Karmakharm",01/01/2020,01/01/2022,Computer Science
-33,,RISIS II (includes WeVerfiy and some ELG),RISIS II (includes WeVerfiy and some ELG),,"Twin Karmakharm, David Wilby",01/01/2020,30/06/2021,Computer Science
-34,,Learning to move as a human,Learning to move as a human,"python, Gaussian processes, documentation, testing, continuous integration",Robert Turner,01/10/2019,01/01/2021,Computer Science
-40,,JADE II Support,JADE II Support,,"Anna Krystalli, Twin Karmakharm",01/02/2020,01/08/2021,IT Services
-45,,BasisFlow,BasisFlow,,Twin Karmakharm,01/01/2021,31/12/2023,Chemistry
-53,ramp,RAMP SCRC Covid Support,RAMP SCRC Covid Support,"python, agile, software testing, continuous integration, documentation",Robert Turner,01/05/2020,01/08/2020,Computer Science
-55,,IFPRI,IFPRI,,David Wilby,01/07/2020,01/08/2020,Computer Science
-56,,Opening Up Minds,Opening Up Minds,,Anna Krystalli,18/01/2021,18/06/2021,Psychology
-57,,Flood Modelling Festival of the Mind,Flood Modelling Festival of the Mind,,"Matt Leach, Paul Richmond",01/07/2020,01/09/2020,Civil Engineering
-58,,RateSetter / Merseyrail,RateSetter / Merseyrail,,Twin Karmakharm,18/11/2019,01/12/2020,Mechanical Engineering
-64,,SCRC Follow on,SCRC Follow on,"python, agile, software testing, continuous integration, documentation",Robert Turner,01/01/2021,01/01/2022,External
-65,,Hole in the Road,Hole in the Road,,Matt Leach,24/09/2020,13/10/2020,Computer Science
-71,,JBC: Data and Data Science,JBC: Data and Data Science,,"David Jones, David Wilby",01/01/2021,01/07/2021,Department of Health and Social Care
-75,airqo,AirQo: Air Quality (Google),AirQo: Air Quality (Google),"python, scrum, testing, machine learning, Gaussian processes, containers, cloud, continuous integration",Robert Turner,01/03/2021,01/05/2021,Computer Science
-78,,Rail Transport,Rail Transport,,"John Charlton, Peter Heywood",29/01/2021,28/11/2021,Mechanical Engineering
+id,key,title,long_title,tech_methods,rses,start,end,department,level,show
+1,,Neurodegenerative Dementia,Neurodegenerative Dementia,,Daniele Tartarini,01/03/2020,28/02/2023,Computer Science,2,TRUE
+2,,EMODnet,EMODnet,,Anna Krystalli,01/01/2020,18/04/2023,Animal and Plant Science,2,TRUE
+4,citcom,CITCoM,CITCoM,"python, docker, HPC, machine learning",Robert Turner,01/01/2021,01/07/2024,Computer Science,2,TRUE
+6,,Strituvad,Strituvad,,"Peter Heywood, David Wilby",16/04/2018,01/11/2021,Mathematics and Statistics,2,TRUE
+7,,BBSRC: Cell Modelling,BBSRC: Cell Modelling,,Twin Karmakharm,01/10/2018,30/09/2021,Mathematics and Statistics,2,TRUE
+8,,CompBioMed2,CompBioMed2,,Daniele Tartarini,01/10/2019,30/09/2023,INSIGNEO,2,TRUE
+9,,Primage,Primage,,Robert Chisholm,01/01/2019,31/12/2022,INSIGNEO,2,TRUE
+10,,Google DNI Journalist,Google DNI Journalist,,"David Jones, Twin Karmakharm",01/01/2019,01/01/2020,Computer Science,2,TRUE
+11,,ELG,ELG,,David Jones,07/01/2019,01/01/2020,Computer Science,2,TRUE
+12,,BRC,BRC,"databases, ansible, training, matlab, R, REDCap, XNAT, servers","Anna Krystalli, Will Furnass, Robert Turner",01/05/2018,31/03/2022,INSIGNEO,2,TRUE
+13,,E2EEHM Vibration Analytics,E2EEHM Vibration Analytics,,David Jones,01/11/2019,31/03/2020,Automatic Control and Systems Engineering,2,TRUE
+16,,Insigneo TO 2019,Insigneo TO 2019,,Daniele Tartarini,01/08/2019,01/08/2021,INSIGNEO,2,TRUE
+17,,ACCE DTP,ACCE DTP,,Anna Krystalli,01/01/2020,30/04/2020,University of York,2,TRUE
+19,,Reprohacks,Reprohacks,,Anna Krystalli,01/01/2020,31/03/2020,N8 ,2,TRUE
+21,,RateSetter+,RateSetter+,,John Charlton,18/11/2019,17/03/2021,Mechanical Engineering,2,TRUE
+22,,Prognostic: Cardiac MRI with ML,Prognostic: Cardiac MRI with ML,"python, version control, static analysis, GitHub","David Jones, Robert Turner, Will Furnass",01/10/2020,30/09/2021,Computer Science,2,TRUE
+24,,Polar Portal,Polar Portal,"python, docker, matlab",Robert Turner,01/11/2019,01/02/2020,Geography,2,TRUE
+25,,A Network For Lemons,A Network For Lemons,,Anna Krystalli,09/09/2019,08/09/2020,Management School,2,TRUE
+27,,IMPACT Acceleration,IMPACT Acceleration,,David Wilby,01/08/2019,31/07/2021,Computer Science,2,TRUE
+28,itshpc,IT Services HPC Support 2019-2021,IT Services HPC Support 2019-2021,"HPC, Slurm, Puppet, Nagios, collectd, Grafana, InfluxDB, SGE, Grid Engine, Singularity",Will Furnass,01/08/2019,01/08/2021,IT Services,1,TRUE
+30,,Accelerate,Accelerate,,"Peter Heywood, Mozhgan Kabiri Chimeh, Matt Leach",01/03/2016,01/10/2021,Computer Science,2,TRUE
+31,,Teaching Support for GPU Module,Teaching Support for GPU Module,,"Mozhgan Kabiri Chimeh, Robert Chisholm",01/02/2019,01/09/2021,Computer Science,2,TRUE
+32,,SoBigData++,SoBigData++,,"David Jones, Twin Karmakharm",01/01/2020,01/01/2022,Computer Science,2,TRUE
+33,,RISIS II (includes WeVerfiy and some ELG),RISIS II (includes WeVerfiy and some ELG),,"Twin Karmakharm, David Wilby",01/01/2020,30/06/2021,Computer Science,2,TRUE
+34,,Learning to move as a human,Learning to move as a human,"python, Gaussian processes, documentation, testing, continuous integration",Robert Turner,01/10/2019,01/01/2021,Computer Science,2,TRUE
+40,,JADE II Support,JADE II Support,,"Anna Krystalli, Twin Karmakharm",01/02/2020,01/08/2021,IT Services,2,TRUE
+45,,BasisFlow,BasisFlow,,Twin Karmakharm,01/01/2021,31/12/2023,Chemistry,2,TRUE
+53,ramp,RAMP SCRC Covid Support,RAMP SCRC Covid Support,"python, agile, software testing, continuous integration, documentation",Robert Turner,01/05/2020,01/08/2020,Computer Science,2,TRUE
+55,,IFPRI,IFPRI,,David Wilby,01/07/2020,01/08/2020,Computer Science,2,TRUE
+56,,Opening Up Minds,Opening Up Minds,,Anna Krystalli,18/01/2021,18/06/2021,Psychology,2,TRUE
+57,,Flood Modelling Festival of the Mind,Flood Modelling Festival of the Mind,,"Matt Leach, Paul Richmond",01/07/2020,01/09/2020,Civil Engineering,2,TRUE
+58,,RateSetter / Merseyrail,RateSetter / Merseyrail,,Twin Karmakharm,18/11/2019,01/12/2020,Mechanical Engineering,2,TRUE
+64,,SCRC Follow on,SCRC Follow on,"python, agile, software testing, continuous integration, documentation",Robert Turner,01/01/2021,01/01/2022,External,2,TRUE
+65,,Hole in the Road,Hole in the Road,,Matt Leach,24/09/2020,13/10/2020,Computer Science,2,TRUE
+71,,JBC: Data and Data Science,JBC: Data and Data Science,,"David Jones, David Wilby",01/01/2021,01/07/2021,Department of Health and Social Care,2,TRUE
+75,airqo,AirQo: Air Quality (Google),AirQo: Air Quality (Google),"python, scrum, testing, machine learning, Gaussian processes, containers, cloud, continuous integration",Robert Turner,01/03/2021,01/05/2021,Computer Science,1,TRUE
+78,,Rail Transport,Rail Transport,,"John Charlton, Peter Heywood",29/01/2021,28/11/2021,Mechanical Engineering,2,TRUE
