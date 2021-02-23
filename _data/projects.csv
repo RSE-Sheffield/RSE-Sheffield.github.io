@@ -1,7 +1,7 @@
 id,key,title,long_title,tech_methods,rses,start,end,department
 1,,Neurodegenerative Dementia,Neurodegenerative Dementia,,Daniele Tartarini,01/03/2020,28/02/2023,Computer Science
 2,,EMODnet,EMODnet,,Anna Krystalli,01/01/2020,18/04/2023,Animal and Plant Science
-4,citcom,CITCoM,CITCoM,"python, docker, HPC, machine learning",Robert Turner,01/01/2021,01/07/2024,Computer Science
+4,citcom,CITCoM,Casual Inference for Testing of Computational Models,"python, docker, HPC, machine learning",Robert Turner,01/01/2021,01/07/2024,Computer Science
 6,,Strituvad,Strituvad,,"Peter Heywood, David Wilby",16/04/2018,01/11/2021,Mathematics and Statistics
 7,,BBSRC: Cell Modelling,BBSRC: Cell Modelling,,Twin Karmakharm,01/10/2018,30/09/2021,Mathematics and Statistics
 8,,CompBioMed2,CompBioMed2,,Daniele Tartarini,01/10/2019,30/09/2023,INSIGNEO
