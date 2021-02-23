@@ -2,7 +2,7 @@
 key: jade2
 ---
 
-JADE II is a deep learning focused, newly launched Tier-2 HPC system associated with 19 academic partners including Sheffield. 
+JADE II is a Deep Learning focused, newly launched Tier-2 HPC system associated with 19 academic partners including Sheffield. 
 
 RSES is a local institutional contact and is involved in promoting the system, managing user access and on-boarding, provide on-going technical support and training. 
 
