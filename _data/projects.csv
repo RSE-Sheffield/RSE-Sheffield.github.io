@@ -8,13 +8,13 @@ id,key,title,long_title,tech_methods,rses,start,end,department,level,show
 9,,Primage,Primage,,Robert Chisholm,01/01/2019,31/12/2022,INSIGNEO,2,1
 10,,Google DNI Journalist,Google DNI Journalist,,"David Jones, Twin Karmakharm",01/01/2019,01/01/2020,Computer Science,2,1
 11,,ELG,ELG,,David Jones,07/01/2019,01/01/2020,Computer Science,2,1
-12,,BRC,BRC,"databases, ansible, training, matlab, R, REDCap, XNAT, servers","Anna Krystalli, Will Furnass, Robert Turner",01/05/2018,31/03/2022,INSIGNEO,2,1
+12,brc,BRC,NIHR Sheffield Biomedical Research Centre,"databases, ansible, training, matlab, R, REDCap, XNAT, servers","Anna Krystalli, Will Furnass, Robert Turner",01/05/2018,31/03/2022,INSIGNEO,2,1
 13,,E2EEHM Vibration Analytics,E2EEHM Vibration Analytics,,David Jones,01/11/2019,31/03/2020,Automatic Control and Systems Engineering,2,1
 16,,Insigneo TO 2019,Insigneo TO 2019,,Daniele Tartarini,01/08/2019,01/08/2021,INSIGNEO,2,0
 17,,ACCE DTP,ACCE DTP,,Anna Krystalli,01/01/2020,30/04/2020,University of York,2,1
 19,,Reprohacks,Reprohacks,,Anna Krystalli,01/01/2020,31/03/2020,N8 ,2,1
 21,,RateSetter+,RateSetter+,,John Charlton,18/11/2019,17/03/2021,Mechanical Engineering,2,1
-22,pykale,Prognostic: Cardiac MRI with ML,pykale (Multimodal/transfer learning on graphs/images/videos),"python, version control, static analysis, GitHub, testing, machine learning","David Jones, Robert Turner, Will Furnass",01/10/2020,30/09/2021,Computer Science,1,1
+22,,Prognostic: Cardiac MRI with ML,Prognostic: Cardiac MRI with ML,"python, version control, static analysis, GitHub","David Jones, Robert Turner, Will Furnass",01/10/2020,30/09/2021,Computer Science,2,1
 24,polar,Polar Portal,Polar Portal: Sea ice edge detection,"python, docker, matlab",Robert Turner,01/11/2019,01/02/2020,Geography,1,1
 25,,A Network For Lemons,A Network For Lemons,,Anna Krystalli,09/09/2019,08/09/2020,Management School,2,1
 27,,IMPACT Acceleration,IMPACT Acceleration,,David Wilby,01/08/2019,31/07/2021,Computer Science,2,1
