@@ -1,5 +1,5 @@
 ---
-title: "Imperial College Sheffield RSE ReproHack"
+title: "Imperial College - Sheffield RSE ReproHack"
 category: workshop
 tags: Reprohack
 date: 2021-03-09
@@ -8,11 +8,14 @@ to: "17:00"
 institute: "University of Sheffield - Imperial College London"
 published: true
 location: "Online"
-speaker: "Anna Krystalli, Jeremy Cohen (Imperial College)"
+speaker: "Anna Krystalli, Jeremy Cohen"
 ---
 
+<br>
 
-**Join us for a ReproHack on Tues 9th March 2021. Pick a paper, try and reproduce its results and provide valuable feedback to the author(s).**
+<img src="https://github.com/reprohack/reprohack-hq/blob/master/organiser_instructions/logo-hex/reprohack.png?raw=true" width=150px>
+
+#### Join us for a ReproHack on Tues 9th March 2021. Pick a paper, try and reproduce its results and provide valuable feedback to the author(s).**
 
 ### About the event
 
