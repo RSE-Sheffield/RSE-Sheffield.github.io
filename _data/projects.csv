@@ -5,7 +5,7 @@ id,key,title,long_title,tech_methods,rses,start,end,department,level,show
 6,,Strituvad,Strituvad,,"Peter Heywood, David Wilby",16/04/2018,01/11/2021,Mathematics and Statistics,2,1
 7,bbsrc_chaste,BBSRC: Cell Modelling,BBSRC: Cell Modelling,"C++, cell, simulation, Docker, Python, HPC",Twin Karmakharm,01/10/2018,30/09/2021,Mathematics and Statistics,2,1
 8,,CompBioMed2,CompBioMed2,,Daniele Tartarini,01/10/2019,30/09/2023,INSIGNEO,2,1
-9,,Primage,Primage,,Robert Chisholm,01/01/2019,31/12/2022,INSIGNEO,2,1
+9,primage,Primage,Primage,"C++, CUDA, Python, HPC, FLAME GPU, ABM, simulation",Robert Chisholm,01/01/2019,31/12/2022,INSIGNEO,1,1
 10,,Google DNI Journalist,Google DNI Journalist,,"David Jones, Twin Karmakharm",01/01/2019,01/01/2020,Computer Science,2,1
 11,,ELG,ELG,,David Jones,07/01/2019,01/01/2020,Computer Science,2,1
 12,brc,BRC,NIHR Sheffield Biomedical Research Centre,"databases, Ansible, training, MATLAB, R, REDCap, XNAT, servers","Anna Krystalli, Will Furnass, Robert Turner",01/05/2018,31/03/2022,INSIGNEO,1,1
