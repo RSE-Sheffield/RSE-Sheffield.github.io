@@ -202,7 +202,7 @@ The following project data (and metadata) are to be populated in `projects.csv`:
 | key | A code that links this table to the markdown file containing the full project description. | Yes |
 | title | Project title used in RSE Admin. | Yes |
 | long_title | A descriptive project title. | Yes |
-| tech_methods | Technology and methods used in the project including programming languages. | Yes |
+| tech_methods | Technology and methods used in the project including programming languages. Each item in this list should be separated by a comma and a space. | Yes |
 | rses | Comma seperated list of RSEs involved (`firstname` `lastname`). | Yes |
 | start | Project start date `dd/mm/yyyy` | Yes |
 | end | Project end date `dd/mm/yyyy` | Yes |
