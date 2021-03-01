@@ -20,6 +20,7 @@ MoStrAct aims to explore whether data from movement sensors such as gait monitor
 provide biomarkers for changes in neurological conditions,
 with additional sources of information such as standard clinical tests and MRI imaging data
 being used to provide independent information on changes.
+Reliable gait-based biomarkers have the potential to make the monitoring of chronic neurological disorders a cheaper and more continual process.
 
 MoStrAct has been very much a collaboration, with the parties listed above all contributing to the experimental protocol and ethics application along with the subsequent workflows/pipelines.
 The RSE team worked with the STH Scientific Computing team to advise on information governance and to set up systems for
@@ -36,6 +37,7 @@ Other RSE contributions to the project include:
     make the computational aspects of the workflows more robust and reproducible
     (such as training in software version control using Git and GitHub).
 
+In general, many contributions have been around data storage/management/governance and making analysis of that data more robust/reproducible, with this focus resulting in part from the high high cost (in terms of time and money) per data point in this study.
 
 [brc]: http://sheffieldbrc.nihr.ac.uk/
 [insigneo]: https://insigneo.org/
