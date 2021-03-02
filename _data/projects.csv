@@ -27,7 +27,7 @@ id,key,title,long_title,tech_methods,rses,start,end,department,level,show
 40,,JADE II Support,JADE II Support,,"Anna Krystalli, Twin Karmakharm",01/02/2020,01/08/2021,IT Services,2,1
 45,,BasisFlow,BasisFlow,,Twin Karmakharm,01/01/2021,31/12/2023,Chemistry,2,1
 53,ramp,RAMP SCRC Covid Support,RAMP SCRC Covid Support,"python, agile, software testing, continuous integration, documentation",Robert Turner,01/05/2020,01/08/2020,Computer Science,2,1
-55,,IFPRI,IFPRI,,David Wilby,01/07/2020,01/08/2020,Computer Science,2,1
+55,,IFPRI,IFPRI,,David Wilby,01/07/2020,01/08/2020,Computer Science,2,0
 56,,Opening Up Minds,Opening Up Minds,,Anna Krystalli,18/01/2021,18/06/2021,Psychology,2,1
 57,,Flood Modelling Festival of the Mind,Flood Modelling Festival of the Mind,,"Matt Leach, Paul Richmond",01/07/2020,01/09/2020,Civil Engineering,2,1
 58,,RateSetter / Merseyrail,RateSetter / Merseyrail,,Twin Karmakharm,18/11/2019,01/12/2020,Mechanical Engineering,2,1
