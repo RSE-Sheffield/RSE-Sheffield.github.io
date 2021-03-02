@@ -36,4 +36,4 @@ id,key,title,long_title,tech_methods,rses,start,end,department,level,show
 71,,JBC: Data and Data Science,JBC: Data and Data Science,,"David Jones, David Wilby",01/01/2021,01/07/2021,Department of Health and Social Care,2,1
 75,airqo,AirQo: Air Quality (Google),AirQo: Kampala Air Quality,"python, scrum, testing, machine learning, Gaussian processes, containers, cloud, continuous integration",Robert Turner,01/03/2021,01/05/2021,Computer Science,1,1
 78,,Rail Transport,Rail Transport,,"John Charlton, Peter Heywood",29/01/2021,28/11/2021,Mechanical Engineering,2,1
-,firstdraftcoviddash,FirstDraft x GATE COVID Dashboard,FirstDraft x GATE COVID Data Deficits Dashboard,"python, django, vue, javascript, web apps, elasticsearch, postgres, databases","David Wilby, Twin Karmakharm",01/06/2020,31/07/2020,Computer Science,1,1
+,firstdraftcoviddash,FirstDraft × GATE COVID Dashboard,FirstDraft × GATE COVID Data Deficits Dashboard,"python, django, vue, javascript, web apps, elasticsearch, postgres, databases","David Wilby, Twin Karmakharm",01/06/2020,31/07/2020,Computer Science,1,1
