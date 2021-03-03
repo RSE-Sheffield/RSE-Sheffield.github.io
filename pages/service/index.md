@@ -17,7 +17,7 @@ The RSE group provides a mixture of
 
 * Paid service via grant funding (as percentages of an RSE FTE)
 * Paid service for departments and core accounts (as percentages of an RSE FTE)
-* Limited free at point of use support (via [community](../community) activities, [training](../training) and the [code clinic](../support/code-clinic)). 
+* Limited free at point of use support (via [community](../community) activities, [training](../training) and the [code clinic](../support/code-clinic) service we co-run with IT Services Research and Innovation IT). 
 
 Areas of expertise within the group include:
 code optimisation and performance,
