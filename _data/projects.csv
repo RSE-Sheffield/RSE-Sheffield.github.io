@@ -29,10 +29,10 @@ id,key,title,long_title,tech_methods,rses,start,end,department,level,show
 53,ramp,RAMP SCRC Covid Support,RAMP SCRC Covid Support,"python, agile, software testing, continuous integration, documentation",Robert Turner,01/05/2020,01/08/2020,Computer Science,2,1
 55,,IFPRI,IFPRI,,David Wilby,01/07/2020,01/08/2020,Computer Science,2,1
 56,,Opening Up Minds,Opening Up Minds,,Anna Krystalli,18/01/2021,18/06/2021,Psychology,2,1
-57,,Flood Modelling Festival of the Mind,Flood Modelling Festival of the Mind,,"Matt Leach, Paul Richmond",01/07/2020,01/09/2020,Civil Engineering,2,1
+57,floodfotm,Flood Modelling Festival of the Mind,Flood Modelling Festival of the Mind,"GPU, unreal engine, FLAMEGPU",Matt Leach, Paul Richmond",01/07/2020,01/09/2020,Civil Engineering,2,1
 58,ratesetter,RateSetter / Merseyrail,RateSetter / Merseyrail,"C++, FLAME GPU, ABM",Twin Karmakharm,18/11/2019,01/12/2020,Mechanical Engineering,2,1
 64,scrc-pipeline,SCRC Follow on,Covid epidemiology data pipeline,"python, agile, software testing, continuous integration, documentation",Robert Turner,01/01/2021,01/01/2022,External,1,1
-65,,Hole in the Road,Hole in the Road,,Matt Leach,24/09/2020,13/10/2020,Computer Science,2,1
+65,holeintheroad,Hole in the Road,Hole in the Road,"VR, unity",Matt Leach,24/09/2020,13/10/2020,Computer Science,2,1
 71,,JBC: Data and Data Science,JBC: Data and Data Science,,"David Jones, David Wilby",01/01/2021,01/07/2021,Department of Health and Social Care,2,1
 75,airqo,AirQo: Air Quality (Google),AirQo: Kampala Air Quality,"python, scrum, testing, machine learning, Gaussian processes, containers, cloud, continuous integration",Robert Turner,01/03/2021,01/05/2021,Computer Science,1,1
 78,,Rail Transport,Rail Transport,,"John Charlton, Peter Heywood",29/01/2021,28/11/2021,Mechanical Engineering,2,1
