@@ -6,8 +6,8 @@ type: text
 ---
 
 Initial enquiries for RSE service should be made by first [contacting us](/contact/).
-If you attend one of our [Code Clinics](/support/code-clinic/)
-you may also be referred through to the paid service for dedicated help if this is something which is required.
+If you attend one of the [Code Clinics](/support/code-clinic/) sessions (that we co-run with IT Services' Research and Innovation IT team)
+you may also be referred through to the paid RSE service for dedicated help if this is something which is required.
 
 During your initial consultation a senior member of the RSE team will provide guidance on the RSE service and discuss your needs.
 If your project is within scope of what we can help with then we will work with you to agree a delivery plan.
