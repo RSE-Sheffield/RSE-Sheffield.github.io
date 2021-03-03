@@ -22,7 +22,7 @@ id,key,title,long_title,tech_methods,rses,start,end,department,level,show
 30,,Accelerate,Accelerate,,"Peter Heywood, Mozhgan Kabiri Chimeh, Matt Leach",01/03/2016,01/10/2021,Computer Science,2,1
 31,,Teaching Support for GPU Module,Teaching Support for GPU Module,,"Mozhgan Kabiri Chimeh, Robert Chisholm",01/02/2019,01/09/2021,Computer Science,2,1
 32,,SoBigData++,SoBigData++,,"David Jones, Twin Karmakharm",01/01/2020,01/01/2022,Computer Science,2,1
-33,risis2,RISIS II,RISIS II,,"David Jones, David Wilby",01/01/2020,30/06/2021,Computer Science,2,1
+33,risis2,RISIS II,RISIS II,,"David Jones, David Wilby",01/01/2020,30/06/2021,Computer Science,1,1
 34,gpy,Learning to move as a human,Multiple output Gaussian processes for GPy,"python, Gaussian processes, documentation, testing, continuous integration, MATLAB",Robert Turner,01/10/2019,01/01/2021,Computer Science,1,1
 40,jade2,JADE II Support,JADE II Support,"deep learning, HPC, teaching, user support","Anna Krystalli, Twin Karmakharm",01/02/2020,01/08/2021,IT Services,2,1
 45,basisflow,BasisFlow,BasisFlow,,Twin Karmakharm,01/01/2021,31/12/2023,Chemistry,2,1

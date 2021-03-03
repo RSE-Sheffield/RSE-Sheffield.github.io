@@ -15,4 +15,4 @@ The RSE team worked with GATE to build a simple tool to regularly analyse the us
 
 **DeepQuest**
 
-A neural network-based tool for quality estimation in machine translation. The RSE team worked with researchers to refactor a proof of principle codebase which demonstrated excellent results in using deep learning to estimate the quality of linguistic translations. The impact of the project was enhanced by refactoring the codebase in order to create a python package, developing command line  and python interfaces, reducing the size of the codebase and adding tests and documentation.
+A neural network-based tool for quality estimation in machine translation. The RSE team worked with researchers to refactor a proof of principle codebase which demonstrated excellent results in using deep learning to estimate the quality of linguistic translations. The impact of the project was enhanced by refactoring the codebase in order to create a Python package, developing command line  and Python interfaces, reducing the size of the codebase and adding tests and documentation.
