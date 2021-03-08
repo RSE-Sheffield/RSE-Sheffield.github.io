@@ -23,7 +23,7 @@ type: text
 The Research Software Engineering team at Sheffield has worked on projects involving a variety of methods and technologies:
 
 {% for proj in site.data.projects %}
-{% assign proj_tags = proj.tech_methods | split: "," %}
+{% assign proj_tags = proj.tech_methods | split: ", " %}
 {% assign all_tags = all_tags | concat: proj_tags %}
 {% endfor %}
 {{ all_tags | sort_natural | uniq | join: " &middot; " }}
