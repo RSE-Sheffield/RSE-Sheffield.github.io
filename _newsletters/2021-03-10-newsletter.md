@@ -2,8 +2,8 @@
 layout: post
 title: March 2021 Newsletter
 editor: Twin Karmakharm
-slug: 2021-03-10-newsletter
-date: 2021-03-10 16:00:00 UTC
+slug: 2021-03-12-newsletter
+date: 2021-03-12 16:00:00 UTC
 tags:
 category:
 link:
@@ -29,15 +29,19 @@ To receive this newsletter as an email each month, please sign up to our [Google
 
 ### News
 
-The [UKRN Academy](https://www.ukrn.org/ukrn-academy/) forum was created for doctoral students working on reproducibility and metascience projects. It is a part of the [UK Reproducibility Network](https://www.ukrn.org/).
+The **[UKRN Academy](https://www.ukrn.org/ukrn-academy/)** forum was created for doctoral students working on reproducibility and metascience projects. It is a part of the [UK Reproducibility Network](https://www.ukrn.org/).
 
 ---
 
-The Society of Research Software Engineering have published their [strategy for 2020/2021](https://society-rse.org/the-society-of-research-software-engineering-strategy-2020-2021/).
+The **Society of Research Software Engineering** have published their **[strategy for 2020/2021](https://society-rse.org/the-society-of-research-software-engineering-strategy-2020-2021/)**. Informed by the community feedback event, they've proposed a strategy around the following three pillars:
+
+* Environment: Creating a research environment which recognises software and its contributors
+* Skills: Enhancing the provision of skills for researchers and the RSE community
+* People: Increasing awareness and opportunities for the role of RSEs
 
 ---
 
-The Reprohack NL team have won this year's [Open Initiative Trophy](https://opensciencefestival.nl/the-open-initiative-trophies/). We'd like to congratulate the team including Anna Krystalli who is also a member of our Sheffield RSE group.
+The **Reprohack NL** team have won this year's **[Open Initiative Trophy](https://opensciencefestival.nl/the-open-initiative-trophies/)**. We'd like to congratulate the team including Anna Krystalli who is also a member of our Sheffield RSE group.
 
 ---
 
@@ -47,22 +51,22 @@ The [RSE Society](https://society-rse.org/) is developing a mentoring scheme to 
 
 **Introduction to Deep Learning Course with Tensorflow Keras (in Python), 15th April**
 
-A one-day introduction to deep learning with practical labs using Tensorflow Keras in Python. The session is led by [Twin Karmakharm](https://twin.uk.com)
+A one-day introduction to deep learning with practical labs using Tensorflow Keras in Python. The session is led by [Twin Karmakharm](https://twin.uk.com).
 
-[Register with eventbrite](XXXXEventbritelink here!!!)
+[Register with eventbrite](https://www.eventbrite.co.uk/e/144990036101)
 
 ---
 
 **Introduction to Deep Learning Course with Keras (in R), 22nd April**
 
-A one-day introduction to deep learning with practical labs using Keras (Tensorflow) in R. The session is led by [Anna Krystalli](https://annakrystalli.me/)
+A one-day introduction to deep learning with practical labs using Keras (Tensorflow) in R. The session is led by [Anna Krystalli](https://annakrystalli.me/).
 
-[Register with eventbrite](XXXXEventbritelink here!!!)
+[Register with eventbrite](https://www.eventbrite.co.uk/e/144987819471)
 
 
 ---
 
-Upcoming ARCHER 2 training events:
+**Upcoming ARCHER 2 training events:**
 
 * Introduction to ARCHER2 for software developers, 29-30th of March
 * Shared Memory programming with OpenMP, online self-service course.
@@ -71,7 +75,7 @@ Details and registration for the courses can be found on their [upcoming trainin
 
 ---
 
-Upcoming N8 CIR training events:
+**Upcoming [N8 CIR](https://n8cir.org.uk/) training events:**
 
 * IBM Training for Bede - AI, 19th March
 * Research Data Management Network Event, 24th March
@@ -82,7 +86,7 @@ Details and registration for the courses and events can be found on their [event
 
 ---
 
-[Training on POP performance analysis, methodology and tools for women and underrepresented groups in the HPC community](https://pop-coe.eu/news/events/pop-training-in-collaboration-with-nag-women-in-hpc-chapter-and-vi-hps), 19th April
+[POP](https://pop-coe.eu/) is offering training on [performance analysis, methodology and tools for women and underrepresented groups in the HPC community](https://pop-coe.eu/news/events/pop-training-in-collaboration-with-nag-women-in-hpc-chapter-and-vi-hps) on the 19th of April.
 
 ---
 
@@ -99,15 +103,15 @@ The [Sheffield Metascience Network](https://twitter.com/SheffMetaNet), a network
 ### Opportunities
 
 
-The [Society of Research Software Engineering (SocRSE)](https://society-rse.org/) are providing an [Events and Initiatives Grant](https://society-rse.org/policy-for-socrse-events-and-initiatives-grant/). It funds up to £1,000 per event or initiative that supports their mission statement or charitable objectives.
+The **[Society of Research Software Engineering (SocRSE)](https://society-rse.org/)** are providing an **[Events and Initiatives Grant](https://society-rse.org/policy-for-socrse-events-and-initiatives-grant/)**. It funds up to £1,000 per event or initiative that supports their mission statement or charitable objectives.
 
 ---
 
-The 4th Cycle of the CZI Essential Open Source Software for Science is now open for applications: <https://chanzuckerberg.com/rfa/essential-open-source-software-for-science/> Funding is available for *software maintenance*, growth, development and *community engagement*.
+The 4th Cycle of the **[CZI Essential Open Source Software for Science is now open for applications](https://chanzuckerberg.com/rfa/essential-open-source-software-for-science/)**. Funding is available for software maintenance, growth, development, and community engagement.
 
 ---
 
-The EPSRC have released a call (with a deadline of 30 April 2021 for applications) for [access to high performance computing](https://www.ukri.org/opportunity/access-to-high-performance-computing/). 
+The **EPSRC** have released a call (with a deadline of 30 April 2021 for applications) for **[access to high performance computing](https://www.ukri.org/opportunity/access-to-high-performance-computing/)**. 
 
 The services available are:
 *  Tier 1 ARCHER2, for simulations and calculations that need parallelised processing cores
@@ -115,12 +119,7 @@ The services available are:
 
 ---
 
-The [Met Office SPF EXCALIBUR Programme](https://www.metoffice.gov.uk/research/approach/collaboration/spf/excalibur) launched the [Cross-cutting research for exascale software and algorithms call](https://www.ukri.org/opportunity/cross-cutting-research-for-exascale-software-and-algorithms) with the *15th April* deadline and addresses the following themes: 
-
-• future computing paradigms
-• coupling
-• verification, validation and uncertainty quantification
-• domain-specific languages.
+The [Met Office SPF EXCALIBUR Programme](https://www.metoffice.gov.uk/research/approach/collaboration/spf/excalibur) launched the **[Cross-cutting research for exascale software and algorithms call](https://www.ukri.org/opportunity/cross-cutting-research-for-exascale-software-and-algorithms)** with the *15th April* deadline and addresses the themes of future computing paradigms, coupling, verification, validation and uncertainty quantification, and domain-specific languages.
 
 Further information on the [Cross-cutting themes can be found here](https://www.metoffice.gov.uk/binaries/content/assets/metofficegovuk/pdf/research/spf/excalibur-xc-themes-common-text.pdf).
 
@@ -136,51 +135,42 @@ For RSE vacancies across the UK and elsewhere see the Society of RSE's [jobs boa
 
 ### Web and Blogs
 
-[RSE Stories: Working with you rather than for you](https://us-rse.org/rse-stories/2021/paul-richmond/) podcast is an interview of our group lead Paul Richmond and his journey as an RSE.
+**[RSE Stories: Working with you rather than for you](https://us-rse.org/rse-stories/2021/paul-richmond/)** podcast is an interview of our group lead Paul Richmond and his journey as an RSE.
 
 ---
 
-Code for Thought podcast's 9th February edition on the topic of [It's All About Reproducibility](https://codeforthought.buzzsprout.com/1326658/8043892-it-s-all-about-reproducibility) features our very own Anna Krystalli talking about the award-winning [ReproHack](https://reprohack.github.io/reprohack-hq/) events.
-
----
-
-Google have released the [Model Search](https://github.com/google/model_search) framework that implements AutoML algorithms for deep learning model architecture search at scale. The post [Introducing Model Search: An Open Source Platform for Finding Optimal ML Models](https://ai.googleblog.com/2021/02/introducing-model-search-open-source.html?m=1) offers more detail on the framework.
+Code for Thought podcast's 9th February edition on the topic of **[It's All About Reproducibility](https://codeforthought.buzzsprout.com/1326658/8043892-it-s-all-about-reproducibility)** features our very own Anna Krystalli talking about the award-winning [ReproHack](https://reprohack.github.io/reprohack-hq/) events.
 
 
 ### Software and Updates
 
-Pattern matching accepted for Python
+Google have released the **[Model Search](https://github.com/google/model_search)** framework that implements AutoML algorithms for deep learning model architecture search at scale. The post [Introducing Model Search: An Open Source Platform for Finding Optimal ML Models](https://ai.googleblog.com/2021/02/introducing-model-search-open-source.html?m=1) offers more detail on the framework.
 
-https://lwn.net/Articles/845480/
+---
 
+
+The Python language continues to evolve after ~30 years: it's gaining **['pattern matching' functionality](https://lwn.net/Articles/845480/)** similar to what can be found in Rust and functional programming languages such as Haskell and Scala.  This superficially looks like the case/switch statements one gets in languages such as C/C++/Java but offers much richer functionality.
 
 
 ### Resources
 
-Sheffield University now provides a [find a pc website](https://www.sheffield.ac.uk/findapc/now) to gives students remote access to PCs running University Desktop.
+Need access to managed desktop software? The University provides a **[find a pc website](https://www.sheffield.ac.uk/findapc/now)** to gives students remote access to PCs running University Desktop.
 
 ---
 
-[Introduction to Data Science online-book](https://rafalab.github.io/dsbook/) covers a wide range of data science topics including [machine learning](https://rafalab.github.io/dsbook/introduction-to-machine-learning.html), practical examples are provided in R.
-
-
----
-
-[Using MATLAB with Python livestream](https://www.youtube.com/watch?v=RlMgQDvvAFQ). Heather Gorr and Yann Debray walk through the ways you can use MATLAB and Python together. They answer questions about how to call Python libraries from MATLAB (and vice versa), package and deploy your MATLAB programs, and more.
+**[Introduction to Data Science online-book](https://rafalab.github.io/dsbook/)** covers a wide range of data science topics including [machine learning](https://rafalab.github.io/dsbook/introduction-to-machine-learning.html). Practical examples are provided in R.
 
 
 ---
 
-This is the repository for the Rum model as described in the T&T publication which estimates the impact of test, trace and isolate parameters on transmission
-Assessing the impact of test, trace and isolate parameters on COVID-19 transmission in an October-like environment
+**[Using MATLAB with Python livestream](https://www.youtube.com/watch?v=RlMgQDvvAFQ)**: Heather Gorr and Yann Debray walk through the ways you can use MATLAB and Python together. They answer questions about how to call Python libraries from MATLAB (and vice versa), package and deploy your MATLAB programs, and more.
 
-https://www.gov.uk/government/publications/the-r-m-model-technical-annex
-
-https://github.com/DataS-DHSC/TT_rum_model
 
 ---
 
-[The G.h data](https://data.covid-19.global.health/) is a global data repository with open access to real-time epidemiological anonymized line list data.
+**[Global.health](https://global.health/)** provides open access to real-time epidemiological anonymized line-list **[COVID-19 data](https://data.covid-19.global.health/)** that contains over five million anonymized cases from over 100 countries. 
+
+
 
 ---
 
