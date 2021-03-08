@@ -12,7 +12,7 @@ type: text
 
 ## How I solved a mystery with strace and bash
 
-So I'm dabbling with `iceberg`, The University of Sheffield's HPC, and
+So I'm dabbling around on one of the University's HPC clusters, and
 I finally get round to putting my [`.profile`](https://github.com/drj11/dot) on there.
 And I remember that I don't like
 the way `less` clears the screen when I've finished reading a `man` page.
