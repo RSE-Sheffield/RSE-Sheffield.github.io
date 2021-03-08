@@ -39,7 +39,7 @@ Some projects we have worked on (not a comprehensive list):
         {% assign projects = level.items | sort:'title' %}
         {% for project in projects %}
         {% assign project_end_date = project.end | date: '%s' %}
-        {% if project_end_date >= today_date %}
+        {% if project_end_date >= today_date or project.end == undefined %}
             {% assign current = true %}
         {% else %}
             {% assign current = false %}
