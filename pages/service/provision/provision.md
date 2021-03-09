@@ -17,7 +17,8 @@ Please see the flow chart below for our service provision model.
 
 ## RSE line management
 
-Once an RSE has been allocated to you then you will provide day-to-day line management of the staff member for the allocated time of the project.
+Once an RSE has been allocated they will engage and collaborate with you and your team directly. Line management of the RSE will remain within the RSE team.
+
 A senior RSE will have already assisted you in the specification of the work schedule during the grant-writing stage.
 If you need more dedicated involvement of a senior RSE then
 consider making one our our senior RSEs a collaborator in your grant.
@@ -26,7 +27,7 @@ They will then be able to provide additional intellectual guidance for your proj
 If at any stage you need to change direction within your grant or are unhappy with the staff member then
 this should be raised with the senior RSE member who assisted you in grant preparation or in designing the work schedule.
 
-## Provision of RSE group members
+## Provision of RSE team members
 
 Once your grant is funded we will agree appropriate staffing to meet your needs and review this as necessary.
 Most UKRI funders are aware of the role of RSEs and actively encourage their deployment on grants.

@@ -5,33 +5,35 @@ slug: index
 type: text
 ---
 
-The RSE group aims to collaborate with you to help improve your research software.
+The RSE team aims to collaborate with you to help improve your research software.
 We can provide dedicated staff to ensure that you can deliver excellent research software engineering on your research projects
-(see example projects and testimonials).
+(see [example projects](/service/projects/) and [testimonials](/service/testimonials/)).
 Supporting the entire University,
 we have collaborators in every faculty
 and have supported researchers in a range of subject areas including
 engineering, mathematics, computer science, biology, linguistics, physics, chemistry and geography. 
 
-The RSE group provides a mixture of 
+The RSE team provides a mixture of 
 
 * Paid service via grant funding (as percentages of an RSE FTE)
 * Paid service for departments and core accounts (as percentages of an RSE FTE)
-* Limited free at point of use support (via [community](../community) activities, [training](../training) and the [code clinic](../support/code-clinic) service we co-run with IT Services Research and Innovation IT). 
+* Limited free at point of use support (via [community](../community) activities, [training](../training) and the [Code Clinic](../support/code-clinic) service we co-run with IT Services Research and Innovation IT). 
 
-Areas of expertise within the group include:
-code optimisation and performance,
-reproducibility and embedding good software engineering practice with your project or team,
-GPU computing and Deep Learning,
-statistical analysis and data visualisation,
-High Performance Computing for local/national/international/cloud systems,
-general software development,
-development of impact case studies,
-consultancy,
-training and
-education delivery and support.
+Areas of expertise within the team include:
+
+* code optimisation and performance
+* reproducibility and embedding good software engineering practice with your project or team
+* GPU computing and Deep Learning
+* statistical analysis and data visualisation
+* High Performance Computing for local/national/international/cloud systems
+* general software development
+* development of impact case studies
+* consultancy
+* training
+* education delivery and support
+
 Our list of specialist expertise is constantly changing and improving so
-please contact us if you are unsure if we can support your research software needs or read more on [what we do](./activities).
+please [contact us](/contact) if you are unsure if we can support your research software needs or read more on [what we do](./activities).
    
 ### Why use the RSE service
 
@@ -40,10 +42,10 @@ Recruitment of such skills is very difficult on research projects,
 especially when you only require short term expertise.
 UKRI (and most other UK and EU funding agencies) understand what an import part RSEs have on research and
 would like to see that they are being offered sustainable careers with academia.
-The RSE group provides this through underwritten roles and by allowing RSEs to work to a unique job description.
+The RSE team provides this through underwritten roles and by allowing RSEs to work to a unique job description.
 If you want to deliver software engineering as part of your grant application then
 there is a good chance that you will be required to demonstrate how this will be done sustainability.
-The RSE group is an excellent way to provide this evidence to your funders.
+The RSE team is an excellent way to provide this evidence to your funders.
 
 ## How to use the paid RSE service
 
@@ -57,11 +59,12 @@ the RSE service is a paid service.
 In many cases this will require you to budget for the RSE service as part of your grant application.
 The RSE team can assist with this an advice you as to what is appropriate for your needs.
 Enquiries should be made to `rse@sheffield.ac.uk`.
-The RSE group allows you to budget for RSE services using a day rate charge.
-We can provide staffing for anything from 1 day to 50% of a FTE.
-Provision of an RSE is subject to availability and as such
+
+We can provide staffing for your grants (charged as 'directly incurred' costs) for anything from 1 day to 50% of a FTE,
+although provision of an RSE is subject to availability and as such
 enquiries should be made before grant submission to allow us to schedule our staff resources.
-If you require a dedicated 100% role for your group or project then you should recruit this directly.
+
+If you require a dedicated 100% role for your team or project then you should recruit this directly.
 We can help you with this by assisting with recruitment and by supporting your RSE within the Sheffield RSE community.
 
 ### RSE service charge
@@ -72,24 +75,24 @@ In this case we charge
 an internal RSE service day rate of £324 (2020) / £384 (2021) for internal grants and 
 £585+VAT (2020/2021) for external partners and industry.
 
-The service rate is based on an average cost of an RSE in our group
+The service rate is based on an average cost of an RSE in our team
 and has a 10% faculty administration cost.
 
 ### Collaborative research software development
 
-The aim of the RSE group is to provide staff to support software engineering for research.
+The aim of the RSE team is to provide staff to support software engineering for research.
 This is aways done as a collaborative exercise.
 In most cases where an RSE is required, the novel research is facilitated by software and the RSE rather than the development of software being novel in its own right.
 	
 If you wish to undertake a collaborative software engineering project where the focus is on *novel software engineering research* then
-this can be provided by our director or academics associated with the RSE group.
+this can be provided by our director or academics associated with the RSE team.
 As part of this you may also cost RSE time.
 The RSE director for example, holds an academic position in the Department of Computer Science and
 delivers collaborative research around novel high-performance computing.
 
-## Contributing to the RSE Group (underwriting a RSE role)
+## Contributing to the RSE team (underwriting a RSE role)
 
-If you have a considerable requirement for RSE staff you may consider underwriting an RSE staff member with the group.
+If you have a considerable requirement for RSE staff you may consider underwriting an RSE staff member with the team.
 By doing so you will ensure that a member of staff will exist with the specific skills which you require for your research.
 You will also be given the opportunity to join our strategy group to influence how free RSE time should be allocated.
 Underwriting a post does not guarantee that the staff member will be available to you 100% of the time.
