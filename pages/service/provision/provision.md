@@ -17,7 +17,7 @@ Please see the flow chart below for our service provision model.
 
 ## RSE line management
 
-Once an RSE has been allocated to you then you will direct the activities of the RSE within the scope of the project but line management of the RSE will remain within the RSE team.
+Once an RSE has been allocated they will engage and collaborate with you and your team directly. Line management of the RSE will remain within the RSE team.
 
 A senior RSE will have already assisted you in the specification of the work schedule during the grant-writing stage.
 If you need more dedicated involvement of a senior RSE then
