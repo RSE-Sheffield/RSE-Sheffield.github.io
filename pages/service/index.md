@@ -60,8 +60,8 @@ In many cases this will require you to budget for the RSE service as part of you
 The RSE team can assist with this an advice you as to what is appropriate for your needs.
 Enquiries should be made to `rse@sheffield.ac.uk`.
 
-We can provide directly allocated staffing for your grants for anything from 1 day to 50% of a FTE.
-Provision of an RSE is subject to availability and as such
+We can provide staffing for your grants (charged as 'directly incurred' costs) for anything from 1 day to 50% of a FTE,
+although provision of an RSE is subject to availability and as such
 enquiries should be made before grant submission to allow us to schedule our staff resources.
 
 If you require a dedicated 100% role for your team or project then you should recruit this directly.
