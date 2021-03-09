@@ -6,7 +6,7 @@ type: text
 ---
 
 Here you'll find details of hardware and software resources that will be of interest to
-computational researchers, research software developers and research software engineers at The University of Sheffield.
+computational researchers, research software developers, research software engineers and data scientists at The University of Sheffield.
 
 ## Language and technology specific resources
 
