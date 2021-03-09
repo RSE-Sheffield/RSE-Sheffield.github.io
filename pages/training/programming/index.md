@@ -173,17 +173,16 @@ Access to these clusters are open to all UoS researchers and academics and theyâ
 
 *   University of Sheffield hosted HPC
     *   Single account provides access to all three clusters, contact [it-servicedesk@sheffield.ac.uk](mailto:it-servicedesk@sheffield.ac.uk) for access.
-    *   [Iceberg](https://docs.hpc.shef.ac.uk/en/latest/iceberg/index.html) (3440 CPU cores, 16 GPUs)
-        *   Oldest system, due to be retired soon. 
     *   [ShARC](https://docs.hpc.shef.ac.uk/en/latest/sharc/index.html) (2024 CPU cores, 40 GPUs)
         *   Suitable for multi-node MPI jobs
     *   [Bessemer](https://docs.hpc.shef.ac.uk/en/latest/bessemer/index.html) (1040 CPU cores, 4 GPUs)
         *   Newest system, came on-line in 2019
         *   Suitable for running many independent jobs or single-node MPI jobs
         *   More GPUs coming soon!
-*   Tier-2 HPCs with affiliation to University of Sheffield
-    *   [JADE](http://www.jade.ac.uk/) ([documentation](http://docs.jade.ac.uk/en/latest/)) - For research projects that uses deep learning. [Access request form](https://forms.gle/ivQh9MLQPQVvF4oh9)
-    *   Bede (coming soon)
+*   Tier 2 HPC systems with affiliation to University of Sheffield
+    *   [JADE](https://docs.hpc.shef.ac.uk/en/latest/jade.html): for research projects that uses deep learning or simulate molecular dynamics.
+    *   [JADE 2](https://docs.hpc.shef.ac.uk/en/latest/jade2.html) (coming soon): for research projects that uses deep learning or simulate molecular dynamics.
+    *   [Bede](https://docs.hpc.shef.ac.uk/en/latest/bede.html): for very large GPU jobs that require multiple GPUs and multiple nodes.
 
 
 ## HPC Learning resources

@@ -14,6 +14,8 @@ type: text
 
 **TL;DR Around 100 of Iceberg's nodes are ancient and weaker than a decent laptop. You may get better performance by switching to ShARC.  You'll get even better performance by investing in the [RSE project on ShARC](/community/resources-and-equipment/).**
 
+**EDIT 2021**: Iceberg was decommissioned in November 2020**
+
 ## Benchmarking different nodes on our HPC systems
 
 I have been benchmarking various nodes on Iceberg and ShARC using Matrix-Matrix multiplication.

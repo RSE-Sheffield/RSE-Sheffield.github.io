@@ -5,7 +5,8 @@ slug: index
 type: text
 ---
 
-Here you'll find details of hardware and software resources that will be of interest to computational researchers, research software developers and research software engineers at The University of Sheffield.
+Here you'll find details of hardware and software resources that will be of interest to
+computational researchers, research software developers, research software engineers and data scientists at The University of Sheffield.
 
 ## Language and technology specific resources
 
@@ -18,28 +19,49 @@ Here you'll find details of hardware and software resources that will be of inte
 
 ## Site licensed Software at Sheffield
 
-The University of Sheffield provides a range of site licensed software to its staff and students. Products include MATLAB, Mathematica, Maple, various compilers and software libraries. Head over to https://www.sheffield.ac.uk/software/ to see what's available.
+The University of Sheffield provides a range of site licensed software to its staff and students.
+Products include MATLAB, Mathematica, Maple, various compilers and software libraries.
+Head over to [https://www.sheffield.ac.uk/software/](https://www.sheffield.ac.uk/software/) to see what's available.
 
 ## High Performance Computing at Sheffield
 
-The University of Sheffield provides staff and students with access to three High Performance Computing (HPC) systems: Bessemer, called ShARC and Iceberg.
-ShARC is the new system and the one we recommend for new users. Both systems are free to academics and researchers (students can be added with permission of supervisors) and work on a fair share basis.
+The University of Sheffield provides staff and students with access to [four High Performance Computing (HPC) systems](https://docs.hpc.shef.ac.uk/):
 
-More information of ShARC, Iceberg and research data storage is provided by the following links.
+* **Bessemer**: run by TUOS.  Optimised for high-throughput of single-node jobs.  Typically 40 cores per node.  Newer than ShARC.
+* **ShARC**: run by TUOS.  Optimised for high-performance, multi-node jobs.  Typically 16 cores per node but has very high bandwidth, low latency network connections between nodes.
+* **Bede**: a GPU HPC cluster run by the N8 consortium (inc. TUOS).  Designed to accommodate multi-node, multi-GPU jobs inc. machine learning/deep learning workflows.
+* **JADE**: a GPU HPC cluster run by a different consortium (inc. TUOS).  Designed to accommodate single-node, multi-GPU jobs inc. machine learning/deep learning workflows.
+* **JADE 2**: a successor to JADE
 
-* [https://docs.hpc.shef.ac.uk/en/latest/index.html](https://docs.hpc.shef.ac.uk/en/latest/index.html) - ShARC and Iceberg documentation
-* [https://shef.ac.uk/it-services/research-storage](https://www.sheffield.ac.uk/it-services/research-storage) - Information on applying for research storage at Sheffield
+All TUOS academics and researchers can request free access to Bessemer and SHARC.  Research students need their supervisors to make requests.
+
+There are slightly more formal application processes for Bede, JADE and JADE 2 - see the above link for details.
+
+## Research data storage
+
+TUOS [offers each PI 10TB of free storage](https://www.sheffield.ac.uk/it-services/research-storage),
+which can optionally be made available to the two TUOS-managed HPC systems.
+Additional storage can be purchased from IT Services.
 
 ### Access to dedicated HPC resources
 
-The RSE group has access to a set of private nodes on ShARC (GPU and big memory nodes) which we use for delivering HPC projects and occasionally to provide access for collaborators.  If you require HPC resources beyond what is provided for free then we have prepared the following [HPC purchasing guidance](hpc).
+The RSE group has access to a set of private nodes in Bessemer and ShARC (GPU and big memory nodes) which we use for
+delivering HPC projects and occasionally to provide access for collaborators.
+If you require HPC resources beyond what is provided for free then we have prepared the following [HPC purchasing guidance](hpc).
 
 ### JADE Tier 2 GPU cluster
 
-The Joint Academic Data Science Endeavour (JADE) is the largest GPU facility in the UK supporting world-leading research in machine learning. The computational hub will harness the capabilities of the NVIDIA DGX-1 Deep Learning System and comprise of 22 servers, each containing 8 of the newest NVIDIA Tesla P100 GPUs linked by NVIDIA's NV link interconnect technology. The new JADE facility aims to address the gap between university systems and access to national HPC services. This will drive forward innovation in machine learning, identifying new applications and insights in to research challenges.
+The Joint Academic Data Science Endeavour (JADE) is the largest GPU facility in the UK supporting world-leading research in machine learning.
+The computational hub will harness the capabilities of the NVIDIA DGX-1 Deep Learning System and
+comprise of 22 servers, each containing 8 of the newest NVIDIA Tesla P100 GPUs linked by NVIDIA's NV link interconnect technology.
+The new JADE facility aims to address the gap between university systems and access to national HPC services.
+This will drive forward innovation in machine learning, identifying new applications and insights in to research challenges.
 
-The RSE group director (Paul Richmond) is a co-investigator in the [EPSRC Tier 2 JADE system](https://www.jade.ac.uk/). As such members of the University of Sheffield are able to access this resource for free (for use with deep learning research). Please [contact us](/contact/) for more information on accessing this resource.
+The RSE group director (Paul Richmond) is a co-investigator in the [EPSRC Tier 2 JADE system](https://www.jade.ac.uk/).
+As such members of the University of Sheffield are able to access this resource for free (for use with deep learning research).
+Please [contact us](/contact/) for more information on accessing this resource.
 
 ### Cloud Computing
 
-The RSE team can advise about the use of cloud computing or can help you to adapt your current workflows to cloud computing environments. We have helped a number of groups to write winning grant applications to Amazon and Azure for free cloud credits. 
+The RSE team can advise about the use of cloud computing or can help you to adapt your current workflows to cloud computing environments.
+We have helped a number of groups to write winning grant applications to Amazon and Azure for free cloud credits.

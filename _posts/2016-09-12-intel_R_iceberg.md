@@ -12,6 +12,8 @@ type: text
 
 **To Long; Didn't Read -- Summary**
 
+**EDIT: Iceberg was decommissioned in November 2020**
+
 I've built a version of R on Iceberg that is faster than the standard version for various operations. Documentation is at [https://docs.hpc.shef.ac.uk/en/latest/iceberg/software/apps/r.html](https://docs.hpc.shef.ac.uk/en/latest/iceberg/software/apps/r.html).
 
 If it works more quickly for you, or if you have problems, please let us know by emailing [rse@sheffield.ac.uk](mailto:rse@sheffield.ac.uk)
