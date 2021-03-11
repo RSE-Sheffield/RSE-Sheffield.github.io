@@ -3,7 +3,7 @@ layout: post
 title: March 2021 Newsletter
 editor: Twin Karmakharm
 slug: 2021-03-12-newsletter
-date: 2021-03-12 16:00:00 UTC
+date: 2021-03-12 10:00:00 UTC
 tags:
 category:
 link:
@@ -29,7 +29,7 @@ To receive this newsletter as an email each month, please sign up to our [Google
 
 ### News
 
-The **[UKRN Academy](https://www.ukrn.org/ukrn-academy/)** forum was created for doctoral students working on reproducibility and metascience projects. It is a part of the [UK Reproducibility Network](https://www.ukrn.org/).
+The **[UKRN Academy](https://www.ukrn.org/ukrn-academy/)** forum was created for doctoral students working on reproducibility and metascience projects. It is a part of the [UK Reproducibility Network](https://www.ukrn.org/). The UKRN contact for the Academy is [Tom Stafford](http://tomstafford.staff.shef.ac.uk/) [(@tomstafford)](https://twitter.com/tomstafford), institutional lead for the University of Sheffield.
 
 ---
 
@@ -77,6 +77,7 @@ Details and registration for the courses can be found on their [upcoming trainin
 
 **Upcoming [N8 CIR](https://n8cir.org.uk/) training events:**
 
+* Fundamentals of Accelerated Computing with CUDA C/C++, 17th March
 * IBM Training for Bede - AI, 19th March
 * Research Data Management Network Event, 24th March
 * RSE Leaders and Aspiring Leaders Event, 26th March
@@ -92,7 +93,12 @@ Details and registration for the courses and events can be found on their [event
 
 [**LunchBytes**](https://rse.shef.ac.uk/community/lunch-bytes/) is a monthly series of **short talks for those in the research community at TUOS who work with/write code, use/manage research data and use/manage research infrastructure**. Through these talks we come together as a community to discuss best practices and useful methods/tools. If you're interested in curating a session or giving a talk, get in touch at: lunchbytes-organisers-group@sheffield.ac.uk
 
-The **next LunchBytes event** will be in early to mid March, with a provisional theme of **Making GPU programming more accessible**.
+The **next LunchBytes event** will be in early April, with a provisional theme of **Making GPU programming more accessible** with two confirmed speakers:
+
+* [Freddie Witherden](https://engineering.tamu.edu/ocean/profiles/witherden-freddie.html), developer of PyFR, a CUDA accelerated python CFD library
+
+* [James Knight](https://profiles.sussex.ac.uk/p415734-james-knight), developer of PyNN/GeNN, a GPU enhanced Neuronal Network simulation environment
+
 The exact date and details of talks will be advertised soon via the RSE team's [mailing list][rses-mail-list].
 
 ### Previous events
@@ -154,11 +160,11 @@ The Python language continues to evolve after ~30 years: it's gaining **['patter
 
 ### Resources
 
-Need access to managed desktop software? The University provides a **[find a pc website](https://www.sheffield.ac.uk/findapc/now)** to gives students remote access to PCs running University Desktop.
+Need access to managed desktop software? The University provides a **[Find a pc website](https://www.sheffield.ac.uk/findapc/now)** allowing students to remotely access PCs running University Desktop.
 
 ---
 
-**[Introduction to Data Science online-book](https://rafalab.github.io/dsbook/)** covers a wide range of data science topics including [machine learning](https://rafalab.github.io/dsbook/introduction-to-machine-learning.html). Practical examples are provided in R.
+**[Introduction to Data Science online book](https://rafalab.github.io/dsbook/)** covers a wide range of data science topics including [machine learning](https://rafalab.github.io/dsbook/introduction-to-machine-learning.html). Practical examples are provided in R.
 
 
 ---
