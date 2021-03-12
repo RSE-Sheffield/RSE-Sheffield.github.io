@@ -138,7 +138,7 @@ Further information on the [Cross-cutting themes can be found here](https://www.
 ---
 
 
-Nvidia are offering an [Applied Research Acclerator Program](https://www.nvidia.com/en-us/industries/higher-education-research/applied-research-program/) for research projects which "has been demonstrated to be feasible with an identified path to a GPU-accelerated application, which could be deployed within three years". It offers varying levels of hardware grant (e.g. up to 4-8 workstations) and technical expertise depending on project requirements.   
+Nvidia are offering an [Applied Research Accelerator Program](https://www.nvidia.com/en-us/industries/higher-education-research/applied-research-program/) for research projects which "has been demonstrated to be feasible with an identified path to a GPU-accelerated application, which could be deployed within three years". It offers varying levels of hardware grant (e.g. up to 4-8 workstations) and technical expertise depending on project requirements.   
 
 
 ---
@@ -153,10 +153,14 @@ For RSE vacancies across the UK and elsewhere see the Society of RSE's [jobs boa
 
 Code for Thought podcast's 9th February edition on the topic of **[It's All About Reproducibility](https://codeforthought.buzzsprout.com/1326658/8043892-it-s-all-about-reproducibility)** features our very own Anna Krystalli talking about the award-winning [ReproHack](https://reprohack.github.io/reprohack-hq/) events.
 
+---
+
+**[N8 Bede supercomputer accelerates research in the north of England](https://www.scientific-computing.com/news/n8-supercomputer-accelerates-research-north-england)**. Scientists and researchers across the North of England will benefit from the arrival of a new £3.8m supercomputer to support projects in areas such as Artificial Intelligence (AI), energy storage and therapeutic drug design.
+
 
 ### Software and Updates
 
-Google have released the **[Model Search](https://github.com/google/model_search)** framework that implements AutoML algorithms for deep learning model architecture search at scale. The post [Introducing Model Search: An Open Source Platform for Finding Optimal ML Models](https://ai.googleblog.com/2021/02/introducing-model-search-open-source.html?m=1) offers more detail on the framework.
+Google released the **[Model Search](https://github.com/google/model_search)** framework that implements AutoML algorithms for deep learning model architecture search at scale. The post [Introducing Model Search: An Open Source Platform for Finding Optimal ML Models](https://ai.googleblog.com/2021/02/introducing-model-search-open-source.html?m=1) offers more detail on the framework.
 
 ---
 
