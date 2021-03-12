@@ -138,7 +138,7 @@ Further information on the [Cross-cutting themes can be found here](https://www.
 ---
 
 
-Nvidia are offering an [Applied Research Acclerator Program](https://www.nvidia.com/en-us/industries/higher-education-research/applied-research-program/) for research projects which "has been demonstrated to be feasible with an identified path to a GPU-accelerated application, which could be deployed within three years". It offers varying levels of hardware grant (e.g. up to 4-8 workstations) and technical expertise depending on project requirements.   
+Nvidia are offering an [Applied Research Accelerator Program](https://www.nvidia.com/en-us/industries/higher-education-research/applied-research-program/) for research projects which "has been demonstrated to be feasible with an identified path to a GPU-accelerated application, which could be deployed within three years". It offers varying levels of hardware grant (e.g. up to 4-8 workstations) and technical expertise depending on project requirements.   
 
 
 ---
