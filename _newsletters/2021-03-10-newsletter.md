@@ -156,7 +156,7 @@ Code for Thought podcast's 9th February edition on the topic of **[It's All Abou
 
 ### Software and Updates
 
-Google have released the **[Model Search](https://github.com/google/model_search)** framework that implements AutoML algorithms for deep learning model architecture search at scale. The post [Introducing Model Search: An Open Source Platform for Finding Optimal ML Models](https://ai.googleblog.com/2021/02/introducing-model-search-open-source.html?m=1) offers more detail on the framework.
+Google released the **[Model Search](https://github.com/google/model_search)** framework that implements AutoML algorithms for deep learning model architecture search at scale. The post [Introducing Model Search: An Open Source Platform for Finding Optimal ML Models](https://ai.googleblog.com/2021/02/introducing-model-search-open-source.html?m=1) offers more detail on the framework.
 
 ---
 
