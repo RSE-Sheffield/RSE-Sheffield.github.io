@@ -29,6 +29,10 @@ To receive this newsletter as an email each month, please sign up to our [Google
 
 ### News
 
+**[The University of Sheffield has released a statement on open research](https://www.sheffield.ac.uk/openresearch/university-statement-open-research)**. It officially recognises that making research transparent and freely accessible plays a vital part in promoting research excellence. 
+
+---
+
 The **[UKRN Academy](https://www.ukrn.org/ukrn-academy/)** forum was created for doctoral students working on reproducibility and metascience projects. It is a part of the [UK Reproducibility Network](https://www.ukrn.org/). The UKRN contact for the Academy is [Tom Stafford](http://tomstafford.staff.shef.ac.uk/) [(@tomstafford)](https://twitter.com/tomstafford), institutional lead for the University of Sheffield.
 
 ---
@@ -69,6 +73,8 @@ A one-day introduction to deep learning with practical labs using Keras (Tensorf
 **Upcoming ARCHER 2 training events:**
 
 * Introduction to ARCHER2 for software developers, 29-30th of March
+* Containers in HPC, 30th March
+* Quantum Computing Without A Quantum Computer, 31st March
 * Shared Memory programming with OpenMP, online self-service course.
 
 Details and registration for the courses can be found on their [upcoming training page](https://www.archer2.ac.uk/training/#upcoming-training).
