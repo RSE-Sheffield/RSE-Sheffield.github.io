@@ -153,6 +153,10 @@ For RSE vacancies across the UK and elsewhere see the Society of RSE's [jobs boa
 
 Code for Thought podcast's 9th February edition on the topic of **[It's All About Reproducibility](https://codeforthought.buzzsprout.com/1326658/8043892-it-s-all-about-reproducibility)** features our very own Anna Krystalli talking about the award-winning [ReproHack](https://reprohack.github.io/reprohack-hq/) events.
 
+---
+
+**[N8 Bede supercomputer accelerates research in the north of England](https://www.scientific-computing.com/news/n8-supercomputer-accelerates-research-north-england)**. Scientists and researchers across the North of England will benefit from the arrival of a new £3.8m supercomputer to support projects in areas such as Artificial Intelligence (AI), energy storage and therapeutic drug design.
+
 
 ### Software and Updates
 
