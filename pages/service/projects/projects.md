@@ -23,7 +23,7 @@ type: text
 The Research Software Engineering team at Sheffield has worked on projects involving a variety of methods and technologies:
 
 {% for proj in site.data.projects %}
-{% assign proj_tags = proj.tech_methods | split: "," %}
+{% assign proj_tags = proj.tech_methods | split: ", " %}
 {% assign all_tags = all_tags | concat: proj_tags %}
 {% endfor %}
 {{ all_tags | sort_natural | uniq | join: " &middot; " }}
@@ -39,7 +39,7 @@ Some projects we have worked on (not a comprehensive list):
         {% assign projects = level.items | sort:'title' %}
         {% for project in projects %}
         {% assign project_end_date = project.end | date: '%s' %}
-        {% if project_end_date >= today_date %}
+        {% if project_end_date >= today_date or project.end == undefined %}
             {% assign current = true %}
         {% else %}
             {% assign current = false %}

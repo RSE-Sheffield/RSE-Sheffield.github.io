@@ -12,7 +12,7 @@ type: text
 
 Today we have a guide to 'terminal multiplexing' including suggestions
 on how to use it on computer clusters such as [ShARC and
-Iceberg](https://docs.hpc.shef.ac.uk/).
+Bessemer](https://docs.hpc.shef.ac.uk/).
 
 ------------------------------------------------------------------------
 
@@ -303,10 +303,10 @@ Terminal Multiplexers can be useful if doing [interactive
 work](https://docs.hpc.shef.ac.uk/en/latest/hpc/scheduler/submit.html#interactive-sessions))
 on a [HPC](https://en.wikipedia.org/wiki/Supercomputer) cluster such as
 the University of Sheffield clusters [ShARC and
-Iceberg](https://docs.hpc.shef.ac.uk/) (assuming that you don't need a
+Bessemer](https://docs.hpc.shef.ac.uk/) (assuming that you don't need a
 [GUI](https://en.wikipedia.org/wiki/Graphical_user_interface)).
 
-On ShARC and Iceberg can:
+On ShARC and Bessemer can:
 
 1.  Start a tmux or GNU Screen session on a login node;
 2.  Start an interactive job using [qrshx or

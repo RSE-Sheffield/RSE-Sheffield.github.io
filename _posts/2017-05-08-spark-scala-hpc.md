@@ -20,6 +20,6 @@ Some notes on our current implementation of Spark on HPC:-
 
  * We are currently restricted to jobs that run on one node. This is because Sheffields HPC clusters are not traditional Hadoop/Spark clusters and so some level of integration is required between Sun Grid Engine and Spark. We've only managed to get as far as implementing this across single nodes at the moment.
 
- * One way weve fudged this is to make sure that we provide our students with access to nodes with a LOT of memory  768 GB per node in fact, 12 times as much as you get on a normal node on ShARC or Iceberg. We are experimenting with allowing others access to our kit via a contribution based model. See [/community/resources-and-equipment//](/community/resources-and-equipment/) for details.
+ * One way weve fudged this is to make sure that we provide our students with access to nodes with a LOT of memory  768 GB per node in fact, 12 times as much as you get on a normal node on ShARC. We are experimenting with allowing others access to our kit via a contribution based model. See [/community/resources-and-equipment//](/community/resources-and-equipment/) for details.
 
 

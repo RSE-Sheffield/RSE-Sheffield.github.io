@@ -22,7 +22,7 @@ In the future this course will be made freely available so even researchers outs
 
 Some of the other benefits of being an NVIDIA Eduction (and also an NVIDIA Research) centre are;
 
-* Access to NVIDIA GPU hardware and software (via Iceberg and in the Diamond labs) 
+* Access to NVIDIA GPU hardware and software (via local and regional HPC systems and in the Diamond labs) 
 * Significant discount on Tesla hardware purchases
 * Access to NVIDIA parallel programming experts and resources
 * Access to educational webinars and an array of teaching materials

@@ -10,12 +10,13 @@ type: text
 
 ### Stop wasting valuable time trying to fix issues on your own.
 
-Code Clinics are research software engineering (RSE) **fortnightly support sessions**
-run by **RSE@Sheffield**.
-They are open to **anyone at TUoS writing code for research** to
+Code Clinics are **fortnightly support sessions**
+run by the **RSE** team 
+and IT Services' [Research and Innovation IT](https://www.sheffield.ac.uk/it-services/research) (ITS R&I) team.
+They are open to **anyone at TUOS writing code for research** to
 get help with programming problems and general advice on best practice.
 
-At each session, **members of the RSE team will be available to
+At each session, **members of the RSE and/or ITS R&I teams will be available to
 review code,
 advise,
 troubleshoot and
