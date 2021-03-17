@@ -5,12 +5,10 @@ published: True
 from: "14:00"
 to: "15:00"
 location: "Google Meet"
-speaker: "Freddie Witherden, James Knight, Tom Deakin, Seb James; Host: Matthew Leach (RSE Sheffield)"
+speaker: "Freddie Witherden, James Knight, Tom Deakin; Host: Matthew Leach (RSE Sheffield)"
 institute:
 title: "Lunch bytes #5: Making GPU Programming More Portable"
 image:
-redirect_from:
-  - /events/LunchBytes-2021-04-01.html
 slides_url:
 ---
 
