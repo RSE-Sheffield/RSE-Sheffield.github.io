@@ -5,11 +5,23 @@ slug: index
 type: text
 ---
 
-We would like to collaborate with you to help improve your research
-software in a range of areas. Supporting the entire University, we have
-collaborators in every faculty and have supported researchers in a range
-of subject areas including engineering, mathematics, computer science,
-biology, linguistics, physics, chemistry and geography.
+<div class="mb-3 mt-3 row">
+    <div class="col-md" style="font-size: x-large" >
+        We would like to collaborate with you to help improve your research
+    software in a range of areas. Supporting the entire University, we have
+    collaborators in every faculty and have supported researchers in a range
+    of subject areas including engineering, mathematics, computer science,
+    biology, linguistics, physics, chemistry and geography.
+    </div>
+    <div class="col-md">
+        <div style="max-width:608px"><div style="position:relative;padding-bottom:66.118421052632%"><iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/2103181/sp/210318100/embedIframeJs/uiconf_id/40991011/partner_id/2103181?iframeembed=true&playerId=kaltura_player&entry_id=1_qgh0s3p2&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[hotspots.plugin]=1&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_ku1m45ic" width="608" height="402" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player" style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe></div></div>
+        <a href="/assets/slides/about-rse-march-2021.pdf" target="_blank">Slides for the above presentation</a>
+    </div>
+
+</div>
+
+
+
 
 ## Research Software Engineering
 

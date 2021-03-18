@@ -12,6 +12,14 @@
     xl @media (min-width:1200px)
 */
 
+.nav-link{
+    color: #1c3248 !important;
+}
+
+.contact-inner a {
+    color: #1c3248 !important;
+}
+
 .seminar-section {
     margin-bottom: 2rem;
     padding-bottom: 1rem;
@@ -83,4 +91,12 @@ blockquote {
 /* optionally make .btn's wrap text */ 
 .btn-wrap {
     white-space: normal;
+}
+
+.sm-a {
+    color: #b0ea44;
+}
+
+.sm-a:hover{
+    color: #e2e2e2;
 }
