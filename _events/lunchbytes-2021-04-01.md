@@ -16,9 +16,9 @@ GPU computing offers great benefits to simulation performance, but can certainly
 
 Each talk will be ~10 minutes, leaving roughly 20 minutes for discussion/questions.
 
-This session will take place on Google Meet and participants can join 15 mins before the start of the session.
+This session will take place on [Google Meet](https://meet.google.com/sqk-bdmi-tjq) and participants can join 15 mins before the start of the session.
 
-Joining information will be available shortly!
+We also have a [Google Jam Board](https://jamboard.google.com/d/1Z6kZfJIabiWX31KgtEl6yoCo1Tlb4cRXgxUuFyqozEM/edit?usp=sharing) where you can note down any questions or comments before or during the event.
 
 ## Talk 1 - Freddie Witherden
 
