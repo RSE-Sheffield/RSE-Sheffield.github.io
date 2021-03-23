@@ -60,6 +60,20 @@ bundle exec jekyll build
 
 Generated HTML files can be found in `_site`.
 
+### Docker
+
+1. Build the Docker image locally:
+   ```sh
+   cd path/to/clone/of/this/repo
+   docker build --tag rse docker
+   ```
+
+2. Run the RSE Docker image:
+   ```sh
+   docker run -it -p 4000:4000 rse
+   ```
+
+3. The website can then be found at `http://127.0.0.1:4000`
 
 
 ## Writing Content
@@ -205,7 +219,7 @@ The following project data (and metadata) are to be populated in `projects.csv`:
 | tech_methods | Technology and methods used in the project including programming languages. Each item in this list should be separated by a comma and a space. | Yes |
 | rses | Comma seperated list of RSEs involved (`firstname` `lastname`). | Yes |
 | start | Project start date `dd/mm/yyyy` | Yes |
-| end | Project end date `dd/mm/yyyy`; leave as the empty string if ongoing | No |
+| end | Project end date `dd/mm/yyyy` | Yes |
 | department | Collaborator department. | Yes |
 | level | Priority level for display - currently set to 1 if project has a description, 2 if not. |
 | show | Set to 1 if the project is to be displayed, 0 if not. |
