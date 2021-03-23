@@ -71,10 +71,10 @@ system and can help you with software installation, training and advice
 on how to make maximum use out of these HPC resources that are free to
 all members of The University of Sheffield.
 
-We work with the UK National Supercomputing service, Archer as [Archer
-Champions](http://www.archer.ac.uk/community/champions/). Our role is to advise users on the access of appropriate
-computational resources: and in supporting these users to access and
-exploit these resources appropriately.
+We work with the UK National Supercomputing service, ARCHER2 as 
+[HPC Champions](https://www.archer2.ac.uk/community/hpc-rse-community/). 
+Our role is to advise users on the access of appropriate computational resources,
+and in supporting these users to access and exploit these resources appropriately.
 
 ## Grant support
 
