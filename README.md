@@ -219,7 +219,7 @@ The following project data (and metadata) are to be populated in `projects.csv`:
 | tech_methods | Technology and methods used in the project including programming languages. Each item in this list should be separated by a comma and a space. | Yes |
 | rses | Comma seperated list of RSEs involved (`firstname` `lastname`). | Yes |
 | start | Project start date `dd/mm/yyyy` | Yes |
-| end | Project end date `dd/mm/yyyy` | Yes |
+| end | Project end date `dd/mm/yyyy`; leave as the empty string if ongoing | No |
 | department | Collaborator department. | Yes |
 | level | Priority level for display - currently set to 1 if project has a description, 2 if not. |
 | show | Set to 1 if the project is to be displayed, 0 if not. |
