@@ -26,6 +26,14 @@ For having CI/CD in Github you needed 3rd party tools such as Jenkins, however, 
 ## **Related RSE blog posts**
 * [Remote working with git and GitHub](https://rse.shef.ac.uk/blog/2020-03-29-git-github-remote/)
 * [Git: rebase vs merge](https://rse.shef.ac.uk/blog/2020-06-23-git-rebase-vs-merge/)
+**RSE Communities:**
+* [UK RSE Society](https://society-rse.org/)
+* [Germany](https://de-rse.org/en/)
+* [Netherlands](https://nl-rse.org/)
+* [Belgium](https://www.be-rse.org/)
+* [South Africa](https://rsse-africa.sanbi.ac.za/)
+* [Australia and New Zealand](https://rse-aunz.github.io/)
+
 
 ## **Blogs**
 * [Git - the simple guide](https://rogerdudler.github.io/git-guide/)
