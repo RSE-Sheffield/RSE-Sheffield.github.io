@@ -33,7 +33,7 @@ For having CI/CD in Github you needed 3rd party tools such as Jenkins, however, 
 * [Git ready](http://gitready.com/)
 * [Hello world](https://guides.github.com/activities/hello-world/)
 * [Resources to learn Git](http://try.github.io/)
-* [Git from Beginner to Advanced](https://www.madebymike.com.au/writing/how-to-git/)
+* [Git from beginner to advanced](https://www.madebymike.com.au/writing/how-to-git/)
 * [Git shouldn't be so hard to learn](http://think-like-a-git.net/)
 * [GitHub](https://www.gun.io/github)
 * [A visual Git reference](http://marklodato.github.io/visual-git-guide/index-en.html)
@@ -51,12 +51,12 @@ For having CI/CD in Github you needed 3rd party tools such as Jenkins, however, 
 ## **Videos**
 * [Git tutorial](https://www.youtube.com/watch?v=xuB1Id2Wxak&ab_channel=edureka%21)
 * [Git & GitHub crash course for beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc&ab_channel=TraversyMedia)
-* [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk&ab_channel=freeCodeCamp.org)
+* [Git & GitHub for beginners - crash course](https://www.youtube.com/watch?v=RGOj5yH7evk&ab_channel=freeCodeCamp.org)
 * [Tech Talk: Linus Torvalds on git](https://www.youtube.com/watch?v=4XpnKHJAok8&ab_channel=Google)
 * [Git from the bits up](https://www.youtube.com/watch?v=MYP56QJpDr4&ab_channel=InfoQ)
-* [Advanced Git: Graphs, Hashes, and Compression](https://www.youtube.com/watch?v=ig5E8CcdM9g&ab_channel=InfoQ)
+* [Advanced Git: graphs, hashes, and compression](https://www.youtube.com/watch?v=ig5E8CcdM9g&ab_channel=InfoQ)
 * [Introduction to GitHub and Git foundations](https://www.youtube.com/watch?v=FyfwLX4HAxM&list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-&ab_channel=GitHubTraining%26Guides)
-* [Git and GitHub Tutorial for Beginners - 11 Hours](https://www.youtube.com/watch?v=3FKrszHcIsA&ab_channel=BogdanStashchuk)
+* [Git and GitHub tutorial for beginners - 11 hours](https://www.youtube.com/watch?v=3FKrszHcIsA&ab_channel=BogdanStashchuk)
 
 ## **Cheat sheets**
 * [Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
