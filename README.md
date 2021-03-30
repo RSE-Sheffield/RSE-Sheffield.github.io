@@ -60,20 +60,6 @@ bundle exec jekyll build
 
 Generated HTML files can be found in `_site`.
 
-### Docker
-
-1. Build the Docker image locally:
-   ```sh
-   cd path/to/clone/of/this/repo
-   docker build --tag rse docker
-   ```
-
-2. Run the RSE Docker image:
-   ```sh
-   docker run -it -p 4000:4000 rse
-   ```
-
-3. The website can then be found at `http://127.0.0.1:4000`
 
 
 ## Writing Content
