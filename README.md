@@ -60,6 +60,8 @@ bundle exec jekyll build
 
 Generated HTML files can be found in `_site`.
 
+
+
 ## Writing Content
 
 Content can be written in Markdown, reStructuredText or as HTML.
