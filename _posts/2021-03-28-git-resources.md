@@ -2,7 +2,7 @@
 layout: post
 slug: 2021-03-28-git-useful-resources
 title: Git useful resources
-author: Fariba Yousefi and David Jones
+author: Fariba Yousefi and David R. Jones
 date: 2021-03-28 12:00:00 UTC
 category:
 tags: support
