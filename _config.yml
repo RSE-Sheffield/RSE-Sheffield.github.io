@@ -21,6 +21,8 @@ description: > # this means to ignore newlines until "baseurl:"
   seeking help with research software and as a community for research software engineers.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rse.shef.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
+# timezone for the build server, set to london to make event dates probably fine.
+timezone: Europe/London
 twitter_username: rse_sheffield
 github_username: RSE-Sheffield
 twitter:

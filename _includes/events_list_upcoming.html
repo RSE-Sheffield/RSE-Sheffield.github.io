@@ -1,4 +1,4 @@
-{% assign current_date = site.time | date: '%s' %}
+{% assign current_date = site.time | date: '%F' | date: '%s' %}
 {% assign events = site.events | sort: "date" %}
 <div class="event-listing event-upcoming">
 {% for evt in events %}
