@@ -27,13 +27,13 @@ The slides for each talk will be made available after the event.
 *Freddie Witherden, Assistant Professor at Texas A&M University, developer of PyFR, a CUDA accelerated python CFD library*
 
 
-## Talk 2: GPU acceleration of Spiking Neural Networks - James Knight
+## Talk 2: GPU acceleration of Spiking Neural Networks
 
 *James Knight, Research Fellow in Computer Science at The University of Sussex, developer of PyNN/GeNN, a GPU enhanced Neuronal Network simulation environment*
 
 Large-scale numerical simulations of brain circuit models are important for identifying hypotheses on brain functions and testing their consistency and plausibility. Similarly, spiking neural networks are also gaining traction in machine learning with the promise that neuromorphic hardware will eventually make them much more energy efficient than classical ANNs. In this session, I will present the GeNN (GPU-enhanced Neuronal Networks) framework, which uses GPUs to accelerate computational models of large-scale spiking neuronal networks. GeNN is an open source library that generates code to accelerate the execution of network simulations on NVIDIA GPUs through a flexible and extensible interface, which does not require in-depth technical knowledge from the users.
 
-## Talk 3: Portable performance on CPUs and GPUs without resorting to [redacted] - Tom Deakin
+## Talk 3: Portable performance on CPUs and GPUs without resorting to [redacted]
 
 *Tom Deakin, Senior Research Associate at Bristol University, researcher in understanding performance portability of massively parallel simulation codes*
 
