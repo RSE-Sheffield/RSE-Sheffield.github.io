@@ -20,7 +20,7 @@ This session will take place on [Google Meet](https://meet.google.com/sqk-bdmi-t
 
 We also have a [Google Jam Board](https://jamboard.google.com/d/1Z6kZfJIabiWX31KgtEl6yoCo1Tlb4cRXgxUuFyqozEM/edit?usp=sharing) where you can note down any questions or comments before or during the event.
 
-The slides for each talk will be made available after the event.
+- [Video of the event](https://digitalmedia.sheffield.ac.uk/media/Lunch%20bytes%205%20Making%20GPU%20Programming%20More%20Portable/1_lldycy2n)
 
 ## Talk 1: PyFR: Facilitating Heterogeneous GPU Computing from a Homogeneous Codebase
 
