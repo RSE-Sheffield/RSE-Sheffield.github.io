@@ -31,7 +31,8 @@ To receive this newsletter as an email each month, please sign up to our [Google
 
 **[New software TopoStats accelerates DNA discoveries](https://www.sheffield.ac.uk/news/new-software-topostats-accelerates-dna-discoveries)**
 
-A new software package allowing scientists to quantify how small circles of DNA change their structure has been developed by researchers at universities in the UK and Germany.
+A new software package allowing scientists to quantify how small circles of DNA change their structure has been developed by researchers at universities in the UK and Germany. <br />
+[Bob Turner](https://rse.shef.ac.uk/contact/bob-turner/) of the UoS RSE team has been involved with this project.
 
 
 ### Future events
@@ -42,6 +43,8 @@ The Spring 2021 edition of NVIDIA's GPU Technology Conference is being held as a
 
 Registration for the event is free, providing access to live and recorded sessions, research posters, interactive panels, demos, podcasts, technical sessions, and more.
 DLI training workshops can be purchased for an additional fee.
+
+[Dr Paul Richmond](https://paulrichmond.shef.ac.uk/) of the UoS RSE team is presenting a session "[Simulate the World and Everything in it: Complex Systems Simulations with FGPU2 [E31281] (Registration Required)](https://gtc21.event.nvidia.com/media/Simulate%20the%20World%20and%20Everything%20in%20it%3A%20Complex%20Systems%20Simulations%20with%20FGPU2%20%5BE31281%5D/1_jq4vdfcg) at 9AM on Tuesday April 13th.
 
 [Register Online for free](https://gtc21.event.nvidia.com/)
 
@@ -64,7 +67,7 @@ There will be lots of overlap with stuff that has been discussed at
 Coding Club, but different perspectives being presented.
 
 The host will be Emma Barnes (Research & High-performance Computing Team
-Leader), and our speakers are as follows:
+Leader), and the speakers are as follows:
 * [Prof Simon Hettrick](https://www.software.ac.uk/about/staff/person/simon-hettrick)
 (Software Sustainability Institute Deputy Director)
 * [Dr Jon Hill](https://www.york.ac.uk/environment/our-staff/jon-hill/)
@@ -102,6 +105,8 @@ This is part of a [series of Open Research Conversations](https://www.eventbrite
 Research software has been a driving force behind the birth and rapid growth of informatics, but it was the appearance of graphical user interfaces (GUI) in the 1980s that made computers accessible to everyone. A GUI helps to reduce the learning curve for using software, increases the base of potential users and can ultimately increase citations and impact. Moreover, a well-designed GUI can perform validation and increase the robustness and reproducibility of the results, productively decoupling developers from users.
 
 The goal of these workshops is to help developers lose their fear - or reluctance - to invest time creating a GUI for their research software, and help them to give those first steps in the development of graphical user interfaces. The target audience is anyone who develops research software as part of their work, in any role, academic level and department.
+
+This event is organised by the [RSE team at Imperial College London](http://www.imperial.ac.uk/admin-services/ict/self-service/research-support/rcs/research-software-engineering/).
 
 [Register with eventbrite](https://guis4rs_april21.eventbrite.co.uk/)
 
@@ -182,7 +187,13 @@ For RSE vacancies across the UK and elsewhere see the Society of RSE's [jobs boa
 
  [Mike Croucher](https://www.mathworks.com/matlabcentral/profile/authors/20789457) (A former member of RSE Sheffield) presents a case study improving the performance of a MATLAB code.
 
-<!-- ### Software and Updates -->
+### Software and Updates
+
+---
+
+**[Readme.so - The easiest way to create a README](https://readme.so/)** 
+
+A simple web-based editor which allows you to quickly add and customize all the sections you need for your project's readme.
 
 ### Resources
 
