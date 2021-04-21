@@ -60,6 +60,17 @@ bundle exec jekyll build
 
 Generated HTML files can be found in `_site`.
 
+###  Developing in a Jekyll Docker container  ###
+
+Another option is to develop using the official Jekyll docker container to overcome some installation issues. Once you cloned this website and then
+
+```bash
+cd <your_cloned_website_dir>
+export JEKYLL_VERSION=3.8
+docker run --rm --volume="$PWD:/srv/jekyll" -it jekyll/jekyll:$JEKYLL_VERSION jekyll build
+docker run --name  my_rse_website --volume="$PWD:/srv/jekyll" -p 4000:4000 -it jekyll/jekyll:$JEKYLL_VERSION jekyll serve --watch --drafts
+```
+
 
 
 ## Writing Content
