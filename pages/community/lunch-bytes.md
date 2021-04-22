@@ -16,7 +16,7 @@ use/manage research data and
 use/manage research infrastructure.
 We hope through these talks we will come together as a community to discuss best practices and useful methods/tools.
 
-Each LunchBytes session features several related short talks on a theme (each being ~10 mins) rather than one longer talk - followed by a dicussion session.
+Each LunchBytes session typically features several related short talks on a theme (each being ~10 mins) rather than one longer talk - followed by a discussion.
 
 ## Notifications about future events
 
