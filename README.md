@@ -4,7 +4,7 @@ This repository contains the source for the RSE-Sheffield website, built with [J
 
 The website is hosted on GitHub Pages and can be found at [https://rse.shef.ac.uk](https://rse.shef.ac.uk).
 
-All content licensed under the
+All content (excluding logos or where explicitly stated) licensed under the 
 <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1"
    target="_blank"
    rel="license noopener noreferrer"
