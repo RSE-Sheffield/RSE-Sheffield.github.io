@@ -13,7 +13,7 @@ Fariba Yousefi is in the process of completing her PhD in Machine Learning at th
 
 Her research interests are Gaussian Processes, data scarcity, imbalanced data and multi-task learning. She enjoys working on healthcare applications. 
 
-Fariba’s experience in chairing and organizing scientific events include: the Gaussian processes summer school (http://gpss.cc/) and the Women in Machine Learning (WiML https://wimlworkshop.org/), where she was Senior Programme Chair at the affinity workshop for ICML 2020.
+Fariba’s experience in chairing and organizing scientific events include: the Gaussian processes summer school (http://gpss.cc/) and the Women in Machine Learning (WiML https://wimlworkshop.org/), where she was a senior programme chair at the affinity workshop for ICML 2020.
 
 She also contributes to open source projects such as [GPy](https://github.com/SheffieldML/GPy).
 
