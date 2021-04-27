@@ -39,13 +39,13 @@ Another distinction between GitHub and GitLab is that the software that runs on 
 This blog is a simple guide for getting started with Git and it has translations in a few other languages:
 * [Git - the simple guide](https://rogerdudler.github.io/git-guide/)
 
-This blog is also introductory, however it has also screenshots for visualization purposes and ease of understanding:
+This blog is also introductory, however it also has screenshots to ease understanding:
 * [Hello world](https://guides.github.com/activities/hello-world/)
 
-This blog is from the The GitHub Training Team, besides introduction to Git, it also covers introduction to GitHub Pages:
+This blog is from the The GitHub Training Team, it provides an introduction to both Git and Github Pages:
 * [The GitHub training team](https://lab.github.com/githubtraining/introduction-to-github)
 
-This blog has columns for different level users, such as beginners, intermediate and advanced:
+This blog covers many common git topics which it categorises by experience level, from beginners to advanced:
 * [Git ready](http://gitready.com/)
 
 This blog explores how Git commands affect the structure of a repository. You can try commands from your browser:
@@ -61,17 +61,17 @@ This blog is specifically designed for Computer Scientists and is using terms th
 This book has 522 pages and it has everything you need to know about Git:
 * [Pro Git book](http://git-scm.com/book/en/v2)
 
-This book is 31 pages and it has bottom up approach rather than looking at it only in terms of high-level commands:
+This book is 31 pages and it has a bottom up approach rather than looking at it only in terms of high-level commands:
 * [Git from the bottom up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf)
 
-This book is 44 pages and rather than go into details, they provide rough instructions for particular effects:
+This book is 44 pages and provides many Git command examples for common tasks, rather than focusing on the technical details of git commands
 * [Git magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
 
 ## **Zines**
 * [Oh shit, git](https://jvns.ca/blog/2018/10/27/new-zine--oh-shit--git-/)
 
 ## **Videos**
-This video is introduction to Git for begginers. You will learn Git and all the Git commands to create repositories on your local machine & GitHub, commit changes, push & pull files. Also you will get your hands on with some advanced operations in Git like branching, merging, rebasing. It is a long video for 1 hour and 44 minutes:
+This video is an introduction to Git for beginners. You will learn Git and all the Git commands to create repositories on your local machine & GitHub, commit changes, push & pull files. Also you will get your hands on with some advanced operations in Git like branching, merging, rebasing. It is a long video at 1 hour and 44 minutes:
 * [Git tutorial](https://www.youtube.com/watch?v=xuB1Id2Wxak&ab_channel=edureka%21)
 
 This video is Git & GitHub crash course for beginners and is about 30 minutes.
@@ -80,7 +80,7 @@ This video is Git & GitHub crash course for beginners and is about 30 minutes.
 This is a very long video and it is a complete Git and GitHub Tutorial for beginners:
 * [Git and GitHub tutorial for beginners - 11 hours](https://www.youtube.com/watch?v=3FKrszHcIsA&ab_channel=BogdanStashchuk)
 
-This video is from the creator of the distributed revision control system Git: 
+This video is from the creator of the distributed version control system Git: 
 * [Tech Talk: Linus Torvalds on git](https://www.youtube.com/watch?v=4XpnKHJAok8&ab_channel=Google)
 
 This video is for more advanced users. They introduce the obscure commands that will reveal a sort of internal API that is there for you to use:
