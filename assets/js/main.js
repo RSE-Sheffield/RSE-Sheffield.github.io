@@ -113,5 +113,29 @@ jQuery(document).ready(function($) {
         }
 
     });
+    
+    /* ======= Projects Tag Cloud ======= */
+    $("a.tag-link").on( "click", function(e) {
+        var tag = $(this).attr("href").substring($(this).attr("href").firstIndexOf('#') + 1);
+        $("a.tag-link.selected").removeClass("selected");
+        $("a.filter-link.selected").removeClass("selected");
+        $(this).addClass("selected");
+        $('.project.tag-' + tag).show();
+        $('.project:not(.tag-' + tag + ')').hide();
+    });
+    $("a.filter-link").on( "click", function(e) {
+        $("a.tag-link.selected").removeClass("selected");
+        $("a.filter-link.selected").removeClass("selected");
+        $(this).addClass("selected");
+        if (!$(this).attr("href")) {
+            // Show all
+            $('.project').show();
+        } else {
+            // Show active/completed
+            var tag = $(this).attr("href").substring($(this).attr("href").lastIndexOf('#') + 1);
+            $('.project.' + tag).show();
+            $('.project:not(.' + tag + ')').hide();
+        }
+    });
 
 });

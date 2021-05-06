@@ -26,9 +26,12 @@ The Research Software Engineering team at Sheffield has worked on projects invol
 {% assign proj_tags = proj.tech_methods | split: ", " %}
 {% assign all_tags = all_tags | concat: proj_tags %}
 {% endfor %}
-{{ all_tags | sort_natural | uniq | join: " &middot; " }}
+{% assign all_tags = all_tags | sort_natural | uniq %}
+{% for tag in all_tags %}<a class="tag-link" href="#{{ tag | replace: " ", "-" | replace: ".", "DOT" | replace: "#", "HASH" | replace: "&", "AND" | replace: "+", "PLUS" }}">{{ tag | replace: " ", "&nbsp;"}}</a>{% if tag != all_tags.last %} &middot; {% endif %}{% endfor %}
 
 Some projects we have worked on (not a comprehensive list):
+
+Filter: <a class="filter-link selected" href="">All</a> &middot; <a class="filter-link" href="#active">Active</a> &middot; <a class="filter-link" href="#completed">Completed</a>
 
 {% assign levels = site.data.projects | where: 'show',1 | group_by: 'level' | sort: 'name' %}
 {% assign project_descriptions = site.project_descriptions %}
@@ -44,7 +47,8 @@ Some projects we have worked on (not a comprehensive list):
         {% else %}
             {% assign current = false %}
         {% endif %}
-        <div class="{% if current %}active{% else %}completed{% endif %}">
+        {% assign proj_tags = project.tech_methods | split: ", " %}
+        <div class="project {% if current %}active{% else %}completed{% endif %}{% for tag in proj_tags %} tag-{{ tag | replace: " ", "-" | replace: ".", "DOT" | replace: "#", "HASH" | replace: "&", "AND" | replace: "+", "PLUS" }}{% endfor %}">
             <b>{{project.long_title}} </b>
             {% if current %}
                 (Active project)
@@ -71,4 +75,13 @@ Some projects we have worked on (not a comprehensive list):
         <hr/>
     {% endfor %}
 </div>
-
+<script>
+window.addEventListener('load', (event) => {
+    if (window.location.hash) {
+        var tag = window.location.hash.slice(1);
+        // Find the matching tag
+        $("a.tag-link[href$='"+tag+"']").trigger("click");
+        $("a.filter-link[href$='"+tag+"']").trigger("click");
+    }
+});
+</script>

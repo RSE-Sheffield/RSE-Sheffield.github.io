@@ -151,3 +151,8 @@ blockquote {
 .sm-a:hover{
     color: #e2e2e2;
 }
+
+/* project page tag cloud */
+a.tag-link.selected, a.filter-link.selected{
+    font-weight: bold;
+}
