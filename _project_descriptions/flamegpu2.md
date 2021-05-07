@@ -16,5 +16,5 @@ Development and maintenance of FLAME GPU 2 has and continues to be supported by 
 
 This talk from GTC 2021 by Dr Paul Richmond provides a thorough introduction to FLAME GPU 2:
 
-<iframe width="1154" height="649" src="https://www.youtube.com/embed/NRRW6EDClYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1068" height="600" src="https://www.youtube.com/embed/NRRW6EDClYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
