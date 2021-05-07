@@ -2,6 +2,7 @@ id,key,title,long_title,tech_methods,rses,start,end,department,level,show
 1,,Neurodegenerative Dementia,Neurodegenerative Dementia,,Daniele Tartarini,01/03/2020,28/02/2023,Computer Science,2,0
 2,,EMODnet,EMODnet,,Anna Krystalli,01/01/2020,18/04/2023,Animal and Plant Science,2,1
 4,citcom,CITCoM,Casual Inference for Testing of Computational Models,"Python, Docker, HPC, machine learning",Robert Turner,01/01/2021,01/07/2024,Computer Science,1,1
+5,flamegpu2,FLAME GPU 2,FLAME GPU 2,"FLAME GPU, CUDA, C++, Python, ABM, simulation, HPC","Paul Richmond, Mozhgan Kabiri Chimeh, Peter Heywood, Robert Chisholm, Matt Leach",23/11/2016,,,1,1
 6,,Strituvad,Strituvad,,"Peter Heywood, David Wilby",16/04/2018,01/11/2021,Mathematics and Statistics,2,1
 7,bbsrc_chaste,BBSRC: Cell Modelling,BBSRC: Cell Modelling,"C++, cell, simulation, Docker, Python, HPC",Twin Karmakharm,01/10/2018,30/09/2021,Mathematics and Statistics,2,1
 8,,CompBioMed2,CompBioMed2,,Daniele Tartarini,01/10/2019,30/09/2023,INSIGNEO,2,1
