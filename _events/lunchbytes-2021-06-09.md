@@ -18,4 +18,10 @@ slides_url:
 
 Short talks on how University of Sheffield researchers and RSEs, and collaborators worldwide, are using [REDCap](https://www.project-redcap.org/) and other platforms to handle clinical research data. The clinical research we will focus on here relates gathering data on people (e.g. evaluating interventions) rather than more fundamental laboratory research.
 
+- **TBD**  Anna Krystalli
+- **Transcriptomic Responses for the Identification of Pathogens** Farah Shahi 
+- **Using REDCap to capture the economic impact on households of seeking care for children sick with, or exposed to, tuberculosis in three sub-Saharan African countries** Nyasha Mafirakureva
+- **Using REDCap alongside an existing Electronic Data Capture (EDC) system: Fitting in with existing processes and comparing functionality between systems** Richard Simmonds
+
+
 More details to follow...
