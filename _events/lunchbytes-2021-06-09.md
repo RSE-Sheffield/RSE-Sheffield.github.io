@@ -23,5 +23,6 @@ Short talks on how University of Sheffield researchers and RSEs, and collaborato
 - **Using REDCap to capture the economic impact on households of seeking care for children sick with, or exposed to, tuberculosis in three sub-Saharan African countries** Nyasha Mafirakureva
 - **Using REDCap alongside an existing Electronic Data Capture (EDC) system: Fitting in with existing processes and comparing functionality between systems** Richard Simmonds
 
+This session will take place on [Google Meet](https://meet.google.com/zzp-cspi-pbj) and participants can join 15 minutes before the start of the session.
 
-More details to follow...
+We also have a [Google Jam Board](https://jamboard.google.com/d/11UY6-HkAjMzG9RbxH8aE-7hjl4dD4mnFMW1XMxoQS94) where you can note down any questions or comments before or during the event.
