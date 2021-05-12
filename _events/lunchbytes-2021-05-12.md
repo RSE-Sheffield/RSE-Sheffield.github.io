@@ -21,6 +21,9 @@ In this talk we’ll take a whistle-stop tour of the breadth of available tools,
 This talk will be approximately 45 minutes, leaving 15 minutes for questions/discussion.
 
 This session will take place on [Google Meet](https://meet.google.com/dft-xnvj-fmn) and participants can join 15 minutes before the start of the session.
+- [Video of the event](https://digitalmedia.sheffield.ac.uk/media/Lunch+bytes+6A+Putting+the+R+into+Reproducible+Research/1_kwofatj6)
+- [Slides of the event](http://bit.ly/r-in-repro-research-dc-srse)
+
 
 We also have a [Google Jam Board](https://jamboard.google.com/d/1WLdKli_Lpm96tCTYHt63jLUf_xbTlubbpobphPR44Hk/edit?usp=sharing) where you can note down any questions or comments before or during the event.
 
