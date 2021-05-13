@@ -9,6 +9,6 @@ location: "Online"
 institute: "Research IT"
 ---
 
-The theme is image processing at which there will be presentations of research experiences with processing digital images. As well as presenting an overview of the research topic presentations will consider different aspects of image processing. For example image generation, image comparison, image transformations, extracting data from images, image classification or image segmentation.
+The theme is image processing with a focus on research experiences in processing digital images. As well as presenting an overview of the research topic, presentations will consider different aspects of image processing. For example image generation, image comparison, image transformations, extracting data from images, image classification or image segmentation.
 
 See the [eventbrite page](https://www.eventbrite.co.uk/e/research-it-forum-tickets-154417568103) for more details and registration.
