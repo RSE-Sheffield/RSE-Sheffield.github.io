@@ -11,6 +11,8 @@ excerpt_separator: <!--more-->
 ---
 In this blog post we will introduce Git and talk about some terminologies related to Git and version control in general. We will also introduce some resources that might be helpful to read or watch.
 
+<!--more-->
+
 If you are new to the Git world, you might hear some words that sound very similar and sometimes confusing. Below are a few definitions that might be useful;
 
 ## What is the difference between **Git** and **GitHub**?
