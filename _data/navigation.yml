@@ -10,9 +10,9 @@
       url: /service/projects
     - title: Testimonials
       url: /service/testimonials
-- title: "Support &amp; Training"
+- title: "Training"
   subitems:
-    - title: Overview
+    - title: Training Courses
       url: /training/
     - title: Researcher Programming Resources
       url: /training/programming
