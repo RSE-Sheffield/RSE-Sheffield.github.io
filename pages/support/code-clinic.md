@@ -60,14 +60,10 @@ Note that **slots can only be booked 48 hours or more before the scheduled time*
     with descriptions of data attributes.
   - Please **test your microphone** before joining the Google Meet.
   - If you think it would be useful for you to **share your screen** with a helper then
-    please install [Chrome Remote Desktop](https://remotedesktop.google.com/) in advance
-    (setup instructions [here](https://support.google.com/chrome/answer/1649523?co=GENIE.Platform%3DDesktop&hl=en)).
+    you can do this via Google Meet.
     We ask that if you do choose to share your screen with a helper that
     you consider in advance whether you will be exposing confidential data/code/information
     that helpers are not permitted to view.
-    Note that Google Remote Desktop is not covered with the University's *Google for Educators* licence
-    so any confidential information shared over this medium
-    is only covered by Google's standard privacy policy.
     If you have any questions regarding the information security implications of sharing your screen 
     please contact the TUOS Information Security team via it-servicedesk@sheffield.ac.uk
 
@@ -87,6 +83,11 @@ relevant upcoming training sessions, etc.
 If you cannot attend the session,
 please give a **No** response on the calendar invite
 so we can proceed to remove your booking from the system.
+
+### Any questions before your session?
+
+In the first instance please contact the helper assigned to your request (see your Google Calendar appointment event for details)
+or if a helper hasn't been assigned yet please contact `code-clinic-helpers-group@sheffield.ac.uk`.
 
 ### Interested in getting involved?
 
