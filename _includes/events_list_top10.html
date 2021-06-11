@@ -1,0 +1,17 @@
+{% assign events = (site.events | sort: 'date' | reverse) %}
+<div class="event-listing event-upcoming-previous event-insert-header">
+  {% if events and events.size > 0 %}
+  {% for event in events limit:10 %}
+  {% if include.category %}
+  {% assign categories = include.category | split: "," %}
+  {% for category in categories %}
+  {% if category == event.category %}
+  {% include events_list_item.html event=event %}
+  {% endif %}
+  {% endfor %}
+  {% else %}
+  {% include events_list_item.html event=event %}
+  {% endif %}
+  {% endfor %}
+  {% endif %}
+</div>
