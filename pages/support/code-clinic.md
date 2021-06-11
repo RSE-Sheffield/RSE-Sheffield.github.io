@@ -89,6 +89,8 @@ so we can proceed to remove your booking from the system.
 In the first instance please contact the helper assigned to your request (see your Google Calendar appointment event for details)
 or if a helper hasn't been assigned yet please contact `code-clinic-helpers-group@sheffield.ac.uk`.
 
+Please do not reply directly to auto-generated emails received after booking a Code Clinic session - the associated mailbox is not monitored.
+
 ### Interested in getting involved?
 
 If you would like to get involved as a helper,
