@@ -3,6 +3,7 @@ title: "Gaussian Process Summer School 2021"
 category:
 tags: Gaussian Processes, Machine Learning
 date: 2021-09-13
+end-date: 2021-09-16
 location: "Online"
 speaker: "Various"
 ---
