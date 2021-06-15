@@ -14,7 +14,7 @@ layout: default
 
                     <div class="media mb-1">
                         <img class="align-self-center mr-2" src="/assets/images/icons/icons8-watch-50.png" width="20" alt="Date"/>
-                        <div class="media-body"><strong>{{ page.date | date: "%-d %B %Y" }}  {% if page.end-date %} to {{ page.end-date | date: "%-d %B %Y" }}{% endif %} - {{ page.from}}{% if page.to %}-{{page.to}}{% endif %}</strong></div>
+                        <div class="media-body"><strong>{{ page.date | date: "%-d %B %Y" }}  {% if page.end-date %} to {{ page.end-date | date: "%-d %B %Y" }}{% endif %}{% if page.from %} - {{page.from}}{% endif %}{% if page.to %}-{{page.to}}{% endif %}</strong></div>
                     </div>
                     {% if page.location %}
                     <div class="media mb-1">
