@@ -18,4 +18,4 @@ excerpt_separator: <!--more-->
 
 A brief intro to where Machine Learning fits into the work of the University of Sheffield RSE team. 
 
-See some examples of [Machine Learning projects](https://rse.shef.ac.uk/service/projects/#machine-learning) and [training](https://rse.shef.ac.uk/pages/training/courses/Intro_DL.html).
+See some examples of [Machine Learning projects](/service/projects/#machine-learning) and training [Introduction to Deep Learning](/pages/training/courses/Intro_DL.html), [Fundamentals of Deep Learning for Computer Vision Workshop](/training/deeplearning/2019-02-15-dli-sheffield/).
