@@ -15,7 +15,7 @@ slides_url:
 ---
 
 ### Abstract
-In addition to being a striving academic discipline, machine learning is increasingly adopted as a solution to real world business problem. But underneath the seeming success lies a chasm of failures. In fact according to recent surveys among industry practitioners, the majority of ML projects still fails. It turns out that deployment workflow of ML is far from trivial, and adds a pile of its own challenges on top of those that already existed in software development practice. In this talk we will follow the steps of the ML deployment process, talk about issues people face at each step, and touch upon possible solutions.
+In addition to being a thriving academic discipline, machine learning is increasingly adopted as a solution to real world business problems. But underneath this seeming success lies a chasm of failures. In fact, according to recent surveys among industry practitioners, the majority of ML projects still fail. It turns out that deployment workflow of ML is far from trivial, and adds a pile of its own challenges on top of those that already exist in software development practice. In this talk we will follow the steps of the ML deployment process, talk about issues people face at each step, and touch upon possible solutions.
 
 The talk is based on this [paper](https://arxiv.org/abs/2011.09926), reading it before the talk isn't required.
 
