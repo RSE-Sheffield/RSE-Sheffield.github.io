@@ -18,4 +18,4 @@ excerpt_separator: <!--more-->
 
 A brief intro to where Machine Learning fits into the work of the University of Sheffield RSE team. 
 
-See some examples of [Machine Learning projects](https://rse.shef.ac.uk/service/projects/) and [training](https://rse.shef.ac.uk/pages/training/courses/Intro_DL.html).
+See some examples of [Machine Learning projects](https://rse.shef.ac.uk/service/projects/#machine-learning) and [training](https://rse.shef.ac.uk/pages/training/courses/Intro_DL.html).
