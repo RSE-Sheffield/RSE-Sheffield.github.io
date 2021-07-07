@@ -3,7 +3,7 @@ layout: post
 title: July 2021 Newsletter
 editor: David Wilby
 slug: 2021-07-07-newsletter
-date: 2021-07-07T11:00:00Z+0100
+date: 2021-07-07T16:00:00Z+0100
 tags:
 category:
 link:
@@ -44,7 +44,7 @@ The [Conference of Research Software Engineers](https://septembrse.society-rse.o
 
 > Submissions are now being taken for; Talks, Posters, Walkthroughs, Workshops, Panels and Discussions. So if you have an idea and want to get involved with the wider RSE community submit your proposal now!
 
-[Submission Deadline](https://septembrse.society-rse.org/calls/): 2nd July 2021 (Discussion topic submission closes early on June 18th 2021).
+[Submission Deadline](https://septembrse.society-rse.org/calls/): 2nd July 2021
 
 #### Research Software Camp “Beyond the spreadsheet”: call for ideas
 >Do you use spreadsheets to conduct your research? Do you prefer a specific tool or approach when using spreadsheets? What events would you run to help other researchers using spreadsheets? Are you interested in sharing your experience or stories of research data management and analysis with spreadsheets? We’d like to hear from you! 
@@ -110,7 +110,7 @@ As part of this year's [SeptembRSE](https://septembrse.society-rse.org/) confere
 
 **[SeptembRSE](https://septembrse.society-rse.org/)**
 
-[Submission Deadline](https://septembrse.society-rse.org/calls/): July 2nd 2021 *(Discussion topic submission closes early on June 18th 2021).
+[Submission Deadline](https://septembrse.society-rse.org/calls/): July 2nd 2021
 
 6 - 30th September 2021
 
