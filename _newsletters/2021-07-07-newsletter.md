@@ -157,13 +157,6 @@ Researchers can cost our engineers in funding applications at a proportion of fu
 * [Impact factor abandoned by Dutch university in hiring and promotion decisions [Nature]](https://www.nature.com/articles/d41586-021-01759-5) - "Faculty and staff members at Utrecht University will be evaluated by their commitment to open science."
 
 ### Training
-**[High Performance Computing for Healthcare](https://www.eventbrite.co.uk/e/high-performance-computing-for-healthcare-tickets-144650454403)**
-
-Taking place over 2 days (12th & 14th July) in partnership with the [N8CIR Universities](https://n8cir.org.uk/), [Sheffield Bioinformatics Core](https://sbc.shef.ac.uk/) and [Sheffield RSE Team][rses] will be delivering training on using HPC for genomics research.
-
-[Sign up here](https://www.eventbrite.co.uk/e/high-performance-computing-for-healthcare-tickets-144650454403).
-
----
 
 **[Archer Message-Passing with MPI](https://www.archer2.ac.uk/training/courses/210000-mpi-self-service/)**
 
