@@ -42,9 +42,7 @@ The [Conference of Research Software Engineers](https://septembrse.society-rse.o
 
 > This year the entire conference has moved online. The flexibility achievable with online events allows the sessions to be spread out so that they occupy the whole of September. All sessions will be streamed, recorded and published, meaning that you will have a whole month of material to explore throughout September at a time that is best for you!
 
-> Submissions are now being taken for; Talks, Posters, Walkthroughs, Workshops, Panels and Discussions. So if you have an idea and want to get involved with the wider RSE community submit your proposal now!
 
-[Submission Deadline](https://septembrse.society-rse.org/calls/): 2nd July 2021
 
 #### Research Software Camp “Beyond the spreadsheet”: call for ideas
 >Do you use spreadsheets to conduct your research? Do you prefer a specific tool or approach when using spreadsheets? What events would you run to help other researchers using spreadsheets? Are you interested in sharing your experience or stories of research data management and analysis with spreadsheets? We’d like to hear from you! 
@@ -56,7 +54,7 @@ The [Conference of Research Software Engineers](https://septembrse.society-rse.o
 #### FAIR Principles for Research Software
 The [Research Data Alliance](https://www.rd-alliance.org/) has developed a set of principles for research software inspired by the FAIR principles for research data (findable, accessible, interoperable, reusable).
 
-The community review period for the guiding document is open until the 11th July (here)[https://www.rd-alliance.org/group/fair-research-software-fair4rs-wg/outcomes/fair-principles-research-software-fair4rs]
+The community review period for the guiding document is open until the 11th July [here](https://www.rd-alliance.org/group/fair-research-software-fair4rs-wg/outcomes/fair-principles-research-software-fair4rs)
 
 #### AHRC Software Requirements Survey
 
@@ -127,15 +125,11 @@ In the last month, we've held not one but two LunchBytes sessions, recordings of
 
 **[EPSRC Call: Software for Research Communities](https://www.ukri.org/opportunity/software-for-research-communities/)**
 
-EPSRC have announced a call for £4.5M funding to adapt or maintain existing software used by research communities.
 
->Your project must be within the remit of EPSRC.
->You can use the funding for:
-> * development and re-engineering of existing software
-> * maintenance activities
-> * activities that widen participation in development and maintenance.
+The Research Software Engineering (RSE) Team (<https://rse.shef.ac.uk/>) are delighted to see the new call from the EPSRC: “Software for research communities” (<https://www.ukri.org/opportunity/software-for-research-communities>).
+It is something we’ve been advocating for for some time and it’s great to see it finally happening! The call specifically is specifically looking for inclusion of RSEs as part of the project delivery and we would be very happy to discuss with PIs about inclusion of RSEs from our team.
 
-Please contact the [RSE Team][rses] to discuss.
+Researchers can cost our engineers in funding applications at a proportion of full time equivalent, bringing in software engineering expertise without the need to hire a dedicated RSE. If this is of interest to you in the context of this call, or any other funding application, please contact <rse@sheffield.ac.uk> at the earliest opportunity to talk about the project. We can provide useful advice even at an early stage, and we need to know well in advance about applications being submitted so we can do our best to arrange engineers with the best skills and experience when the project is (fingers-crossed!) funded.
 
 ---
 
