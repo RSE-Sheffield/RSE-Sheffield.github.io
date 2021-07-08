@@ -71,12 +71,6 @@ They are actively seeking views from people who do not develop digital tools / s
 The survey is available at: [http://bit.ly/ahrc-digital-requirements-survey](http://bit.ly/ahrc-digital-requirements-survey), and should only take 15 minutes to complete. It closes at the end July 2021 after which there will be a prize draw. You will have a chance to win one of four £50 shopping vouchers (please opt-in during the survey).
 
 ### Future Events
-**Research Software Engineers and Academia, UseR! Keynote, Heidi Seibold**
-8th July 2021 (livestream, recording available on youtube following)
-
-**Abstract:** Academia is a strange place. On the one hand it is a hotbed of innovations, on the other hand it is a frustratingly lethargic system. The movement of Research Software Engineers (RSEs) shows this really well as nearly all research relies on research software, yet we are still lacking adequate acknowledgment let alone career paths for RSEs. In this talk I want to discuss the status quo and future of software in research, the role of the R community, and also what it has to do with my personal path.
-
----
 
 **Juliacon 2021**
 
