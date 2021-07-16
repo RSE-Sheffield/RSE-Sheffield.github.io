@@ -3,7 +3,7 @@ title: "git & GitHub through GitKraken - from Zero to Hero!"
 category: training
 tags: collaboration, git, github, gitkraken
 permalink: /training/workshop/2021-10-01-git-zero-hero
-date: 2021-07-14
+date: 2021-10-01
 from: "10:00"
 to: "16:30"
 location: "Online"
