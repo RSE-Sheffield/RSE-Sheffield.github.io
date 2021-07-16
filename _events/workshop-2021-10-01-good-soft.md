@@ -1,0 +1,34 @@
+---
+title: "Write better research software (in Python)"
+category: training
+tags: documentation, testing, licensing
+permalink: /training/workshop/2021-10-01-good-soft
+date: 2021-10-01
+from: "00:00"
+to: "00:00"
+location: "Online"
+speaker: "David Wilby, Bob Turner, RSE Team"
+---
+
+## How can we write better research software? 
+
+**If you want the software you make for research to produce trustworthy results and to be reusable by others on different computers, this course will help.**
+
+**Prerequisite skills:** Some python programming experience.
+
+**Learning Objectives**
+
+* Add documentation directly into python code
+* How and when to make your code open source
+* Write tests so you can update your code with confidence
+
+This is a pilot course and as such we may encounter problems that we wouldn't normally expect. We will use feedback from this event to improve in future!
+
+We plan to run this course online, but will investigate the possibly of hybrid delivery.
+
+More details and registration via [eventbrite]().
+
+**Course material:** TBD
+
+<div style="width: 50%; margin:0 auto;"><img src="/assets/images/museums-victoria-G9Yy-iitjjg-unsplash.jpg" alt="Together, We Create"/><p>Museums Victoria on Unsplash</p></div>
+
