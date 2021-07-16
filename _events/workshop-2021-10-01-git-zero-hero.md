@@ -25,4 +25,5 @@ speaker: "Anna Krystalli, David Wilby, RSE Team"
 
 More details and registration via [eventbrite](https://www.eventbrite.co.uk/manage/events/163513044919).
 
-<div style="width: 50%; margin:0 auto;"><img src="/assets/images/colab.jfif" alt="Together, We Create"/></div>
+<div style="width: 50%; margin:0 auto;"><img src="/assets/images/colab.jfif" alt="Together, We Create"/><p>Photo by Jeremy Bishop on Unsplash</p></div>
+
