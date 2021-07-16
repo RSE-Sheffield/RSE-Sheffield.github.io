@@ -21,9 +21,12 @@ speaker: "Anna Krystalli, David Wilby, RSE Team"
 * Basic collaboration through forks on GitHub.
 * Advanced team collaboration through branches on GitHub.
 * Using the GitKraken GUI for a smooth version control experience.
-* We plan to run this course online, but will investigate the possibly of hybrid delivery.
+
+We plan to run this course online, but will investigate the possibly of hybrid delivery.
 
 More details and registration via [eventbrite](https://www.eventbrite.co.uk/manage/events/163513044919).
+
+**Course material:** https://srse-git-github-zero2hero.netlify.app/
 
 <div style="width: 50%; margin:0 auto;"><img src="/assets/images/colab.jfif" alt="Together, We Create"/><p>Photo by Jeremy Bishop on Unsplash</p></div>
 
