@@ -14,6 +14,8 @@ speaker: "Anna Krystalli, David Wilby, RSE Team"
 
 **This event covers essential information for research teams collaborating on software.**
 
+*This event is for University of Sheffield researchers and research students only. Please register with an **@shef.ac.uk** or **@sheffield.ac.uk** email address to ensure your ticket request is accepted.*
+
 **Prerequisite skills:** Some programming experience.
 
 **Learning Objectives**
