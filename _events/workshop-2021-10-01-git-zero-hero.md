@@ -26,7 +26,7 @@ speaker: "Anna Krystalli, David Wilby, RSE Team"
 
 We plan to run this course online, but will investigate the possibly of hybrid delivery.
 
-More details and registration via [eventbrite](https://www.eventbrite.co.uk/manage/events/163513044919).
+More details and registration via [eventbrite](https://www.eventbrite.co.uk/e/git-github-through-gitkraken-from-zero-to-hero-tickets-163513044919).
 
 **Course material:** https://srse-git-github-zero2hero.netlify.app/
 
