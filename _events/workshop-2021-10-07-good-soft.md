@@ -22,7 +22,7 @@ speaker: "David Wilby, Bob Turner, RSE Team"
 
 * Add documentation directly into python code using "docstrings"
 * How and when to make your code open source
-* Write tests so you can update your code with confidence
+* Write tests (using `pytest`) so you can update your code with confidence
 
 This is a pilot course and as such we may encounter problems that we wouldn't normally expect. We will use feedback from this event to improve in future! Learning objectives are subject to change.
 
