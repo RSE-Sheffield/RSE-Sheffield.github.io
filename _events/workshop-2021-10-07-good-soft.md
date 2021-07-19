@@ -2,7 +2,7 @@
 title: "Write better research software (in Python)"
 category: training
 tags: documentation, testing, licensing
-permalink: /training/workshop/2021-10-01-good-soft
+permalink: /training/workshop/2021-10-07-good-soft
 date: 2021-10-07
 from: "12:30"
 to: "16:30"
