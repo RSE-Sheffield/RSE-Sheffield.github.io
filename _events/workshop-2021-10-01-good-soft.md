@@ -3,9 +3,9 @@ title: "Write better research software (in Python)"
 category: training
 tags: documentation, testing, licensing
 permalink: /training/workshop/2021-10-01-good-soft
-date: 2021-10-01
-from: "00:00"
-to: "00:00"
+date: 2021-10-07
+from: "12:30"
+to: "16:30"
 location: "Online"
 speaker: "David Wilby, Bob Turner, RSE Team"
 ---
