@@ -14,6 +14,8 @@ speaker: "David Wilby, Bob Turner, RSE Team"
 
 **If you want the software you make for research to produce trustworthy results and to be reusable by others on different computers, this course will help.**
 
+*This event is for University of Sheffield researchers and research students only. Please register with an **@shef.ac.uk** or **@sheffield.ac.uk** email address to ensure your ticket request is accepted.*
+
 **Prerequisite skills:** Some python programming experience.
 
 **Learning Objectives**
@@ -26,7 +28,7 @@ This is a pilot course and as such we may encounter problems that we wouldn't no
 
 We plan to run this course online, but will investigate the possibly of hybrid delivery.
 
-More details and registration via [eventbrite]().
+More details and registration via [eventbrite](https://www.eventbrite.co.uk/e/write-better-research-software-in-python-tickets-163827758235).
 
 **Course material:** TBD
 
