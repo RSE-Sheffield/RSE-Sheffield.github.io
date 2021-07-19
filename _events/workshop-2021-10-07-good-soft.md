@@ -24,7 +24,7 @@ speaker: "David Wilby, Bob Turner, RSE Team"
 * How and when to make your code open source
 * Write tests (using `pytest`) so you can update your code with confidence
 
-This is a pilot course and as such we may encounter problems that we wouldn't normally expect. We will use feedback from this event to improve in future! Learning objectives are subject to change.
+This is a pilot course and as such we may encounter problems that we wouldn't normally expect. We will use feedback from this event to improve the course in future! Learning objectives are subject to change.
 
 We plan to run this course online, but will investigate the possibly of hybrid delivery.
 
