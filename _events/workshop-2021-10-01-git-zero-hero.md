@@ -12,7 +12,7 @@ speaker: "Anna Krystalli, David Wilby, RSE Team"
 
 ## How can we effectively work together on the same code? 
 
-**This event covers essential information for research teams collaborating on software.**
+**This is an introductory course, teaching the git and GitHub skills required to manage research code over it's development lifecycle. These skills are essential for collaborative research teams.**
 
 *This event is for University of Sheffield researchers and research students only. Please register with an **@shef.ac.uk** or **@sheffield.ac.uk** email address to ensure your ticket request is accepted.*
 
