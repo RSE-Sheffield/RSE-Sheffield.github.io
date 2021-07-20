@@ -7,7 +7,7 @@ to: "13:00"
 location: "Google Meet"
 speaker: "Mike Croucher (Mathworks), others TBD"
 institute:
-title: "Lunch bytes: Good software engineering with MATLAB"
+title: "Lunch bytes: Better MATLAB, Better Research"
 image:
 redirect_from:
   - /events/LunchBytes-2021-10-13.html
