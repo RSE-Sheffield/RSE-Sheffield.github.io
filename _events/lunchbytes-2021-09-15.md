@@ -5,7 +5,7 @@ published: True
 from: "12:00"
 to: "13:00"
 location: "Zoom"
-speaker: "TBD"
+speaker: "Matt Williams (Bristol), Simon Li (Dundee), James Graham (Southampton)"
 institute:
 title: "LunchBytes × SeptembRSE Special: Python Virtual Environment Showdown"
 image:
@@ -19,7 +19,9 @@ This month's topic will be a showdown between some of the different options for 
 Python is one of the most popular languages for research computing and virtual environments are a valuable method for managing dependencies within a project and ensuring a reproducible environment. There are lots of options around for virtual environment management in Python, in this special LunchBytes we'll be exploring the pros and cons of some of them with help from members of the research software engineering community.
 
 ## Speakers
-TBC
+* Matt Williams (Bristol) - `venv`
+* Simon Li (Dundee) - `conda`
+* James Graham (Southampton) - `poetry`
 
 ## Joining instructions
 TBC
