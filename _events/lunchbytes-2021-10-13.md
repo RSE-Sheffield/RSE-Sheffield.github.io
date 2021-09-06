@@ -14,7 +14,7 @@ redirect_from:
 slides_url:
 ---
 
-Short talks on how University of Sheffeild researchers are using Matlab features old and new, straightforward and complex. A chance to discuss Matlab in the research software ecosystem.
+Short talks on how University of Sheffeild researchers are using Matlab features old and new, straightforward and complex. A chance to get perspectives from researchers and from Mathworks, and to discuss Matlab in the research software ecosystem.
 
 ---
 
