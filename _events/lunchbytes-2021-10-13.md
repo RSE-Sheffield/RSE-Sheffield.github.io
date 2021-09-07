@@ -16,7 +16,7 @@ slides_url:
 
 Short talks on how University of Sheffield researchers are using Matlab features old and new, straightforward and complex. A chance to get perspectives from researchers and from MathWorks, and to discuss Matlab in the research software ecosystem.
 
-This session will take place on [Google Meet](https://meet.google.com/kxv-nvyh-cbt) and participants can join 15 minutes before the start of the session.
+This session will take place on [Google Meet](https://meet.google.com/jde-tgwa-hru) and participants can join 15 minutes before the start of the session.
 
 We also have a [Google Jam Board](https://jamboard.google.com/d/1O9NVU0p3zU9yStNghyPlT7prWxa0A_mPMCSHJYVFj6U) where you can note down any questions or comments before or during the event.
 
