@@ -24,4 +24,5 @@ Python is one of the most popular languages for research computing and virtual e
 * James Graham (Southampton) - `poetry`
 
 ## Joining instructions
-TBC
+Please sign up for the event ahead of time at [this link](https://www.eventbrite.co.uk/e/lunchbytes-septembrse-special-python-virtual-environment-showdown-tickets-170150369335)
+The zoom link will be shared shortly before the event begins.
