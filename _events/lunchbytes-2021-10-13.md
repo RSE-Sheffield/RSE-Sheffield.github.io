@@ -5,7 +5,7 @@ published: True
 from: "12:00"
 to: "13:00"
 location: "Google Meet"
-speaker: "Mike Croucher, Tim Rogers, Fred Sonnenwald"
+speaker: "Gemma Ives (host, University of Sheffield), Mike Croucher (Mathworks), Tim Rogers (University of Sheffield), Fred Sonnenwald (University of Sheffield)"
 institute:
 title: "LunchBytes: Better MATLAB, Better Research"
 image:
