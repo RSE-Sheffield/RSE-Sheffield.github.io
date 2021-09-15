@@ -5,7 +5,7 @@ published: True
 from: "12:00"
 to: "13:00"
 location: "Zoom"
-speaker: "Matt Williams (Bristol), Simon Li (Dundee), James Graham (Southampton)"
+speaker: "Matt Williams (Bristol), Simon Li (Dundee), James Graham (Southampton/SSI)"
 institute:
 title: "LunchBytes × SeptembRSE Special: Python Virtual Environment Showdown"
 image:
@@ -20,9 +20,9 @@ Python is one of the most popular languages for research computing and virtual e
 
 ## Speakers
 [Introductory and closing slides](/lunchbytes_sep_2021)
-* Matt Williams (Bristol) - `venv`
+* Matt Williams (Bristol) - `venv` - [slides](https://drive.google.com/file/d/1EmF3_GSOlM7J9mzPyoylN6_-Mr2qiIv_/view?usp=sharing)
 * Simon Li (Dundee) - `conda` - [slides](https://www.manicstreetpreacher.co.uk/septembrse-2021-python-conda/)
-* James Graham (Southampton) - `poetry`
+* James Graham (Southampton/SSI) - `poetry` (see video for live demo)
 
 ## Joining instructions
 Please sign up for the event ahead of time at [this link](https://www.eventbrite.co.uk/e/lunchbytes-septembrse-special-python-virtual-environment-showdown-tickets-170150369335)
