@@ -1,39 +1,54 @@
 name: CI build 
 on:
-  # push:
-  #   branches:
-  #     - master
+  push:
+    branches:
+      - "*"
   pull_request:
     branches:
       - master
 jobs:
-  checklinks:
+  build:
     name: Linux
     runs-on: ubuntu-latest
-    strategy:
-      fail-fast: false
+    env:
+      # Control the use of htmlproofer. Set to '1' to enable htmlproofer.
+      USE_HTMLPROOFER: '0'
     steps:
+      # Clone the repository and checkout into the relevant branch
       - uses: actions/checkout@v2
-      - name: Ruby
-        uses: actions/setup-ruby@v1
+
+      # Install Ruby
+      - name: Install Ruby
+        uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 2.6.x
-      - name: Setup Rubygems, Bundler, jekyll
-        run: | 
+          ruby-version: 2.7.3 # Check https://pages.github.com/versions/ for the current Ruby version used by gh pages.
+
+      # Install dependencies required to run jekyll build
+      - name: Install gh-pages rubygem via bundler
+        run: |
+          # Update gem and bundler
           gem update --system --no-document
           gem update bundler --no-document
-          gem install jekyll bundler
+          # Set the bundle directory
           bundle config set path vendor/bundle
+          # Install Gemfile contents via bundler
           bundle install
+
+      # Build the website via jekyll
       - name: Build jekyll website with drafts
         run: bundle exec jekyll build --drafts
-      # - name: Check for broken links
-      #   run: |
-      #     bundle exec htmlproofer --disable-external --allow-hash-href --internal-domains=rse.shef.ac.uk,rse.sheffield.ac.uk --log-level :debug ./_site &> links.log
-      #   continue-on-error: true
-      # - name: Archive log links
-      #   uses: actions/upload-artifact@v1
-      #   with:
-      #     name: links-check.log
-      #     path: links.log
 
+      # Check for broken links if enabled
+      - name: Check for broken links
+        if: ${{ env.USE_HTMLPROOFER == '1' }} 
+        run: |
+          bundle exec htmlproofer --disable-external --allow-hash-href --internal-domains=rse.shef.ac.uk,rse.sheffield.ac.uk --log-level :debug ./_site &> links.log
+        continue-on-error: true
+
+      # Store the list of potentially broken links 
+      - name: Archive log links
+        if: ${{ env.USE_HTMLPROOFER == '1' }} 
+        uses: actions/upload-artifact@v1
+        with:
+          name: links-check.log
+          path: links.log
