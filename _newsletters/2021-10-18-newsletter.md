@@ -2,8 +2,8 @@
 layout: post
 title: October 2021 Newsletter
 editor: Anna Krystalli, Fariba Yousefi
-slug: 2021-10-15-newsletter
-date: 2021-10-15T16:00:00Z+0100
+slug: 2021-10-18-newsletter
+date: 2021-10-18T16:00:00Z+0100
 tags:
 category:
 link:
