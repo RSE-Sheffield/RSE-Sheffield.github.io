@@ -22,11 +22,12 @@ Welcome to the monthly newsletter from the [Research Software Engineering Team](
 - [Software Sunstainability Institute Fellowship 2022](https://software.ac.uk/blog/2021-09-09-applications-ssi-fellowship-programme-2022-now-open).These Fellowships are a great opportunity for RSEs and Academics alike to receive funding and support for projects that promote software sustainability in research. The University of Sheffield has had representiatives in SSI cohorts for a few  This round will also be a pilot for opening up the programme to international applicants. The deadline to apply is 31 October 2021. 
 
 
-- [UKRI: Support the development of research software engineering](https://www.ukri.org/opportunity/support-the-development-of-research-software-engineering/?utm_medium=email&utm_source=govdelivery).: Funding from the UKRI is available for activities to support the development of research software engineering in the UK. You must be either:
+- [UKRI: Support the development of research software engineering](https://www.ukri.org/opportunity/support-the-development-of-research-software-engineering/?utm_medium=email&utm_source=govdelivery). Funding from the UKRI is available for activities to support the development of research software engineering in the UK. You must be either:
   - a researcher or research software engineer at an eligible research organisation
   - an employee of an eligible public sector research establishment.
     Closing Date: Dec 2nd 2021
 
+- [Research software engineer](https://www.jobs.ac.uk/job/CJK740/research-software-engineer). An opening is available to join the groweing research software engineering team on an open-ended contract. Ideally you will have a PhD level education with experiments in data analytics, numerical computing and high-performance computing.
 
 
 ### LunchBytes
@@ -74,6 +75,8 @@ We had two highly successfull LunchBytes sessions in September and October!
 
   For more details on the courses, check out their [Accessible supercomputing​, data analytics and AI training with industry context](https://www.hartree.stfc.ac.uk/Pages/Explain.aspx?utm_source=Twitter&utm_medium=social&utm_campaign=Orlo) page.
 - Matlab Academy is an online resource for learning MATLAB for free with MATLAB Onramp and accessing interactive self-paced online courses and tutorials on Deep Learning, Machine Learning and more: https://matlabacademy.mathworks.com/. As an example, a new course on Matlab academy demonstrates [how to simulate electronic circuits](https://matlabacademy.mathworks.com/details/circuit-simulation-onramp/circuits)
+- Performance analysis methodology workshop | 15 Dec 2021 09:00-12:00. This workshop aims to give a solid understanding of the basics of performance analysis for research and simulation codes, using high- and low-level metrics.
+https://www.dur.ac.uk/arc/training/workshop/
 
 ## RSE Sheffield
 
