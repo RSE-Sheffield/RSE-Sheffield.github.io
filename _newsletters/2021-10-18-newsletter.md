@@ -26,7 +26,7 @@ You must be either:
   - a researcher or research software engineer at an eligible research organisation
   - an employee of an eligible public sector research establishment.
 
-- [Research software engineer](https://www.jobs.ac.uk/job/CJK740/research-software-engineer). An opening is available to join the growing research software engineering team on an open-ended contract. Ideally you will have a PhD level education with experiments in data analytics, numerical computing and high-performance computing. The closing date is 22nd of October 2021.
+- [Research Software Engineer](https://www.jobs.ac.uk/job/CJK740/research-software-engineer). An opening is available to join the growing research software engineering team on an open-ended contract. Ideally you will have a PhD level education with experiments in data analytics, numerical computing and high-performance computing. The closing date is 22nd of October 2021.
 
 
 ### LunchBytes
