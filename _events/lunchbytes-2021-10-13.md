@@ -20,6 +20,8 @@ This session will take place on [Google Meet](https://meet.google.com/jde-tgwa-h
 
 We also have a [Google Jam Board](https://jamboard.google.com/d/1O9NVU0p3zU9yStNghyPlT7prWxa0A_mPMCSHJYVFj6U) where you can note down any questions or comments before or during the event.
 
+[Video of event](https://digitalmedia.sheffield.ac.uk/media/t/1_0qwso3ju)
+
 ---
 
 **What's neat about using the MATLAB IDE for research (and teaching)**
@@ -27,6 +29,8 @@ We also have a [Google Jam Board](https://jamboard.google.com/d/1O9NVU0p3zU9yStN
 *Fred Sonnenwald*
 
 MATLAB tightly integrates its command window, editor, debugger, profiler, and live scripts into an Integrated Development Environment (IDE) in a way uncommon for interpreted languages. This short talk will go over these features and provide some examples of how I've used them to aid in research (and teaching).
+
+[Slides](/assets/slides/2121-10-13_LB_MATLAB/LunchBytes 13 October 2021 Fred Sonnenwald v1.1.pptx)
 
 ---
 
@@ -38,6 +42,8 @@ Some researchers prefer to analyse their data using easy to use Graphical User I
 
 Why choose when you can have both with MATLAB Live Editor tasks?  
 
+[Slides and code](/assets/slides/2121-10-13_LB_MATLAB/Sheffield_Lunch_Croucher.zip)
+
 ---
 
 **Writing Object Oriented MATLAB For Parallel Compute: Challenges and Successes**
@@ -45,3 +51,5 @@ Why choose when you can have both with MATLAB Live Editor tasks?
 *Tim Rogers*
 
 For a large number of algorithms the computation can be broken down into independent blocks which have a self-contained set of attributes and methods, for example, it may be necessary to run multiple instances of an algorithm with different parameters. To improve modularity, reusability and reproducibility it can be beneficial to define an 'object' which packages these blocks. Formally, this is called an OOP approach to writing code (although the brief definition here is not complete). Despite being a popular approach in other languages, most notably Python, it is not widely employed within MATLAB where more commonly a functional programming model is used. This talk will show an example of one algorithm where an OOP model greatly improves the readability and useability of the code base by defining objects which can be used as building blocks of more complicated algorithms. The task of system identification using an Iterated Batch Importance Sampling algorithm will be used as a demonstration. A particular focus of the talk will be on how MATLAB objects can be written such that they are amenable for use within parallel compute structures provided by MATLAB, such as 'parfor' loops, for which there are some specific challenges.
+
+[Slides](/assets/slides/2121-10-13_LB_MATLAB/lunchbytes_parallel_classes_TR.pdf)
