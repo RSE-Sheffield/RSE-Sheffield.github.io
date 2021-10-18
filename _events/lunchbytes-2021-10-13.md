@@ -14,13 +14,13 @@ redirect_from:
 slides_url:
 ---
 
+<iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/2103181/sp/210318100/embedIframeJs/uiconf_id/38838661/partner_id/2103181?iframeembed=true&playerId=kaltura_player&entry_id=1_0qwso3ju&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[hotspots.plugin]=1&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_889cc37i" width="400" height="285" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player"></iframe>
+
 Short talks on how University of Sheffield researchers are using Matlab features old and new, straightforward and complex. A chance to get perspectives from researchers and from MathWorks, and to discuss Matlab in the research software ecosystem.
 
 This session will take place on [Google Meet](https://meet.google.com/jde-tgwa-hru) and participants can join 15 minutes before the start of the session. [Add to your calendar.](https://calendar.google.com/event?action=TEMPLATE&tmeid=NTUwZDlwdDlubTc1bGg1OG1oYzRrOXJ1b3Ugci5kLnR1cm5lckBzaGVmZmllbGQuYWMudWs&tmsrc=r.d.turner%40sheffield.ac.uk)
 
 We also have a [Google Jam Board](https://jamboard.google.com/d/1O9NVU0p3zU9yStNghyPlT7prWxa0A_mPMCSHJYVFj6U) where you can note down any questions or comments before or during the event.
-
-[Video of event](https://digitalmedia.sheffield.ac.uk/media/t/1_0qwso3ju)
 
 ---
 
