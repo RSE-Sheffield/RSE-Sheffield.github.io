@@ -12,4 +12,4 @@ We are delighted to be able to make free at point of use training available to t
 
 Running courses that are not fully attended wastes our funding (which is provided by taxpayers, charities and students, amongst others) and reduces our collective capacity to improve research outputs and researcher experiences.
 
-Failure to attend a booked course may result in you being reported to your department.
+Persistent failure to attend booked courses might result in you being excluded from future training opportunities.
