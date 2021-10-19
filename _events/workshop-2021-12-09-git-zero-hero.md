@@ -24,11 +24,23 @@ speaker: "RSE Team"
 * Advanced team collaboration through branches on GitHub.
 * Using the GitKraken GUI for a smooth version control experience.
 
-We plan to run this course online, but will investigate the possibly of hybrid delivery.
+This course will be run online.
+
+<hr>
+
+We are delighted to be able to make free at point of use training available to the research community, to enable better software and more open, reproducible research. However, **free at point of use training is not free**. The cost of a course can easily run to thousands of pounds, if preparation costs are taken into account.
+
+**If you sign up for a course, please make sure you either attend or cancel your booking.** Bookings can usually be cancelled using [eventbrite.com](https://www.eventbrite.com) or, failing that, by emailing [rse@sheffield.ac.uk](mailto:rse@sheffield.ac.uk).
+
+Running courses that are not fully attended wastes our funding (which is provided by taxpayers, charities and students, amongst others) and reduces our collective capacity to improve research outputs and researcher experiences.
+
+Persistent failure to attend booked courses might result in you being excluded from future training opportunities.
+
+<hr/>
 
 More details and registration via [eventbrite](ToDo).
 
-**Course material:** https://srse-git-github-zero2hero.netlify.app/
+**Course material:** <https://srse-git-github-zero2hero.netlify.app/>
 
 <div style="width: 50%; margin:0 auto;"><img src="/assets/images/colab.jfif" alt="Together, We Create"/><p>Photo by Jeremy Bishop on Unsplash</p></div>
 
