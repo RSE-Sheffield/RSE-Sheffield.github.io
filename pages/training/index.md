@@ -14,6 +14,7 @@ We have recently run these courses:
 - [Introduction to Deep Learning](courses/Intro_DL.md)
 - [Contributing to Open Source Software](courses/Open_Source.md)
 - [git & GitHub through GitKraken - from Zero to Hero!](courses/git_Hero.md)
+- [Write better research software (in Python)](courses/good_soft.md)
 
 If you're interested in us running similar courses for your learners, please contact <rse@sheffield.ac.uk>.
 

@@ -30,7 +30,7 @@ We plan to run this course online, but will investigate the possibly of hybrid d
 
 More details and registration via [eventbrite](https://www.eventbrite.co.uk/e/write-better-research-software-in-python-tickets-163827758235).
 
-**Course material:** TBD
+**Course material:** <https://rse.shef.ac.uk/software_engineering_best_practices/>
 
 <div style="width: 50%; margin:0 auto;"><img src="/assets/images/museums-victoria-G9Yy-iitjjg-unsplash.jpg" alt="Together, We Create"/><p>Museums Victoria on Unsplash</p></div>
 
