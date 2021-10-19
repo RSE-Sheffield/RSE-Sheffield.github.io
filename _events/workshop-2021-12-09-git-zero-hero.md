@@ -38,7 +38,7 @@ Persistent failure to attend booked courses might result in you being excluded f
 
 <hr/>
 
-More details and registration via [eventbrite](ToDo).
+More details and registration via [eventbrite](https://www.eventbrite.co.uk/e/git-github-through-gitkraken-from-zero-to-hero-tickets-194428941197).
 
 **Course material:** <https://srse-git-github-zero2hero.netlify.app/>
 
