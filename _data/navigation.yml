@@ -12,6 +12,8 @@
       url: /service/testimonials
 - title: "Training"
   subitems:
+    - title: Training Statement
+      url: /training/statement
     - title: Training Courses
       url: /training/
     - title: Researcher Programming Resources
