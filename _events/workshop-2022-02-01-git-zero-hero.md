@@ -3,14 +3,14 @@ title: "git & GitHub through GitKraken - from Zero to Hero!"
 category: training
 tags: collaboration, git, github, gitkraken
 permalink: /training/workshop/2022-02-01-git-zero-hero
-date: 2021-02-01
+date: 2022-02-01
 from: "10:00"
 to: "16:30"
 location: "Online"
 speaker: "RSE Team"
 ---
 
-## How can we effectively work together on the same code? 
+## How can we effectively work together on the same code?
 
 **This is an introductory course, teaching the git and GitHub skills required to manage research code over it's development lifecycle. These skills are essential for collaborative research teams.**
 
