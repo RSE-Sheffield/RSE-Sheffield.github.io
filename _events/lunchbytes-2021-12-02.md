@@ -43,7 +43,7 @@ OpenMP offers an easy way to add data parallelism to your existing code. In this
 
 ---
 
-**Parallelisation using more than one computer**
+**Parallelisation using more than one computer (title TBC)**
 
 *Mike Griffiths*
 
