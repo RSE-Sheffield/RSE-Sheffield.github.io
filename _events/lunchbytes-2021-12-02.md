@@ -14,7 +14,7 @@ redirect_from:
 slides_url:
 ---
 
-Parallelisation - running lots of things at the same time - could be a great way to speed up research code, but requires an appreciation of how computer resources are used to do the work we want them to do. This session will be made up of short talks introducing both fundamental concepts needed for sucessful use of parallelisation, and state of the art technologies available for researchers.
+Parallelisation - running multiple pieces of work at the same time - can be a great way to speed up research code, but requires an appreciation of the costs introduced by distributing work concurrently over computational assets. This session will be made up of short talks introducing both fundamental concepts needed for successful use of parallelisation, and state of the art technologies available for researchers.
 
 This session will take place on [Google Meet](https://meet.google.com/ozm-cops-ktj) and participants can join 15 minutes before the start of the session. 
 
