@@ -43,10 +43,14 @@ OpenMP offers an easy way to add data parallelism to your existing code. In this
 
 ---
 
-**Distributing work between processes in at least one machine**
+**Parallelisation using more than one computer**
 
 *Mike Griffiths*
 
-Working title, details to follow...
+After a brief introduction to parallel computing using the Message passing interface (MPI) library this talk will use an example from a magnetohydrodynamics (MHD) simulation code, we will consider:
+
+- How the work is parallelised using Message Passing Interface (MPI)
+- How we converted it to a shared memory model (i.e. using single GPUs)
+- Strategies for parallelization with multiple GPUs using MPI
 
 ---
