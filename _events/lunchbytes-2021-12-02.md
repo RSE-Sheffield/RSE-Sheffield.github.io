@@ -7,7 +7,7 @@ to: "13:00"
 location: "Google Meet"
 speaker: "Rob Chisholm (host, University of Sheffield RSE), Will Furnass (University of Sheffield IT Services), Paul Richmond (University of Sheffield RSE), Mike Griffiths (University of Sheffield IT Services)"
 institute:
-title: "Parallelisation: one easy trick to speed up your code?"
+title: "Parallelisation: an easy trick to speed up your code?"
 image:
 redirect_from:
   - /events/LunchBytes-2021-12-02.html
