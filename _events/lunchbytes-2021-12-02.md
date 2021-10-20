@@ -2,8 +2,8 @@
 category: lunchbytes
 date: 2021-12-02
 published: True
-from: "12:00"
-to: "13:00"
+from: "12:30"
+to: "13:30"
 location: "Google Meet"
 speaker: "Rob Chisholm (host, University of Sheffield RSE), Will Furnass (University of Sheffield IT Services), Paul Richmond (University of Sheffield RSE), Mike Griffiths (University of Sheffield IT Services)"
 institute:
