@@ -18,8 +18,6 @@ Parallelisation - running lots of things at the same time - could be a great way
 
 This session will take place on [Google Meet](https://meet.google.com/ozm-cops-ktj) and participants can join 15 minutes before the start of the session. 
 
-<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&tmeid=N2RxdnVlcDU2ZTAxbGx0bWg0amUxbzFnaXMgci5kLnR1cm5lckBzaGVmZmllbGQuYWMudWs&tmsrc=r.d.turner%40sheffield.ac.uk"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
-
 We also have a [Google Jam Board](https://jamboard.google.com/d/1gxOkpOmEE2xwK7DFo1Lbql8nJ4SvGvafmzl0qEBVfbs) where you can note down any questions or comments before or during the event.
 
 ---
