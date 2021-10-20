@@ -22,11 +22,16 @@ We also have a [Google Jam Board](https://jamboard.google.com/d/1gxOkpOmEE2xwK7D
 
 ---
 
-**The lifecycle of a process**
+**Processes and doing things in parallel with multi-threading and multi-processing**
 
 *Will Furnass*
 
-Working title, details to follow...
+We're to start the session by ensuring we have a common understanding of:
+
+* What's the difference between and program and process?
+* What are threads and how can we create them?
+* How can we create more processes through forking?
+* How can we do work in parallel using multiple threads and/or processes?
 
 ---
 
