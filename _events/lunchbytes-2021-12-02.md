@@ -32,11 +32,11 @@ Working title, details to follow...
 
 ---
 
-**Distributing work between threads in one machine**
+**OpenMP: Data parallelism in 2, 1, 3?**
 
 *Paul Richmond*
 
-Working title, details to follow...
+OpenMP offers an easy way to add data parallelism to your existing code. In this talk I will provide a crash course in data parallelism and provide examples of just how simple it can be to use OpenMP to parallelise simple cases. For not so simple cases, I will identify the general approaches of what can be done and signpost to more complex approaches.
 
 ---
 
