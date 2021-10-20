@@ -9,18 +9,18 @@ role: Research Software Engineer
 
 ---
 
-Bob is a research software engineer who started his career in software and databases after completing a degree in *Applied Physics* at the *University of Durham*. After four years in the private sector, he did a *PhD in Biophysics* at the *University of Leeds*, before working as a postdoc researcher at the *University of Sheffield* in several departments, including Physics and Astronomy, Molecular Biology and Biotechnology Mechanical Engineering and the Dental School, reflecting an unusually broad range of research interests spanning microscopy, microbiology, engineering and healthcare. 
+Bob is a senior research software engineer who started his career in software and databases after completing a degree in *Applied Physics* at the *University of Durham*. After four years in the private sector, he did a *PhD in Biophysics* at the *University of Leeds*, before working as a postdoc researcher at the *University of Sheffield* in several departments, including Physics and Astronomy, Molecular Biology and Biotechnology Mechanical Engineering and the Dental School, reflecting an unusually broad range of research interests spanning microscopy, microbiology, engineering and healthcare. 
 
 An accomplished researcher with some [important publications](https://scholar.google.com/citations?hl=en&user=JdHx1A8AAAAJ), as a software engineer Bob collaborates with researchers to develop and improve software. This of course involves writing code, but also lots of liaison, discussion, leadership and, most importantly, listening!
 
-Bob codes in *Python*, *R* and *Matlab* using version control with *git* and applying good software engineering practices such as *documentation*, *automated testing* and *continuous integration*. He enjoys working with a diverse range of collaborators in different disciplines. Current and recent work includes:
+Bob's role includes contributing to the management of the RSE team, under Paul Richmond's leadership. His work includes:
 
-- Porting code for identification of the polar sea ice edge from *Matlab* to *Python* and deploying this using *Docker*.
-- Documenting and developing [*GPy*](https://sheffieldml.github.io/GPy/), a *Gaussian Process* based *machine learning* framework for *Python*.
-- Reviewing research software and developing formal processes for this.
-- Leading a software engineering team building [epidemiological modelling software](https://github.com/ScottishCovidResponse/simple_network_sim) (*Python*) as part of the Royal Society's [Rapid Assistance in Modelling the Pandemic](https://royalsociety.org/topics-policy/Health%20and%20wellbeing/ramp/) initiative.
-- Supporting *RedCAP* database infrastructure (using *Vagrant* and *Ansible*) for clinical trials in collaboration with *INSIGNEO*, the *Biomedical Research Centre* and the *Hallamshire Hospital*.
-- Delivering training on reproducible research, version control, Python and R.
+- Advising and helping researchers to implement good software engineering practises (e.g. testing, version control, documentation, reproducible execution, packaging, licensing)
+- Writing research software (e.g. in Python, MATLAB, R)
+- Training
+- Line management of five team members
+- Establishing new externally-funded collaborations
+- Advocating and acting to improve the standards of research software (e.g. running or delivering talks, communication via social media, engagement with university committees)
 
 Contact:
 
