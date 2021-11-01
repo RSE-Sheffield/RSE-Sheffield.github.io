@@ -1,6 +1,6 @@
 ---
 alumnum: false
-level: 2
+level: 1
 published: true
 
 othernames: Bob
