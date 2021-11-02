@@ -15,7 +15,7 @@ The ReproHack core team, in collaboration with the [N8 Centre of Excellence in C
 
 #### [reprohack.org/](https://reprohack.org/)
 
-Reprohacks are one day hackathons providing a sandbox environment for practicing reproducible research.  Authors submit paper with associated code and data for review. During events, participants attempt to reproduce submitted papers of their choice and feed back  their experiences to authors by completing a review form. We spend time sharing and learning from the experiences of participants in the group and informa peer-to-peer training sessions often emerge! e.g. we’ve had impromptu Docker (container) school, live demos of publishing code to Zenodo and mentored contributions to open source projects. 
+Reprohacks are one day hackathons providing a sandbox environment for practicing reproducible research.  Authors submit papers with associated code and data for review. During events, participants attempt to reproduce submitted papers of their choice and feed back their experiences to authors by completing a review form. We spend time sharing and learning from the experiences of participants in the group and informal peer-to-peer training sessions often emerge! e.g. we’ve had impromptu Docker (container) school, live demos of publishing code to Zenodo and mentored contributions to open source projects. 
 
 There will also be two short talks:
 - Dr. [Esther Plomb](https://www.tudelft.nl/en/library/research-data-management/r/support/data-stewardship/contact/esther-plomp), TU Delft, will introduce the [Turing Way community](https://the-turing-way.netlify.app/welcome), a great resource to continue learning on these topics.
