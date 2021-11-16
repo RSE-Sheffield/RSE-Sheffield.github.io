@@ -43,7 +43,8 @@ We have our December edition of LunchBytes coming up very soon, which will be di
     - **As an author:** [Submit your paper for reproduction and review](https://www.reprohack.org/paper/)!
     - **As a participant:** [Join on us on this celebratory day](https://bit.ly/reprohack-hub-launch) and get practical experience in reproducibility with real published materials!
 - **GitHub Citation Files:** GitHub have introduced support for [citation files](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files). These are simple to use and ensure users of your work can easily cite it correctly!
-
+- **N8CIR High Performance Community Event**: An in-person event on the 13th of December to celebrate the work of the N8 CIR over the last 12 months, including keynotes, presentations and lightning talks. Both Anna Krystalli and Paul Richmond of RSE Sheffield will be presenting lightning talks at this event!
+  - [Visit the n8cir.org.uk website](https://n8cir.org.uk/events/high-performance-community/) for more information and to register for the event.
 
 ### Selected Articles
 
