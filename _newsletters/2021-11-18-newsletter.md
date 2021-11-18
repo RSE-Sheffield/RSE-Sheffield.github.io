@@ -2,8 +2,8 @@
 layout: post
 title: November 2021 Newsletter
 editor: Matthew Leach
-slug: 2021-11-15-newsletter
-date: 2021-11-15T16:00:00Z+0100
+slug: 2021-11-18-newsletter
+date: 2021-11-18T16:00:00Z+0100
 tags:
 category:
 link:
@@ -18,7 +18,7 @@ Hi everyone!
 Welcome to the monthly newsletter from the [Research Software Engineering Team](https://rse.shef.ac.uk/) at The University of Sheffield.
 
 ## Opportunities
-- [Research Software Engineer](https://www.jobs.ac.uk/job/CKR689/research-software-engineer). Come and join us! This is an open-ended position at the University of Sheffield Research Software Engineering team. The role is ideal for someone with a passion for research and for good software engineering looking to use their skills in collaborative software development and reproducible research to make an impact on research projects across the whole of the University of Sheffield and beyond. Closing date 6th December 2021.
+- [Research Software Engineer](https://rse.shef.ac.uk/blog/2021-11-12-rse-roles/). Come and join us! This is an open-ended position at the University of Sheffield Research Software Engineering team. The role is ideal for someone with a passion for research and for good software engineering looking to use their skills in collaborative software development and reproducible research to make an impact on research projects across the whole of the University of Sheffield and beyond. Closing date 6th December 2021.
 - [UKRI: Support the development of research software engineering](https://www.ukri.org/opportunity/support-the-development-of-research-software-engineering/?utm_medium=email&utm_source=govdelivery). Funding from the UKRI is available for activities to support the development of research software engineering in the UK. The closing Date is 2nd of Dec 2021
 You must be either:
   - a researcher or research software engineer at an eligible research organisation
@@ -48,7 +48,7 @@ We have our December edition of LunchBytes coming up very soon, which will be di
 
 ### Selected Articles
 
-This is a small selection of articles from the Software Sustainability Institute which may be of interest!
+This is a small selection of recent articles from the Software Sustainability Institute which may be of interest!
 
 - [Don’t be afraid - anyone can learn to code](https://www.software.ac.uk/blog/2021-11-02-dont-be-afraid-anyone-can-learn-code?mc_cid=94afd68d24&mc_eid=f09318bc47)
 - [Using Python to double check your work](https://www.software.ac.uk/blog/2021-11-01-using-python-double-check-your-work?mc_cid=94afd68d24&mc_eid=f09318bc47)
@@ -56,10 +56,6 @@ This is a small selection of articles from the Software Sustainability Institute
 
 ### Training 
 
-- There's a bunch of **upcoming free training courses from the Hartree Centre** including:
-  - Mixed language programming – From Python to C | 9 Dec 2021 : [https://www.cvent.com/c/express/1e0034b8-643f-4862-a8a3-3db7575cd88d](https://www.cvent.com/c/express/1e0034b8-643f-4862-a8a3-3db7575cd88d)
-
-  For more details on the courses, check out their [Accessible supercomputing​, data analytics and AI training with industry context](https://www.hartree.stfc.ac.uk/Pages/Explain.aspx?utm_source=Twitter&utm_medium=social&utm_campaign=Orlo) page.
 - Matlab Academy is an online resource for learning MATLAB for free with MATLAB Onramp and accessing interactive self-paced online courses and tutorials on Deep Learning, Machine Learning and more: [https://matlabacademy.mathworks.com/](https://matlabacademy.mathworks.com/). As an example, a new course on Matlab academy demonstrates [how to simulate electronic circuits](https://matlabacademy.mathworks.com/details/circuit-simulation-onramp/circuits).
 - Performance analysis methodology workshop | 15 Dec 2021 09:00-12:00. This workshop aims to give a solid understanding of the basics of performance analysis for research and simulation codes, using high- and low-level metrics.
 [https://www.dur.ac.uk/arc/training/workshop/](https://www.dur.ac.uk/arc/training/workshop/)
