@@ -1,9 +1,9 @@
 ---
 category: lunchbytes
-date: 2021-12-02
+date: 2022-01-13
 published: True
-from: "12:30"
-to: "13:30"
+from: "12:00"
+to: "13:00"
 location: "Google Meet"
 speaker: "Rob Chisholm (host, University of Sheffield RSE), Will Furnass (University of Sheffield IT Services), Paul Richmond (University of Sheffield RSE), Mike Griffiths (University of Sheffield IT Services)"
 institute:
@@ -11,8 +11,11 @@ title: "Parallelisation: an easy trick to speed up your code?"
 image:
 redirect_from:
   - /events/LunchBytes-2021-12-02.html
+  - /events/LunchBytes-2022-01-13.html
 slides_url:
 ---
+
+*This event was originally scheduled for the 2nd of December, but has been moved to January due to unforeseen circumstances.*
 
 Parallelisation - running multiple pieces of work at the same time - can be a great way to speed up research code, but requires an appreciation of the costs introduced by distributing work concurrently over computational assets. This session will be made up of short talks introducing both fundamental concepts needed for successful use of parallelisation, and state of the art technologies available for researchers.
 
