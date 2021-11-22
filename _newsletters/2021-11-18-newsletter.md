@@ -30,7 +30,7 @@ You must be either:
 
 We have our December edition of LunchBytes coming up very soon, which will be discussing parallelisation!
 
-- **LunchBytes: Parallelisation: an easy trick to speed up your code? 2nd December 2021 12:30-13:30**
+- **LunchBytes: Parallelisation: an easy trick to speed up your code? 13th January 2022 12:00-13:00**
   Parallelisation - running multiple pieces of work at the same time - can be a great way to speed up research code, but requires an appreciation of the costs introduced by distributing work concurrently over computational assets. This session will be made up of short talks introducing both fundamental concepts needed for successful use of parallelisation, and state of the art technologies available for researchers.
 
   More details about the event are available [on our website](https://rse.shef.ac.uk/events/lunchbytes-2021-12-02.html).
