@@ -61,7 +61,7 @@ We have lunchbytes sessions scheduled for January and February, save the date!
 
 
 
-* [Applications of paraview](https://dataviz.shef.ac.uk/blog/05/10/2021/Paraview) - ParaView is free software that can visualise both observational and numerical data. Through this blog article, Suzana Silva provides us with practical examples of how ParaView can be applied to generate beautiful visualisation for various scientific fields.   
+* [Applications of paraview](https://dataviz.shef.ac.uk/blog/05/10/2021/Paraview) - ParaView is free software that can visualise both observational and numerical data. Through this blog article, Suzana Silva provides us with practical examples of how ParaView can be applied to generate beautiful visualisation for various scientific domains.   
 
 
 * [FortranCon 2021](https://www.youtube.com/playlist?list=PLeKbr7eYHjt5UaV9zQtY24oEbne9_uFni) - Keynote and sessions from FortranCon are now available to watch through this youtube playlist.
@@ -73,8 +73,7 @@ We have lunchbytes sessions scheduled for January and February, save the date!
 * [CodeRefinery twitch channel](https://www.twitch.tv/coderefinery) - CodeRefinery offers training opportunities to researchers from Nordic research groups and projects to learn basic-to-advanced research computing skills and become confident in using state-of-the-art tools and practices from modern collaborative software engineering.
 
 
-* Git & GitHub through GitKraken - from Zero to Hero!
-  Four more sessions of our popular version control course have been confirmed for next year. Visit the links below for more information and to register.
+* Git & GitHub through GitKraken - from Zero to Hero! - Four more sessions of our popular version control course have been confirmed for next year. Visit the links below for more information and to register.
   * [20th January 10:00-16:30](https://rse.shef.ac.uk/training/workshop/2022-01-20-git-zero-hero)
   * [1st February 10:00-16:30](https://rse.shef.ac.uk/training/workshop/2022-02-01-git-zero-hero)
   * [10th March 10:00-16:30](https://rse.shef.ac.uk/training/workshop/2022-03-10-git-zero-hero)
