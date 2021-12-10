@@ -22,13 +22,13 @@ Welcome to the monthly newsletter from the [Research Software Engineering Team](
 
 We have lunchbytes sessions scheduled for January and February, save the date!
 
-* **Parallelisation: an easy trick to speed up your code? 13th January 2022 12:00-13:00**
+* **Parallelisation: an easy trick to speed up your code?, 13th January 2022 12:00-13:00 (rescheduled from December)**
   Parallelisation - running multiple pieces of work at the same time - can be a great way to speed up research code, but requires an appreciation of the costs introduced by distributing work concurrently over computational assets. This session will be made up of short talks introducing both fundamental concepts needed for successful use of parallelisation, and state of the art technologies available for researchers.
 
   More details about the event are available [on our website](https://rse.shef.ac.uk/events/lunchbytes-2021-12-02.html).
   
 
-* **High Performance Computing (HPC) at Sheffield and Beyond 17th February 2022 12:00-13:00**
+* **High Performance Computing (HPC) at Sheffield and Beyond, 17th February 2022 12:00-13:00**
   If you find yourself running simulations that take days, struggling to fit datasets in your computer’s memory, training deep learning models or wish you had more computational resource for doing research, HPC might be the solution!
   
   More details about the event are available [on our website](https://rse.shef.ac.uk/events/lunchbytes-2022-02-17.html).
@@ -55,7 +55,7 @@ We have lunchbytes sessions scheduled for January and February, save the date!
 
 * [Software engineering in High Energy/Particle Physics Seminar, 13th Jan 12:00-13:00](https://rse.shef.ac.uk/events/lunchbytes-2022-03-17.html)  - Epic tales of ways in which improved software has helped progress High Energy/Particle Physics research.
 
-* [RSE Conference 2022, 5th September](https://twitter.com/ResearchSoftEng/status/1468969952489082892) - The date of the next RSE conference has just been announced! The conference will be held in Newcastle and chaired by Mark Turner of the Newcastle University's Digital Institute. 
+* [RSE Conference 2022, 5th September](https://twitter.com/ResearchSoftEng/status/1468969952489082892) - The date of the next RSE conference has just been announced! The conference will be held in Newcastle and chaired by Mark Turner of Newcastle University's Digital Institute. 
   
 ### Web and Blogs
 
