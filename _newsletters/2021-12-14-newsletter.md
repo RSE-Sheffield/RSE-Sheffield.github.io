@@ -42,7 +42,7 @@ We have lunchbytes sessions scheduled for January and February, save the date!
 
 * [Archer 2 full system open to users](https://www.archer2.ac.uk/news/2021/11/22/full-system-access.html) - After delays due to covid restrictions, the national-scale cluster was open to users on the 22nd of November. The article provides an introduction to the hardware and software of the system.
 
-
+* [OLS-5 Cohort is open for applications](https://openlifesci.org/) : The Open Life Science (OLS) program helps individuals and stakeholders in research to become Open Science ambassadors. The program offers 16-week long personal mentorship and cohort-based training. The call for applications closes January 15, 2022. 
 
 
 ### Events
