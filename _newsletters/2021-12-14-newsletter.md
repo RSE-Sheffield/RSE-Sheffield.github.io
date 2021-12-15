@@ -33,6 +33,11 @@ We have lunchbytes sessions scheduled for January and February, save the date!
   
   More details about the event are available [on our website](https://rse.shef.ac.uk/events/lunchbytes-2022-02-17.html).
 
+* **Software engineering in High Energy/Particle Physics Seminar, 13th March 12:00-13:00**
+  
+  Epic tales of ways in which improved software has helped progress High Energy / Particle Physics research.
+  
+  More details about the event are available [on our website](https://rse.shef.ac.uk/events/lunchbytes-2022-03-17.html)  - Epic tales of ways in which improved software has helped progress High Energy/Particle Physics research.
 
 ### News
 
@@ -51,9 +56,6 @@ We have lunchbytes sessions scheduled for January and February, save the date!
 
 
 * [SSI Collaborations Workshop 2022, 4-7th April](https://software.ac.uk/cw22) - The Software Sustainability Institute’s Collaborations Workshop series brings together researchers, developers, innovators, managers, funders, publishers, policy makers, leaders and educators to explore best practices and the future of research software.
-
-
-* [Software engineering in High Energy/Particle Physics Seminar, 13th Jan 12:00-13:00](https://rse.shef.ac.uk/events/lunchbytes-2022-03-17.html)  - Epic tales of ways in which improved software has helped progress High Energy/Particle Physics research.
 
 * [RSE Conference 2022, 5th September](https://twitter.com/ResearchSoftEng/status/1468969952489082892) - The date of the next RSE conference has just been announced! The conference will be held in Newcastle and chaired by Mark Turner of Newcastle University's Digital Institute. 
   
