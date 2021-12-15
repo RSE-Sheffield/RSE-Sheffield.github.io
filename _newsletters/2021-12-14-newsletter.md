@@ -37,7 +37,7 @@ We have lunchbytes sessions scheduled from January to March, save the date!
   
   Epic tales of ways in which improved software has helped progress High Energy / Particle Physics research.
   
-  More details about the event are available [on our website](https://rse.shef.ac.uk/events/lunchbytes-2022-03-17.html)  - Epic tales of ways in which improved software has helped progress High Energy/Particle Physics research.
+  More details about the event are available [on our website](https://rse.shef.ac.uk/events/lunchbytes-2022-03-17.html).
 
 ### News
 
