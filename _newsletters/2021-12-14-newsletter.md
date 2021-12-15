@@ -20,7 +20,7 @@ Welcome to the monthly newsletter from the [Research Software Engineering Team](
 
 ### LunchBytes
 
-We have lunchbytes sessions scheduled for January and February, save the date!
+We have lunchbytes sessions scheduled from January to March, save the date!
 
 * **Parallelisation: an easy trick to speed up your code?, 13th January 2022 12:00-13:00 (rescheduled from December)**
   Parallelisation - running multiple pieces of work at the same time - can be a great way to speed up research code, but requires an appreciation of the costs introduced by distributing work concurrently over computational assets. This session will be made up of short talks introducing both fundamental concepts needed for successful use of parallelisation, and state of the art technologies available for researchers.
