@@ -3,7 +3,7 @@ seminar:
     text: "Seminar"
 dltraining:
     image: "/assets/images/icons/icons8-connect-50.png"
-    text: "Workshop"
+    text: "Training"
 candc:
     image: "/assets/images/icons/icons8-cafe-50.png"
     text: "Coffee <br/>&amp; Cake"
@@ -11,8 +11,14 @@ carpentry:
     image: "/assets/images/icons/icons8-schedule-50.png"
     text: "Carpentry"
 workshop:
-    image: "/assets/images/icons/icons8-schedule-50.png"
+    image: "/assets/images/icons/flaticon-workshop.png"
     text: "Workshop"
+training:
+    image: "/assets/images/icons/flaticon-online-education.png"
+    text: "Training"
+lunchbytes:
+    image: "/assets/images/icons/icons8-training-50.png"
+    text: "Lunchbytes"
 default:
     image: "/assets/images/icons/icons8-schedule-50.png"
     text: "Event"

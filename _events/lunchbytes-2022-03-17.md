@@ -7,7 +7,7 @@ to: "13:00"
 location: "Google Meet"
 speaker: "Christos Anastopoulos (University of Sheffield), Mark C Hodgkinson (University of Sheffield), more TBD"
 institute:
-title: "Software engineering in High Energy / Particle Physics"
+title: "Lunch bytes: Software engineering in High Energy / Particle Physics"
 image:
 slides_url:
 ---

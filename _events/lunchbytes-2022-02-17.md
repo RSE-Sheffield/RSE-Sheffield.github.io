@@ -7,7 +7,7 @@ to: "13:00"
 location: "Google Meet"
 speaker: "Twin Karmakharm (University of Sheffield), Peter Heywood (University of Sheffield), more TBD"
 institute:
-title: "High Performance Computing (HPC) at Sheffield and Beyond"
+title: "Lunch bytes: High Performance Computing (HPC) at Sheffield and Beyond"
 image:
 slides_url:
 ---
