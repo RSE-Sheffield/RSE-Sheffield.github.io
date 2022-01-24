@@ -1,30 +1,26 @@
 ---
-title: RSE Collaborative Projects
+title: Why work with us?
 permalink: /collaboration/
 slug: index
 type: text
 ---
 
+The Research Software Engineering (RSE) team at the University of Sheffield strives to:
+- Enhance the University’s capacity for producing high quality, efficient and sustainable
+research software and thus increasing research impact and decreasing time to publication.
+- Provide a range of research software engineering services via a pool of staff to support
+research grants, thereby increasing the capability of research units and helping to meet the
+requirements and expectations of funders.
+- Champion the role of the RSE locally, nationally and internationally and to support the
+career development of RSE professionals.
+- Act as the hub of a university community that supports good practice in research software.
+
 The RSE team can collaborate with you to help improve your research software.
 We have a pool of [expert staff](/contact/team) to ensure that you can deliver excellent research software engineering on your research projects (see [example projects](/collaboration/projects/) and [testimonials](/collaboration/testimonials/)).
 Supporting the entire University, we have collaborators in every faculty and have supported researchers in a range of subject areas including engineering, mathematics, computer science, biology, linguistics, physics, chemistry and geography. 
 
-Areas of expertise within the team include:
+Please contact us (<rse@sheffield.ac.uk>) to arrange a [scoping meeting](/collaboration/provision).
 
-* code optimisation and performance
-* reproducibility and embedding good software engineering practice with your project or team
-* GPU computing and Deep Learning
-* statistical analysis and data visualisation
-* High Performance Computing for local/national/international/cloud systems
-* general software development
-* development of impact case studies
-* consultancy
-* training
-* education delivery and support
-
-Our list of specialist expertise is constantly changing and improving so
-please [contact us](/contact) if you are unsure if we can support your research software needs or read more on [what we do](./activities).
-   
 ### Why work with the RSE Team
 
 The RSE Team allows you to get dedicated help for professional software engineers.
@@ -40,7 +36,7 @@ The RSE Team is an excellent way to provide this evidence to your funders.
 ## Collaborative research software development
 
 The aim of the RSE team is to provide staff to support software engineering for research.
-This is aways done as a collaborative exercise.
+This is always done as a collaborative exercise.
 In most cases where an RSE is required, the novel research is facilitated by software and the RSE rather than the development of software being novel in its own right.
 	
 If you wish to undertake a collaborative software engineering project where the focus is on *novel software engineering research* then
