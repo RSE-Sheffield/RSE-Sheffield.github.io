@@ -5,7 +5,7 @@ slug: costing
 type: text
 ---
 
-RSE time is typically funded via internal or external grants, not through overheads.
+RSE time is typically funded via internal or external grants, not through overheads. Most UKRI funders are aware of the role of RSEs and actively encourage their deployment on grants.
 
 ## RSE costing (grant-funded)
 

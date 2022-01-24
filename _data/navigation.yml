@@ -1,13 +1,13 @@
 - title: Work With RSEs
   subitems:
-    - title: Collaborative Projects
+    - title: Why work with us?
       url: /collaboration/
-    - title: Operational Model
-      url: /collaboration/provision/
-    - title: Costing
+    - title: How to work with us
+      url: /collaboration/provision/  
+    - title: What We Do
+      url: /collaboration/activities        
+    - title: Costing RSE time
       url: /collaboration/costing
-    - title: What we do
-      url: /collaboration/activities
     - title: Projects
       url: /collaboration/projects
     - title: Testimonials
