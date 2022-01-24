@@ -1,11 +1,11 @@
 ---
 title: Testimonials
-permalink: /service/testimonials/
+permalink: /collaboration/testimonials/
 slug: index
 type: text
 ---
 
-Once you've seen [What we do](/service/activities/), you might wonder how well we do it. Here is a selection of testimonials from academics we have collaborated with
+Once you've seen [What we do](/collaboration/activities/), you might wonder how well we do it. Here is a selection of testimonials from academics we have collaborated with
 
 GPU Computing
 -------------

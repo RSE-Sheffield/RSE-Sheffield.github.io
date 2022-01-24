@@ -1,15 +1,15 @@
-- title: RSE Service
+- title: Work with us
   subitems:
-    - title: RSE Service Overview
-      url: /service/
-    - title: Service Model Provision
-      url: /service/provision/
+    - title: RSE Collaborations Overview
+      url: /collaboration/
+    - title: Operational Model
+      url: /collaboration/provision/
     - title: What we do
-      url: /service/activities
+      url: /collaboration/activities
     - title: Projects
-      url: /service/projects
+      url: /collaboration/projects
     - title: Testimonials
-      url: /service/testimonials
+      url: /collaboration/testimonials
 - title: "Training"
   subitems:
     - title: Training Statement

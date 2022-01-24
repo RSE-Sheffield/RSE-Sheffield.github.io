@@ -1,6 +1,6 @@
 ---
 title: Research Software Engineering Sheffield - what we do
-permalink: /service/activities/
+permalink: /collaboration/activities/
 slug: index
 type: text
 ---

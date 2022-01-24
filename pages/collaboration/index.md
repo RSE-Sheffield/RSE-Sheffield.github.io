@@ -1,13 +1,13 @@
 ---
 title: RSE Service
-permalink: /service/
+permalink: /collaboration/
 slug: index
 type: text
 ---
 
 The RSE team aims to collaborate with you to help improve your research software.
 We can provide dedicated staff to ensure that you can deliver excellent research software engineering on your research projects
-(see [example projects](/service/projects/) and [testimonials](/service/testimonials/)).
+(see [example projects](/collaboration/projects/) and [testimonials](/collaboration/testimonials/)).
 Supporting the entire University,
 we have collaborators in every faculty
 and have supported researchers in a range of subject areas including

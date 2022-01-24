@@ -1,6 +1,6 @@
 ---
 title: RSE Service Provision
-permalink: /service/provision/
+permalink: /collaboration/provision/
 slug: index
 type: text
 ---
