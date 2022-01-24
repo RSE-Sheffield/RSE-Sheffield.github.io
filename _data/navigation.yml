@@ -1,6 +1,6 @@
-- title: Work with us
+- title: Work With RSEs
   subitems:
-    - title: RSE Collaborations Overview
+    - title: Collaborative Projects
       url: /collaboration/
     - title: Operational Model
       url: /collaboration/provision/
@@ -22,7 +22,7 @@
       url: /support/code-clinic
     - title: Deep Learning
       url: /training/deeplearning
-- title: RSE Community
+- title: Our Community
   subitems:
     - title: Overview
       url: /community
