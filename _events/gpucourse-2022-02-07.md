@@ -16,7 +16,7 @@ Starting this term (Feb) is a 12 week course on "Parallel Computing with GPUs". 
 
 The first 3 weeks are focused on teaching C and OpenMP followed by GPU programming with CUDA C. Lectures are provided as pre-recorded mini lectures and there are 2 hours of scheduled support per week to undertake practical lab classes. Assessment is not required for DDP or staff participants. You can attend all or just parts of the course.
 
-If you are interested in enrolling as staff or a PhD student then please express you interest on the following google form: bit.ly/GPU2022
+If you are interested in enrolling as staff or a PhD student then please express you interest on the following google form: [bit.ly/GPU2022](bit.ly/GPU2022)
 
 If you are interested in joining after the start of week one then please contact [Paul Richmond](https://paulrichmond.shef.ac.uk/) directly.
 
