@@ -1,15 +1,17 @@
-- title: RSE Service
+- title: Collaborate
   subitems:
-    - title: RSE Service Overview
-      url: /service/
-    - title: Service Model Provision
-      url: /service/provision/
-    - title: What we do
-      url: /service/activities
+    - title: Why work with us?
+      url: /collaboration/
+    - title: How to work with us
+      url: /collaboration/provision/  
+    - title: What We Do
+      url: /collaboration/activities        
+    - title: Costing RSE time
+      url: /collaboration/costing
     - title: Projects
-      url: /service/projects
+      url: /collaboration/projects
     - title: Testimonials
-      url: /service/testimonials
+      url: /collaboration/testimonials
 - title: "Training"
   subitems:
     - title: Training Statement
@@ -22,7 +24,7 @@
       url: /support/code-clinic
     - title: Deep Learning
       url: /training/deeplearning
-- title: RSE Community
+- title: Our Community
   subitems:
     - title: Overview
       url: /community

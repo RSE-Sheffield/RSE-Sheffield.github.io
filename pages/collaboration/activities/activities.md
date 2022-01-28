@@ -1,6 +1,6 @@
 ---
 title: Research Software Engineering Sheffield - what we do
-permalink: /service/activities/
+permalink: /collaboration/activities/
 slug: index
 type: text
 ---
@@ -118,3 +118,21 @@ The group is involved in a range of training and outreach activities
 including Code Cafe, Software Carpentry and a full module in [Parallel
 computing with
 GPUs](<http://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level4/com4521.html>).
+
+## Expertise
+
+Areas of expertise within the team include:
+
+* code optimisation and performance
+* reproducibility and embedding good software engineering practice with your project or team
+* GPU computing and Deep Learning
+* statistical analysis and data visualisation
+* High Performance Computing for local/national/international/cloud systems
+* general software development
+* development of impact case studies
+* consultancy
+* training
+* education delivery and support
+
+Our list of specialist expertise is constantly changing and improving so
+please [contact us](/contact) if you are unsure if we can support your research software needs or read more on [what we do](./activities).

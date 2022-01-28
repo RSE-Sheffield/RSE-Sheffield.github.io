@@ -1,6 +1,6 @@
 ---
 title: Projects
-permalink: /service/projects/
+permalink: /collaboration/projects/
 slug: projects
 type: text
 ---
