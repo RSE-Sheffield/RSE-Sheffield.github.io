@@ -22,7 +22,7 @@ We also have a [Google Jam Board](https://jamboard.google.com/d/1KTbvVzwqINY-qMf
 
 The Atlas collaboration had to migrate its production software to run in a multi threaded environment. This necessitated a significant refactoring of the relevant code base. This effort would be practically impossible without employing gitlab, code review , unit test, integration tests inside the git pipeline, and regular larger scale tests continuously stressing the code base. The talk will attempt to describe how these are used inside the ATLAS collaboration and how they helped to achieve migrating to code base to successfully run in MT.
 
-## A new era of computing at the Large Hadron Collider (Title TBC)
+## A new era of computing at the Large Hadron Collider
 
 **Mark C Hodgkinson**
 
