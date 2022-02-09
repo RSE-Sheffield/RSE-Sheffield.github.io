@@ -54,12 +54,12 @@ More details about the event are available [on our website](https://rse.shef.ac.
 
 
 #### LunchBytes needs YOU!
-LucnBytes are organised by and for the research software community at The University of Sheffield. If you'd like to curate a session on a topic or present someting, get in touch by emailing [lunchbytes-organisers-group@sheffield.ac.uk](mailto:lunchbytes-organisers-group@sheffield.ac.uk) - Or suggest topics [on the jamboard](https://jamboard.google.com/d/1-51cRf0pwZl8O10CnLeJGAqKcnbww-QGaYjszFK-H38/)
+LunchBytes are organised by and for the research software community at The University of Sheffield. If you'd like to curate a session on a topic or present something, get in touch by emailing [lunchbytes-organisers-group@sheffield.ac.uk](mailto:lunchbytes-organisers-group@sheffield.ac.uk) - Or suggest topics [on the jamboard](https://jamboard.google.com/d/1-51cRf0pwZl8O10CnLeJGAqKcnbww-QGaYjszFK-H38/)
 
 
 ### News
 
-* [Software Sustainability  Institute Fellows 2022 Announced](https://www.software.ac.uk/news/announcing-2022-software-sustainability-institute-fellows) - Among this year's cohort is Sheffield RSE Team member, Dr David Wilby. During his fellowship, David will be developing guidance and training resources around best practices for sustainable research software development in MATLAB, watch this space!
+* [Software Sustainability Institute Fellows 2022 Announced](https://www.software.ac.uk/news/announcing-2022-software-sustainability-institute-fellows) - Among this year's cohort is Sheffield RSE Team member, Dr David Wilby. During his fellowship, David will be developing guidance and training resources around best practices for sustainable research software development in MATLAB, watch this space!
 
 * [Enabling Access to UK Environmental Data](https://research-it.manchester.ac.uk/news/2022/02/01/enabling-access-uk-environmental-data/) - University of Manchester Research IT is to a play a major role in a £7 million project, led by The University of Manchester, to provide easy access to an extensive range of the UK’s environmental data.
 
@@ -71,7 +71,7 @@ LucnBytes are organised by and for the research software community at The Univer
 
   * We invite authors who would like feedback on the reproducibility of computationally intensive research to submit details of their paper, code and data for reproduction and review. You can submit your paper on the ReproHack Hub. To ensure your paper is associated with this event, please make sure to select the event on the form during submission. If you would like to make your work available for future HPC ReproHacks, we recommend including an HPC tag. Please see our [Author Guidelines](https://www.reprohack.org/author_guidelines) for more information.
 
-* [French government has awarded Open Science prizes for research software](https://www.enseignementsup-recherche.gouv.fr/fr/remise-des-prix-science-ouverte-du-logiciel-libre-de-la-recherche-83576) (en Français)
+* [French government has awarded Open Science prizes for research software](https://www.enseignementsup-recherche.gouv.fr/fr/remise-des-prix-science-ouverte-du-logiciel-libre-de-la-recherche-83576) (en Français) - Top prizes were awarded to: [Coq (Scientific and Technical Category)](https://coq.inria.fr/), [Scikit-learn (Community)](https://scikit-learn.org/), [Faust](https://faust.grame.fr/), and [Gammapy (Jury Prize)](https://gammapy.org/).
 
 
 ### Featured Software
@@ -84,7 +84,7 @@ This removes the immediate connection between human emotions and version numbers
 
 ### Events
 
-* [UK National GPU Hackathon 2022, 28th February and 7-9th March](https://www.gpuhackathons.org/event/uk-national-gpu-hackathon-2022) - There's still time to register for the 2022 GPU Hackathon. Team up with experienced GPU mentors to learn and apply accelerated and parallel computing to your project. **Application deadline is on 10th of January.**  
+* [UK National GPU Hackathon 2022, 28th February and 7-9th March](https://www.gpuhackathons.org/event/uk-national-gpu-hackathon-2022) - Team up with experienced GPU mentors to learn and apply accelerated and parallel computing to your project. **Application deadline has passed.**  
 
 * [N8CIR Digital Research Infrastructure Retreat 28th March - 1st April](https://n8cir.org.uk/news/dri-retreat/) - N8 CIR is hosting a five-day retreat to support the development of soft skills amongst the research computing support community.
 
@@ -115,23 +115,23 @@ This removes the immediate connection between human emotions and version numbers
 
 ### Opportunities
 
-* [PhD in GPU computing at CERN - see link for details](https://docs.google.com/document/d/1tq21-XzqbrG_nMpWDxisXLAAzIeE0AQ46Y5mE5othPI)
+* [PhD in GPU computing at CERN - see link for details](https://docs.google.com/document/d/1tq21-XzqbrG_nMpWDxisXLAAzIeE0AQ46Y5mE5othPI) - deadline 21st March
 
-* [Research Data Scientist/Research Software Engineer @ The Alan Turing Institute](https://cezanneondemand.intervieweb.it/turing/jobs/research_data_scientistresearch_software_engineer_20259/en/)
+* [Research Data Scientist/Research Software Engineer @ The Alan Turing Institute](https://cezanneondemand.intervieweb.it/turing/jobs/research_data_scientistresearch_software_engineer_20259/en/) - rolling hire.
 
-* [RSE @ Cardiff](https://krb-sjobs.brassring.com/TGnewUI/Search/Home/HomeWithPreLoad?partnerid=30011&siteid=5460&PageType=searchResults&SearchType=linkquery&LinkID=6#jobDetails=1919917_5460)
+* [RSE @ Cardiff](https://krb-sjobs.brassring.com/TGnewUI/Search/Home/HomeWithPreLoad?partnerid=30011&siteid=5460&PageType=searchResults&SearchType=linkquery&LinkID=6#jobDetails=1919917_5460) - closing date 18th Feb
 
-* [Research IT Infrastructure Analyst @ Manchester](https://www.jobs.manchester.ac.uk/displayjob.aspx?jobid=21611)
+* [Research IT Infrastructure Analyst @ Manchester](https://www.jobs.manchester.ac.uk/displayjob.aspx?jobid=21611) - closing date 14th Feb (next week!)
 
 * [HPC Solution Area Specialist @ Microsoft](https://careers.microsoft.com/us/en/job/1239668/EMEA-GBB-HPC-Solution-Area-Specialist)
 
-* [Senior RSE @ Imperial](https://www.imperial.ac.uk/jobs/description/FOG00559/senior-research-software-engineer)
+* [Senior RSE @ Imperial](https://www.imperial.ac.uk/jobs/description/FOG00559/senior-research-software-engineer) - closing date 21st Feb
 
-* [Head of RSE @ Exeter](https://jobs.exeter.ac.uk/hrpr_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID=307457YUr1&WVID=3817591jNg&LANG=USA)
+* [Head of RSE @ Exeter](https://jobs.exeter.ac.uk/hrpr_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID=307457YUr1&WVID=3817591jNg&LANG=USA) - closing date 23rd Feb
 
 * 2 Roles at UCL
-  * [Research Fellow / Senior Research Fellow in Machine Learning for Synthetic Surgical Data](https://atsv7.wcn.co.uk/search_engine/jobs.cgi?SID=amNvZGU9MTg4MjA2MiZ2dF90ZW1wbGF0ZT05NjYmb3duZXI9NTA0MTE3OCZvd25lcnR5cGU9ZmFpciZicmFuZF9pZD0wJnZhY3R5cGU9MTI3NiZwb3N0aW5nX2NvZGU9MjI0)
-  * [Research Fellow / Senior Research Fellow in Software for Synthetic Surgical Data](https://atsv7.wcn.co.uk/search_engine/jobs.cgi?SID=amNvZGU9MTg4MjA2NyZ2dF90ZW1wbGF0ZT05NjYmb3duZXI9NTA0MTE3OCZvd25lcnR5cGU9ZmFpciZicmFuZF9pZD0wJnZhY3R5cGU9MTI3NiZwb3N0aW5nX2NvZGU9MjI0)
+  * [Research Fellow / Senior Research Fellow in Machine Learning for Synthetic Surgical Data](https://atsv7.wcn.co.uk/search_engine/jobs.cgi?SID=amNvZGU9MTg4MjA2MiZ2dF90ZW1wbGF0ZT05NjYmb3duZXI9NTA0MTE3OCZvd25lcnR5cGU9ZmFpciZicmFuZF9pZD0wJnZhY3R5cGU9MTI3NiZwb3N0aW5nX2NvZGU9MjI0) - closing date 6th Mar
+  * [Research Fellow / Senior Research Fellow in Software for Synthetic Surgical Data](https://atsv7.wcn.co.uk/search_engine/jobs.cgi?SID=amNvZGU9MTg4MjA2NyZ2dF90ZW1wbGF0ZT05NjYmb3duZXI9NTA0MTE3OCZvd25lcnR5cGU9ZmFpciZicmFuZF9pZD0wJnZhY3R5cGU9MTI3NiZwb3N0aW5nX2NvZGU9MjI0) - closing date 6th Mar
 
 Many of these opportunities are shared in the [UKRSE slack channel](https://ukrse.slack.com) run by the [Society of Research Software Engineering](https://society-rse.org/) - join to get the latest news and discussions in the RSE community in the UK and globally.
 
