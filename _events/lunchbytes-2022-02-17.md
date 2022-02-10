@@ -19,6 +19,9 @@ A High Performance Computing (HPC) Cluster is a network of computers with a lot 
 Sheffield, we offer access to many HPC systems locally and externally which are free at point of use to all researchers 
 and academics.
 
+This session will take place on [Google Meet](https://meet.google.com/uzu-jfvm-fqv) and participants can join 15 minutes before the start of the session.
+
+We also have a [Google Jam Board](https://jamboard.google.com/d/1DYU0QM5RdJF5c-jtsRqwKQM8cAMgiUVvt_4_d9_aBNw/edit?usp=sharing) where you can note down any questions or comments before or during the event.
 
 **HPC at Sheffield and Beyond: Overview**
 
