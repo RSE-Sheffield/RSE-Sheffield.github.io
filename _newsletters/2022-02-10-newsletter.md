@@ -11,11 +11,11 @@ description:
 type: text
 ---
 
-## University of Sheffield Research Software Engineering Team Newsletter December 2021
+## The University of Sheffield Research Software Engineering Community Newsletter February 2022
 
 Hi everyone!
 
-Welcome to the monthly newsletter from the [Research Software Engineering Team](https://rse.shef.ac.uk/) at The University of Sheffield.
+Welcome to the monthly newsletter for the [Research Software Engineering Community](https://rse.shef.ac.uk/) at The University of Sheffield.
 
 
 ### Code Clinics
@@ -76,7 +76,6 @@ LunchBytes are organised by and for the research software community at The Unive
 
 ### Featured Software
 
-#### Semantic Release
 [**semantic-release**](https://github.com/semantic-release/semantic-release) automates the whole package release workflow including: determining the next version number, generating the release notes, and publishing the package.
 
 This removes the immediate connection between human emotions and version numbers, strictly following the Semantic Versioning specification and communicating the impact of changes to consumers.
@@ -138,10 +137,10 @@ Many of these opportunities are shared in the [UKRSE slack channel](https://ukrs
 
 ## Sheffield RSE Team
 
-The RSE Sheffield team aims to collaborate with you to help improve your research software.
-We can provide dedicated staff to ensure that you can deliver excellent research software engineering on your research projects.
+The Sheffield RSE team aims to collaborate with you to help improve your research software.
+They can provide dedicated staff to ensure that you can deliver excellent research software engineering on your research projects.
 
-The RSE Sheffield team provides free [Code Clinics][CCs] (in collaboration with [IT Services][its-res-it]), plus
+The Sheffield RSE team provides free [Code Clinics][CCs] (in collaboration with [IT Services][its-res-it]), plus
 [paid services][rse-service] that allow us to collaborate longer term.
 
 [CCs]: https://rse.shef.ac.uk/support/code-clinic/
