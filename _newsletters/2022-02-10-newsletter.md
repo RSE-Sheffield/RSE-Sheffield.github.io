@@ -19,7 +19,7 @@ Welcome to the monthly newsletter for the [Research Software Engineering Communi
 
 
 ### Code Clinics
-Code Clinics are fortnightly support sessions run on alternate Wednesdays by the RSE team and IT Services’ Research and Innovation IT (ITS R&I) team. They are open to anyone at TUOS writing code for research to get help with programming problems and general advice on best practice.
+Code Clinics are fortnightly support sessions run on alternate Wednesdays by the RSE Team and IT Services’ Research and Innovation IT (ITS R&I) team. They are open to anyone at TUOS writing code for research to get help with programming problems and general advice on best practice.
 
 At each session, members of the RSE and/or ITS R&I teams will be available to review code, advise, troubleshoot and suggest ways to improve your computational workflows.
 
@@ -137,10 +137,10 @@ Many of these opportunities are shared in the [UKRSE slack channel](https://ukrs
 
 ## Sheffield RSE Team
 
-The Sheffield RSE team aims to collaborate with you to help improve your research software.
+The Sheffield RSE Team aims to collaborate with you to help improve your research software.
 They can provide dedicated staff to ensure that you can deliver excellent research software engineering on your research projects.
 
-The Sheffield RSE team provides free [Code Clinics][CCs] (in collaboration with [IT Services][its-res-it]), plus
+The Sheffield RSE Team provides free [Code Clinics][CCs] (in collaboration with [IT Services][its-res-it]), plus
 [paid services][rse-service] that allow us to collaborate longer term.
 
 [CCs]: https://rse.shef.ac.uk/support/code-clinic/
