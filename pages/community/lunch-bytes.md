@@ -45,6 +45,7 @@ Each LunchBytes session is recorded and uploaded to the [University of Sheffield
 * [Jupyter Notebooks - pros and cons](https://digitalmedia.sheffield.ac.uk/media/lunchBytes+2+-+Jupyter+Notebooks+-+pros+and+cons/1_3qv4p0mw/181886171)
 * [Beyond Static Data Visualisation](https://digitalmedia.sheffield.ac.uk/media/Lunchbytes+4A+Beyond+Static+Data+Viz/1_847riyp6/181886171)
 * [Making GPU Programming More Portable](https://digitalmedia.sheffield.ac.uk/media/Lunch+bytes+5+Making+GPU+Programming+More+Portable/1_lldycy2n/181886171)
+* [High Performance Computing (HPC) at Sheffield and Beyond](https://digitalmedia.sheffield.ac.uk/media/LunchBytesA+High+Performance+Computing+%28HPC%29+at+Sheffield+and+Beyond/1_yqkgcmh2)
 
 <!-- TODO: more info on what constitutes a good talk; CoC.
 
