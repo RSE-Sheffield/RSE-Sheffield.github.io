@@ -64,7 +64,7 @@ Filter: <a class="filter-link selected" href="">All</a> &middot; <a class="filte
             <br/>
             RSEs involved: <em>{{project.rses}}</em>
             <br/>
-            Commercial partner involved: <em>{{project.commercial_partner}}</em>
+            All or part funded by an external partner: <em>{{project.commercial_partner_funding}}</em>
             <br/>
             Software licences used: <em>{{project.licences}}</em>
             <hr/>
