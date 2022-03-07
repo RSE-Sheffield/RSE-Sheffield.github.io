@@ -12,7 +12,7 @@ image:
 slides_url:
 ---
 
-This session will take place on [Google Meet](meet.google.com/unb-cjmh-sus) and participants can join 15 minutes before the start of the session.
+This session will take place on [Google Meet](https://meet.google.com/unb-cjmh-sus) and participants can join 15 minutes before the start of the session.
 
 We also have a [Google Jam Board](https://jamboard.google.com/d/1KTbvVzwqINY-qMfNAmiUUs8QTPSJogdatDO3MEB-djU) where you can note down any questions or comments before or during the event.
 
