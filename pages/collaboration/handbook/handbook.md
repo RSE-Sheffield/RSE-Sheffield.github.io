@@ -149,7 +149,7 @@ As a starting point, we recommend:
 We encourage the use of instant messaging (for quick discussions) or slack for throwaway conversation. As a general rule we suggest that you should not expect or require anyone to read messages on an instant messaging service (e.g slack, google chat, etc) unless they are specifically tagged (either individually or via a channel). We also need decisions to always be recorded. Notes or decision making around particular development tasks should always be recorded in an agreed location (e.g. GitHub Issues, or a Google Drive folder) rather than via email history.
 
 
-### Issues & Project Boards {#issues-&-project-boards}
+### Issues and Project Boards {#issues-and-project-boards}
 
 GitHub and GitLab, alongside acting as an online hosting platform for code, also provide a useful set of project management tools. Other cloud based tools such as Jira also provide project management but without close coupling to Issues.
 
