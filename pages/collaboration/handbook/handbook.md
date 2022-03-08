@@ -29,7 +29,7 @@ Before work begins, it is likely that we will need to inspect existing materials
 
 ### Code {#code}
 
-The RSE team delivers code according to best practises using a collaborative version control system (preferably GitHub, but equivalent tools such as GitLab or Bitbucket can be used for established projects). At the outset of the project initial code can be provided on a secure shared resource like Google Drive however we would expect to migrate this to version control to make any changes. The RSE team can help you to do this. If you already use version control and have a private repository, you will need to add the allocated RSE as a collaborator.
+The RSE team delivers code according to best practices using a collaborative version control system (preferably GitHub, but equivalent tools such as GitLab or Bitbucket can be used for established projects). At the outset of the project initial code can be provided on a secure shared resource like Google Drive however we would expect to migrate this to version control to make any changes. The RSE team can help you to do this. If you already use version control and have a private repository, you will need to add the allocated RSE as a collaborator.
 
 
 ### Data {#data}
