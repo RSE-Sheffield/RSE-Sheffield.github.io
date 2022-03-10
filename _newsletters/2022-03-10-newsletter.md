@@ -2,8 +2,8 @@
 layout: post
 title: March 2022 Newsletter
 editor: Robert "Bob" Turner
-slug: 2022-02-10-newsletter
-date: 2022-02-10T16:00:00Z+0100
+slug: 2022-03-10-newsletter
+date: 2022-03-10T16:00:00Z+0100
 tags:
 category:
 link:
@@ -85,7 +85,7 @@ LunchBytes are organised by and for the research software community at The Unive
 
 ### Events
  
-* [N8CIR Digital Research Infrastructure Retreat 28th March - 1st April](https://n8cir.org.uk/news/dri-retreat/) - N8 CIR is hosting a five-day retreat to support the development of soft skills amongst the research computing support community.
+* [N8CIR Digital Research Infrastructure Retreat 28th March - 1st April](https://n8cir.org.uk/news/dri-retreat/) - N8 CIR is hosting a five-day retreat to support the development of soft skills amongst the research computing support community. [Register here](https://www.eventbrite.co.uk/e/dri-retreat-tickets-272844393927) by 
 
 * [SSI Collaborations Workshop 2022, 4-7th April](https://software.ac.uk/cw22) - The Software Sustainability Institute’s Collaborations Workshop series brings together researchers, developers, innovators, managers, funders, publishers, policy makers, leaders and educators to explore best practices and the future of research software.
 
