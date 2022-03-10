@@ -67,7 +67,7 @@ LunchBytes are organised by and for the research software community at The Unive
 
 ### From the Web
 
-* **Map animations with ffmpeg** "Want to make animated map things - or animate any kind of image sequence? Well you might want to check out my ['ffmpeg for beginners' tutorial](http://www.statsmapsnpix.com/2021/12/map-animations-with-ffmpeg.html), which has loads of example image sequences in the tutorial folder, including this wiggly line one."
+* ['ffmpeg for beginners' tutorial](http://www.statsmapsnpix.com/2021/12/map-animations-with-ffmpeg.html) Tutorial on making "animated map things".
   
 * Free book [Scientific Visualization: Python + Matplotlib](https://github.com/rougier/scientific-visualization-book) An open access book on scientific visualization using python and matplotlib
 
