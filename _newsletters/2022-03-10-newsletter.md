@@ -34,7 +34,7 @@ Why not come to a [Code Clinic](https://docs.google.com/forms/d/e/1FAIpQLScGXS55
 * Putting code onto GitHub.
 * Changing IDE (e.g. vscode to pycharm).
 
-I think Code Clinics are good for those sorts of problems I can't frame as a Google search as they're just a bit to complex, or I don't know the right terms!
+I think Code Clinics are good for the types of problems I can't frame as a Google search as they're just a bit to complex, or I don't know the right terms!
 
 ### 10 years of RSE
 
