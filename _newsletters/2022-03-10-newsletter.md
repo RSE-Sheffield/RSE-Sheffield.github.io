@@ -85,7 +85,7 @@ LunchBytes are organised by and for the research software community at The Unive
 
 ### Events
  
-* [N8CIR Digital Research Infrastructure Retreat 28th March - 1st April](https://n8cir.org.uk/news/dri-retreat/) - N8 CIR is hosting a five-day retreat to support the development of soft skills amongst the research computing support community. [Register here](https://www.eventbrite.co.uk/e/dri-retreat-tickets-272844393927) by 
+* [N8CIR Digital Research Infrastructure Retreat 28th March - 1st April](https://n8cir.org.uk/news/dri-retreat/) - N8 CIR is hosting a five-day retreat to support the development of soft skills amongst the research computing support community. The deadline for registration for in-person attendance is Thursday 17 March, with remote registration closing on Thursday 24 March. Register now at [https://n8cir.org.uk/dri-retreat/](https://n8cir.org.uk/dri-retreat/).
 
 * [SSI Collaborations Workshop 2022, 4-7th April](https://software.ac.uk/cw22) - The Software Sustainability Institute’s Collaborations Workshop series brings together researchers, developers, innovators, managers, funders, publishers, policy makers, leaders and educators to explore best practices and the future of research software.
 
