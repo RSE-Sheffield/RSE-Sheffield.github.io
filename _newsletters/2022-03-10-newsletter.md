@@ -78,7 +78,7 @@ LunchBytes are organised by and for the research software community at The Unive
 
 * [Investigate high-priority use cases for exascale software: phase two](https://www.ukri.org/opportunity/investigate-high-priority-use-cases-for-exascale-software-phase-two/) Apply for funding to investigate high priority use cases for future supercomputers.
 
-* [Unleash Your Data and Software](https://www.sheffield.ac.uk/library/rdm/unleashdatasoftware) Research students and staff at The University of Sheffield can now apply for an award of up to £5000 to make their research data or software more visible and reusable.
+* [Unleash Your Data and Software](https://www.sheffield.ac.uk/library/rdm/unleashdatasoftware) Research students and staff at The University of Sheffield can now apply for an award of up to £5000 to make their research data or software more visible and reusable. **Deadline 30th March.**
 
 * [Essential Open Source Software for Science (Cycle 5)](https://chanzuckerberg.com/rfa/essential-open-source-software-for-science/) The Chan Zuckerberg Initiative invites applications in support of open source software projects that are essential to biomedical research.
 
