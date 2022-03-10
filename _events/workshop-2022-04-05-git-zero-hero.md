@@ -3,12 +3,14 @@ title: "git & GitHub through GitKraken - from Zero to Hero!"
 category: training
 tags: collaboration, git, github, gitkraken
 permalink: /training/workshop/2022-04-05-git-zero-hero
-date: 2022-04-05
+date: 2022-04-12
 from: "10:00"
 to: "16:30"
 location: "Online"
 speaker: "RSE Team"
 ---
+
+** Please note that this workshop was originally scheduled for 5th April 2022 and has been rescheduled to 12th April**
 
 ## How can we effectively work together on the same code?
 
