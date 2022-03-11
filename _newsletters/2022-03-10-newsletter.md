@@ -34,9 +34,6 @@ Why not come to a [Code Clinic](https://docs.google.com/forms/d/e/1FAIpQLScGXS55
 
 I think Code Clinics are good for the types of problems I can't frame as a Google search as they're just a bit to complex, or I don't know the right terms!
 
-### 10 years of RSE
-
-This year is the 10 year anniversary of the coining of the term "Research Software Engineer" and the RSE Society are [collecting people's thoughts and feelings on this](https://docs.google.com/forms/d/e/1FAIpQLScwtACUXqYHmFGVKITliMvIvNRURjjH64Ry4_Te2V2js8Puog/viewform). Do share!
 
 ### LunchBytes
 
