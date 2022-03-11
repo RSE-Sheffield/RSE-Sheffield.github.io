@@ -2,8 +2,8 @@
 layout: post
 title: March 2022 Newsletter
 editor: Robert "Bob" Turner
-slug: 2022-03-10-newsletter
-date: 2022-03-10T16:00:00Z+0100
+slug: 2022-03-11-newsletter
+date: 2022-03-11T16:00:00Z+0100
 tags:
 category:
 link:
