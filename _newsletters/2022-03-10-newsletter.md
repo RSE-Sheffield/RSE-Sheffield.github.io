@@ -19,8 +19,6 @@ Welcome to the monthly newsletter for the [Research Software Engineering Communi
 
 Some sad news for the team - Anna Krystalli, who has been with us since the start, is going to be leaving in mid-April. Anna's contribution to the university has been huge, particularly through the development and delivery of training which creates a legacy of reproducible, open research, and through sharing and using her deep knowledge of `R`. 
 
-Anna will be in the Red Deer with us for drinks from 5pm on *!REDACTED!* (*it's been wisely pointed out that me inviting 369 people to the Red Deer via this mailing list may cause problems, so drop Anna a line for the date*), should you wish to join.
-
 Happier news: We'll have a new team member joining us at the beginning of April, more details to follow. And we plan to recruit another team member in the next few months to partially replace Anna's `R` skills.
 
 ### Come to a Code Clinic
