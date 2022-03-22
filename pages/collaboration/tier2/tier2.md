@@ -61,7 +61,7 @@ Your application will be assessed on the following criteria;
 
 ## Application Process
 
-You should apply via the provided expression of interest google form below. This is an open call but applications will be reviewed in batches every 6 months. **The closing date for the next (first) round of reviews is Friday 22/04/2022 at 17:00. ** Applications received after this date will be reviewed in the next round of applications. Dates for future rounds will be announced on this page.
+You should apply via the provided expression of interest google form below. This is an open call but applications will be reviewed in batches every 6 months. **The closing date for the next (first) round of reviews is Friday 22/04/2022 at 17:00**. Applications received after this date will be reviewed in the next round of applications. Dates for future rounds will be announced on this page.
 
 [https://bit.ly/Tier2support](https://bit.ly/Tier2support) 
 
