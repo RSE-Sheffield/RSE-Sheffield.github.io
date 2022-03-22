@@ -49,7 +49,7 @@ Applications should not be submitted for short pieces of consultancy work which 
 If you are unsure about eligibility of scope then please contact [rse@sheffield.ac.uk](mailto:rse@sheffield.ac.uk) or book a code clinic session to discuss your project ideas.
 
 
-## How Your Application will be Assessed (PR)
+## How Your Application will be Assessed
 
 Your application will be assessed on the following criteria;
 
