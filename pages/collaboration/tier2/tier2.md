@@ -65,6 +65,6 @@ You should apply via the provided expression of interest google form below. This
 
 [https://bit.ly/Tier2support](https://bit.ly/Tier2support) 
 
-On receiving a completed application form we will contact you to arrange a short (less than 30m) online consultation to gather any additional technical information required to understand your project. The application form is purposefully short to ensure that we can discuss your requirements rather than expect you to provide all of these in the written application. 
+On receiving a completed application form we will contact you to arrange a short (less than 30 minutes) online consultation to gather any additional technical information required to understand your project. The application form is purposefully short to ensure that we can discuss your requirements rather than expect you to provide all of these in the written application. 
 
 After review the projects will be ranked and estimates given as to when RSE time can be allocated. At the conclusion of your project a brief post-project report will be required.
