@@ -3,7 +3,9 @@
     - title: Why work with us?
       url: /collaboration/
     - title: How to work with us
-      url: /collaboration/provision/  
+      url: /collaboration/provision/ 
+    - title: Collaboration Guide
+      url: /collaboration/guide/ 
     - title: What We Do
       url: /collaboration/activities        
     - title: Costing RSE time
