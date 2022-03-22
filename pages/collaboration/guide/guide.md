@@ -1,6 +1,6 @@
 ---
-title: RSE Handbook (RSE Working Practice)
-permalink: /collaboration/handbook/
+title: RSE Collaboration Guide (RSE Working Practice)
+permalink: /collaboration/guide/
 slug: index
 type: text
 ---
@@ -100,7 +100,7 @@ Checklist for kick-off meetings:
 1.  Meeting cadence
 2.  Personnel, their roles and fractional allocation/working times
 3.  Primary contact for setting development priorities
-4.  Agree access and technologies to work with code & data 
+4.  Agree access and technologies to work with code and data 
 5.  Issue tracking and communication
 6.  Where project information will be kept (e.g. GitHub, Google Drive)
 7.  Project scope, duration, priorities, milestones
