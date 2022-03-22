@@ -68,29 +68,3 @@ You should apply via the provided expression of interest google form below. This
 On receiving a completed application form we will contact you to arrange a short (less than 30m) online consultation to gather any additional technical information required to understand your project. The application form is purposefully short to ensure that we can discuss your requirements rather than expect you to provide all of these in the written application. 
 
 After review the projects will be ranked and estimates given as to when RSE time can be allocated. At the conclusion of your project a brief post-project report will be required.
-
-
-# Detail to Capture and Internal Notes
-
-We should consider automating a google form to populate a github issue in a private repo. Reviewing can be done via a continuous cycle and we should have a Github project board with issues so that it is clear how they are prioritised and what is being worked on. 
-
-
-## Google Form
-
-
-## Designed to capture basic project details. Purposefully lightweight to encourage applications to progress to the discussion stage.
-
-* **Applicant Name**
-* **PI Name** if different from above
-* Checkbox “If I am a postdoctoral researcher or postdoc with less than one year on my contract I have discussed and sought approval for this application with my line manager.”
-* **Project Short Title**
-* **Application theme**
-* **Amount of funding requested**. RSE time is £386 per day. 
-* **Project plan** (200 words): This should describe what the planned activities are and any details that will assist us in assessing how suitable your plan is for making effective use of the Tier 2 systems.
-* **Impact of the project ** (200 words): How will the embedded RSE effort change your current approach to research/experimentation.
-* **Availability of Resources**  (200 words): Who will the RSE work with? What software and data do you have and where is it stored? Have you engaged in any training on version control? Do you have a data management plan?
-
-
-## Follow up Details to Capture
-
-More extensive notes on how time could be spent collaboratively with the team. The emphasis is on prioritising projects where there is collaboration and the ability to build an ongoing relationship rather than as a software writing service.
