@@ -38,7 +38,7 @@ Each of these activities is underpinned by the RSE groups ethos in good quality 
 
 ## Eligibility and What is on Offer
 
-This call is open to all research staff but with some conditions imposed by the Tier 2 facilities. Postdocs must have at least one year left on their contract (else should apply via their PI). Postdoctoral research students must have support from their supervisor.
+This call is open to all research staff but with some conditions imposed by the Tier 2 facilities. Postdocs must have at least one year left on their contract (else should apply via their PI). Doctoral research students must have support from their supervisor.
 
 This call is specifically to facilitate uptake in the use of the Tier 2 resources. Collaborative support for use of the University HPC resources (e.g. Bessemer, ShARC) is within remit providing there is an ambition to later migrate workflows to the Tier 2 systems.
 
