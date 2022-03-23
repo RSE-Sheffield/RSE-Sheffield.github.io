@@ -11,9 +11,21 @@ description:
 type: text
 ---
 
-Important bits of you repository:
+If you run a research group, you may not have time to learn much about how to use git. However, even if you don't know how to commit code, understanding how it works will help your team to get the most out of using it.
 
-Readme
+## What is `git`?
+
+`git` enables the version of the contents of a folder, known as a **repository** to be tracked, and for that repository to be synchronised over multiple computers. But what is it? Fundamentally, it is software. But you can interact with a `git` repository using lots of different software other than command-line `git` including integrated development environments like Matlab or VSCode, or GUIs like GitKraken.
+
+## What is **GitHub**?
+
+## Why is version control essential?
+
+## Why is cloud storage inadequate for software?
+
+## Important bits of you repository:
+
+### Readme
 
 This is the first thing that anyone looking at your code on GitHub will see and it needs to tell them (or signpost) several key pieces of information including: what the software is for, how to install it, run it, cite it.
 
