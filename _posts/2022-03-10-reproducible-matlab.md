@@ -21,6 +21,7 @@ During my PhD and postdoctoral research, I used MATLAB among other languages to 
 This blog post should serve as a _very_ brief introduction to some of the concepts you can use to develop a reproducible project in MATLAB. You can expect more to come throughout my fellowship, so watch this space.
 
 ## What is reproducibility?
+{:.no_toc}
 When performing some research via any method, the most basic expectation is that the results should be able to be validated somehow, otherwise how can they be trusted? The most basic version of this is that by following the same methods of the researchers who originally performed a piece of work, you should be able to get to the same conclusions. This is essentially the concept of reproducibility, research should be able to be reproduced in order to validate its conclusions.
 
 When it comes to research code, it should be relatively easy to reproduce, right? There are no complicated _experiments_ to run again, or data to collect, so it should be a given, shouldn't it?
@@ -30,9 +31,16 @@ In practice, we find that exact versions of software dependencies or the toolbox
 The goal of crafting a reproducible software project should be to produce a compendium of code, data and documentation that anyone should be able to pick up and run, generating the same results that you did initially. Reproducible software development practices are also just good practice in general, if you've followed good practice in the first place, when you come back to a project in several months' or years' time (or just on Monday morning), you should be able to make improvements, re-run the code or validate your results.
 
 ## How to write reproducible matlab?
+{:.no_toc}
 Here are some tools and concepts you can use to improve the reproducibility of your MATLAB project. Many are the same concepts you'll find recommended for most research software (and most _software_) projects, with some specific guidance on how to implement these in Matlab.
 
 <!--more-->
+
+## Contents
+{:.no_toc}
+
+* TOC
+{:toc}
 
 ### Coding Style
 Writing code that is readable should be your very first port of call for reproducibility. Not just for your colleagues and collaborators, but for yourself.
@@ -77,7 +85,7 @@ It's a great idea to version control your documentation alongside your project (
 
 Therefore, you need to write your documentation in a format that can be handled by your version control system (most likely, `git`) - e.g. as text files, and not a PDF, word document or google doc. A number of tools exist for doing this outside of Matlab, be it [read the docs](https://readthedocs.org/), [roxygen2](https://cran.r-project.org/web/packages/roxygen2/vignettes/roxygen2.html) or anoher documentation generator.
 
-Of course, you can use these tools for your MATLAB project. Your documentation is written in a raw text format such as markdown (like this blog post), or reStructuredText, MATLAB itself isn't being used to execute code in the documentation. A documentation generator will process your raw text into a nice PDF or webpage. You could even run your documentation generator just using a [continuous deployment](#continuous-integration-and-continuous-deployment) tool such as github actions and never install or run the tool on your local machine at all! :fearful:
+Of course, you can use these tools for your MATLAB project. Your documentation is written in a raw text format such as markdown (like this blog post), or reStructuredText, MATLAB itself isn't being used to execute code in the documentation. A documentation generator will process your raw text into a nice PDF or webpage. You could even run your documentation generator just using a [continuous deployment](#continuous-integration-and-continuous-deployment) tool such as github actions and never install or run the tool on your local machine at all!
 
 [See this MATLAB Answers thread](https://uk.mathworks.com/matlabcentral/answers/58438-which-tool-are-you-using-to-create-the-documentation-of-your-matlab-codes) for a few examples of documentation generators to use with MATLAB.
 
@@ -129,6 +137,22 @@ Whilst not shown here, these files can contain executable code, [see this blog a
 
 ### Version Control
 
+Version control is far more than these two words suggest, and enables a far more secure, dynamic and collaborative approach to developing code than without it. Of course, this is far more wide-ranging than just MATLAB, and as RSEs our first recommendation to researchers is to employ a version control system if they don't already. Spending time learning how to use `git`, for instance, will pay dividends.
+
+#### Which version control system? (VCS)
+At the time of writing, there is one answer to this question, namely `git`. Developed in 2006, `git` has become the _de facto_ standard VCS and for many developers is synonymous with the concept. As a researcher you may, however, come across older codebases controlled with other systems such as Subversion (SVN), but `git` is the way to go at present.
+
+#### Why use version control?
+Version control allows you to capture snapshots of your code as you develop (in `git` these are called **commits**), meaning that you can go back if you want to. Furthermore, you can create _branches_ to try out new ideas without fear of breaking your existing code - your main branch is still there! All this without making numerous copies and archives of your code. A VCS also allows you to merge one branch into another; so when you're happy with your exploratory branch, you can combine it with your main branch!
+
+Using a VCS simply for developing code on your own machine is a great idea. But online platforms such as GitHub and GitLab add a host of excellent tools to facilitate collaboration, project management and distribution of your code.
+
+#### How?
+This is the one point here in which I can not currently (March 2022, MATLAB release R2022a) recommend the version control tools provided within MATLAB and would advise alternatives. It may be that MathWorks will put out some improvements in the future, at which time I'll aim to revise this post.
+
+Far better (and free) alternatives to MATLAB exist for interacting with `git`, my current favourite is the _GitKraken Client_ - it provides a great user interface with access to most (if not all) of the major operations you're likely to want to do both with `git` and GitHub (or GitLab, BitBucket or Azure DevOps). Not to mention it has a great name. Helpfully, most of the terminology used (_pull, fetch, rebase, fork, clone_) comes from the core tools (`git` & GitHub) themselves, so anything you learn can generalise to other tools.
+
+It would be irresponsible to attempt to provide instruction on using `git` here and there are many resources to learn from, not least the courses run by RSE teams!
 
 ### Testing
 
@@ -142,7 +166,7 @@ Software licensing is perhaps too big a discussion to be a subsection of a blog 
 
 ### Collaborative Hosting/GitHub/GitLab
 
-### MATLAB `Projects`
+### MATLAB "Projects"
 Since R2019a, MATLAB has included the [`Projects` tool](https://uk.mathworks.com/help/matlab/projects.html) with the goal of improving collaboration and portability. Have you ever been sent code by a colleague and found that you can't run it at all because you're missing a bunch of dependent toolboxes and functions? This is one of the problems that `Projects` attempt to solve.
 
 By creating a `Project` and adding all the relevant files needed to run the code, you should be able to pass on the code and project file (`.prj`) to someone else; they can open the `Project` and all the right files will be added to the path, any particular actions that you specify can be run, among other actions.
