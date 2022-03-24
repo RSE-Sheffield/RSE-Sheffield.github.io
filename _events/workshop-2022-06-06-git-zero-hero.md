@@ -4,6 +4,7 @@ category: training
 tags: collaboration, git, github, gitkraken
 permalink: /training/workshop/2022-06-06-git-zero-hero
 date: 2022-06-06
+end-date: 2022-06-07
 from: "12:30"
 to: "16:30"
 location: "Online"
