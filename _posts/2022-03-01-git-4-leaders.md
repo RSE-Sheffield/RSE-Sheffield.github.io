@@ -31,7 +31,7 @@ This is the first thing that anyone looking at your code on GitHub will see and 
 
 ### Licence
 
-As far as I know, without a licence no-one can legally use or copy your code. So which one should you use? Here are a couple of example situations that have affected licensing decisions:
+As far as I know, without a licence no-one else can legally use or copy your code. So which one should you use? Here are a couple of example situations that have affected licensing decisions:
 
 * On the **splendisim** project, the PI’s view is that their UKRI funded research has been funded in part by tax on businesses and on the basis of their argument that it will benefit the economy. They wanted a licence that makes it easy for others to build megasim into their products so they chose an MIT licence.
 * On the **spiffingAI** project, the PI felt a strong sense of ownership of the code and didn’t want it to be used by &lt;insert evil corp> to help rig an election, so they opted for GPL.
