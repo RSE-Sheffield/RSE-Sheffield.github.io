@@ -122,6 +122,46 @@ The general website pages are stored in `pages/`, as Markdown or HTML files.
 
 See the [Jekyll Docs /pages/](https://jekyllrb.com/docs/pages/) for more information.
 
+### Staff Pages
+
+Staff pages contain biographies of current and alumni (previous) members of the team. There are a few key fields that
+require careful attention to when adding a new member or updating details of those who have left the team.
+
+The header of each Markdown file is written in [yaml](https://yaml.org) with intuitive and self-explanatory fields
+names.
+
+
+#### New Members
+
+When adding a new member a new Markdown file should be created under
+`RSE-Sheffield.github.io/_people/<forename>-<surname>.md` with the following example YAML header.
+
+```yaml
+---
+alumnum: false
+level: 2
+published: true
+
+othernames: <forename>
+surname: <surname>
+role: <role>
+---
+```
+
+Most fields required for the header are self-explanatory. One key field is that of `level` which should be completed
+according to the level of appointment as detailed in the table below.
+
+| Level | Description                       |
+|:-----:|:----------------------------------|
+| 0     | Head of Department                |
+| 1     | Senior Research Software Engineer |
+| 2     | Research Software Engineer        |
+| 3     | Junior Research Software Engineer |
+
+Details of alumni of the RSE team are kept and this is defined by the `alumnum` field. Whilst a member of the team this
+should be `false` and their profile will be listed under _Contact > Alumni_, but after having left the team it should
+be `true` which means their details will be listed under _Contact > Alumni_.
+
 ### Blog Posts
 
 Blog posts are located in the `_posts` directory.
