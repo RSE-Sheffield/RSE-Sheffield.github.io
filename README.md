@@ -159,7 +159,7 @@ according to the level of appointment as detailed in the table below.
 | 3     | Junior Research Software Engineer |
 
 Details of alumni of the RSE team are kept and this is defined by the `alumnum` field. Whilst a member of the team this
-should be `false` and their profile will be listed under _Contact > Alumni_, but after having left the team it should
+should be `false` and their profile will be listed under _Contact > RSE TEAM_, but after having left the team it should
 be `true` which means their details will be listed under _Contact > Alumni_.
 
 ### Blog Posts
