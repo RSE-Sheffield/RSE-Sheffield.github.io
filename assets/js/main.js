@@ -1,4 +1,6 @@
 jQuery(document).ready(function ($) {
+    // Set the dayjs locale, datetimes are all in gmt/bst
+    dayjs.locale('en')
 
     /* ======= Scrollspy ======= */
     $('body').scrollspy({ target: '#header', offset: 400 });
@@ -53,16 +55,16 @@ jQuery(document).ready(function ($) {
             displayHeaders = true;
         }
 
-        var currentTime = moment();
+        var currentTime = dayjs();
         var upcomingNotAdded = true;
         var prevNotAdded = true;
 
         //Events filtering
         eventListing.find(".event-item").each(function () {
             var eventItem = $(this);
-            var eventDate = moment(eventItem.data("date"));
+            var eventDate = dayjs(eventItem.data("date"));
 
-            if (eventDate.isSameOrAfter(currentTime)) {
+            if (eventDate.isSame(currentTime) || eventDate.isAfter(currentTime)) {
                 if (displayUpcoming) {
                     eventItem.addClass("event-item-upcoming");
                 } else {
@@ -83,9 +85,9 @@ jQuery(document).ready(function ($) {
         if (displayHeaders) {
             eventListing.find(".event-item").each(function () {
                 var eventItem = $(this);
-                var eventDate = moment(eventItem.data("date"));
+                var eventDate = dayjs(eventItem.data("date"));
 
-                if (upcomingNotAdded && eventDate.isSameOrAfter(currentTime)) {
+                if (upcomingNotAdded && (eventDate.isSame(currentTime) || eventDate.isAfter(currentTime))) {
                     $('<h2 id="upcoming">Upcoming Events</h2>').insertBefore(eventItem);
                     upcomingNotAdded = false;
 
