@@ -1,5 +1,5 @@
 ---
-title: "Deep Learning with Tensorflow in Python"
+title: "Introduction to Deep Learning with Tensorflow in Python"
 category: dltraining
 tags: deep-learning, python
 permalink: /training/workshop/2022-06-08-deep-learning-with-tensorflow-in-python
