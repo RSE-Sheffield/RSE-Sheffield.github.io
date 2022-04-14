@@ -86,3 +86,6 @@ RSE-Sheffield.github.io.Rproj
 
 # vscode
 .vscode/
+
+# Emacs
+*~
