@@ -16,9 +16,11 @@ In research, it is of utmost importance to the scientific process to be able to 
 
 This year, I've been awarded a fellowship by the [Software Sustainability Institute](https://software.ac.uk/) to develop guidance and training to help researchers who use MATLAB to find and learn the tools that they need to easily produce better research by making their code reproducible.
 
-During my PhD and postdoctoral research, I used MATLAB among other languages to analyse data, run simulations, make figures and control instrumentation. However, at the time, I didn't know about the conce required to make my code reproducible for myself and others. For the last few years, as a Research Software Engineer, I've gained the experience needed to develop reproducible software in a range of languages including MATLAB. Now it's time to share what I've learned with everyone!
+During my PhD and postdoctoral research, I used MATLAB among other languages to analyse data, run simulations, make figures and control instrumentation. However, at the time, I didn't know about the concepts required to make my code reproducible for myself and others. For the last few years, as a Research Software Engineer, I've gained the experience needed to develop reproducible software in a range of languages including MATLAB. Now it's time to share what I've learned with everyone!
 
 This blog post should serve as a _very_ brief introduction to some of the concepts you can use to develop a reproducible project in MATLAB. You can expect more to come throughout my fellowship, so watch this space.
+
+<!--more-->
 
 ## What is reproducibility?
 {:.no_toc}
@@ -33,8 +35,6 @@ The goal of crafting a reproducible software project should be to produce a comp
 ## How to write reproducible matlab?
 {:.no_toc}
 Here are some tools and concepts you can use to improve the reproducibility of your MATLAB project. Many are the same concepts you'll find recommended for most research software (and most _software_) projects, with some specific guidance on how to implement these in Matlab.
-
-<!--more-->
 
 ## Contents
 {:.no_toc}
@@ -155,6 +155,70 @@ Far better (and free) alternatives to MATLAB exist for interacting with `git`, m
 It would be irresponsible to attempt to provide instruction on using `git` here and there are many resources to learn from, not least the courses run by RSE teams!
 
 ### Testing
+Software testing means writing code that checks that your code is doing its job correctly. Most languages have a method for doing this and it's an excellent habit to get into.
+
+At first, stopping to write a test may seem like a hinderance, however you'll soon find that an automated check to your code will save you time and confusion in the long-run.
+
+Let's have a look at writing some simple tests in MATLAB, so you can see what I mean.
+
+#### Script-based 'testing'
+Ideally your code should be organised into functions and/or classes, however it is possible to do some level of validation with scripts, by using the `assert` function. `assert` checks a condition and throws an error if the condition is false, _asserting_ that the condition is true.
+
+For example (from the [`assert` documentation](https://uk.mathworks.com/help/matlab/ref/assert.html))
+
+```matlab
+minVal = 7;
+x = 26;
+
+assert(minVal < x)
+```
+will throw an error if `minVal` is greater than `x`.
+
+You can use these throughout your scripts to check for some sources of errors and use any condition that returns a logical such as `isa()` to check a variable's type or `size` to check the dimensions of an array.
+
+`assert` can also take a string argument as a message to print if the condition is not met.
+
+```matlab
+assert(minVal < x, 'value is not greater than minVal')
+```
+
+For information on script-based unit testing in Matlab, [see the official docs here](https://uk.mathworks.com/help/matlab/script-based-unit-tests.html)
+
+#### Function-based testing
+If your code is organised into functions, you can use the function-based testing framework to test those functions with a test suite.
+
+For a simple example, let's say you have a function called `add` which adds together two values and returns the result that looks like this:
+
+```matlab
+function result = add(a,b)
+  result = a + b;
+end
+```
+
+Generally, you might have a folder in your project called `tests`, inside which you put a file called, for instance, `test_add.m` with the contents:
+
+```matlab
+%% Main function to generate tests - you don't need to change this
+function tests = exampleTest
+tests = functiontests(localfunctions);
+end
+
+%% Test Functions
+function test_add(testCase)
+  a = 1;
+  b = 2;
+  actual_result = add(a,b);
+  expected_result = a + b;
+  verifyEqual(testCase, actual_result, expected_result)
+end
+```
+
+Similarly to what we saw above, an error will be raised if the wrong result is produced. However in this case, rather than running as part of your main code, this test suite is run during development when making changes to verify that everything is still working as expected. (Perhaps as part of [continuous integration below](#continuous-integration-and-continuous-deployment)).
+
+We can run all of our tests for a project from the Matlab desktop under the *Editor* tab, including running tests with the debugger.
+
+![](/assets/images/matlab-repro-blog/run-tests.png)
+
 
 ### Licensing/Open Source
 It is a common misconception that MATLAB code can not be released as open source because MATLAB itself is a proprietary language. This is not the case at all, just look at [MATLAB's File Exchange][file-exchange] to see thousands of examples of users sharing their code.
@@ -165,6 +229,8 @@ Software licensing is perhaps too big a discussion to be a subsection of a blog 
 
 
 ### Collaborative Hosting/GitHub/GitLab
+
+
 
 ### MATLAB "Projects"
 Since R2019a, MATLAB has included the [`Projects` tool](https://uk.mathworks.com/help/matlab/projects.html) with the goal of improving collaboration and portability. Have you ever been sent code by a colleague and found that you can't run it at all because you're missing a bunch of dependent toolboxes and functions? This is one of the problems that `Projects` attempt to solve.
