@@ -2,8 +2,8 @@
 layout: post
 title: April 2022 Newsletter
 editor: Fariba Yousefi
-slug: 2022-04-25-newsletter
-date: 2022-03-25T16:00:00Z+0100
+slug: 2022-04-26-newsletter
+date: 2022-03-26T16:00:00Z+0100
 tags:
 category:
 link:
@@ -78,6 +78,6 @@ The Sheffield RSE Team provides free [Code Clinics][CCs] (in collaboration with 
 [EPCC]: https://www.epcc.ed.ac.uk/
 [its-res-it]: https://www.sheffield.ac.uk/it-services/research/
 [its-workshops]: https://www.sheffield.ac.uk/it-services/research/one-day-sessions
-[rse-service]: https://rse.shef.ac.uk/service/
+[rse-service]: https://rse.shef.ac.uk/collaboration/
 [rses-mail-list]: https://groups.google.com/a/sheffield.ac.uk/forum/#!forum/rse-group
 [rses]: https://rse.shef.ac.uk/
