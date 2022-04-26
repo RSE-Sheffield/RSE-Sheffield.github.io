@@ -3,7 +3,7 @@ layout: post
 title: April 2022 Newsletter
 editor: Fariba Yousefi
 slug: 2022-04-26-newsletter
-date: 2022-03-26T16:00:00Z+0100
+date: 2022-04-26T16:00:00Z+0100
 tags:
 category:
 link:
