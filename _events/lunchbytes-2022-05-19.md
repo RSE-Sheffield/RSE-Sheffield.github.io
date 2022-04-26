@@ -24,7 +24,7 @@ If you have a git tool you'd like to let others know about - get in touch with t
 
 
 ### Joining Instructions
-This session will take place on [Google Meet](meet.google.com/kht-jtoe-qze) and participants can join 15 minutes before the start of the session.
+This session will take place on [Google Meet](https://meet.google.com/kht-jtoe-qze) and participants can join 15 minutes before the start of the session.
 
 Q&A will be via [**sli.do**](https://app.sli.do/event/pnGW9wf5uswr1gWHesbfWu)
 
