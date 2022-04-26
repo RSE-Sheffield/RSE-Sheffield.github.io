@@ -34,7 +34,6 @@ In [May's edition of LunchBytes](https://rse.shef.ac.uk/events/lunchbytes-2022-0
 If you have a git tool you’d like to let others know about - get in touch with the host at d.wilby [at] sheffield.ac.uk
 
 
-
 #### LunchBytes needs YOU!
 LunchBytes are organised by and for the research software community at The University of Sheffield. If you'd like to curate a session on a topic or present something, get in touch by emailing [lunchbytes-organisers-group@sheffield.ac.uk](mailto:lunchbytes-organisers-group@sheffield.ac.uk) - Or suggest topics [on the jamboard](https://jamboard.google.com/d/1-51cRf0pwZl8O10CnLeJGAqKcnbww-QGaYjszFK-H38/).
 
@@ -56,7 +55,6 @@ LunchBytes are organised by and for the research software community at The Unive
 
 * [Better methods, better research](https://www.ukri.org/opportunity/better-methods-better-research/) - Apply for funding to improve the methods used by others in biomedical and health research. **Closing date is 15 June 2022.** 
 
-* [Tier 2 embedded support open call](https://rse.shef.ac.uk/collaboration/tier2/) - Funding for Embedded support for High Performance Computing and Machine Learning Context.
 
 ### Events
  
