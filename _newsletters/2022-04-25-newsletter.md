@@ -29,6 +29,11 @@ At each session, members of the RSE and/or ITS R&I teams will be available to re
 
 [LunchBytes](https://rse.shef.ac.uk/community/lunch-bytes/) are a monthly series of short talks from the research community on research software, data and infrastructure.
 
+In [May's edition of LunchBytes](https://rse.shef.ac.uk/events/lunchbytes-2022-05-19.html) on 19th May, we’ll be getting together to show off our favourite tools that help with using git and GitHub. Think: command line tools, IDE plugins, GitHub/Lab features etc.
+
+If you have a git tool you’d like to let others know about - get in touch with the host at d.wilby [at] sheffield.ac.uk
+
+
 
 #### LunchBytes needs YOU!
 LunchBytes are organised by and for the research software community at The University of Sheffield. If you'd like to curate a session on a topic or present something, get in touch by emailing [lunchbytes-organisers-group@sheffield.ac.uk](mailto:lunchbytes-organisers-group@sheffield.ac.uk) - Or suggest topics [on the jamboard](https://jamboard.google.com/d/1-51cRf0pwZl8O10CnLeJGAqKcnbww-QGaYjszFK-H38/).
