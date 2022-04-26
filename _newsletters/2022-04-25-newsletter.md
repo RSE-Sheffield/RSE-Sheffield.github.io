@@ -20,16 +20,16 @@ Welcome to the monthly newsletter for the [Research Software Engineering Communi
 
 Why not come to a [Code Clinic](https://docs.google.com/forms/d/e/1FAIpQLScGXS55qjU0D0Zcz-KHOVcNTahcr3YC3H0OpoKBo3lWXWED5A/viewform)? We're keen to hear from you.
 
-Code Clinics are fortnightly support sessions run by the RSE team and IT Services’ [Research and Innovation IT](https://www.sheffield.ac.uk/it-services/research) (ITS R&I) team. They are open to anyone at TUOS writing code for research to get help with programming problems and general advice on best practice.
+Code Clinics are fortnightly supported sessions run by the RSE team and IT Services’ [Research and Innovation IT](https://www.sheffield.ac.uk/it-services/research) (ITS R&I) team. They are open to anyone at TUOS writing code for research to get help with programming problems and general advice on best practices.
 
-At each session, members of the RSE and/or ITS R&I teams will be available to review code, advise, troubleshoot and suggest ways to improve your computational workflows.
+At each session, members of the RSE and/or ITS R&I teams will be available to review code, advise, troubleshoot, and suggest ways to improve your computational workflows.
 
 
 ### LunchBytes
 
-[LunchBytes](https://rse.shef.ac.uk/community/lunch-bytes/) are a monthly series of short talks from the research community on research software, data and infrastructure.
+[LunchBytes](https://rse.shef.ac.uk/community/lunch-bytes/) are a monthly series of short talks from the research community on research software, data, and infrastructure.
 
-In [May's edition of LunchBytes](https://rse.shef.ac.uk/events/lunchbytes-2022-05-19.html) on 19th May, we’ll be getting together to show off our favourite tools that help with using git and GitHub. Think: command line tools, IDE plugins, GitHub/Lab features etc.
+In [May's edition of LunchBytes](https://rse.shef.ac.uk/events/lunchbytes-2022-05-19.html) on the 19th of May, we’ll be getting together to show off our favourite tools that help with using git and GitHub. Think: command-line tools, IDE plugins, GitHub/Lab features, etc.
 
 If you have a git tool you’d like to let others know about - get in touch with the host David Wilby.
 
@@ -44,7 +44,7 @@ LunchBytes are organised by and for the research software community at The Unive
 
 * [What's next for AlphaFold and the AI protein-folding revolution](https://www.nature.com/articles/d41586-022-00997-5) - DeepMind software that can predict the 3D shape of proteins is already changing biology.
 
-* [Linting - What is all the fluff about?](https://rse.shef.ac.uk/blog/2022-04-19-linting/) - This blogpost is written by the newest member of RSE team. If you’ve been dabbling in programming for a while you may have heard of “linting your code” which is a process of static code analysis to remove the “fluff” from your code. 
+* [Linting - What is all the fluff about?](https://rse.shef.ac.uk/blog/2022-04-19-linting/) - This blogpost is written by the newest member of the RSE team. If you’ve been dabbling in programming for a while you may have heard of “linting your code” which is a process of static code analysis to remove the “fluff” from your code. 
 
 ### Volunteers
 
@@ -53,7 +53,7 @@ LunchBytes are organised by and for the research software community at The Unive
 
 ### Funding Opportunities
 
-* [Better methods, better research](https://www.ukri.org/opportunity/better-methods-better-research/) - Apply for funding to improve the methods used by others in biomedical and health research. **Closing date is 15 June 2022.** 
+* [Better methods, better research](https://www.ukri.org/opportunity/better-methods-better-research/) - Apply for funding to improve the methods used by others in biomedical and health research. **The closing date is 15 June 2022.** 
 
 
 ### Events
