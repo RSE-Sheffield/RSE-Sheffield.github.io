@@ -11,7 +11,7 @@ description:
 type: text
 ---
 
-## The University of Sheffield Research Software Engineering Community Newsletter March 2022
+## The University of Sheffield Research Software Engineering Community Newsletter April 2022
 
 Welcome to the monthly newsletter for the [Research Software Engineering Community](https://rse.shef.ac.uk/) at The University of Sheffield.
 
