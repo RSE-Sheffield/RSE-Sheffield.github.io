@@ -11,7 +11,7 @@ description:
 type: text
 ---
 
-## The University of Sheffield Research Software Engineering Community Newsletter March 2022
+## The University of Sheffield Research Software Engineering Community Newsletter April 2022
 
 Welcome to the monthly newsletter for the [Research Software Engineering Community](https://rse.shef.ac.uk/) at The University of Sheffield.
 
@@ -31,7 +31,7 @@ At each session, members of the RSE and/or ITS R&I teams will be available to re
 
 In [May's edition of LunchBytes](https://rse.shef.ac.uk/events/lunchbytes-2022-05-19.html) on 19th May, we’ll be getting together to show off our favourite tools that help with using git and GitHub. Think: command line tools, IDE plugins, GitHub/Lab features etc.
 
-If you have a git tool you’d like to let others know about - get in touch with the host at d.wilby [at] sheffield.ac.uk
+If you have a git tool you’d like to let others know about - get in touch with the host David Wilby.
 
 
 #### LunchBytes needs YOU!
