@@ -83,7 +83,7 @@ Your users will thank you (that includes you) when they encounter some actual gu
 
 It's a great idea to version control your documentation alongside your project (see [version control section below](#version-control)) so that it remains up to date with changes in your code and the two don't get out of sync with each other.
 
-Therefore, you need to write your documentation in a format that can be handled by your version control system (most likely, `git`) - e.g. as text files, and not a PDF, word document or google doc. A number of tools exist for doing this outside of Matlab, be it [read the docs](https://readthedocs.org/), [roxygen2](https://cran.r-project.org/web/packages/roxygen2/vignettes/roxygen2.html) or anoher documentation generator.
+Therefore, you need to write your documentation in a format that can be handled by your version control system (most likely, `git`) - e.g. as text files, and not a PDF, word document or google doc. A number of tools exist for doing this outside of Matlab, be it [read the docs](https://readthedocs.org/), [roxygen2](https://cran.r-project.org/web/packages/roxygen2/vignettes/roxygen2.html) or another documentation generator.
 
 Of course, you can use these tools for your MATLAB project. Your documentation is written in a raw text format such as markdown (like this blog post), or reStructuredText, MATLAB itself isn't being used to execute code in the documentation. A documentation generator will process your raw text into a nice PDF or webpage. You could even run your documentation generator just using a [continuous deployment](#continuous-integration-and-continuous-deployment) tool such as github actions and never install or run the tool on your local machine at all!
 
