@@ -2,7 +2,7 @@
 layout: post
 title: "A concise guide to reproducible MATLAB projects"
 author: David Wilby
-slug: 2022-03-10-concise-guide-to-reproducible-matlab
+slug: 2022-05-05-concise-guide-to-reproducible-matlab
 date: 2022-05-05 10:00:00 UTC
 tags: matlab, reproducibility, version control, git
 category:
@@ -148,9 +148,9 @@ Version control allows you to capture snapshots of your code as you develop (in 
 Using a VCS simply for developing code on your own machine is a great idea. But online platforms such as GitHub and GitLab add a host of excellent tools to facilitate collaboration, project management and distribution of your code.
 
 #### How?
-This is the one point here in which I can not currently (April 2022, MATLAB release R2022a) recommend the version control tools provided within MATLAB and would advise alternatives. It may be that MathWorks will put out some improvements in the future, at which time I'll aim to revise this post.
+This is the one point here in which I can not currently (April 2022, MATLAB release R2022a) recommend the tools provided within MATLAB and would advise alternatives for version control. It may be that MathWorks will put out some improvements in the future, at which time I'll aim to revise this post.
 
-Far better (and free) alternatives to MATLAB exist for interacting with `git`, my current favourite is the [_GitKraken Client_][gitkraken-client] - it provides a great user interface with access to most (if not all) of the major operations you're likely to want to do both with `git` and GitHub (or GitLab, BitBucket or Azure DevOps). Not to mention it has a great name. Helpfully, most of the terminology used (_pull, fetch, rebase, fork, clone_) comes from the core tools (`git` & GitHub) themselves, so anything you learn can generalise to other tools.
+Far better (and free) alternatives to MATLAB's tools exist for interacting with `git`, my current favourite is the [_GitKraken Client_][gitkraken-client] - it provides a great user interface with access to most (if not all) of the major operations you're likely to want to do both with `git` and GitHub (or GitLab, BitBucket or Azure DevOps). Not to mention it has a great name. Helpfully, most of the terminology used (_pull, fetch, rebase, fork, clone_) comes from the core tools (`git` & GitHub) themselves, so anything you learn can generalise to other tools.
 
 It would be irresponsible to attempt to provide instruction on using `git` here and there are many resources to learn from, not least the courses run by RSE teams!
 
@@ -220,7 +220,7 @@ We can run all of our tests for a project from the Matlab desktop under the *Edi
 ![](/assets/images/matlab-repro-blog/run-tests.png)
 
 #### Next steps in testing
-MATLAB provides tools for [class-based testing](https://uk.mathworks.com/help/matlab/class-based-unit-tests.html); [testing applications](https://uk.mathworks.com/help/matlab/app-testing-framework.html) and more. If there is interest, I may put together a blog post on these in the future.
+MATLAB provides tools for [class-based testing](https://uk.mathworks.com/help/matlab/class-based-unit-tests.html); [testing applications](https://uk.mathworks.com/help/matlab/app-testing-framework.html) and more. I may put together a blog post on these in the future.
 
 
 ### Licensing/Open Source
