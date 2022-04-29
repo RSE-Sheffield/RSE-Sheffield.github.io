@@ -152,7 +152,7 @@ This is the one point here in which I can not currently (April 2022, MATLAB rele
 
 Far better (and free) alternatives to MATLAB's tools exist for interacting with `git`, my current favourite is the [_GitKraken Client_][gitkraken-client] - it provides a great user interface with access to most (if not all) of the major operations you're likely to want to do both with `git` and GitHub (or GitLab, BitBucket or Azure DevOps). Not to mention it has a great name. Helpfully, most of the terminology used (_pull, fetch, rebase, fork, clone_) comes from the core tools (`git` & GitHub) themselves, so anything you learn can generalise to other tools.
 
-It would be irresponsible to attempt to provide instruction on using `git` here and there are many resources to learn from, not least the courses run by RSE teams!
+It would be irresponsible to attempt to provide instruction on using `git` here and there are many resources to learn from, not least the [courses](https://rse.shef.ac.uk/events/) run by RSE teams!
 
 ### Testing
 Software testing means writing code that checks that your code is doing its job correctly. Most languages have a method for doing this and it's an excellent habit to get into.
