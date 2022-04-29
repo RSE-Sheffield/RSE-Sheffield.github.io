@@ -16,7 +16,7 @@ In research, it is of utmost importance to the scientific process to be able to 
 
 This year, I've been awarded a fellowship by the [Software Sustainability Institute](https://software.ac.uk/) to develop guidance and training to help researchers who use MATLAB to find and learn the tools that they need to easily produce better research by making their code reproducible.
 
-During my PhD and postdoctoral research, I used MATLAB, among other languages, to analyse data, run simulations, make figures and control instrumentation. However, at the time, I didn't know about the concepts required to make my code reproducible for myself and others. For the last few years, as a Research Software Engineer, I've gained the experience needed to develop reproducible software in a range of languages including MATLAB. Now it's time to share what I've learned with everyone!
+During my PhD and postdoctoral research, I used MATLAB, among other languages, to analyse data, run simulations, make figures and control instrumentation. However, at the time, I didn't know about the concepts required to make my code reproducible for myself and others. Over the last few years, as a Research Software Engineer, I've gained the experience needed to develop reproducible software in a range of languages including MATLAB. Now it's time to share what I've learned with everyone!
 
 This blog post should serve as a _very_ brief set of signposts to some of the concepts you can use to develop a reproducible project in MATLAB. You can expect more to come throughout my fellowship, so watch this space.
 
