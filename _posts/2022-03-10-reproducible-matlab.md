@@ -3,8 +3,8 @@ layout: post
 title: "A concise guide to reproducible MATLAB projects"
 author: David Wilby
 slug: 2022-03-10-concise-guide-to-reproducible-matlab
-date: 2022-03-10 10:00:00 UTC
-tags: matlab, reproducibility
+date: 2022-05-05 10:00:00 UTC
+tags: matlab, reproducibility, version control, git
 category:
 link:
 description:
@@ -12,13 +12,13 @@ type: text
 excerpt_separator: <!--more-->
 ---
 
-In research, it is of utmost importance to the scientific process to be able to reproduce research findings in order to establish their validity. However, more often than not, the code that is written for research purposes cannot be easily run again, sometimes even by the code's authour (yours truly included).
+In research, it is of utmost importance to the scientific process to be able to reproduce research findings in order to establish their validity. However, more often than not, the code that is written for research purposes cannot be easily run again, sometimes even by the code's authour (yours truly included!).
 
 This year, I've been awarded a fellowship by the [Software Sustainability Institute](https://software.ac.uk/) to develop guidance and training to help researchers who use MATLAB to find and learn the tools that they need to easily produce better research by making their code reproducible.
 
-During my PhD and postdoctoral research, I used MATLAB among other languages to analyse data, run simulations, make figures and control instrumentation. However, at the time, I didn't know about the concepts required to make my code reproducible for myself and others. For the last few years, as a Research Software Engineer, I've gained the experience needed to develop reproducible software in a range of languages including MATLAB. Now it's time to share what I've learned with everyone!
+During my PhD and postdoctoral research, I used MATLAB, among other languages, to analyse data, run simulations, make figures and control instrumentation. However, at the time, I didn't know about the concepts required to make my code reproducible for myself and others. For the last few years, as a Research Software Engineer, I've gained the experience needed to develop reproducible software in a range of languages including MATLAB. Now it's time to share what I've learned with everyone!
 
-This blog post should serve as a _very_ brief introduction to some of the concepts you can use to develop a reproducible project in MATLAB. You can expect more to come throughout my fellowship, so watch this space.
+This blog post should serve as a _very_ brief set of signposts to some of the concepts you can use to develop a reproducible project in MATLAB. You can expect more to come throughout my fellowship, so watch this space.
 
 <!--more-->
 
@@ -140,7 +140,7 @@ Whilst not shown here, these files can contain executable code, [see this blog a
 Version control is far more than these two words suggest, and enables a far more secure, dynamic and collaborative approach to developing code than without it. Of course, this is far more wide-ranging than just MATLAB, and as RSEs our first recommendation to researchers is to employ a version control system if they don't already. Spending time learning how to use `git`, for instance, will pay dividends.
 
 #### Which version control system? (VCS)
-At the time of writing, there is one answer to this question, namely `git`. Developed in 2006, `git` has become the _de facto_ standard VCS and for many developers is synonymous with the concept. As a researcher you may, however, come across older codebases controlled with other systems such as Subversion (SVN), but `git` is the way to go at present.
+At the time of writing, there is one answer to this question, namely `git`. Developed in 2006, `git` has become the _de facto_ standard VCS and for many developers is synonymous with the concept. As a researcher you may, however, come across older codebases controlled with other systems such as Subversion (SVN), but `git` is the way to go for new projects at present.
 
 #### Why use version control?
 Version control allows you to capture snapshots of your code as you develop (in `git` these are called **commits**), meaning that you can go back if you want to. Furthermore, you can create _branches_ to try out new ideas without fear of breaking your existing code - your main branch is still there! All this without making numerous copies and archives of your code. A VCS also allows you to merge one branch into another; so when you're happy with your exploratory branch, you can combine it with your main branch!
@@ -148,9 +148,9 @@ Version control allows you to capture snapshots of your code as you develop (in 
 Using a VCS simply for developing code on your own machine is a great idea. But online platforms such as GitHub and GitLab add a host of excellent tools to facilitate collaboration, project management and distribution of your code.
 
 #### How?
-This is the one point here in which I can not currently (March 2022, MATLAB release R2022a) recommend the version control tools provided within MATLAB and would advise alternatives. It may be that MathWorks will put out some improvements in the future, at which time I'll aim to revise this post.
+This is the one point here in which I can not currently (April 2022, MATLAB release R2022a) recommend the version control tools provided within MATLAB and would advise alternatives. It may be that MathWorks will put out some improvements in the future, at which time I'll aim to revise this post.
 
-Far better (and free) alternatives to MATLAB exist for interacting with `git`, my current favourite is the _GitKraken Client_ - it provides a great user interface with access to most (if not all) of the major operations you're likely to want to do both with `git` and GitHub (or GitLab, BitBucket or Azure DevOps). Not to mention it has a great name. Helpfully, most of the terminology used (_pull, fetch, rebase, fork, clone_) comes from the core tools (`git` & GitHub) themselves, so anything you learn can generalise to other tools.
+Far better (and free) alternatives to MATLAB exist for interacting with `git`, my current favourite is the [_GitKraken Client_][gitkraken-client] - it provides a great user interface with access to most (if not all) of the major operations you're likely to want to do both with `git` and GitHub (or GitLab, BitBucket or Azure DevOps). Not to mention it has a great name. Helpfully, most of the terminology used (_pull, fetch, rebase, fork, clone_) comes from the core tools (`git` & GitHub) themselves, so anything you learn can generalise to other tools.
 
 It would be irresponsible to attempt to provide instruction on using `git` here and there are many resources to learn from, not least the courses run by RSE teams!
 
@@ -219,6 +219,9 @@ We can run all of our tests for a project from the Matlab desktop under the *Edi
 
 ![](/assets/images/matlab-repro-blog/run-tests.png)
 
+#### Next steps in testing
+MATLAB provides tools for [class-based testing](https://uk.mathworks.com/help/matlab/class-based-unit-tests.html); [testing applications](https://uk.mathworks.com/help/matlab/app-testing-framework.html) and more. If there is interest, I may put together a blog post on these in the future.
+
 
 ### Licensing/Open Source
 It is a common misconception that MATLAB code can not be released as open source because MATLAB itself is a proprietary language. This is not the case at all, just look at [MATLAB's File Exchange][file-exchange] to see thousands of examples of users sharing their code.
@@ -229,7 +232,22 @@ Software licensing is perhaps too big a discussion to be a subsection of a blog 
 
 
 ### Collaborative Hosting/GitHub/GitLab
+Hosting your code on an online hosting platform such as GitHub or GitLab brings a tremendous number of benefits, including (but not limited to):
 
+* Acting as a reliable, remote backup,
+* Facilitating collaboration and sharing of code,
+* A plethora of project management tools alongside your code, making it easier to keep track of what work needs doing,
+* Public hosting of your code, making it easier to share,
+* Continuous Integration/Deployment tools (e.g. GitHub Actions) which, for instance, can be used to render documentation, run tests and many more things,
+
+Whilst not difficult to learn, there is too much to cover here, but in essence the basic process is:
+* Start a new repository on GitHub,
+* Push your local repository (version controlled by `git`) to the remote on GitHub,
+* Make changes on a new branch locally and push them to GitHub,
+* Open a pull request to discuss merging your branch into the main one,
+* Merge the changes,
+* Locally, pull the new changes on the main branch,
+* Continue working with the new changes and repeat!
 
 
 ### MATLAB "Projects"
@@ -237,7 +255,7 @@ Since R2019a, MATLAB has included the [`Projects` tool](https://uk.mathworks.com
 
 By creating a `Project` and adding all the relevant files needed to run the code, you should be able to pass on the code and project file (`.prj`) to someone else; they can open the `Project` and all the right files will be added to the path, any particular actions that you specify can be run, among other actions.
 
-`Projects` also allow you to run a dependency analysis, to report which other code yours depends on, and therefore needs to be considered for reprodibility.
+`Projects` also allow you to run a dependency analysis, to report which other code yours depends on, and therefore needs to be considered for reproducibility.
 
 **Remember!** include your `.prj` file under version control.
 
@@ -264,11 +282,31 @@ These can be run on GitHub actions' cloud computing for free for _public_ projec
 
 
 ### Compiling Standalone Applications
+One way to solve the challenge of getting your code to run on other people's computers, particularly if they don't have a MATLAB license, is to consider building your code as a standalone application. This takes your Matlab source code and bundles it in such a way that it can be run on a machine without a Matlab license, and without Matlab installed - helpful in a number of situations.
+
+This can be achieved through [point and click menus](https://uk.mathworks.com/help/compiler/create-and-install-a-standalone-application-from-matlab-code.html) or, better yet, by [writing a script to run](https://uk.mathworks.com/help/compiler/standalone-applications.html) that runs the build operation.
+
+**Note** the application must be built for each operating system (Windows, Mac OS, Linux etc) and generally the build must be run on a compatible operating system. For instance, if you want to build your program to run on Windows, the build should be run from within Matlab on Windows.
+
+This is a useful tool, for instance if you want to run analysis on a machine without Matlab installed - but isn't a complete solution to reproducibility, and openly sharing your source code should be the first thing you think of, in my opinion.
 
 
 ### Publishing your code with a research paper
+Once you've done all this, how do we get to the business of actually publishing code alongside our research?! Well fortunately, everything is fairly straightforward from this point!
+
+The first thing I'd recommend is asking a friend or colleague to attempt to reproduce your results following the instructions provided in your online repository. Remember to document where to get your data from! You could even consider submitting your work to a [reprohack event](https://www.reprohack.org/)! Essentially, this process of getting someone else who doesn't know about the code to try and run it and get the same results should highlight gaps in your documentation, allowing you to fix them before sending your code out to the world.
+
+By hosting your code on a public repository with a tool like GitHub, you'll be able to link to the code as it was at the time of submission. At this stage, I'd recommend creating a tag to indicate the commit that the repository was at when you produced the final results. On GitHub, you can alternatively create a 'release'. You can just use a version number and quote this in the description of your methods. 
+
+
+
+### And finally...
+Just try your best! Most researchers still don't publish their code and very few are reproducible, so anything you can do to improve your work will get you closer.
+
+If you want to discuss how to make your code more reproducible and don't know what to do, [book a code clinic](/support/code-clinic/) with the RSE and Research IT teams at The University of Sheffield to see how we can help!
 
 
 [style-guide]: https://sites.google.com/site/matlabstyleguidelines/home
 [bes-guide]: https://www.britishecologicalsociety.org/wp-content/uploads/2019/06/BES-Guide-Reproducible-Code-2019.pdf
 [file-exchange]: https://uk.mathworks.com/matlabcentral/fileexchange/
+[gitkraken-client]: https://www.gitkraken.com/git-client
