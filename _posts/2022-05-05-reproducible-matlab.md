@@ -185,7 +185,7 @@ assert(minVal < x, 'value is not greater than minVal')
 For information on script-based unit testing in Matlab, [see the official docs here](https://uk.mathworks.com/help/matlab/script-based-unit-tests.html)
 
 #### Function-based testing
-If your code is organised into functions, you can use the function-based testing framework to test those functions with a test suite.
+If your code is organised into functions (and/or classes), you can use the function-based and class-based testing frameworks to test those functions with a test suite. The function-based testing framework is a little simpler, but a big improvement on the use of `assert` above.
 
 For a simple example, let's say you have a function called `add` which adds together two values and returns the result that looks like this:
 
@@ -220,7 +220,7 @@ We can run all of our tests for a project from the Matlab desktop under the *Edi
 ![](/assets/images/matlab-repro-blog/run-tests.png)
 
 #### Next steps in testing
-MATLAB provides tools for [class-based testing](https://uk.mathworks.com/help/matlab/class-based-unit-tests.html); [testing applications](https://uk.mathworks.com/help/matlab/app-testing-framework.html) and more. I may put together a blog post on these in the future.
+As mentioned above, MATLAB provides more featureful tools for testing under the [class-based testing framework](https://uk.mathworks.com/help/matlab/class-based-unit-tests.html); tools for [testing applications](https://uk.mathworks.com/help/matlab/app-testing-framework.html) and more. I may put together a blog post on these in the future.
 
 
 ### Licensing/open source
