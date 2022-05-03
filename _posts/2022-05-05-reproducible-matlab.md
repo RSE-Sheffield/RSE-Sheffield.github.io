@@ -32,9 +32,9 @@ In practice, we find that exact versions of software dependencies or the toolbox
 
 The goal of crafting a reproducible software project should be to produce a compendium of code, data and documentation that anyone should be able to pick up and run, generating the same results that you did initially. Reproducible software development practices are also just good practice in general, if you've followed good practice in the first place, when you come back to a project in several months' or years' time (or just on Monday morning), you should be able to make improvements, re-run the code or validate your results.
 
-## How to write reproducible matlab?
+## How to write reproducible MATLAB?
 {:.no_toc}
-Here are some tools and concepts you can use to improve the reproducibility of your MATLAB project. Many are the same concepts you'll find recommended for most research software (and most _software_) projects, with some specific guidance on how to implement these in Matlab.
+Here are some tools and concepts you can use to improve the reproducibility of your MATLAB project. Many are the same concepts you'll find recommended for most research software (and most _software_) projects, with some specific guidance on how to implement these in MATLAB.
 
 ## Contents
 {:.no_toc}
@@ -51,7 +51,7 @@ In brief, you should:
 1. Write modular code. Each function, for instance, should just do one job and be reusable at other places in your code,
 1. Avoid duplication. Write the code that does one job just once and write a function that you can call.
 
-A useful online resource for Matlab coding style is the [MATLAB Programming Style Guide][style-guide], based on Richard Johnson's book, [The Elements of MATLAB style](https://www.google.co.uk/books/edition/The_Elements_of_MATLAB_Style/awORkNlgiZoC?hl=en&gbpv=1&printsec=frontcover), also available [on MATLAB's FileExchange](https://uk.mathworks.com/matlabcentral/fileexchange/46056-matlab-style-guidelines-2-0). Why not have a skim through this succinct resource before starting your next project?
+A useful online resource for MATLAB coding style is the [MATLAB Programming Style Guide][style-guide], based on Richard Johnson's book, [The Elements of MATLAB style](https://www.google.co.uk/books/edition/The_Elements_of_MATLAB_Style/awORkNlgiZoC?hl=en&gbpv=1&printsec=frontcover), also available [on MATLAB's FileExchange](https://uk.mathworks.com/matlabcentral/fileexchange/46056-matlab-style-guidelines-2-0). Why not have a skim through this succinct resource before starting your next project?
 
 ### Project organisation
 The first thing that makes a project difficult to reproduce is when you open the project folder to find a big heap of confusingly named scripts.
@@ -61,10 +61,10 @@ Use folders/directories to organise your project, so that it is obvious (to you 
 At the very top level of your project, why not have something like the following structure?
 
 ```
-├── data/        
-│   └── raw/
-│   └── processed/
-├── figures/
+├── data/             # directory to contain your data
+│   └── raw/          # all your raw, unprocessed data
+│   └── processed/    # any data that you have altered
+├── figures/          # keep the figures that you produce from your code here
 ├── reports/          # a clear folder for your papers or reports for the project
 ├── src/              # source code
 │   └── @MyClass/     # a class directory
@@ -79,11 +79,11 @@ At the very top level of your project, why not have something like the following
 For more in depth guidance on how to organise a project (and loads of other excellent advice) check out the [BES' guide to Reproducible Code][bes-guide] - I still refer to this guide regularly.
 
 ### Documentation
-Your users will thank you (_**that includes you**_) when they encounter some actual guidance on how to use your code - maybe they'll actually use it! Imagine that!
+Your users (_**that includes you**_) will thank you when they encounter some actual guidance on how to use your code - maybe they'll actually use it! Imagine that!
 
 It's a great idea to version control your documentation alongside your project (see [version control section below](#version-control)) so that it remains up to date with changes in your code and the two don't get out of sync with each other.
 
-Therefore, you need to write your documentation in a format that can be handled by your version control system (most likely, `git`) - e.g. as text files, and not a PDF, word document or google doc. A number of tools exist for doing this outside of Matlab, be it [read the docs](https://readthedocs.org/), [roxygen2](https://cran.r-project.org/web/packages/roxygen2/vignettes/roxygen2.html) or another documentation generator. You could even just write your documentation in LaTeX and combine with a tool to automatically render a pdf ([see CI/CD below]((#continuous-integration-and-continuous-deployment))).
+Therefore, you need to write your documentation in a format that can be handled by your version control system (most likely, `git`) - e.g. as text files, and not a PDF, word document or google doc. A number of tools exist for doing this outside of MATLAB, be it [read the docs](https://readthedocs.org/), [roxygen2](https://cran.r-project.org/web/packages/roxygen2/vignettes/roxygen2.html) or another documentation generator. You could even just write your documentation in LaTeX and combine with a tool to automatically render a pdf ([see CI/CD below]((#continuous-integration-and-continuous-deployment))).
 
 Of course, you can use these tools for your MATLAB project. Your documentation is written in a raw text format such as markdown (like this blog post), or reStructuredText, MATLAB itself isn't being used to execute code in the documentation. A documentation generator will process your raw text into a nice PDF or webpage. You could even run your documentation generator just using a [continuous deployment](#continuous-integration-and-continuous-deployment) tool such as github actions and never install or run the tool on your local machine at all!
 
@@ -182,12 +182,17 @@ You can use these throughout your scripts to check for some sources of errors an
 assert(minVal < x, 'value is not greater than minVal')
 ```
 
-For information on script-based unit testing in Matlab, [see the official docs here](https://uk.mathworks.com/help/matlab/script-based-unit-tests.html)
+For information on script-based unit testing in MATLAB, [see the official docs here](https://uk.mathworks.com/help/matlab/script-based-unit-tests.html)
 
 #### Function-based testing
 If your code is organised into functions (and/or classes), you can use the function-based and class-based testing frameworks to test those functions with a test suite. The function-based testing framework is a little simpler, but a big improvement on the use of `assert` above.
 
-For a simple example, let's say you have a function called `add` which adds together two values and returns the result that looks like this:
+Types of test can briefly be categorised as:
+* **Unit tests** - test individual 'units' of code, most often a function.
+* **Integration tests** - test the operation of multiple units integrated together.
+* **Regression tests** - test that the overall operation of the code is not damaged by new changes, in other words, that the code has not regressed.
+
+For a simple example of a *unit* test, let's say you have a function called `add` which adds together two values and returns the result that looks like this:
 
 ```matlab
 function result = add(a,b)
@@ -215,7 +220,7 @@ end
 
 Similarly to what we saw above, an error will be raised if the wrong result is produced. However in this case, rather than running as part of your main code, this test suite is run during development when making changes to verify that everything is still working as expected. (Perhaps as part of [continuous integration below](#continuous-integration-and-continuous-deployment)).
 
-We can run all of our tests for a project from the Matlab desktop under the *Editor* tab, including running tests with the debugger.
+We can run all of our tests for a project from the MATLAB desktop under the *Editor* tab, including running tests with the debugger.
 
 ![](/assets/images/matlab-repro-blog/run-tests.png)
 
@@ -278,17 +283,17 @@ The actions available for MATLAB at present are reasonably limited, but versatil
 
 You can also combine these with one of the many actions from the [GitHub actions marketplace](https://github.com/marketplace?type=actions) even further extending the possibilities!
 
-These Matlab-specific actions can be run on GitHub actions' cloud computing for free for _public_ projects hosted on GitHub (just another reason to go open source! :grinning:), but if your project is private, you can still use GitHub actions by setting up a _self-hosted_ runner on your own computing infrastructure, I used a VM hosted by my university to do this for a private project. Note that other actions can be run on GitHub for private repos, but private projects only get a limited amount of free time per month.
+These MATLAB-specific actions can be run on GitHub actions' cloud computing for free for _public_ projects hosted on GitHub (just another reason to go open source! :grinning:), but if your project is private, you can still use GitHub actions by setting up a _self-hosted_ runner on your own computing infrastructure, I used a VM hosted by my university to do this for a private project. Note that other actions can be run on GitHub for private repos, but private projects only get a limited amount of free time per month.
 
 
 ### Compiling standalone applications
-One way to solve the challenge of getting your code to run on other people's computers, particularly if they don't have a MATLAB license, is to consider building your code as a standalone application. This takes your Matlab source code and bundles it in such a way that it can be run on a machine without a Matlab license, and without Matlab installed - helpful in a number of situations.
+One way to solve the challenge of getting your code to run on other people's computers, particularly if they don't have a MATLAB license, is to consider building your code as a standalone application. This takes your MATLAB source code and bundles it in such a way that it can be run on a machine without a MATLAB license, and without MATLAB installed - helpful in a number of situations.
 
 This can be achieved through [point and click menus](https://uk.mathworks.com/help/compiler/create-and-install-a-standalone-application-from-matlab-code.html) or, better yet, by [writing a script to run](https://uk.mathworks.com/help/compiler/standalone-applications.html) that runs the build operation.
 
-**Note** the application must be built for each operating system (Windows, Mac OS, Linux etc) and generally the build process must be run on a compatible operating system. For instance, if you want to build your program to run on Windows, the build command should be run from within Matlab on Windows.
+**Note** the application must be built for each operating system (Windows, Mac OS, Linux etc) and generally the build process must be run on a compatible operating system. For instance, if you want to build your program to run on Windows, the build command should be run from within MATLAB on Windows.
 
-This is a useful tool, for instance if you want to run analysis on a machine without Matlab installed - but isn't a complete solution to reproducibility, and openly sharing your source code should be the first thing you think of, in my opinion.
+This is a useful tool, for instance if you want to run analysis on a machine without MATLAB installed - but isn't a complete solution to reproducibility, and openly sharing your source code should be the first thing you think of, in my opinion.
 
 
 ### Publishing your code with a research paper
