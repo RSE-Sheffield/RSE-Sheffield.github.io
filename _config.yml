@@ -52,6 +52,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-redirect-from
   - jekyll-paginate
+  - jemoji
 exclude:
   - Gemfile
   - Gemfile.lock
