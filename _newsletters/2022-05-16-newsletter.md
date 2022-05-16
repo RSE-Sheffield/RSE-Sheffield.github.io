@@ -94,7 +94,7 @@ If you sign up for a course, please make sure you either attend or cancel your b
 
 **[Introduction to Deep Learning Course with Tensorflow Keras (in Python), 8th June](https://rse.shef.ac.uk/training/workshop/2022-06-08-deep-learning-with-tensorflow-in-python)**
 
-A one-day introduction to deep learning with practical labs using Tensorflow in Python. The session is led by [Twin Karmakharm](https://twin.uk.com) and [Fariba Yousefi](https://twitter.com/frb_yousefi).
+A one-day introduction to deep learning with practical labs using Tensorflow in Python. The session is led by [Twin Karmakharm](https://rse.shef.ac.uk/contact/twin-karmakharm/) and [Fariba Yousefi](https://rse.shef.ac.uk/contact/fariba-yousefi/).
 [Register on eventbrite](https://www.eventbrite.co.uk/e/introduction-to-deep-learning-with-tensorflow-in-python-tickets-319715606987)
 
 **[Faster Matlab, 16th June](https://www.eventbrite.co.uk/e/faster-matlab-tickets-337068580197)**
