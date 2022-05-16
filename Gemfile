@@ -32,3 +32,6 @@ gem "html-proofer"
 
 # For redirects
 gem "jekyll-redirect-from"
+
+# Emojis https://github.com/jekyll/jemoji
+gem "jemoji"
