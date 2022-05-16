@@ -35,7 +35,7 @@ If you have a git tool you’d like to let others know about - get in touch with
 
 LunchBytes are organised by and for the research software community at The University of Sheffield. If you'd like to curate a session on a topic or present something, get in touch by emailing [lunchbytes-organisers-group@sheffield.ac.uk](mailto:lunchbytes-organisers-group@sheffield.ac.uk) - Or suggest topics [on the jamboard](https://jamboard.google.com/d/1-51cRf0pwZl8O10CnLeJGAqKcnbww-QGaYjszFK-H38/).
 
-### Join our team!
+### Join the RSE team!
 
 <!-- https://rse.shef.ac.uk/blog/2022-05-12-rrse/ -->
 
