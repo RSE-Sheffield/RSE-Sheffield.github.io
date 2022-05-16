@@ -49,6 +49,7 @@ We have a [job advert out for an RSE](https://www.jobs.ac.uk/job/CPR556/research
 6. **Reward and recognition.** All of the Sheffield RSE team are employed within the academic careers pathway, a new flexible career development structure which recognises a broad range of research outputs including software. The pathway provides a clear route for promotion up to the level of professor.
 
 Please [view the advert to apply](https://www.jobs.ac.uk/job/CPR556/research-software-engineer), and see contact details for enquiries about the job. General enquires about the team are welcome at [rse@sheffield.ac.uk](mailto:rse@sheffield.ac.uk).
+Applications close on the 9th of June 2022.
 
 ### News & Blogs
 
