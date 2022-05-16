@@ -1,5 +1,5 @@
 ---
-alumnum: false
+alumnum: true
 level: 2
 published: true
 
@@ -19,5 +19,4 @@ Key interests include:
 * Reproducible research
 * Open source research technologies and culture enabling next generation open science.
 
-* Email: a.krystalli (at) sheffield.ac.uk
 * Twitter: [@annakrystalli](https://twitter.com/annakrystalli)
