@@ -66,7 +66,7 @@ Applications close on the 9th of June 2022.
 ### Events
 
 * [SSI Research Software Camp: Next steps in coding](https://www.software.ac.uk/research-software-camps) - The Software Sustainability Institute runs free online Research Software Camps twice a year over the course of two weeks. Each Camp focusses on introducing and exploring a topic around research software, thus starting discussions among various research communities.
-  * The event runs from the 16 to th 27 of May 2022 and the [Programme is available online](https://www.software.ac.uk/programme-research-software-camp-next-steps-coding)
+  * The event runs from the 16 to 27 of May 2022 and the [Programme is available online](https://www.software.ac.uk/programme-research-software-camp-next-steps-coding)
 
 * [SSI Software Surgery](https://www.software.ac.uk/software-surgery) - The Software Sustainability Institute are running a free Software Surgery which aims to provide a safe and welcoming space for people to get advice on their software challenges.
   * The drop-in surgery is open Tuesday 17 to Thursday 19 May, and Tuesday 24 to Thursday 26 May, 10-11 am BST.
