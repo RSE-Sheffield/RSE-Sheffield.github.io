@@ -139,7 +139,7 @@ Whilst not shown here, these files can contain executable code, [see this blog a
 
 Version control is far more than these two words suggest, and enables a far more secure, dynamic and collaborative approach to developing code than without it. Of course, this is far more wide-ranging than just MATLAB, and as RSEs our first recommendation to researchers is to employ a version control system if they don't already. Spending time learning how to use `git`, for instance, will pay dividends.
 
-#### Why use a version control?
+#### Why use version control?
 A version control system (VCS) allows you to capture snapshots of your code as you develop, meaning that you can go back if you want to. Furthermore, you can create _branches_ to try out new ideas without fear of breaking your existing code - your main branch is still there! All this without making numerous copies and archives of your code. A VCS also allows you to merge one branch into another; so when you're happy with your feature branch (where you try out a new idea), you can combine it with your main branch!
 
 Using a VCS simply for developing code on your own machine is a great idea. But online platforms such as GitHub and GitLab add a host of excellent tools to facilitate collaboration, project management and distribution of your code.
