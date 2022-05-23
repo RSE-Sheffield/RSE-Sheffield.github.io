@@ -54,7 +54,7 @@ The last questions could be on planning and relating to others, like:
 
 After the interview, the panel will rank interviewees, again this is against the criteria in the person specification and the job description, before recommending that “Human Resources” make offers.
 
-<hr/>
+---
 
 Hopefully by sharing this we take some of the stress out of the interview process and encourage people to apply for jobs in the team!
 
