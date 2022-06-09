@@ -44,7 +44,7 @@ Note that **slots can only be booked 48 hours or more before the scheduled time*
 
 ### Preparing for your session
 
-- Please provide examples of the code you are working on, if possible. Often the best way to do this is via a “Minimal, Reproducible Example” (<https://stackoverflow.com/help/minimal-reproducible-example>) but sometimes this isn’t possible.
+- Please provide examples of the code you are working on, if possible. Often the best way to do this is via a “Minimal, Reproducible Example” (<https://stackoverflow.com/help/minimal-reproducible-example>) but sometimes this isn’t possible. It is good software engineering practice to share code using collaborative version control (e.g. GitHub) and it is good open research practice to do this publicly, although these practices are not always possible.
 - Sometimes helping with the problem requires us to understand your data. Sharing data is not always possible. A readme or data dictionary is particularly useful in these situations. 
 - Please provide any information you can on the hardware, operating system, packages you are using.
 
