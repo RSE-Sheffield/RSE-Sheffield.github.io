@@ -5,14 +5,6 @@ slug: index
 type: text
 ---
 
-In conjunction with [Nvidia Deep Learning Institue (DLI)](https://www.nvidia.com/dli), RSES offers various practical workshops on how to apply deep learning to your research. Details for these events will be posted on this page and shared via the [RSE announcement mailing list](/community/).
-
-## Current DLI Certified Instructors
-
-* [Twin Karmakharm](/contact/twin-karmakharm) (RSE Sheffield)
-
-{% include events_list.html category="dltraining" %}
-
 ## Online Deep Learning Resource
 
 You can find a list of free Deep Learning resources accessible online below. While not comprehensive, it should provide a good introduction to the field.
