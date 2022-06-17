@@ -185,10 +185,6 @@ HPC clusters use a job scheduler to make sure everyone has a chance to run their
     *   HPC Carpentry series [https://hpc-carpentry.github.io/](https://hpc-carpentry.github.io/)
 *   Linux and the command line
     *   Ubuntu’s terminal tutorial [https://ubuntu.com/tutorials/command-line-for-beginners#1-overview](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
-* [IT Services Training Courses][1]
-  * Introduction to Linux
-  * Linux Shell Scripting Tutorial
-  * Introduction to Running Software on the HPC
 
 ## Coding for Virtual Reality
 
