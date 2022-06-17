@@ -67,18 +67,6 @@ There are Python IDEs with data science focus such as [Rodeo](https://rodeo.yhat
 Here’s a demonstration of a notebook which is used to illustrate working through a machine learning exercise:  [https://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/ml/ML-Exercise1.ipynb](https://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/ml/ML-Exercise1.ipynb)
 
 
-### IT Services Training Courses
-IT Services run a number of [half-day training sessions][1] in topics such as:
-  * Introduction to Linux
-  * Linux Shell Scripting Tutorial
-  * Introduction to Running Software on the HPC
-  * Introduction to Matlab
-  * Introduction/Intermediate/Advanced Python Programming
-  * Python for Data Science
-  * Introduction to Machine Learning with Python
-
-
-
 ### LinkedIn Learning Courses
 TUoS researchers have access to a host of excellent training courses via [LinkedIn Learning](https://www.sheffield.ac.uk/nap/service/redirect/lilearning), covering an enormous base of different technologies. A good example is the ['*code clinic*' series](https://www.linkedin.com/learning/search?keywords=code%20clinic) (no relation to [RSE Code Clinics](/support/code-clinic)) in which a similar set of problems are tackled in different languages, a good way to transfer your knowledge of one language to another:
   * [R](https://www.linkedin.com/learning/code-clinic-r-2)
