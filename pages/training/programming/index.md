@@ -190,7 +190,9 @@ HPC clusters use a job scheduler to make sure everyone has a chance to run their
   * Linux Shell Scripting Tutorial
   * Introduction to Running Software on the HPC
 
+## Coding for Virtual Reality
 
+* [The Technology Behind Virtual Reality - Coding and Design](https://vr.space/news/education/vr-coding-design/)
 
 <!-- Reference Links -->
 [1]: https://www.sheffield.ac.uk/it-services/research/one-day-sessions
