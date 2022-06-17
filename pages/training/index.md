@@ -8,6 +8,8 @@ permalink: /training/
 
 ### Regular Training
 
+These courses are run on a regular basis. If there are not courses currently advertised, check back soon, or [join our mailing](https://groups.google.com/a/sheffield.ac.uk/g/rse-group) list to find out when new courses are advertised.
+
 - [git & GitHub through GitKraken - from Zero to Hero!](courses/git_Hero.md)
 - [Introduction to Deep Learning](courses/Intro_DL.md)
 
@@ -26,6 +28,7 @@ Our expertise for bespoke training development includes Python, R, MATLAB, Repro
 We can run courses where material is made openly available by others (e.g. The Carpentries).
 
 If you're interested in us running similar courses for your learners, please contact <rse@sheffield.ac.uk>.
+
 ### IT Services Training
 
 Our colleagues in [IT Services][its] offer a range of [free training courses][its-courses].
