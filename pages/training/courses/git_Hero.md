@@ -17,4 +17,6 @@ type: text
 
 **Course material:** <https://srse-git-github-zero2hero.netlify.app/>
 
+## Courses
+
 {% include events_list_upcoming.html %}

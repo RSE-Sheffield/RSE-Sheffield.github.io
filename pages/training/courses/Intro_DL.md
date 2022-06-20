@@ -18,4 +18,6 @@ Can be delivered for **Python** or **R**.
 
 **Course material:** <https://rses-dl-course.github.io>
 
+## Courses
+
 {% include events_list_upcoming.html category="dltraining" %}

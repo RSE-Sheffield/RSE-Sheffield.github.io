@@ -1,5 +1,6 @@
 {% assign current_date = site.time | date: '%F' | date: '%s' %}
 {% assign events = site.events | sort: "date" %}
+{% assign event_exists = false %}
 <div class="event-listing event-upcoming">
 {% for event in events %}
     {% assign event_date = event.date | date: '%s' %}
@@ -9,11 +10,16 @@
         {% for category in categories %}
             {% if category == event.category %}
             {% include events_list_item.html event=event %}
+            {% assign event_exists = true %}
             {% endif %}
         {% endfor %}
         {% else %}
         {% include events_list_item.html event=event %}
+        {% assign event_exists = true %}
         {% endif %}
     {% endif %}
 {% endfor %}
+{% unless event_exists %}
+    No events are currently scheduled, please join our <a href="https://groups.google.com/a/sheffield.ac.uk/g/rse-group">mailing list</a> to hear about new events.
+{% endunless %}
 </div>
