@@ -6,7 +6,7 @@ type: text
 permalink: /training/
 ---
 
-People working code for research, whether they are writing their first script to managing a complex software project need skills that academic training might not provide. The RSE Team's aspiration is that all researchers who need these skills should be given the opportunity to learn them, either from the RSE Team, our University of Sheffield colleagues or other sources.
+People working with code for research, whether they are writing their first script to managing a complex software project need skills that academic training might not provide. The RSE Team's aspiration is that all researchers who need these skills should be given the opportunity to learn them, either from the RSE Team, our University of Sheffield colleagues or other sources.
 
 ### Regular RSE Team Training
 
@@ -31,7 +31,7 @@ We have recently run these courses:
 
 Our expertise for bespoke training development includes Python, R, MATLAB, Reproducible research, C and C++, git and GitHub, Linux shell, High Performance Computing, GPU Computing, Systems administration inc. Docker and Ansible.
 
-We can run courses where material is made openly available by others (e.g. The Carpentries).
+We can run courses where material is made openly available by others (e.g. [The Carpentries](https://carpentries.org)).
 
 If you're interested in us running similar courses for your learners, please contact <rse@sheffield.ac.uk>.
 
