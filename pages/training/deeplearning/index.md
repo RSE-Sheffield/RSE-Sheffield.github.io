@@ -7,6 +7,14 @@ type: text
 
 *This is intended to be a living document and will be added to and corrected over time.*
 
+## Sheffield Data Science and AI Community
+
+The [Sheffield Data Science and AI Community](https://sheffieldai.github.io/) connects researchers with an interest inData Science and Artificial Intelligence across the University of Sheffield. 
+
+## Artificial Intelligence and Machine Learning Training
+
+In addition to training run by the RSE Team on Deep Learning, our colleagues in [IT Services][its] offer a range of [free training courses][its-courses] which include topics on Machine Learning.
+
 ## Online Deep Learning Resource
 
 You can find a list of free Deep Learning resources accessible online below. While not comprehensive, it should provide a good introduction to the field.
@@ -66,3 +74,8 @@ If you would like to contribute to the list, please get in touch with Twin at [t
     * [deeplearning.net](http://deeplearning.net/)
 * Deep Learning on UoS's ShARC cluster
     * [Neural network online resources blog post by Desmond Ryan](https://sites.google.com/a/sheffield.ac.uk/rcg/notes/neuralnetworks-onlineresource)
+
+
+
+[its-courses]: https://www.sheffield.ac.uk/it-services/research/one-day-sessions
+[its]: https://www.sheffield.ac.uk/it-services/research
