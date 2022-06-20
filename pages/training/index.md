@@ -6,7 +6,7 @@ type: text
 permalink: /training/
 ---
 
-People working code for research, whether they are writing their first script to managing a complex software project need skills that academic training might not provide. The RSE Team's aspiration is that all researchers who need these skills should be given the opportunity to learn them, either from the RSE Team, our University of Sheffield colleagues or other sources.
+People working with code for research, whether they are writing their first script to managing a complex software project need skills that academic training might not provide. The RSE Team's aspiration is that all researchers who need these skills should be given the opportunity to learn them, either from the RSE Team, our University of Sheffield colleagues or other sources.
 
 ### Regular RSE Team Training
 
