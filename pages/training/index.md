@@ -31,7 +31,7 @@ We have recently run these courses:
 
 Our expertise for bespoke training development includes Python, R, MATLAB, Reproducible research, C and C++, git and GitHub, Linux shell, High Performance Computing, GPU Computing, Systems administration inc. Docker and Ansible.
 
-We can run courses where material is made openly available by others (e.g. The Carpentries).
+We can run courses where material is made openly available by others (e.g. [The Carpentries](https://carpentries.org)).
 
 If you're interested in us running similar courses for your learners, please contact <rse@sheffield.ac.uk>.
 
