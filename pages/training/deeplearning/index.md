@@ -13,7 +13,7 @@ The [Sheffield Data Science and AI Community](https://sheffieldai.github.io/) co
 
 ## Artificial Intelligence and Machine Learning Training
 
-In addition to training run by the RSE Team on Deep Learning, our colleagues in [IT Services][its] offer a range of [free training courses][its-courses] which include topics on Machine Learning.
+In addition to training run by the RSE Team on [Deep Learning](../courses/Intro_DL.md), our colleagues in [IT Services][its] offer a range of [free training courses][its-courses] which include topics on Machine Learning.
 
 ## Online Deep Learning Resource
 
