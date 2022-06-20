@@ -7,7 +7,7 @@ to: "14:30"
 location: "Google Meet"
 speaker: "Will Furnass, Magda Dabrowska, Ian Sudbery"
 institute:
-title: "Workflow Managers"
+title: "LunchBytes: Workflow Managers"
 image:
 slides_url:
 ---
