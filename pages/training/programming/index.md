@@ -6,6 +6,8 @@ type: text
 permalink: /training/programming
 ---
 
+*This is intended to be a living document and will be added to and corrected over time.*
+
 A certain amount of technical ability is required as a modern researcher. From running simulations, running large calculations, applying data transformation and analysis or even automating mundane tasks such as renaming and moving data files, learning to program can really help improve your workflow and productivity.
 
 This page is a compilation of resources and learning materials that starts with learning to program from scratch to using the University’s High Performance Computing (HPC) clusters.

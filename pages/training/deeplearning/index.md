@@ -5,6 +5,8 @@ slug: index
 type: text
 ---
 
+*This is intended to be a living document and will be added to and corrected over time.*
+
 ## Online Deep Learning Resource
 
 You can find a list of free Deep Learning resources accessible online below. While not comprehensive, it should provide a good introduction to the field.
