@@ -17,3 +17,7 @@ Can be delivered for **Python** or **R**.
 **Duration:** One day
 
 **Course material:** <https://rses-dl-course.github.io>
+
+## Courses
+
+{% include events_list_upcoming.html category="dltraining" %}
