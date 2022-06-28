@@ -6,6 +6,8 @@ type: text
 permalink: /training/programming
 ---
 
+*This is intended to be a living document and will be added to and corrected over time.*
+
 A certain amount of technical ability is required as a modern researcher. From running simulations, running large calculations, applying data transformation and analysis or even automating mundane tasks such as renaming and moving data files, learning to program can really help improve your workflow and productivity.
 
 This page is a compilation of resources and learning materials that starts with learning to program from scratch to using the University’s High Performance Computing (HPC) clusters.
@@ -65,18 +67,6 @@ There are Python IDEs with data science focus such as [Rodeo](https://rodeo.yhat
 [Jupyter Notebooks](https://jupyter.org/) is a platform that allows you to interactively write and run code, show its results and provide text annotations within a single document. The tool is great for exploratory coding or when you want to demonstrate a linear scientific workflow.
 
 Here’s a demonstration of a notebook which is used to illustrate working through a machine learning exercise:  [https://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/ml/ML-Exercise1.ipynb](https://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/ml/ML-Exercise1.ipynb)
-
-
-### IT Services Training Courses
-IT Services run a number of [half-day training sessions][1] in topics such as:
-  * Introduction to Linux
-  * Linux Shell Scripting Tutorial
-  * Introduction to Running Software on the HPC
-  * Introduction to Matlab
-  * Introduction/Intermediate/Advanced Python Programming
-  * Python for Data Science
-  * Introduction to Machine Learning with Python
-
 
 
 ### LinkedIn Learning Courses
@@ -198,12 +188,10 @@ HPC clusters use a job scheduler to make sure everyone has a chance to run their
     *   HPC Carpentry series [https://hpc-carpentry.github.io/](https://hpc-carpentry.github.io/)
 *   Linux and the command line
     *   Ubuntu’s terminal tutorial [https://ubuntu.com/tutorials/command-line-for-beginners#1-overview](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
-* [IT Services Training Courses][1]
-  * Introduction to Linux
-  * Linux Shell Scripting Tutorial
-  * Introduction to Running Software on the HPC
 
+## Coding for Virtual Reality
 
+* [The Technology Behind Virtual Reality - Coding and Design](https://vr.space/news/education/vr-coding-design/)
 
 <!-- Reference Links -->
 [1]: https://www.sheffield.ac.uk/it-services/research/one-day-sessions
