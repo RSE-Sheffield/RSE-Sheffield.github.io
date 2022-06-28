@@ -121,6 +121,7 @@ Familiarity with the command-line interface is required as git is a command-line
 *   [Git - the simple guide](https://rogerdudler.github.io/git-guide/), more of a reference than a full tutorial. It quickly goes through the commands used in basic git operations.
 *   [Git tutorial by Atlassian](https://www.atlassian.com/git/tutorials/tutorials/what-is-version-control), a more in-depth guide to git.
 *   [Git immersion](https://gitimmersion.com/index.html), demonstrates the use of git through code along examples and exercises.
+*   [Visualizing Git Concepts](https://onlywei.github.io/explain-git-with-d3/) - online simulator to help visualize how git works.
 
 
 ### On-line Git repository hosting
