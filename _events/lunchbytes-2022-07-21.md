@@ -28,7 +28,7 @@ Details TBA.
 
 ### Ruffus (Ian Sudbery)
 
-Details TBA.
+Ruffus is one of the oldest of the modern style workflow management systems. Ruffus pipelines consist of a series of python functions that are linked together using a python feature known as decorators. Ruffus is a lighter weight alternative to systems such as Nextflow, while still offering the ability to create rich dependency graphs of tasks and orchestrate their submission to an HPC. It embodies the philosophy that for users to choose to use a reproducible pipeline in the real world, when under pressure, using a pipeline must be as easy, or easier, than the manual alternative. In my talk I will demonstrate the creation of a pipeline for a bioinformatics task consisting of multiple non-trival steps within 15 minutes. 
 
 ### Joining Instructions
 
