@@ -1,3 +1,15 @@
+---
+layout: post
+title: June/July 2022 Newsletter
+editor: Norbert Gyenge, Robert Chisholm
+slug: 2022-07-05-newsletter
+date: 2022-07-05T00:00:00Z+0100
+tags:
+category:
+link:
+description:
+type: text
+---
 ## The University of Sheffield Joint newsletter from RSE and Research IT for June / July 2022
 ### Support
 #### Code Clinics
