@@ -35,18 +35,18 @@ Research IT Forum is primarily to engage the research computing community and sh
 * [Computing Insight UK 2022](https://www.scd.stfc.ac.uk/Pages/CIUK-2022-Presentations.aspx) 1-2nd December - A HPC focused conference in Manchester, this year's key theme is Sustainable HPC, abstract submission closes 16th September.
 
 ### News, Web & Blogs
-* [Why science needs more research software engineers](https://www.nature.com/articles/d41586-022-01516-2) (featuring Shef RSE’s Paul Richmond)
+* [Why Science Needs More Research Software Engineers](https://www.nature.com/articles/d41586-022-01516-2) (featuring Shef RSE’s Paul Richmond)
 * [Aim For Understandability If You Want To Write Good Research Software](https://www.software.ac.uk/blog/2022-07-04-aim-understandability-if-you-want-write-good-research-software) (featuring Shef RSE’s David Wilby)
 * [N8 CIR: RSE Career Event – A Review](https://n8cir.org.uk/events/event-resource/rse-career-event/)
 * [The Carpentries: Image Processing with Python - Call for Beta Pilot Applications](https://carpentries.org/blog/2022/05/image-processing-beta-announcement/)
 * [GitHub Markdown now has support for mathematical expressions](https://github.blog/2022-05-19-math-support-in-markdown/)
 * [GitHub Actions for R Developers (v2)](https://www.tidyverse.org/blog/2022/06/actions-2-0-0/)
-* [Microbiology Society launches an innovative open research platform ](https://microbiologysociety.org/news/society-news/microbiology-society-launches-an-innovative-open-research-platform.html)
+* [Microbiology Society Launches an Innovative Open Research Platform](https://microbiologysociety.org/news/society-news/microbiology-society-launches-an-innovative-open-research-platform.html)
 * [A Researcher Guide to Writing a Climate Justice Oriented Data Management Plan](https://zenodo.org/record/6451499)
 
 ### Opportunities
-* [Enabling human centred decision making through data visualisation Grant](https://www.ukri.org/opportunity/enabling-human-centred-decision-making-through-data-visualisation/) - Intention to Submit Deadline 8th July
-* [UK Gov Knowledge transfer partnerships (KTP): 2022 to 2023 Round 3 Funding Competition](https://apply-for-innovation-funding.service.gov.uk/competition/1222/overview/63827061-eb42-4f00-855a-319f88d2a41f) - Closes 14th September
+* [Enabling Human Centred Decision Making Through Data Visualisation Grant](https://www.ukri.org/opportunity/enabling-human-centred-decision-making-through-data-visualisation/) - Intention to Submit Deadline 8th July
+* [UK Gov Knowledge Transfer Partnerships (KTP): 2022 to 2023 Round 3 Funding Competition](https://apply-for-innovation-funding.service.gov.uk/competition/1222/overview/63827061-eb42-4f00-855a-319f88d2a41f) - Closes 14th September
 
 ### Research IT news
 #### A100 GPU nodes
