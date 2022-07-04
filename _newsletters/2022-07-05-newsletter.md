@@ -8,7 +8,7 @@ Code Clinics are fortnightly supported sessions run by the RSE team and IT Servi
 At each session, members of the RSE and/or ITS R&I teams will be available to review code, advise, troubleshoot, and suggest ways to improve your computational workflows.
 
 #### Research IT HPC Drop In
-HPC Drop-In sessions are providing assistance with HPC related user issues such as challenges in scaling an application from desktop to supercomputer. We are considering extending the number of our sessions to two or three weekly. These interactive sessions could provide a better interface with our users than our non-interactive ticketing system. 
+HPC Drop-In sessions are providing assistance with HPC related user issues such as challenges in scaling an application from desktop to supercomputer. We are considering extending the number of our sessions to two or three weekly. These interactive sessions could provide a better interface with our users than our non-interactive ticketing system. These sessions are advertised on the [HPC mailing list](https://groups.google.com/u/1/a/sheffield.ac.uk/g/hpc).
 
 #### Research IT Consultations
 Alongside the HPC Drop-In sessions, we are also running one to one consultations to solve in depth user specific problems. These consultations can be booked via our webpage. If you are interested please visit the following link: [https://students.sheffield.ac.uk/it-services/research/support](https://students.sheffield.ac.uk/it-services/research/support).
