@@ -27,7 +27,7 @@ Research IT Forum is primarily to engage the research computing community and sh
 
 ### Events
 * [DiveRSE talk series: Lessons from Diversity, Equity and Inclusion in open source software](https://diverse-rse.github.io/events/2022-07-05) 16:00-17:00 5th July
-* [CarpentryCon 2022](https://2022.carpentrycon.org/) 1-12th August - The Carpentries Communities online conference, this year's theme is expanding data frontiers.
+* [CarpentryCon 2022](https://2022.carpentrycon.org/) 1-12th August - The Carpentries Community's online conference, this year's theme is expanding data frontiers.
 * [RSECon22](https://rsecon2022.society-rse.org/registration/) 6-8th September - The annual UK conference is hosted in Newcastle this year, **registration for attendees closes 6th July!**
 * [Digital Humanities Congress 2022](https://www.dhi.ac.uk/dhc2022/) 8-10th September - This Sheffield conference aims to promote the sharing of knowledge, ideas and techniques within the digital humanities, registration for attendees closes 31st August.
 * [OpenFest 2022](https://www.sheffield.ac.uk/library/research/openfest-2022) 14-15th September - The University library is hosting this conference on the topic of open research practices.
@@ -50,10 +50,10 @@ Research IT Forum is primarily to engage the research computing community and sh
 
 ### Research IT news
 #### A100 GPU nodes
-Bessemer is now [temporarily upgraded with 64 A100 GPUs](https://changelog.hpc.shef.ac.uk/bessemer-a100-nodes/). The resource is available for immediate use, however, it will be moved to Stanage in due course. For more information please visit [https://docs.hpc.shef.ac.uk/en/latest/bessemer/GPUComputingBessemer.html#gpucomputing-bessemer](https://docs.hpc.shef.ac.uk/en/latest/bessemer/GPUComputingBessemer.html#gpucomputing-bessemer). 
+Bessemer is now [temporarily upgraded with 64 A100 GPUs](https://changelog.hpc.shef.ac.uk/bessemer-a100-nodes/). The resource is available for immediate use, however, it will be moved to Stanage (see below) in due course. For more information please visit [https://docs.hpc.shef.ac.uk/en/latest/bessemer/GPUComputingBessemer.html#gpucomputing-bessemer](https://docs.hpc.shef.ac.uk/en/latest/bessemer/GPUComputingBessemer.html#gpucomputing-bessemer). 
 
 #### Introduction of our new HPC facility, Stanage
-Our new HPC facility, named Stanage, will allow access to ~12 000 cores and 64 GPU (A100). The facility will come online at the end of July/early August. 
+Our new HPC facility, named Stanage, will allow access to ~12,000 cores and 64 GPU (A100). The facility will come online at the end of July/early August. 
 
 
 ### Training
