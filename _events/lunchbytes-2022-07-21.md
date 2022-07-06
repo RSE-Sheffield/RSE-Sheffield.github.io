@@ -30,6 +30,12 @@ Details TBA.
 
 [Ruffus](http://www.ruffus.org.uk/) is one of the oldest of the modern style workflow management systems. Ruffus pipelines consist of a series of python functions that are linked together using a python feature known as decorators. Ruffus is a lighter weight alternative to systems such as Nextflow, while still offering the ability to create rich dependency graphs of tasks and orchestrate their submission to an HPC. It embodies the philosophy that for users to choose to use a reproducible pipeline in the real world, when under pressure, using a pipeline must be as easy, or easier, than the manual alternative. In my talk I will demonstrate the creation of a pipeline for a bioinformatics task consisting of multiple non-trival steps within 15 minutes. 
 
+### Common Workflow Language (TBA)
+
+[Common Workflow Language](https://www.commonwl.org/) (CWL) is an open standard for describing how to run command line tools and connect them to create workflows.
+
+The CWL standard is not specific to any language or technology, so enables interopability between the many different workflow languages, enabling researchers to share workflows. It's more abstract than any particular language implementation, aiming to support a super-set of the features of other languages. CWL allows portability across these systems beacuse the logical/computational parts of a workflow are decoupled from the code that runs them.
+
 ### Joining Instructions
 
 This session will take place on [Google Meet](https://meet.google.com/kuv-ecuk-eoz) and participants can join 15 minutes before the start of the session.
