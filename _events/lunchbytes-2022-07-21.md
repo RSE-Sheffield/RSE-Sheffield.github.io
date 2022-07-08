@@ -20,7 +20,11 @@ Save the date! More information to follow.
 
 ### The trouble with scripts (Will Furnass)
 
-Details TBA.
+Scripts let us chain together several bits of software, often taking the output of one and feeding it into another and/or running the same software repeatedly with different inputs. This is often far better than entering commands into a prompt and then having to remember those commands and their sequence when doing the same job again.
+
+However, glueing together the parts of a multi-step or multi-input workflow using scripts can be difficult: it's all too easy to create scripts that aren't portable between machines/systems, are brittle/unreliable, are difficult to read and test and aren't modular or reusable.
+
+For which cases are scripts a good way of running a workflow and for which might they be problematic?
 
 ### Nextflow (Magda Dabrowska)
 
