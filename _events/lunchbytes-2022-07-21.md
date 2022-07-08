@@ -5,7 +5,7 @@ published: True
 from: "13:30"
 to: "14:30"
 location: "Google Meet"
-speaker: "Will Furnass, Magda Dabrowska, Ian Sudbery"
+speaker: "Will Furnass, Magda Dabrowska, Ian Sudbery, Joe Heffer"
 institute:
 title: "LunchBytes: Workflow Managers"
 image:
