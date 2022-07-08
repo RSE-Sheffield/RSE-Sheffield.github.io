@@ -34,7 +34,7 @@ Details TBA.
 
 [Common Workflow Language](https://www.commonwl.org/) (CWL) is an open standard for describing how to run command line tools and connect them to create workflows.
 
-The CWL standard is not specific to any language or technology, so enables interopability between the many different workflow languages, enabling researchers to share workflows. It's more abstract than any particular language implementation, aiming to support a super-set of the features of other languages. CWL allows portability across these systems beacuse the logical/computational parts of a workflow are decoupled from the code that runs them.
+The CWL standard is not specific to any language or technology, so enables interoperability between the many different workflow languages, enabling researchers to share workflows. It's more abstract than any particular language implementation, aiming to support a super-set of the features of other languages. CWL allows portability across these systems because the logical/computational parts of a workflow are decoupled from the code that runs them.
 
 ### Joining Instructions
 
