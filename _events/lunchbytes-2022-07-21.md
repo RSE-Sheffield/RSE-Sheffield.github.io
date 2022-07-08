@@ -28,7 +28,7 @@ For which cases are scripts a good way of running a workflow and for which might
 
 ### Nextflow (Magda Dabrowska)
 
-[Nextflow](https://www.nextflow.io/) is a relatively new workflow manager which allows for writing scalable computational pipelines. It is based on Java and written in a Groovy language, however it provides a multitude of tools and template scripts to allow for a quick and easy access to typical workflows, without the need to learn its programming language. Major advantages of Nextflow are:
+[Nextflow](https://www.nextflow.io/) is a relatively new workflow manager which allows for writing scalable computational pipelines. It is based on Java and written in written in '[Groovy](https://groovy-lang.org/)' (a programming language which compiles to Java byte code), however it provides a multitude of tools and template scripts to allow for a quick and easy access to typical workflows, without the need to learn its programming language. Major advantages of Nextflow are:
 
 - Support for execution on multiple platforms without the need to tailor your script.
 - High portability with the support for executors used within the UoS HPC systems: SGE and SLURM.
