@@ -6,6 +6,8 @@ type: text
 permalink: /training/programming
 ---
 
+*This is intended to be a living document and will be added to and corrected over time.*
+
 A certain amount of technical ability is required as a modern researcher. From running simulations, running large calculations, applying data transformation and analysis or even automating mundane tasks such as renaming and moving data files, learning to program can really help improve your workflow and productivity.
 
 This page is a compilation of resources and learning materials that starts with learning to program from scratch to using the University’s High Performance Computing (HPC) clusters.
@@ -67,18 +69,6 @@ There are Python IDEs with data science focus such as [Rodeo](https://rodeo.yhat
 Here’s a demonstration of a notebook which is used to illustrate working through a machine learning exercise:  [https://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/ml/ML-Exercise1.ipynb](https://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/ml/ML-Exercise1.ipynb)
 
 
-### IT Services Training Courses
-IT Services run a number of [half-day training sessions][1] in topics such as:
-  * Introduction to Linux
-  * Linux Shell Scripting Tutorial
-  * Introduction to Running Software on the HPC
-  * Introduction to Matlab
-  * Introduction/Intermediate/Advanced Python Programming
-  * Python for Data Science
-  * Introduction to Machine Learning with Python
-
-
-
 ### LinkedIn Learning Courses
 TUoS researchers have access to a host of excellent training courses via [LinkedIn Learning](https://www.sheffield.ac.uk/nap/service/redirect/lilearning), covering an enormous base of different technologies. A good example is the ['*code clinic*' series](https://www.linkedin.com/learning/search?keywords=code%20clinic) (no relation to [RSE Code Clinics](/support/code-clinic)) in which a similar set of problems are tackled in different languages, a good way to transfer your knowledge of one language to another:
   * [R](https://www.linkedin.com/learning/code-clinic-r-2)
@@ -131,6 +121,7 @@ Familiarity with the command-line interface is required as git is a command-line
 *   [Git - the simple guide](https://rogerdudler.github.io/git-guide/), more of a reference than a full tutorial. It quickly goes through the commands used in basic git operations.
 *   [Git tutorial by Atlassian](https://www.atlassian.com/git/tutorials/tutorials/what-is-version-control), a more in-depth guide to git.
 *   [Git immersion](https://gitimmersion.com/index.html), demonstrates the use of git through code along examples and exercises.
+*   [Visualizing Git Concepts](https://onlywei.github.io/explain-git-with-d3/) - online simulator to help visualize how git works.
 
 
 ### On-line Git repository hosting
@@ -197,12 +188,10 @@ HPC clusters use a job scheduler to make sure everyone has a chance to run their
     *   HPC Carpentry series [https://hpc-carpentry.github.io/](https://hpc-carpentry.github.io/)
 *   Linux and the command line
     *   Ubuntu’s terminal tutorial [https://ubuntu.com/tutorials/command-line-for-beginners#1-overview](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
-* [IT Services Training Courses][1]
-  * Introduction to Linux
-  * Linux Shell Scripting Tutorial
-  * Introduction to Running Software on the HPC
 
+## Coding for Virtual Reality
 
+* [The Technology Behind Virtual Reality - Coding and Design](https://vr.space/news/education/vr-coding-design/)
 
 <!-- Reference Links -->
 [1]: https://www.sheffield.ac.uk/it-services/research/one-day-sessions

@@ -18,16 +18,14 @@
       url: /collaboration/testimonials
 - title: "Training"
   subitems:
-    - title: Training Statement
-      url: /training/statement
     - title: Training Courses
       url: /training/
     - title: Researcher Programming Resources
       url: /training/programming
+    - title: Researcher Artificial Intelligence and Machine Learning Resources
+      url: /training/deeplearning
     - title: Code Clinic
       url: /support/code-clinic
-    - title: Deep Learning
-      url: /training/deeplearning
 - title: Our Community
   subitems:
     - title: Overview
