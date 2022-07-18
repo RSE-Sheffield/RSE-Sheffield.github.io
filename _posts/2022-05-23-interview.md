@@ -2,8 +2,8 @@
 layout: post
 title: "How does the University of Sheffield RSE Team assess candidates for jobs?"
 author: RSE Team
-slug: 2022-05-23-interview
-date: 2022-05-23 10:00:00 UTC
+slug: 2022-07-18-interview
+date: 2022-07-18 10:00:00 UTC
 tags: recruitment
 category:
 link:
