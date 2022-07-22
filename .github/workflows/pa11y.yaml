@@ -32,6 +32,7 @@ jobs:
           # Install Gemfile contents via bundler
           bundle install
 
+      # Install pa11y requirements
       - name: Install pa11y-ci
         run: npm install -g pa11y-ci
 
