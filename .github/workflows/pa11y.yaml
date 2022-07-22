@@ -39,5 +39,5 @@ jobs:
       # Check site accesibility
       - name: Serve site and test with pa11y
         run: |
-          bundle exec jekyll serve &
+          bundle exec jekyll serve --detach
           pa11y-ci http://localhost:4000/
