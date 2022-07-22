@@ -16,8 +16,6 @@ Scientific workflows (for example in bioinformatics) often require several diffe
 
 In this session we will learn more about the problems of controlling workflows / pipelines using scripts, and about what workflow managers are, and how they can help.
 
-Save the date! More information to follow.
-
 ### The trouble with scripts (Will Furnass)
 
 Scripts let us chain together several bits of software, often taking the output of one and feeding it into another and/or running the same software repeatedly with different inputs. This is often far better than entering commands into a prompt and then having to remember those commands and their sequence when doing the same job again.
@@ -25,6 +23,8 @@ Scripts let us chain together several bits of software, often taking the output 
 However, glueing together the parts of a multi-step or multi-input workflow using scripts can be difficult: it's all too easy to create scripts that aren't portable between machines/systems, are brittle/unreliable, are difficult to read and test and aren't modular or reusable.
 
 For which cases are scripts a good way of running a workflow and for which might they be problematic?
+
+[Slides for "The trouble with scripts (Will Furnass)"](/assets/slides/2022-07-21-workflow-lb/LunchBytes%202022-07-21_%20the%20trouble%20with%20scripts_%20motivation%20for%20.pdf)
 
 ### Nextflow (Magda Dabrowska)
 
@@ -45,6 +45,8 @@ For which cases are scripts a good way of running a workflow and for which might
 [Common Workflow Language](https://www.commonwl.org/) (CWL) is an open standard for describing how to run command line tools and connect them to create workflows.
 
 The CWL standard is not specific to any language or technology, so enables interoperability between the many different workflow languages, enabling researchers to share workflows. It's more abstract than any particular language implementation, aiming to support a super-set of the features of other languages. CWL allows portability across these systems because the logical/computational parts of a workflow are decoupled from the code that runs them.
+
+[Slides for Common Workflow Language (Joe Heffer)](/assets/slides/2022-07-21-workflow-lb/Workflow%20managers%20for%20research%20IT.pdf)
 
 ### Joining Instructions
 
