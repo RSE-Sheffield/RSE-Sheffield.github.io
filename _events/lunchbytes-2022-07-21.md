@@ -16,7 +16,9 @@ Scientific workflows (for example in bioinformatics) often require several diffe
 
 In this session we will learn more about the problems of controlling workflows / pipelines using scripts, and about what workflow managers are, and how they can help.
 
-Save the date! More information to follow.
+### Video
+
+<iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/2103181/sp/210318100/embedIframeJs/uiconf_id/38838661/partner_id/2103181?iframeembed=true&playerId=kaltura_player&entry_id=1_h818sd68&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[hotspots.plugin]=1&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_68wm85ax" width="400" height="285" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="LunchBytes - Workflow Managers"></iframe>
 
 ### The trouble with scripts (Will Furnass)
 
@@ -25,6 +27,8 @@ Scripts let us chain together several bits of software, often taking the output 
 However, glueing together the parts of a multi-step or multi-input workflow using scripts can be difficult: it's all too easy to create scripts that aren't portable between machines/systems, are brittle/unreliable, are difficult to read and test and aren't modular or reusable.
 
 For which cases are scripts a good way of running a workflow and for which might they be problematic?
+
+[Slides for "The trouble with scripts (Will Furnass)"](/assets/slides/2022-07-21-workflow-lb/LunchBytes%202022-07-21_%20the%20trouble%20with%20scripts_%20motivation%20for%20.pdf)
 
 ### Nextflow (Magda Dabrowska)
 
@@ -46,8 +50,8 @@ For which cases are scripts a good way of running a workflow and for which might
 
 The CWL standard is not specific to any language or technology, so enables interoperability between the many different workflow languages, enabling researchers to share workflows. It's more abstract than any particular language implementation, aiming to support a super-set of the features of other languages. CWL allows portability across these systems because the logical/computational parts of a workflow are decoupled from the code that runs them.
 
-### Joining Instructions
+[Slides for Common Workflow Language (Joe Heffer)](/assets/slides/2022-07-21-workflow-lb/Workflow%20managers%20for%20research%20IT.pdf)
 
-This session will take place on [Google Meet](https://meet.google.com/kuv-ecuk-eoz) and participants can join 15 minutes before the start of the session.
+### Questions (Jamboard)
 
-We also have a [Google Jam Board](https://jamboard.google.com/d/1c0DdvFEHmAVD7c5LYPLqWa5X9Q6kYecnic6eyqIW8V4) where you can note down any questions or comments before or during the event.
+We have a [Google Jam Board](https://jamboard.google.com/d/1c0DdvFEHmAVD7c5LYPLqWa5X9Q6kYecnic6eyqIW8V4) where questions were fielded.
