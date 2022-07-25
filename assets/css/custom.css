@@ -11,6 +11,15 @@
     lg @media (min-width:992px)
     xl @media (min-width:1200px)
 */
+
+.promo{
+    background: #37618a;
+}
+
+.footer{
+    background: #00060c;
+}
+
 /* Sizes for h1 to h6, overriding bootstrap css */
 h1, .h1 { font-size: 2.5rem; }
 h2, .h2 { font-size: 2rem; }
@@ -20,11 +29,11 @@ h5, .h5 { font-size: 1.25rem; }
 h6, .h6 { font-size: 1rem; }
 
 .nav-link{
-    color: #1c3248 !important;
+    color: #00060d !important;
 }
 
 .contact-inner a {
-    color: #1c3248 !important;
+    color: #00060d !important;
 }
 
 .seminar-section {
