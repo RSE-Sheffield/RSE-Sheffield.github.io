@@ -47,8 +47,10 @@ Every second Wednesday (13:30 - 15:30).
 ### Book a slot
 
 Clinic sessions are split into 3 half-hourly slots, bookable for consultation.
-To book, please **fill in this [brief form](https://goo.gl/forms/5MVy0jM6xQhWlpmn1).**
-Note that **slots can only be booked 48 hours or more before the scheduled time**.
+
+<a href="https://goo.gl/forms/5MVy0jM6xQhWlpmn1" class="btn btn-primary">Book a code clinic session now</a>
+
+**Note that slots can only be booked 48 hours or more before the scheduled time**.
 
 ### Preparing for your session
 
