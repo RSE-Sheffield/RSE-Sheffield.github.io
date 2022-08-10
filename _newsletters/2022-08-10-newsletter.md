@@ -35,6 +35,33 @@ Welcome to this month's newsletter for the research software community at The Un
 * [1st International Conference on FAIR Digital Objects](https://www.fdo2022.org/) 26-28 October
 * [Computing Insight UK 2022](https://www.scd.stfc.ac.uk/Pages/CIUK-2022-Presentations.aspx) 1-2nd December - A HPC focused conference in Manchester, this year's key theme is Sustainable HPC, abstract submission closes 16th September.
 
+### Training
+
+#### Introduction to Deep Learning with Tensorflow in Python
+
+14 September 2022 - 09:00-17:00
+
+Details: <https://rse.shef.ac.uk/training/workshop/2022-09-14-deep-learning-with-tensorflow-in-python>
+
+Recent advances in deep neural networks coupled with an increasing amount and complexity of scientific data collected in a wide array of domains provide many exciting opportunities for deep learning applications in scientific settings. Furthermore, libraries such as Google’s Tensorflow python library have made building deep learning models more accessible through common tools, freely available to researchers.
+
+In this course, we’ll introduce some basic neural network and deep learning theory and give participants practical experience in some popular deep learning models and techniques.
+
+Content includes:
+
+* Introduction to Regression and Classification using neural networks
+* Image classification with Convolutional neural networks
+* Speeding up the training process of your own models using existing neural network
+
+Register via eventbrite: <https://www.eventbrite.co.uk/e/introduction-to-deep-learning-with-tensorflow-in-python-tickets-304788559787>
+
+
+#### Research IT Training
+Research IT is providing a place for beginners or advanced users to expand their knowledge of HPC and different programming languages. The courses are part of the Doctoral Development Programme. For more information please visit our training registration web page (via VPN): [https://crs.shef.ac.uk](crs.shef.ac.uk). 
+
+#### Git & GitHub through GitKraken workshop - from Zero to Hero!
+
+This highly popular workshop will run again in September, October and November. [Join the RSE mailing list][rse-mail-list] to be the first to get the details.
 ### Opportunities
 #### Funding
 * [Sony Research Award Program](https://www.sony.com/en/SonyInfo/research-award-program) - The Sony Research Award Program provides funding for cutting-edge academic research and helps build a collaborative relationship between faculty and Sony researchers. Application deadline 15th September.
@@ -72,14 +99,6 @@ HPC Drop-In sessions are providing assistance with HPC related user issues such 
 
 #### Research IT Consultations
 Alongside the HPC Drop-In sessions, Research IT are also running one to one consultations to solve in depth user specific problems. These consultations can be booked via our webpage. If you are interested please visit the following link: <https://students.sheffield.ac.uk/it-services/research/support>.
-
-### Training
-
-Research IT is providing a place for beginners or advanced users to expand their knowledge of HPC and different programming languages. The courses are part of the Doctoral Development Programme. For more information please visit our training registration web page (via VPN): [https://crs.shef.ac.uk](crs.shef.ac.uk). 
-
-**Git & GitHub through GitKraken workshop - from Zero to Hero!**
-
-This highly popular workshop will run again in September, October and November. [Join the RSE mailing list][rse-mail-list] to be the first to get the details.
 
 ## Sheffield RSE Team
 
