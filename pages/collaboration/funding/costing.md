@@ -21,7 +21,7 @@ We can help you with this by assisting with recruitment and by supporting your R
 
 ## RSE "service" costing
 
-If you require paid RSE support which cannot be budgeted into a research grant then we provide an different mechanism for buying RSE support. In this case we charge an internal RSE "service" day rate of £384 for internal grants and  £585+VAT for external partners and industry (2022 rates).
+If you require paid RSE support which cannot be budgeted into a research grant then we provide an different mechanism for buying RSE support. In this case we charge an internal RSE "service" day rate of £384 for internal grants and  £585+VAT for external partners and industry (£605+VAT from 1/8/2022 to 31/7/2023).
 
 The service rate is based on an average cost of an RSE in our team and has a 10% faculty administration cost.
 

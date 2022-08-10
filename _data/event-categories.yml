@@ -4,6 +4,9 @@ seminar:
 dltraining:
     image: "/assets/images/icons/icons8-connect-50.png"
     text: "Workshop"
+gitzerohero:
+    image: "/assets/images/icons/icons8-schedule-50.png"
+    text: "Workshop"
 candc:
     image: "/assets/images/icons/icons8-cafe-50.png"
     text: "Coffee <br/>&amp; Cake"
