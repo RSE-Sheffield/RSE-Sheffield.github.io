@@ -32,6 +32,7 @@ Welcome to this month's newsletter for the research software community at The Un
 * [Write the Docs 2022](https://www.writethedocs.org/conf/prague/2022/) 11-13 September 2022 - Write the Docs brings everyone who writes the docs together in the same room: Programmers, Tech Writers, Support, Designers, Developer Advocates, and more. We all have things to learn from each other, and there’s no better way than sitting together and talking. We invite you to join 300 other folks in our event to explore the art and science of documentation.
 * OpenFest 2022 14-15th September - The University library is hosting this conference on the topic of open research practices. [Programme Here](https://docs.google.com/document/d/1_Eo3uOoUv3tcUUK_YUTmWcc-YTszpAQ3JFVHs-C-e9c/edit?usp=sharing) - [Register Here](https://www.eventbrite.co.uk/e/openfest-2022-tickets-383818570677)
 * [GitKon 2022](https://gitkon.com) 11-13th October - GitKraken is hosting an online conference filled with sessions on everything important to Git users.
+* [1st International Conference on FAIR Digital Objects](https://www.fdo2022.org/) 26-28 October
 * [Computing Insight UK 2022](https://www.scd.stfc.ac.uk/Pages/CIUK-2022-Presentations.aspx) 1-2nd December - A HPC focused conference in Manchester, this year's key theme is Sustainable HPC, abstract submission closes 16th September.
 
 ### Opportunities
