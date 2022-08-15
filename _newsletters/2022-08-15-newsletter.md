@@ -2,8 +2,8 @@
 layout: post
 title: August 2022 Newsletter
 editor: David Wilby
-slug: 2022-08-10-newsletter
-date: 2022-08-10T00:12:00Z+0100
+slug: 2022-08-15-newsletter
+date: 2022-08-15T00:10:00Z+0100
 tags:
 category:
 link:
