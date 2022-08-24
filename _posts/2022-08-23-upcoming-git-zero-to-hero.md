@@ -14,12 +14,12 @@ excerpt_separator: <!--more-->
 ---
 
 The RSE Team are pleased to announce three scheduled sessions of the increasingly popular [Git & GitHub through
-GitKrakent - Zero to Hero!](https://srse-git-github-zero2hero.netlify.app/). These courses will run over two consecutive
+GitKraken - Zero to Hero!](https://srse-git-github-zero2hero.netlify.app/). These courses will run over two consecutive
 days in morning sessions from 09:30 to 13:00 on the following days.
 
-* Monday 3rd/Tuesday 4th October 2022
-* Monday 31st October/Tuesday 1st November 2022
-* Monday 28th/Tuesday 29th November 2022
+* [Monday 3rd/Tuesday 4th October 2022](/training/workshop/2022-10-03-git-zero-hero)
+* [Monday 31st October/Tuesday 1st November 2022](/training/workshop/2022-10-31-git-zero-hero)
+* [Monday 28th/Tuesday 29th November 2022](/training/workshop/2022-11-28-git-zero-hero)
 
 ## What are Git, GitHub and GitKraken?
 
