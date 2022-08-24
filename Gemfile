@@ -35,3 +35,5 @@ gem "jekyll-redirect-from"
 
 # Emojis https://github.com/jekyll/jemoji
 gem "jemoji"
+
+gem "webrick", "~> 1.7"
