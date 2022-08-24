@@ -2,7 +2,7 @@
 title: "git & GitHub through GitKraken - from Zero to Hero!"
 category: gitzerohero
 tags: collaboration, git, github, gitkraken
-permalink: /training/workshop/2022-06-06-git-zero-hero
+permalink: /training/workshop/2022-10-03-git-zero-hero
 date: 2022-10-03
 end-date: 2022-10-04
 from: "09:30"
@@ -55,7 +55,7 @@ More details and registration via
 [eventbrite](https://www.eventbrite.com/e/git-github-through-gitkraken-from-zero-to-hero-registration-406105320947).
 
 
-**Please note:** This workshop will run over 2 half days from 12:30-16:30 on Monday 3rd and Tuesday 4th October 2022.
+**Please note:** This workshop will run over 2 half days from 09:30-13:00 on Monday 3rd and Tuesday 4th October 2022.
 
 **Course material:** <https://srse-git-github-zero2hero.netlify.app/>
 
