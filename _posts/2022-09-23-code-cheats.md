@@ -37,5 +37,28 @@ Software tests can be extremely unpalatable to researchers. I can see why - you 
 
 If you're in a position to have your code backed up to a site like [GitHub](https://github.com/) or [Gitlab](https://about.gitlab.com/), **you can automate running checks and tests on your code every time you upload changes**. This is "Continuous Integration" and is set up on GitHub by adding a small file to your repository that specifies what checks to run. [This example](https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python) is probably a bit more complex than it needs to be for a Python project, but I think it's still fairly easy to see what's going on.
 
+<hr>
+
+## Further resources
+
+### Python
+
+* [pytest](https://pytest.org)
+* [pylint](https://pylint.pycqa.org/en/latest/) a useful reference is also the [pylint messages overview](https://pylint.pycqa.org/en/latest/user_guide/messages/messages_overview.html) which includes examples for each message.
+* [Python Extensions for VSCode](https://marketplace.visualstudio.com/items?itemName=ms-python.python) provides support for Black, PyLint, Flake8 and more.
+* [PyCharm : Black](https://plugins.jetbrains.com/plugin/10563-black-pycharm)
+* [PyCharm : PyLint](https://plugins.jetbrains.com/plugin/11084-pylint)
+
+### R
+
+* [RStudio](https://rstudio.org)
+* [Format R Code Automatically](https://yihui.org/formatr/)
+* [lintr](https://cran.r-project.org/web/packages/lintr/)
+* [lintr : Editor Configuration](https://cran.r-project.org/web/packages/lintr/vignettes/editors.html)
+* [lintr : Continuous Integration](https://cran.r-project.org/web/packages/lintr/vignettes/continuous-integration.html)
+* [R Packages : 13 Testing Basics](https://r-pkgs.org/testing-basics.html)
+
+<hr>
+
 <div style="width: 50%; margin:0 auto;"><img src="/assets/images/jose-aljovin-l6dnswlRZyE-unsplash.jpg" alt="Coder doing a card trick"/><p>Photo by
 jose aljovin on Unsplash</p></div>
