@@ -4,11 +4,11 @@ permalink: /community/code_of_conduct
 type: text
 ---
 
-The RSE Team runs an participates in a range of online and in-person activities, including collaborative projects, LunchBytes, Slack conversations and in-person seminars. Participants are mostly University of Sheffield staff / students, but sometimes include our external friends and collaborators.
+The RSE Team runs and participates in a range of online and in-person activities, including collaborative projects, [LunchBytes](lunch-bytes), Slack conversations and in-person seminars. Participants are mostly University of Sheffield staff / students, but sometimes include our external friends and collaborators.
 
-University of Sheffield staff and students conduct is governed by the terms of their employment / study which can be found on the [University website](https://www.sheffield.ac.uk) alongside reporting procedures. For those outside The University of Sheffield, we have a code of conduct.
+University of Sheffield staff and students conduct is governed by the terms of their employment / study which can be found on the [University website](https://www.sheffield.ac.uk) alongside reporting procedures. We have a code of conduct for those outside The University of Sheffield,.
 
-## Code of Conduct
+## Code of Conduct for External Participants
 
 The RSE Team at The University of Sheffield have a Code of Conduct which is set out below. It defines the standards and
 behaviour you can expect from all participants of our community and in turn that we expect from you when you participate
