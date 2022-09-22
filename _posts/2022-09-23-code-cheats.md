@@ -19,7 +19,7 @@ Research Software Engineers are often not much better at actually writing code t
 
 ## Auto-format your code
 
-Often a programming language gives you a choice of how to format your code. Do you use single or double quotes? Spread long lines over several lines using a separator? Where you you split these? Empty line before a function definition? **Consistently formatted code is easier to read and will save you time when you come back to it.** A auto-formatting tool will take care of this. In Python, where formatting choices abound, [black](https://github.com/psf/black) is this tool. I've not used it but [formatR](https://cran.r-project.org/web/packages/formatR/index.html) seems to be a close R equivalent.
+Often a programming language gives you a choice of how to format your code. Do you use single or double quotes? Spread long lines over several lines using a separator? Where you you split these? Empty line before a function definition? **Consistently formatted code is easier to read and will save you time when you come back to it.** An auto-formatting tool will take care of this. In Python, where formatting choices abound, [black](https://github.com/psf/black) is this tool. I've not used it but [formatR](https://cran.r-project.org/web/packages/formatR/index.html) seems to be a close R equivalent. Most popular IDEs such as [VSCode](https://marketplace.visualstudio.com/items?itemName=ms-python.python), [PyCharm](https://plugins.jetbrains.com/plugin/10563-black-pycharm)  (and less popular ones such as [Emacs](https://github.com/wbolster/emacs-python-black)) include plugins and extensions to apply formatting automatically when saving files.
 
 ## Run a code checker
 
