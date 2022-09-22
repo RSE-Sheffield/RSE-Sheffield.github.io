@@ -4,6 +4,10 @@ permalink: /community/code_of_conduct
 type: text
 ---
 
+The RSE Team runs an participates in a range of online and in-person activities, including collaborative projects, LunchBytes, Slack conversations and in-person seminars. Participants are mostly University of Sheffield staff / students, but sometimes include our external friends and collaborators.
+
+University of Sheffield staff and students conduct is governed by the terms of their employment / study which can be found on the [University website](https://www.sheffield.ac.uk) alongside reporting procedures. For those outside The University of Sheffield, we have a code of conduct.
+
 ## Code of Conduct
 
 The RSE Team at The University of Sheffield have a Code of Conduct which is set out below. It defines the standards and
