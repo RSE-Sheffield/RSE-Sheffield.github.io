@@ -2,8 +2,8 @@
 layout: post
 title: "Upcoming : Git & GitHub through GitKraken - Zero to Hero!"
 author: Neil Shephard
-slug: 2022-10-22-upcoming-git-zero-to-hero
-date: 2022-10-23 12:00:00 UTC
+slug: 2022-8-22-upcoming-git-zero-to-hero
+date: 2022-8-23 12:00:00 UTC
 tags: git github gitkraken
 category:
 link:
