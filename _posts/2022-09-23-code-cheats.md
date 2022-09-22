@@ -13,6 +13,8 @@ type: text
 excerpt_separator: <!--more-->
 ---
 
+*Thanks 🙏 to Neil Shephard for checking though this!*
+
 Research Software Engineers are often not much better at actually writing code than any other researcher, we just know a lot of cheats, shortcuts and ways to automate things. I'm going to risk the wrath of my fellow engineers and share some of these here. They will mean you can work a bit faster, but mostly will stop you throwing code away when you come back to it after a few months and can't figure out what the flip it's supposed to do.
 
 <!--more-->
