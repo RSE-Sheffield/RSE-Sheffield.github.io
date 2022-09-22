@@ -23,7 +23,7 @@ Often a programming language gives you a choice of how to format your code. Do y
 
 ## Run a code checker
 
-People tell me they write "bad code". I think they generally underestimate their abilities, but this is a little beside the point. There are good and bad practises when coding - a function with 27 input variables named `a`, `b`, `default`, `sAm`, `a2`, etc. is not likely to be good practise in any language. You probably know this. But there are hundreds of bad practises and no-one can even remember them all! Probably. So we have tools to automatically check code for these. [pylint](https://pypi.org/project/pylint/) is a good choice in Python, and R has [lintR](https://github.com/r-lib/lintr). **Use these and your code will be easier to read an maintain.** You may even prevent some bugs!
+People tell me they write "bad code". I think they generally underestimate their abilities, but this is a little beside the point. There are good and bad practises when coding - a function with 27 input variables named `a`, `b`, `default`, `sAm`, `a2`, etc. is not likely to be good practise in any language. You probably know this. But there are hundreds of bad practises and no-one can even remember them all! Probably. So we have tools to automatically check code for these. [pylint](https://pypi.org/project/pylint/) is a good choice in Python, and R has [lintR](https://github.com/r-lib/lintr). **Use these and your code will be easier to read and maintain.** You may even prevent some bugs!
 
 ## Make a regression test
 
