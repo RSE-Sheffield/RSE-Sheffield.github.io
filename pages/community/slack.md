@@ -10,4 +10,6 @@ The Slack channel is not an approved IT resource for private communications. Uni
 
 If you are a University of Sheffield researcher, and have an email address ending in `@sheffield.ac.uk`, you can [join the workspace via this link](https://join.slack.com/t/RSE-UoS/signup). Otherwise, please email [rse@sheffield.ac.uk](mailto:rse@sheffield.ac.uk) and ask to join.
 
+Please introduce yourself in the **#general** channel after joining!
+
 The [RSE Society Slack workspace](https://society-rse.org/join-us/) is a better place to connect with the national and international RSE community.
