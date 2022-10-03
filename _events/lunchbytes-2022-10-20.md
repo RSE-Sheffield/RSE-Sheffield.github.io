@@ -14,7 +14,7 @@ slides_url:
 
 ### Abstract (more details to follow)
 
-Dr Ilse Daly will tell us about her journey from developing her own code during her PhD in animal vision to becoming a freelance app developer running her own business, Blackdog Biomechanics. The app she developed uses machine learning and computer vision to give equestrian sports enthusiasts instant feedback on their riding posture, essential in dressage competitions.
+Dr Ilse Daly will tell us about her journey from developing her own code during her PhD in animal vision to becoming a freelance app developer running her own business, Blackdog Biomechanics. The app she developed, [Blackdog Equestrian](https://www.blackdogequestrian.com/) uses machine learning and computer vision to give equestrian sports enthusiasts instant feedback on their riding posture, essential in dressage competitions.
 
 ### Joining Instructions
 Join on Google meet at: https://meet.google.com/ukd-eqsc-mzv
