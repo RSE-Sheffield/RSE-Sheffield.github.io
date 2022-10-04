@@ -61,7 +61,7 @@ Your application will be assessed on the following criteria;
 
 ## Application Process
 
-You should apply via the provided expression of interest google form below. This is an open call and applications will be reviewed on a first-come-first-served basis. **The closing date for the next (second) round of reviews is Friday 16/09/2022 at 17:00**. Applications received after this date will be reviewed in the next round of applications. Dates for future rounds will be announced on this page.
+You should apply via the provided expression of interest google form below. This is an **open call** and applications will be reviewed on a first-come-first-served basis.
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScsp1T57ohGnCA91D7KoKJPPtGiuVTY52u8S3q21I9VLLsH0Q/viewform" class="btn btn-primary">Application form</a>
 
