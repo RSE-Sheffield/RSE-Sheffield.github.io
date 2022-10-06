@@ -19,4 +19,4 @@ type: text
 
 ## Courses
 
-{% include events_list_upcoming.html %}
+{% include events_list_upcoming.html category="gitzerohero" %}
