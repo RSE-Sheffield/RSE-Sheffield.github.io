@@ -31,7 +31,7 @@ Join on Google meet at: <https://meet.google.com/ozf-rrjs-wmq>
 
 By joining with a University of Sheffield google account you will be admitted automatically.
 
-External attendees are welcome but please read our [Code of Conduct](code_of_conduct) and contact the organiser first at [r.d.turner@sheffield.ac.uk](mailto:r.d.turner@sheffield.ac.uk).
+External attendees are welcome but please read our [Code of Conduct](/community/code_of_conduct) and contact the organiser first at [r.d.turner@sheffield.ac.uk](mailto:r.d.turner@sheffield.ac.uk).
 
 ### Questions
 
