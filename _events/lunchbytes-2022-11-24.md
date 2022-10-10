@@ -5,7 +5,7 @@ published: True
 from: "12:00"
 to: "13:00"
 location: "Google Meet"
-speaker: ""
+speaker: "Panel"
 institute:
 title: "LunchBytes Panel: Teaching Code"
 image:
