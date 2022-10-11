@@ -24,9 +24,9 @@ Terraform, Jupyter Notebooks, and so on. The list of [supported hooks](https://p
 
 ## Background
 
-For those unfamiliar with version control and Git in particular this will likely all sounds alien. If you are new to the
+For those unfamiliar with version control and Git in particular this will likely all sound alien. If you are new to the
 world of version control and Git I can highly recommend the [Git & Github through GitKraken Client - From Zero to
-Hero!](https://srse-git-github-zero2hero.netlify.app/) offered by the [Research Software
+Hero!](https://srse-git-github-zero2hero.netlify.app/) course offered by the [Research Software
 Engineering](https://rse.shef.ac.uk) at the University of Sheffield and developed by Alumni [Anna
 Krystalli](https://annakrystalli.me/).
 
@@ -45,23 +45,22 @@ so yet as they provide useful examples of how various hooks work.
 ### Why pre-commit hooks?
 
 Typically when writing code you should [lint](https://ns-rse.github.io/posts/linting/) your code to ensure it
-complies to agreed style guides and remove any "[code smells](https://en.wikipedia.org/wiki/Code_smell)" that may be
+conforms to agreed style guides and remove any "[code smells](https://en.wikipedia.org/wiki/Code_smell)" that may be
 lingering (code that violates design principles). It won't guarantee that your code is perfect but its a good starting
 point to improving it. People who write a lot of code have good habits of doing these checks manually prior to making
 commits. Experienced coders will have configured their Integrated Development Environment (IDE) to apply many such
 "hooks" on saving a file they have been working on.
 
-At regular points in your work flow you save your work and check it into Git by making a commit and that is
+At regular points in your workflow you save your work and check it into Git by making a commit and that is
 where `pre-commit` comes in to play because it will run all the hooks it has been configured to run against the files
 you are including in your commit. If any of the hooks fail then your commit is _not_ made. In some cases `pre-commit`
 will automatically correct the errors (e.g. removing trailing white-space; applying
 [black](https://github.com/psf/black) formatting if configured) but in others you have to correct them yourself before a
 commit can be successfully made.
 
-Initially this can be jarring, but it saves you, and more importantly those who you are asking to review your code in
-your as yet to be created pull request, time and effort as it ensures your code meets the required style and is a little
-bit cleaner before being sent out for review. Long term linting your code is beneficial (see [Linting - What is all the fluff
-about?](2022-04-19-linting)).
+Initially this can be jarring, but it saves you, and more importantly those who you are asking to review your code, time
+and effort. Your code meets the required style and is a little bit cleaner before being sent out for review. Long term
+linting your code is beneficial (see [Linting - What is all the fluff about?](2022-04-19-linting)).
 
 ## Installation
 
@@ -69,16 +68,8 @@ Pre-commit is written in Python and so you will need Python installed on your sy
 there is little else extra that is required to be manually installed as pre-commit installs virtual environments
 specific for each enabled hook.
 
-If your systems package manager includes pre-commit you can install it system wide.
-
-```bash
-emerge -av pre-commit           # Gentoo
-pacman -Syu pre-commit          # Arch
-sudo apt-get install pre-commit # Debian/Ubuntu
-brew install pre-commit         # Homebrew (OSX)
-```
-
-Alternatively you can install it under your account or virtual environment.
+Most systems provide `pre-commit` in their package management system but typically you should install `pre-commit`
+within your virtual environment or under your user account.
 
 ```bash
 pip install pre-commit
@@ -113,7 +104,7 @@ git add .pre-commit-config.yaml
 
 ### Hooks
 
-Each hook is associated with a repository (`repo`) and a version (`rev`). Many are available from the
+Each hook is associated with a repository (`repo`) and a version (`rev`) within it. Many are available from the
 `https://github.com/pre-commit/pre-commit-hooks`. The default set of `pre-commit` hooks might look like the following.
 
 
@@ -226,9 +217,35 @@ And these two options can be combined to run a specific hook against all files.
 pre-commit run <id> --all-files
 ```
 
+
+You may find that you wish to switch branches to work on another feature or fix a bug but that your current work doesn't
+pass the `pre-commit` and you don't wish to sort that out immediately. The solution to this is to use `git stash` to
+temporarily save your current uncommitted work and restore the working directory and index to its previous state. You
+are then free to switch branches and work on another feature or fix a bug, commit and push those changes and then switch
+back.
+
+Imagine you are working on branch `a` but are asked to fix a bug on branch `b`. You go to commit your work but find that
+`a` does not pass `pre-commit` but you wish to work on `b` anyway. Starting on branch `a` you stash your changes, switch
+branches, make and commit your changes to branch `b` then switch back to `a` and unstash your work there.
+
+``` bash
+git stash
+git checkout b
+... # Work on branch b
+git add <changed_files_on_branch_b>
+git commit -m "Fixing bug on branch b"
+git push
+git checkout a
+git stash apply
+```
+
+
 ## Updating
 
-You can update hooks by running `pre-commit autoupdate`.
+You can update hooks locally by running `pre-commit autoupdate`. This will update your `.pre-commit-config.yaml` with
+the latest version of repositories you have configured and these will run both locally and if you use CI/CD as described
+below. However this will _not_ update any packages that are part of the `- repo: local` that you may have implemented
+and it is your responsibility to handle these.
 
 
 ## Pre-commit CI/CD
@@ -256,6 +273,8 @@ git commit -m "Adding pre-commit GitHub Action" && git push
 If you use GitLab the following article describes how to configure a CI job to run as part of your repository.
 
 * [How to use pre-commit to automatically correct commits and merge requests with GitLab CI](https://stackoverflow.com/collectives/gitlab/articles/71270196/how-to-use-pre-commit-to-automatically-correct-commits-and-merge-requests-with-g)
+
+
 
 
 ## Links
