@@ -19,6 +19,9 @@ array of languages to ensure your code is up-to-scratch _before_ you make the co
 
 <!--more-->
 
+<div style="width: 50%; margin:0 auto;"><img src="/assets/images/watchful_eye.jpg" alt="Close-up of eye on an elephant
+sculpture"/><p>Photo by <a href="https://www.flickr.com/photos/slackline/52064837339/" target="_blank">Neil Shephard</a>.</p></div>
+
 Pre-commit is written in Python but that isn't a limitation as it will lint YAML, JSON, C, JavaScript, Go, Rust, TOML,
 Terraform, Jupyter Notebooks, and so on. The list of [supported hooks](https://pre-commit.com/hooks.html) is vast.
 
@@ -28,7 +31,7 @@ For those unfamiliar with version control and Git in particular this will likely
 world of version control and Git I can highly recommend the [Git & Github through GitKraken Client - From Zero to
 Hero!](https://srse-git-github-zero2hero.netlify.app/) course offered by the [Research Software
 Engineering](https://rse.shef.ac.uk) at the University of Sheffield and developed by Alumni [Anna
-Krystalli](https://annakrystalli.me/).
+Krystalli](https://www.r-rse.eu/).
 
 ### What is a "hook"?
 
