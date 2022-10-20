@@ -14,7 +14,7 @@ slides_url:
 
 ### Abstract
 
-Our speaker this month will be Dr Ilse Daly who'll be taking us through her journey from vision scientist to start-up founder at her company Blackdog Biomechanics.
+Our speaker this month was Dr Ilse Daly tol us about her journey from vision scientist to start-up founder at her company Blackdog Biomechanics.
 
 <video width="700" controls="controls">
   <source src="https://video.wixstatic.com/video/0f2a5e_d7ce1ff47a9149da8e466d3d19e07b61/720p/mp4/file.mp4" type="video/mp4">
@@ -30,13 +30,4 @@ Our speaker this month will be Dr Ilse Daly who'll be taking us through her jour
 
 Image: Cédric Péneau via [Wikimedia](https://commons.wikimedia.org/wiki/File:Odontodactylus_scyllarus_R%C3%A9union.jpg)
 
-### Joining Instructions
-Join on Google meet at: <https://meet.google.com/ukd-eqsc-mzv>
-
-By joining with a University of Sheffield google account you will be admitted automatically.
-
-External attendees are welcome but please contact the organiser first at [d.wilby [at] sheffield.ac.uk](mailto:d.wilby@sheffield.ac.uk)
-
-### Questions
-
-We'll use sli.do for questions, link will be circulated during the event.
+<div style="max-width:608px"><div style="position:relative;padding-bottom:66.118421052632%"><iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/2103181/sp/210318100/embedIframeJs/uiconf_id/40991011/partner_id/2103181?iframeembed=true&playerId=kaltura_player&entry_id=1_snahida3&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[hotspots.plugin]=1&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_gr0q8jd3" width="608" height="402" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="LunchBytes: from eyes to apps" style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe></div></div>
