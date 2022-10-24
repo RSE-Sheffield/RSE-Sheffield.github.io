@@ -87,7 +87,7 @@ Function names may also be a good indicator of whether you need to split your fu
 ## 4. Comments?
 Writing comments inline with code is something that most people writing code know about. But is it always the answer?
 Yes, comments can help to explain what's going on in your code and all code should have some.
-But what might be better is to write your code in a way that inherently makes it easier to understand.
+But if you find you are writing large amounts of comments in your code what might be better is to write your code in a way that inherently makes it easier to understand.
 If you follow the steps discussed so far, you may find that your code explains itself and comments are only needed in a few places.
 
 ## 5. Consider dependencies
