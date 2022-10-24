@@ -14,7 +14,7 @@ slides_url:
 
 ### Abstract
 
-Our speaker this month was Dr Ilse Daly tol us about her journey from vision scientist to start-up founder at her company Blackdog Biomechanics.
+Our speaker this month was Dr Ilse Daly who told us about her journey from vision scientist to start-up founder at her company Blackdog Biomechanics.
 
 <video width="700" controls="controls">
   <source src="https://video.wixstatic.com/video/0f2a5e_d7ce1ff47a9149da8e466d3d19e07b61/720p/mp4/file.mp4" type="video/mp4">
