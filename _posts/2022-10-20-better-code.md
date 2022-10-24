@@ -93,7 +93,7 @@ If you follow the steps discussed so far, you may find that your code explains i
 ## 5. Consider dependencies
 If your code relies on another library, package or toolbox, that's what we call a dependency. Dependencies are needed to run your code, but aren't actually part of your codebase. In order for somone else to use your code (think about openly sharing your research) then they'll need to have those dependencies as well.
 When writing your code, consider which depdendencies are required and make sure that when your code is shared, you also document which other dependencies are required and how to get hold of them.
-
+One useful approach to dealing with dependencies is to turn you code into a package which will typically pull in the required dependencies when it is installed.
 ## Next steps?
 These are all great steps to take and principles to consider when writing code. But how can we go further to write even better code?
 
