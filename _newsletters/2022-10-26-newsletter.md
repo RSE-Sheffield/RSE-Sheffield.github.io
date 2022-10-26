@@ -63,15 +63,15 @@ This is an introductory course, teaching the git and GitHub skills required to m
 
 This two half-day course is being run multiple times in the coming months:
 
-* [2022-10-31 & 2022-11-01](https://rse.shef.ac.uk/training/workshop/2022-10-31-git-zero-hero)
-* [2022-11-28 & 2022-11-29](https://rse.shef.ac.uk/training/workshop/2022-11-28-git-zero-hero)
+* [31 October 2022 and 1 November 2022](https://rse.shef.ac.uk/training/workshop/2022-10-31-git-zero-hero)
+* [28 November 2022 and 29 November 2022](https://rse.shef.ac.uk/training/workshop/2022-11-28-git-zero-hero)
 
 #### RSE Team: Introduction to Deep Learning Course with Tensorflow Keras (in Python)
 
 A one-day introduction to deep learning with practical labs using Tensorflow in Python:
 
-* [16 November 2022 - 09:00-17:00](https://rse.shef.ac.uk/training/workshop/2022-11-16-deep-learning-with-tensorflow-in-python)
-* [18 January 2023 - 09:00-17:00](https://rse.shef.ac.uk/training/workshop/2023-01-18-deep-learning-with-tensorflow-in-python)
+* [16 November 2022](https://rse.shef.ac.uk/training/workshop/2022-11-16-deep-learning-with-tensorflow-in-python)
+* [18 January 2023](https://rse.shef.ac.uk/training/workshop/2023-01-18-deep-learning-with-tensorflow-in-python)
 
 #### Bioinformatics Training
 
