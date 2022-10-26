@@ -14,9 +14,9 @@ type: text
 
 Welcome to this month's newsletter for the research software community at The University of Sheffield, featuring news, opportunities, events and training for you.
 
-> It's been an action packed month. Three new blog posts on the RSE Team website, two focussed on making quality code easy to achieve and one on valuing the outputs of RSEs and others. We've had the launch of the [MATLAB User survey](https://docs.google.com/forms/d/e/1FAIpQLSfackAnztuL1fQ_l66XLdEKSIuCIie6T-XrA7srTsmRiiVq_w/viewform) helping push forward better research practises in this vitally important language for research coders. The RSE Team has a new member, [Edwin Brown](/contact/edwin-brown/), who will boost the teams capacity, particularly around AI and Machine Learning. And news that [Paul Richmond is a winner](https://www.sheffield.ac.uk/dcs/news/paul-richmond-honoured-contribution-society-research-software-engineers) of an award from the RSE Society recognising his contribution as president of the organisation.
+> It's been an action packed month. Three new blog posts on the RSE Team website, two focussed on making quality code easy to achieve and one on valuing the outputs of RSEs and others. We've had the launch of the [MATLAB User survey](https://docs.google.com/forms/d/e/1FAIpQLSfackAnztuL1fQ_l66XLdEKSIuCIie6T-XrA7srTsmRiiVq_w/viewform) helping push forward better research practises in this vitally important language for research coders. The RSE Team has a new member, [Edwin Brown](https://rse.shef.ac.uk/contact/edwin-brown/), who will boost the teams capacity, particularly around AI and Machine Learning. And news that [Paul Richmond is a winner](https://www.sheffield.ac.uk/dcs/news/paul-richmond-honoured-contribution-society-research-software-engineers) of an award from the RSE Society recognising his contribution as president of the organisation.
 > 
-> Looking ahead to November, please come along to the next LunchBytes event on ["Teaching Code"](/events/lunchbytes-2022-11-24).
+> Looking ahead to November, please come along to the next LunchBytes event on ["Teaching Code"](https://rse.shef.ac.uk/events/lunchbytes-2022-11-24).
 
 *Bob*
 
@@ -24,13 +24,13 @@ Welcome to this month's newsletter for the research software community at The Un
 
 #### Blogs from the RSE Team:
 
-* [pre-commit : Protecting your future self](/blog/pre-commit) Pre-commit is a powerful tool for executing a range of hooks prior to making commits to your Git history. This is useful because it means you can automatically run a range of linting tools on your code across an array of languages to ensure your code is up-to-scratch before you make the commit.
-* [Demonstrating Importance and Value in Research Software](/blog/2022-10-13-quality-value-research-software) As research software engineers (RSEs) or researchers who develop software & code, at some point we will need to provide evidence that our software actually has some positive effect on the world. Whether this is for career progression, the REF, just for your own peace of mind...
-* [Writing better and more shareable code](/blog/2022-10-20-better-code) If you know how to write code, it’s not actually that hard to make it better! You just need to know how.
+* [pre-commit : Protecting your future self](https://rse.shef.ac.uk/blog/pre-commit) Pre-commit is a powerful tool for executing a range of hooks prior to making commits to your Git history. This is useful because it means you can automatically run a range of linting tools on your code across an array of languages to ensure your code is up-to-scratch before you make the commit.
+* [Demonstrating Importance and Value in Research Software](https://rse.shef.ac.uk/blog/2022-10-13-quality-value-research-software) As research software engineers (RSEs) or researchers who develop software & code, at some point we will need to provide evidence that our software actually has some positive effect on the world. Whether this is for career progression, the REF, just for your own peace of mind...
+* [Writing better and more shareable code](https://rse.shef.ac.uk/blog/2022-10-20-better-code) If you know how to write code, it’s not actually that hard to make it better! You just need to know how.
 
 #### New LunchBytes recording online
 
-* [LunchBytes: From Eyes to Apps](/events/lunchbytes-2022-10-20) Our speaker this month was Dr Ilse Daly who told us about her journey from vision scientist to start-up founder at her company Blackdog Biomechanics.
+* [LunchBytes: From Eyes to Apps](https://rse.shef.ac.uk/events/lunchbytes-2022-10-20) Our speaker this month was Dr Ilse Daly who told us about her journey from vision scientist to start-up founder at her company Blackdog Biomechanics.
 
 #### Web and publications
 
@@ -45,7 +45,7 @@ Welcome to this month's newsletter for the research software community at The Un
 * [N8 CIR Machine Learning Theme Launch](https://n8cir.org.uk/events/machine-learning-theme-launch/) - 2022-11-01, The University of Leeds. Open to all researchers, PGRs and anyone involved in Machine Learning at an N8 institution, this event will bring the Machine Learning community from across N8 together to find out more about N8 CIR, plans for the theme and all-important networking opportunities.
 * [ODI Summit 2022: Data Decade](https://summit2022.theodi.org/) Join the Summit virtually on 8 November 2022 from 10:00 – 22:00 GMT, where you will hear from world-leading data and AI experts, including the inventor of the World Wide Web, Sir Tim Berners-Lee and AI expert Sir Nigel Shadbolt addressing the data challenges we will face in the years ahead. 
 * [NHS-R Community Conference 2022](https://nhsrcommunity.com/events/nhs-r-community-conference-2022/) 16th and 17th November 2022. The main conference is a hybrid conference with the opportunity to join in person at Edgbaston Stadium, Birmingham or to join online via Zoom.
-* [LunchBytes Panel: Teaching Code](/events/lunchbytes-2022-11-24) As code and software become an ever bigger part of research (its likely that around 1/3 of researchers write code), coding and other digital skills become ever more important to researchers. In this online panel discussion, we will explore this with a few questions.
+* [LunchBytes Panel: Teaching Code](https://rse.shef.ac.uk/events/lunchbytes-2022-11-24) As code and software become an ever bigger part of research (its likely that around 1/3 of researchers write code), coding and other digital skills become ever more important to researchers. In this online panel discussion, we will explore this with a few questions.
 * [Computing Insight UK 2022](https://www.scd.stfc.ac.uk/Pages/CIUK2022.aspx) Manchester Central Convention Complex on Thursday 1 and Friday 2 December. The theme for the conference this year is "Sustainable HPC" with sub-themes including "Sustainable Skills", "Sustainable Funding" and "Net Zero Computing".
 * [PyData Global 2022](https://pdg22.wpengine.com) - 2022-12-01 to 2022-12-03, Online. The PyData Global conference is an opportunity to listen, learn, and share knowledge about best practices, new approaches, and emerging technologies for data management, processing, analytics, and visualization.
 * [Reproducible Analytical Pipelines Webinar](https://www.eventbrite.co.uk/e/reproducible-analytical-pipelines-webinar-tickets-428453535057) November 3rd. Join HDR UK and DNAnexus for a free webinar on reproducible analytical pipelines.
@@ -63,15 +63,15 @@ This is an introductory course, teaching the git and GitHub skills required to m
 
 This two half-day course is being run multiple times in the coming months:
 
-* [2022-10-31 & 2022-11-01](/training/workshop/2022-10-31-git-zero-hero)
-* [2022-11-28 & 2022-11-29](/training/workshop/2022-11-28-git-zero-hero)
+* [2022-10-31 & 2022-11-01](https://rse.shef.ac.uk/training/workshop/2022-10-31-git-zero-hero)
+* [2022-11-28 & 2022-11-29](https://rse.shef.ac.uk/training/workshop/2022-11-28-git-zero-hero)
 
 #### RSE Team: Introduction to Deep Learning Course with Tensorflow Keras (in Python)
 
 A one-day introduction to deep learning with practical labs using Tensorflow in Python:
 
-* [16 November 2022 - 09:00-17:00](/training/workshop/2022-11-16-deep-learning-with-tensorflow-in-python)
-* [18 January 2023 - 09:00-17:00](/training/workshop/2023-01-18-deep-learning-with-tensorflow-in-python)
+* [16 November 2022 - 09:00-17:00](https://rse.shef.ac.uk/training/workshop/2022-11-16-deep-learning-with-tensorflow-in-python)
+* [18 January 2023 - 09:00-17:00](https://rse.shef.ac.uk/training/workshop/2023-01-18-deep-learning-with-tensorflow-in-python)
 
 #### Bioinformatics Training
 
@@ -91,7 +91,7 @@ A one-day introduction to deep learning with practical labs using Tensorflow in 
 
 ### LunchBytes
 
-[LunchBytes](https://rse.shef.ac.uk/community/lunch-bytes/) are a monthly series of short talks from the research community on research software, data, and infrastructure. [November's LunchBytes (24 November 2022 - 12:00-13:00), will be a panel discussion on "Teaching Code"](/events/lunchbytes-2022-11-24).
+[LunchBytes](https://rse.shef.ac.uk/community/lunch-bytes/) are a monthly series of short talks from the research community on research software, data, and infrastructure. [November's LunchBytes (24 November 2022 - 12:00-13:00), will be a panel discussion on "Teaching Code"](https://rse.shef.ac.uk/events/lunchbytes-2022-11-24).
 
 
 #### LunchBytes needs YOU!
