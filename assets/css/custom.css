@@ -12,6 +12,24 @@
     xl @media (min-width:1200px)
 */
 
+@font-face {
+    font-family: uos-sans;
+    src: url('../fonts/SourceSansPro-Regular.ttf') format("truetype");
+    font-weight: normal;
+    font-style: normal;
+  }
+
+@font-face {
+    font-family: uos-serif;
+    src: url('../fonts/SourceSerifPro-Regular.ttf') format("truetype");
+    font-weight: normal;
+    font-style: normal;
+  }
+
+.header{
+    background-color: #fff;
+}
+
 .promo{
     background: #37618a;
 }
