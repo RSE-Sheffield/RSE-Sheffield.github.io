@@ -14,6 +14,13 @@
     font-style: normal;
   }
 
+@font-face {
+    font-family: uos-mono;
+    src: url('../fonts/SourceCodePro-VariableFont_wght.ttf') format("truetype");
+    font-weight: normal;
+    font-style: monospace;
+  }
+
 body {
     font-family: 'uos-sans', arial, sans-serif;   
     color: $text-color;
