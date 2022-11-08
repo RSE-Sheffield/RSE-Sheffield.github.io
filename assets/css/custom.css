@@ -12,16 +12,25 @@
     xl @media (min-width:1200px)
 */
 
+:root {
+    --uos-deep-violet: #440099;
+    --uos-powder-blue: #9ADBE8;
+    --uos-midnight-black: #131E29;
+    --uos-teal: #005A8F;
+    --uos-aqua: #00BBCC;
+    --uos-mint-green: #00CE7C;
+  }
+
 .header{
     background-color: #fff;
 }
 
 .promo{
-    background: #005A8F;
+    background: var(--uos-midnight-black);
 }
 
 .footer{
-    background: #131E29;
+    background: var(--uos-midnight-black);
 }
 
 /* Sizes for h1 to h6, overriding bootstrap css */
@@ -33,23 +42,23 @@ h5, .h5 { font-size: 1.25rem; }
 h6, .h6 { font-size: 1rem; }
 
 h1, h2, h3, h4, h5, h6  {
-    color: #005A8F;
+    color: var(--uos-deep-violet);
 }
 
 a {
-    color: #005A8F;
+    color: var(--uos-deep-violet);
 }
 
 .nav-link{
-    color: #131E29 !important;
+    color: var(--uos-midnight-black) !important;
 }
 
 .contact {
-    background: #005A8F;
+    background: var(--uos-midnight-black);
 }
 
 .contact-inner a {
-    color: #fff;
+    color: var(--uos-powder-blue);
     text-decoration: underline;
 }
 
@@ -136,7 +145,7 @@ div.all-posts {
 
 /* Extra custom styling for pre / code blocks */
 pre {
-    background-color: #282a36;
+    background-color: var(--uos-midnight-black);
     padding: 1em;
     margin: 0 0 1em 0;
     border-radius: 0.4em;
@@ -175,7 +184,7 @@ blockquote {
 }
 
 .sm-a {
-    color: #fff;
+    color: var(--uos-powder-blue);
     text-decoration: underline;
 }
 
