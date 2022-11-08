@@ -183,6 +183,30 @@ blockquote {
     white-space: normal;
 }
 
+.btn-primary {
+    background-color: var(--uos-powder-blue);
+    border-color: var(--uos-powder-blue);
+    color: var(--uos-midnight-black);
+}
+
+.btn-primary:hover {
+    background-color: var(--uos-deep-violet);
+    border-color: var(--uos-deep-violet);
+    color: var(#fff);
+}
+
+.btn-success {
+    background-color: var(--uos-mint-green);
+    border-color: var(--uos-mint-green);
+    color: var(--uos-midnight-black);
+}
+
+.btn-success:hover {
+    background-color: var(--uos-deep-violet);
+    border-color: var(--uos-deep-violet);
+    color: var(#fff);
+}
+
 .sm-a {
     color: var(--uos-powder-blue);
     text-decoration: underline;
