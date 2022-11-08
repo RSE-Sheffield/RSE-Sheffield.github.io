@@ -1,7 +1,21 @@
 /* ======= Base ======= */
 
+@font-face {
+    font-family: uos-sans;
+    src: url('../fonts/SourceSansPro-Regular.ttf') format("truetype");
+    font-weight: normal;
+    font-style: normal;
+  }
+
+@font-face {
+    font-family: uos-serif;
+    src: url('../fonts/SourceSerifPro-Regular.ttf') format("truetype");
+    font-weight: normal;
+    font-style: normal;
+  }
+
 body {
-    font-family: 'Lato', arial, sans-serif;   
+    font-family: 'uos-sans', arial, sans-serif;   
     color: $text-color;
     font-size: 16px;
     -webkit-font-smoothing: antialiased;
