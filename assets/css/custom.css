@@ -31,11 +31,11 @@
 }
 
 .promo{
-    background: #37618a;
+    background: #005A8F;
 }
 
 .footer{
-    background: #00060c;
+    background: #131E29;
 }
 
 /* Sizes for h1 to h6, overriding bootstrap css */
@@ -46,12 +46,29 @@ h4, .h4 { font-size: 1.5rem; }
 h5, .h5 { font-size: 1.25rem; }
 h6, .h6 { font-size: 1rem; }
 
+h1, h2, h3, h4, h5, h6  {
+    color: #005A8F;
+}
+
+a {
+    color: #005A8F;
+}
+
 .nav-link{
-    color: #00060d !important;
+    color: #131E29 !important;
+}
+
+.contact {
+    background: #005A8F;
 }
 
 .contact-inner a {
-    color: #00060d !important;
+    color: #fff;
+    text-decoration: underline;
+}
+
+.contact-inner h2 {
+    color: #fff !important;
 }
 
 .seminar-section {
@@ -172,7 +189,8 @@ blockquote {
 }
 
 .sm-a {
-    color: #b0ea44;
+    color: #fff;
+    text-decoration: underline;
 }
 
 .sm-a:hover{
