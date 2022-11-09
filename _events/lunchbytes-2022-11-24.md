@@ -5,7 +5,7 @@ published: True
 from: "12:00"
 to: "13:00"
 location: "Google Meet"
-speaker: "Panel"
+speaker: "Emma Norling, Shangshang Gu, Ashley Cadby, Bob Turner + more"
 institute:
 title: "LunchBytes Panel: Teaching Code"
 image:
@@ -24,7 +24,7 @@ As code and software become an ever bigger part of research (its likely that [ar
 
 There may also be time for some audience questions.
 
-The panel (**currently being put together!**) will include amongst others people who do short training courses and those involved with undergraduate teaching over long timescales, across a few research areas, maybe some people who are learning as well. If you'd like to be on the panel, please contact [r.d.turner@sheffield.ac.uk](mailto:r.d.turner@sheffield.ac.uk).
+The panel includes [Emma Norling](https://www.sheffield.ac.uk/dcs/people/academic/emma-norling) (Director of Learning and Teaching in the Department of Computer Science at the University of Sheffield), [Shangshang Gu](https://www.linkedin.com/in/%E5%B0%9A%E5%B0%9A-%E9%A1%BE-89935b129) (School of Health and Related Research, University of Sheffield) and [Ashley Cadby](https://www.sheffield.ac.uk/physics/people/academic/ashley-cadby) who plays a key role in teaching code in the Department of Physics and Astronomy at the University of Sheffield.
 
 ### Joining Instructions
 Join on Google meet at: <https://meet.google.com/ozf-rrjs-wmq>
