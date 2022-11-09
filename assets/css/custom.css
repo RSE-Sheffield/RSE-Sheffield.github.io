@@ -225,7 +225,11 @@ blockquote {
 }
 
 .sm-a:hover{
-    color: #e2e2e2;
+    color: var(--uos-powder-blue);
+}
+
+a:hover {
+    color: var(--uos-deep-violet);
 }
 
 /* project page tag cloud */
