@@ -19,6 +19,8 @@
     --uos-teal: #005A8F;
     --uos-aqua: #00BBCC;
     --uos-mint-green: #00CE7C;
+    --uos-coral: #E7004C;
+    --uos-peach: #FF9664;
   }
 
 .header{
@@ -159,6 +161,16 @@ pre {
     word-spacing: normal;
     word-break: normal;
 
+}
+
+/* comments in code blocks */
+pre.highlight > code > span.c, pre.highlight > code > span.c1 {
+    color: var(--uos-peach);
+}
+
+code {
+    color: var(--uos-coral);
+    font-family: monospace;
 }
 
 .highlight {
