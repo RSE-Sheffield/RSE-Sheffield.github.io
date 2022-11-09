@@ -31,7 +31,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6  {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'uos-sans', sans-serif;
     font-weight: 700;
     color: $color;
 }
@@ -47,7 +47,7 @@ a {
 
 .btn, a.btn {
     @include transition (all 0.4s ease-in-out);
-    font-family: 'Montserrat', arial, sans-serif;
+    font-family: 'uos-sans', arial, sans-serif;
     padding: 8px 16px;
     font-weight:bold;
     .svg-inline--fa {
@@ -170,7 +170,7 @@ pre code {
             .nav-item {
                 font-weight: bold;
                 margin-right: 30px;
-                font-family: 'Montserrat', sans-serif;
+                font-family: 'uos-sans', sans-serif;
                 
                 .nav-link {
                     color: darken($color, 25%);
