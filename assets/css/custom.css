@@ -24,7 +24,7 @@
   }
 
 .header{
-    background-color: #fff;
+    background-color: var(--white);
 }
 
 .promo{
@@ -65,7 +65,7 @@ a {
 }
 
 .contact-inner h2 {
-    color: #fff !important;
+    color: var(--white) !important;
 }
 
 .seminar-section {
@@ -107,7 +107,7 @@ figcaption {
     margin-left: -2px;
     margin-right: -2px;
     margin-bottom: 0px;
-    background-color: #ffffff;
+    background-color: var(--white)fff;
     display: inline-block;
 }
 .pagination a:hover {
@@ -204,7 +204,7 @@ blockquote {
 .btn-primary:hover {
     background-color: var(--uos-deep-violet);
     border-color: var(--uos-deep-violet);
-    color: var(#fff);
+    color: var(--white);
 }
 
 .btn-success {
@@ -216,7 +216,7 @@ blockquote {
 .btn-success:hover {
     background-color: var(--uos-deep-violet);
     border-color: var(--uos-deep-violet);
-    color: var(#fff);
+    color: var(--white);
 }
 
 .sm-a {
