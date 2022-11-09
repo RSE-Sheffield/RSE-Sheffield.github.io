@@ -14,14 +14,27 @@
 
 :root {
     --uos-deep-violet: #440099;
+    --uos-deep-violet-90: #541aa4;
+    --uos-deep-violet-80: #6431ac;
+    --uos-deep-violet-70: #784bb6;
     --uos-powder-blue: #9ADBE8;
+    --uos-powder-blue-90: #9fddea;
+    --uos-powder-blue-80: #ade0eb;
+    --uos-powder-blue-70: #b6e6ee;
     --uos-midnight-black: #131E29;
+    --uos-midnight-black-90: #2c3841;
+    --uos-midnight-black-80: #424a54;
+    --uos-midnight-black-70: #57636b;
     --uos-teal: #005A8F;
     --uos-aqua: #00BBCC;
     --uos-mint-green: #00CE7C;
     --uos-coral: #E7004C;
     --uos-peach: #FF9664;
-  }
+}
+
+body {
+    color: var(--uos-midnight-black-90)
+}
 
 .header{
     background-color: var(--white);
@@ -88,7 +101,7 @@ img {
 
 /* Visually distinguish past events.*/
 .event-item-previous a {
-    color: #656565;
+    color: var(--uos-deep-violet-70);
 }
 .event-item-previous > div >img {
     opacity: 0.40;
@@ -186,8 +199,8 @@ pre.highlight{
 blockquote {
     margin: 0 0 1rem 0;
     padding: 0 1rem;
-    color: #6a6a6a;
-    border-left: .3rem solid #6a6a6a;
+    color: var(--uos-midnight-black-80);
+    border-left: .3rem solid var(--uos-midnight-black-80);
 }
 
 /* optionally make .btn's wrap text */ 
