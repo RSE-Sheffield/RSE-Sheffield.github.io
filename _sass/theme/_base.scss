@@ -1,15 +1,28 @@
 /* ======= Base ======= */
+
 @font-face {
-    font-family: 'tuos_stephensonbold';
-    src: url('/assets/fonts/stephbd-webfont.woff2') format('woff2'),
-    url('/assets/fonts/stephbd-webfont.woff') format('woff');
+    font-family: uos-sans;
+    src: url('../fonts/SourceSansPro-Regular.ttf') format("truetype");
     font-weight: normal;
     font-style: normal;
+  }
 
-}
+@font-face {
+    font-family: uos-serif;
+    src: url('../fonts/SourceSerifPro-Regular.ttf') format("truetype");
+    font-weight: normal;
+    font-style: normal;
+  }
+
+@font-face {
+    font-family: uos-mono;
+    src: url('../fonts/SourceCodePro-VariableFont_wght.ttf') format("truetype");
+    font-weight: normal;
+    font-style: monospace;
+  }
 
 body {
-    font-family: 'Lato', arial, sans-serif;   
+    font-family: 'uos-sans', arial, sans-serif;   
     color: $text-color;
     font-size: 16px;
     -webkit-font-smoothing: antialiased;
@@ -18,7 +31,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6  {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'uos-sans', sans-serif;
     font-weight: 700;
     color: $color;
 }
@@ -34,7 +47,7 @@ a {
 
 .btn, a.btn {
     @include transition (all 0.4s ease-in-out);
-    font-family: 'Montserrat', arial, sans-serif;
+    font-family: 'uos-sans', arial, sans-serif;
     padding: 8px 16px;
     font-weight:bold;
     .svg-inline--fa {
@@ -157,12 +170,11 @@ pre code {
             .nav-item {
                 font-weight: bold;
                 margin-right: 30px;
-                font-family: 'Montserrat', sans-serif;
+                font-family: 'uos-sans', sans-serif;
                 
                 .nav-link {
                     color: darken($color, 25%);
                     @include transition (none);
-                    font-size: 14px;
                     padding: 15px 10px;
                     &.active {
 	                    color: $color;

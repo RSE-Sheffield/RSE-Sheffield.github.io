@@ -12,12 +12,40 @@
     xl @media (min-width:1200px)
 */
 
+:root {
+    --uos-deep-violet: #440099;
+    --uos-deep-violet-90: #541aa4;
+    --uos-deep-violet-80: #6431ac;
+    --uos-deep-violet-70: #784bb6;
+    --uos-powder-blue: #9ADBE8;
+    --uos-powder-blue-90: #9fddea;
+    --uos-powder-blue-80: #ade0eb;
+    --uos-powder-blue-70: #b6e6ee;
+    --uos-midnight-black: #131E29;
+    --uos-midnight-black-90: #2c3841;
+    --uos-midnight-black-80: #424a54;
+    --uos-midnight-black-70: #57636b;
+    --uos-teal: #005A8F;
+    --uos-aqua: #00BBCC;
+    --uos-mint-green: #00CE7C;
+    --uos-coral: #E7004C;
+    --uos-peach: #FF9664;
+}
+
+body {
+    color: var(--uos-midnight-black-90)
+}
+
+.header{
+    background-color: var(--white);
+}
+
 .promo{
-    background: #37618a;
+    background: var(--uos-midnight-black);
 }
 
 .footer{
-    background: #00060c;
+    background: var(--uos-midnight-black);
 }
 
 /* Sizes for h1 to h6, overriding bootstrap css */
@@ -28,12 +56,29 @@ h4, .h4 { font-size: 1.5rem; }
 h5, .h5 { font-size: 1.25rem; }
 h6, .h6 { font-size: 1rem; }
 
+h1, h2, h3, h4, h5, h6  {
+    color: var(--uos-deep-violet);
+}
+
+a {
+    color: var(--uos-deep-violet);
+}
+
 .nav-link{
-    color: #00060d !important;
+    color: var(--uos-midnight-black) !important;
+}
+
+.contact {
+    background: var(--uos-midnight-black);
 }
 
 .contact-inner a {
-    color: #00060d !important;
+    color: var(--uos-powder-blue);
+    text-decoration: underline;
+}
+
+.contact-inner h2 {
+    color: var(--white) !important;
 }
 
 .seminar-section {
@@ -56,7 +101,7 @@ img {
 
 /* Visually distinguish past events.*/
 .event-item-previous a {
-    color: #656565;
+    color: var(--uos-deep-violet-70);
 }
 .event-item-previous > div >img {
     opacity: 0.40;
@@ -75,7 +120,7 @@ figcaption {
     margin-left: -2px;
     margin-right: -2px;
     margin-bottom: 0px;
-    background-color: #ffffff;
+    background-color: var(--white)fff;
     display: inline-block;
 }
 .pagination a:hover {
@@ -115,7 +160,7 @@ div.all-posts {
 
 /* Extra custom styling for pre / code blocks */
 pre {
-    background-color: #282a36;
+    background-color: var(--uos-midnight-black);
     padding: 1em;
     margin: 0 0 1em 0;
     border-radius: 0.4em;
@@ -131,6 +176,16 @@ pre {
 
 }
 
+/* comments in code blocks */
+pre.highlight > code > span.c, pre.highlight > code > span.c1 {
+    color: var(--uos-peach);
+}
+
+code {
+    color: var(--uos-coral);
+    font-family: monospace;
+}
+
 .highlight {
     border-radius: 0.4em;
 }
@@ -144,8 +199,8 @@ pre.highlight{
 blockquote {
     margin: 0 0 1rem 0;
     padding: 0 1rem;
-    color: #6a6a6a;
-    border-left: .3rem solid #6a6a6a;
+    color: var(--uos-midnight-black-80);
+    border-left: .3rem solid var(--uos-midnight-black-80);
 }
 
 /* optionally make .btn's wrap text */ 
@@ -153,12 +208,41 @@ blockquote {
     white-space: normal;
 }
 
+.btn-primary {
+    background-color: var(--uos-powder-blue);
+    border-color: var(--uos-powder-blue);
+    color: var(--uos-midnight-black);
+}
+
+.btn-primary:hover {
+    background-color: var(--uos-deep-violet);
+    border-color: var(--uos-deep-violet);
+    color: var(--white);
+}
+
+.btn-success {
+    background-color: var(--uos-mint-green);
+    border-color: var(--uos-mint-green);
+    color: var(--uos-midnight-black);
+}
+
+.btn-success:hover {
+    background-color: var(--uos-deep-violet);
+    border-color: var(--uos-deep-violet);
+    color: var(--white);
+}
+
 .sm-a {
-    color: #b0ea44;
+    color: var(--uos-powder-blue);
+    text-decoration: underline;
 }
 
 .sm-a:hover{
-    color: #e2e2e2;
+    color: var(--uos-powder-blue);
+}
+
+a:hover {
+    color: var(--uos-deep-violet);
 }
 
 /* project page tag cloud */
