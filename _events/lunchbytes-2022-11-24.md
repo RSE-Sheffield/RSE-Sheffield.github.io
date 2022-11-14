@@ -5,7 +5,7 @@ published: True
 from: "12:00"
 to: "13:00"
 location: "Google Meet"
-speaker: "Emma Norling, Shangshang Gu, Ashley Cadby, Bob Turner + more"
+speaker: "Emma Norling, Shangshang Gu, Ashley Cadby, Norbert Gyenge, Bob Turner"
 institute:
 title: "LunchBytes Panel: Teaching Code"
 image:
@@ -24,7 +24,7 @@ As code and software become an ever bigger part of research (its likely that [ar
 
 There may also be time for some audience questions.
 
-The panel includes [Emma Norling](https://www.sheffield.ac.uk/dcs/people/academic/emma-norling) (Director of Learning and Teaching in the Department of Computer Science at the University of Sheffield), [Shangshang Gu](https://www.linkedin.com/in/%E5%B0%9A%E5%B0%9A-%E9%A1%BE-89935b129) (School of Health and Related Research, University of Sheffield) and [Ashley Cadby](https://www.sheffield.ac.uk/physics/people/academic/ashley-cadby) who plays a key role in teaching code in the Department of Physics and Astronomy at the University of Sheffield.
+The panel includes [Emma Norling](https://www.sheffield.ac.uk/dcs/people/academic/emma-norling) (Director of Learning and Teaching in the Department of Computer Science at the University of Sheffield), [Shangshang Gu](https://www.linkedin.com/in/%E5%B0%9A%E5%B0%9A-%E9%A1%BE-89935b129) (School of Health and Related Research, University of Sheffield), [Ashley Cadby](https://www.sheffield.ac.uk/physics/people/academic/ashley-cadby) who plays a key role in teaching code in the Department of Physics and Astronomy at the University of Sheffield and [Norbert Gyenge](https://www.linkedin.com/in/norbert-g-gyenge-7ba718201) (IT Services) with expertise in shorter courses.
 
 ### Joining Instructions
 Join on Google meet at: <https://meet.google.com/ozf-rrjs-wmq>
