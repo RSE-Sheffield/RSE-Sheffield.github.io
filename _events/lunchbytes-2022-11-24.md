@@ -12,7 +12,11 @@ image:
 slides_url:
 ---
 
-As code and software become an ever bigger part of research (its likely that [around 1/3 of researchers write code](https://rse.shef.ac.uk/sssurvey/)), coding and other digital skills become ever more important to researchers. In this online panel discussion, we will explore this with a few questions like these:
+As code and software become an ever bigger part of research (its likely that [around 1/3 of researchers write code](https://rse.shef.ac.uk/sssurvey/)), coding and other digital skills become ever more important to researchers. 
+
+<iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/2103181/sp/210318100/embedIframeJs/uiconf_id/38838661/partner_id/2103181?iframeembed=true&playerId=kaltura_player&entry_id=1_37jyv33s&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[hotspots.plugin]=1&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_47wjg45r" width="608" height="402" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="LunchBytes Panel: Teaching Code"></iframe>
+
+In this online panel discussion, we will explore this with a few questions like these:
 
 - How do you teach code e.g. lectures, live-coding, lab classes? What works well for you?
 - Is there a difference between "teaching" and "training" in this context?
