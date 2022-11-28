@@ -20,7 +20,7 @@ Welcome to this month's newsletter for the research software community at The Un
 
 * [LunchBytes Panel: Teaching Code](https://rse.shef.ac.uk/events/lunchbytes-2022-11-24.html) - As code and software become an ever bigger part of research (its likely that around 1/3 of researchers write code), coding and other digital skills become ever more important to researchers. Questions around teaching code were put to an online panel. The panel included [Emma Norling](https://www.sheffield.ac.uk/dcs/people/academic/emma-norling) (Director of Learning and Teaching in the Department of Computer Science at the University of Sheffield), [Shangshang Gu](https://www.linkedin.com/in/%E5%B0%9A%E5%B0%9A-%E9%A1%BE-89935b129) (School of Health and Related Research, University of Sheffield), [Ashley Cadby](https://www.sheffield.ac.uk/physics/people/academic/ashley-cadby) who plays a key role in teaching code in the Department of Physics and Astronomy at the University of Sheffield and [Norbert Gyenge](https://www.linkedin.com/in/norbert-g-gyenge-7ba718201) (IT Services) with expertise in shorter courses. Thanks to Bob for organising the event!
 
-#### News, Web and Publications
+#### Web and Publications
 
 
 * [RSE mentoring scheme](https://forms.coachmentoring.co.uk/socrse/application/) -  Registration deadline is 30th November.
@@ -34,14 +34,17 @@ Welcome to this month's newsletter for the research software community at The Un
 
 ### Events
 
-* [Computing Insight UK 2022](https://www.scd.stfc.ac.uk/Pages/CIUK2022.aspx) - Manchester Central Convention Complex on Thursday 1 and Friday 2 December. The theme for the conference this year is "Sustainable HPC" with sub-themes including "Sustainable Skills", "Sustainable Funding" and "Net Zero Computing".
+* [R course for Digital Humanities](https://n8cir.org.uk/events/r-digital-humanities/) - 2022-11-29 and 2022-1-06, Online. Following a similar format to the 2021 workshop, the course is a gentle introduction to R for text analysis. Over the course of two sessions you will be taught the basics of the powerful programming language before being provided with hands-on experience analysing long-form text in the RStudio development environment.
+* [Computing Insight UK 2022](https://www.scd.stfc.ac.uk/Pages/CIUK2022.aspx) - 2022-12-01 to 2022-12-02, Manchester Central Convention Complex. The theme for the conference this year is "Sustainable HPC" with sub-themes including "Sustainable Skills", "Sustainable Funding" and "Net Zero Computing".
 * [PyData Global 2022](https://pdg22.wpengine.com) - 2022-12-01 to 2022-12-03, Online. The PyData Global conference is an opportunity to listen, learn, and share knowledge about best practices, new approaches, and emerging technologies for data management, processing, analytics, and visualization.
-* [University of Sheffield Inaugural Annual Open Research Lecture](https://www.eventbrite.co.uk/e/university-of-sheffield-inaugural-annual-open-research-lecture-tickets-440984976937) - Lecture given by Dr Tom Stafford titled 'Wide Open?'. Dr Tom Stafford will review concerns about Open Research practices: that they are unnecessary, performative, exclusive, neocolonial, a distracting example of data positivism, undermine scholarly societies, slow down research, generate confidentiality risks, amongst others.
-* [UK National Open Hackathon 2023](https://www.openhackathons.org/s/siteevent/a0C5e000005V6EDEA0/se000151) - Application Deadline January 16, 2023. Open Hackathons are multi-day intensive hands-on events designed to help computational scientists and researchers port and optimize their applications using GPUs.
-* [Free ARCHER2 course at Newcastle University covering Docker and Singularity](https://www.archer2.ac.uk/training/courses/221207-containers/) - This course is a run of the Docker and Singularity lessons in the Carpentries Incubator. 7-8th December.
-* [R course for Digital Humanities](https://n8cir.org.uk/events/r-digital-humanities/) - Following a similar format to the 2021 workshop, the course is a gentle introduction to R for text analysis. Over the course of two sessions you will be taught the basics of the powerful programming language before being provided with hands-on experience analysing long-form text in the RStudio development environment.
-[Lab Notebooks for Computational Mathematics, Sciences & Engineering Wednesday, December 14, 2022, 01:00 pm EST](http://ideas-productivity.org/events/hpc-best-practices-webinars/) - The HPC Best Practices webinars address issues faced by developers of computational science and engineering (CSE) software on high-performance computers  (HPC).
-* [Intermediate Software Development Skills for Earth and Environmental Scientists:  Reproducible Research through Reusable, Reliable Code in Python](https://www.qualtrics.manchester.ac.uk/jfe/form/SV_87F94dIoT1aRwto) - Fancy improving your research techniques within the Earth, atmospheric and oceanic sciences? University of Manchester, 27–31 March 2023, in person. For any questions about the course and application, please contact Anja Le Blanc via e-mail at anja.leblanc@manchester.ac.uk.
+* [Free ARCHER2 course at Newcastle University covering Docker and Singularity](https://www.archer2.ac.uk/training/courses/221207-containers/) - 2022-12-07 to 2022-12-08, Newcastle University. This course is a run of the Docker and Singularity lessons in the Carpentries Incubator.
+* [University of Sheffield Inaugural Annual Open Research Lecture](https://www.eventbrite.co.uk/e/university-of-sheffield-inaugural-annual-open-research-lecture-tickets-440984976937) - 2022-12-09, The Diamond, Lecture Theatre 5. Lecture given by Dr Tom Stafford titled 'Wide Open?'. Dr Tom Stafford will review concerns about Open Research practices: that they are unnecessary, performative, exclusive, neocolonial, a distracting example of data positivism, undermine scholarly societies, slow down research, generate confidentiality risks, amongst others.
+
+* [Lab Notebooks for Computational Mathematics, Sciences & Engineering Wednesday](http://ideas-productivity.org/events/hpc-best-practices-webinars/) - 2022-12-14, Online. The HPC Best Practices webinars address issues faced by developers of computational science and engineering (CSE) software on high-performance computers  (HPC).
+
+* [UK National Open Hackathon 2023](https://www.openhackathons.org/s/siteevent/a0C5e000005V6EDEA0/se000151) - Application Deadline 2023-01-16, Online. Open Hackathons are multi-day intensive hands-on events designed to help computational scientists and researchers port and optimize their applications using GPUs.
+
+* [Intermediate Software Development Skills for Earth and Environmental Scientists:  Reproducible Research through Reusable, Reliable Code in Python](https://www.qualtrics.manchester.ac.uk/jfe/form/SV_87F94dIoT1aRwto) - 2023-03-27 to 2023-03-31, University of Manchester. Fancy improving your research techniques within the Earth, atmospheric and oceanic sciences? For any questions about the course and application, please contact Anja Le Blanc via e-mail at anja.leblanc@manchester.ac.uk.
 
 
 
@@ -51,15 +54,9 @@ Welcome to this month's newsletter for the research software community at The Un
 
 Research IT is providing a place for beginners or advanced users to expand their knowledge of HPC and different programming languages. The courses are part of the Doctoral Development Programme. For more information please visit our training registration web page (via VPN): [crs.shef.ac.uk](https://crs.shef.ac.uk).
 
-#### RSE Team: Git & GitHub through GitKraken workshop - from Zero to Hero!
+#### Bioinformatics Training
 
-This is an introductory course, teaching the git and GitHub skills required to manage research code over it’s development lifecycle. These skills are essential for collaborative research teams. Please keep an eye out for new dates being released.
-
-This two half-day course is being run this month:
-
-* [28 November 2022 and 29 November 2022](https://rse.shef.ac.uk/training/workshop/2022-11-28-git-zero-hero)
-
-If a course is "sold out" please join the wait list - we regularly email people to encourage those that can no longer attend to cancel.
+* [Introduction to RNA-seq analysis in R](https://sbc.shef.ac.uk/training/rna-seq-in-r-2022-12-12/) - Monday 12th December 13:00 - 16:00, Wednesday 14th December 13:00 - 16:00, Friday 16th December 13:00 - 16:00
 
 #### RSE Team: Introduction to Deep Learning Course with Tensorflow Keras (in Python)
 
@@ -69,24 +66,27 @@ A one-day introduction to deep learning with practical labs using Tensorflow in 
 
 If a course is "sold out" please join the wait list - we regularly email people to encourage those that can no longer attend to cancel.
 
-#### Bioinformatics Training
+#### RSE Team: Git & GitHub through GitKraken workshop - from Zero to Hero!
 
-* [Introduction to RNA-seq analysis in R](https://sbc.shef.ac.uk/training/rna-seq-in-r-2022-12-12/) - Monday 12th December 13:00 - 16:00, Wednesday 14th December 13:00 - 16:00, Friday 16th December 13:00 - 16:00
+This is an introductory course, teaching the git and GitHub skills required to manage research code over it’s development lifecycle. These skills are essential for collaborative research teams.
+
+**Please keep an eye out for new dates being released shortly via our mailing list!**
+
+If a course is "sold out" please join the wait list - we regularly email people to encourage those that can no longer attend to cancel.
 
 
 ### Opportunities
 
 #### Funding
 
-* [Artificial intelligence hubs for real data and for scientific and engineering research](https://www.ukri.org/opportunity/artificial-intelligence-hubs-for-real-data-and-for-scientific-and-engineering-research/) -  Apply for funding for a research hub in either artificial intelligence (AI) for real data or AI for scientific and engineering research.
-* [Mathematical and computational foundations of artificial intelligence](https://www.ukri.org/opportunity/mathematical-and-computational-foundations-of-artificial-intelligence/). Apply for funding to advance the fundamental mathematical, statistical, and computational concepts that underpin artificial intelligence (AI).
-* [Wellcome PhD studentships](https://pheds-dtc.ac.uk/). Training the next generation of researchers in high-quality research of complex multi-component public health interventions and policies.
-* [PhD at University of Bristol: Open spectroscopy in Environmental Sciences: Machine-learningaugmented analysis and interpretation ](https://www.bristol.ac.uk/media-library/sites/earthsciences/documents/phd-projects/2023-start/Byrne_UOB_2023_Studentships.pdf) PhD that is associated with the Bristol RSE group. The project title is “Open spectroscopy in Environmental Sciences: Machine-learning- augmented analysis and interpretation”. The aim is to help develop machine learning models and software that can aid in the interpretation of spectra. Analysis of this data seeks to address specific environmental questions, such as how soil bacteria are connected to the release of greenhouse gases, or how changes in geochemistry influences the release of pollutants into drinking water.
-* [Get up to 12 days of software engineering support for your HPC/ML/GPU project](https://rse.shef.ac.uk/collaboration/tier2/). The Research Software Engineering team is offering to support researchers with the use of High Performance Computing (HPC), Machine Learning (ML) and Graphics Processors (GPUs) in their research projects. All researchers at our University can receive up to £5,000 of support time, or roughly 12 days of support, provided by a Research Software Engineer (RSE). This call aims to increase the uptake of the University's Tier 2 HPC resources, which are national facilities available to researchers in all faculties. This is an open call and applications are considered on a first-come-first-served basis. There is no current deadline and applications will be reviewed on an ongoing basis.
-* [ARCHER2 Embedded CSE (eCSE) Support Call](https://www.archer2.ac.uk/ecse/calls/). The ARCHER2 eCSE call provides funding for up to 18 person months of an RSE/PDRA to work on codes to run on ARCHER2. The deadline for submitting documents for technical evaluations is 2022-10-04 16:00 BST with a final proposal deadline of 2022-10-25 16:00 BST.
-* [Digital Infrastructure Incubator](https://www.codeforsociety.org/incubator/accepting-proposals) Deadline December 2, 2022. Code for Science & Society (CS&S) solicits expressions of interest from open source digital infrastructure teams to participate in the second cohort of the Digital Infrastructure Incubator (DII).
-* [CHIST-ERA Open & Re-usable Research Data & Software](https://www.chistera.eu/call-ord-announcement).  This call tackles the challenge of open research data and software from the perspective of their possible reuse. The objective is to create the conditions for research in any domain based on open or shared data and software. Call deadline: 2022-12-14 17:00 CET
-* [Oracle for Research Project Awards](https://www.oracle.com/research/project-awards/) Oracle Research (this years sponsors of the RSE conference) have an open grants program to sponsor research projects with free cloud credits to tackle computational challenges. The majority of cloud providers no longer offer free credits however Oracle grants include access to a variety of Oracle Cloud technologies including compute, GPUs, and HPC. In addition to cloud credits, they also provide researchers and supporting RSEs with technical cloud support to transition and optimize their workflows on an Oracle Cloud environment. If interested then apply directly.
+* [Digital Infrastructure Incubator](https://www.codeforsociety.org/incubator/accepting-proposals) Deadline 2022-12-02. Code for Science & Society (CS&S) solicits expressions of interest from open source digital infrastructure teams to participate in the second cohort of the Digital Infrastructure Incubator (DII).
+* [CHIST-ERA Open & Re-usable Research Data & Software](https://www.chistera.eu/call-ord-announcement). Deadline 2022-12-14. This call tackles the challenge of open research data and software from the perspective of their possible reuse. The objective is to create the conditions for research in any domain based on open or shared data and software.
+* [Wellcome PhD studentships](https://pheds-dtc.ac.uk/). Deadline 2022-12-16. Training the next generation of researchers in high-quality research of complex multi-component public health interventions and policies to reduce non-communicable or chronic diseases.
+* [PhD at University of Bristol: Open spectroscopy in Environmental Sciences: Machine-learningaugmented analysis and interpretation ](https://www.bristol.ac.uk/media-library/sites/earthsciences/documents/phd-projects/2023-start/Byrne_UOB_2023_Studentships.pdf) - Deadline 2023-01-23. PhD that is associated with the Bristol RSE group. The project title is “Open spectroscopy in Environmental Sciences: Machine-learning- augmented analysis and interpretation”. The aim is to help develop machine learning models and software that can aid in the interpretation of spectra. Analysis of this data seeks to address specific environmental questions, such as how soil bacteria are connected to the release of greenhouse gases, or how changes in geochemistry influences the release of pollutants into drinking water.
+* [Artificial intelligence hubs for real data and for scientific and engineering research](https://www.ukri.org/opportunity/artificial-intelligence-hubs-for-real-data-and-for-scientific-and-engineering-research/) - Deadline 2023-02-09. Apply for funding for a research hub in either artificial intelligence (AI) for real data or AI for scientific and engineering research.
+* [Mathematical and computational foundations of artificial intelligence](https://www.ukri.org/opportunity/mathematical-and-computational-foundations-of-artificial-intelligence/) - Deadline 2023-02-09. Apply for funding to advance the fundamental mathematical, statistical, and computational concepts that underpin artificial intelligence (AI).
+* [Get up to 12 days of software engineering support for your HPC/ML/GPU project](https://rse.shef.ac.uk/collaboration/tier2/). Deadline N/A. The Research Software Engineering team is offering to support researchers with the use of High Performance Computing (HPC), Machine Learning (ML) and Graphics Processors (GPUs) in their research projects. All researchers at our University can receive up to £5,000 of support time, or roughly 12 days of support, provided by a Research Software Engineer (RSE). This call aims to increase the uptake of the University's Tier 2 HPC resources, which are national facilities available to researchers in all faculties. This is an open call and applications are considered on a first-come-first-served basis. There is no current deadline and applications will be reviewed on an ongoing basis.
+* [Oracle for Research Project Awards](https://www.oracle.com/research/project-awards/) - Deadline N/A. Oracle Research (this years sponsors of the RSE conference) have an open grants program to sponsor research projects with free cloud credits to tackle computational challenges. The majority of cloud providers no longer offer free credits however Oracle grants include access to a variety of Oracle Cloud technologies including compute, GPUs, and HPC. In addition to cloud credits, they also provide researchers and supporting RSEs with technical cloud support to transition and optimize their workflows on an Oracle Cloud environment. If interested then apply directly.
 
 <!-- #### Jobs -->
 
