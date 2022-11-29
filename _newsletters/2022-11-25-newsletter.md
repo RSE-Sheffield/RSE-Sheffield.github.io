@@ -2,8 +2,8 @@
 layout: post
 title: November 2022 Newsletter
 editor: Edwin Brown
-slug: 2022-11-28-newsletter
-date: 2022-11-28T00:00:00Z+0100
+slug: 2022-11-29-newsletter
+date: 2022-11-29T00:00:00Z+0100
 tags:
 category:
 link:
