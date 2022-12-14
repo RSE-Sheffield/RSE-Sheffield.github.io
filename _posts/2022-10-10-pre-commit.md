@@ -145,7 +145,7 @@ indenting to be valid YAML).
         - id: black
           types: [python]
 
-  - repo: https://gitlab.com/pycqa/flake8.git
+  - repo: https://github.com/pycqa/flake8.git
     rev: 3.9.2
     hooks:
         - id: flake8
