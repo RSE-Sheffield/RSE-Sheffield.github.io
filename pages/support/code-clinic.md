@@ -83,8 +83,8 @@ relevant upcoming training sessions, etc.
 ### Cancelling your session
 
 If you cannot attend the session,
-please give a **No** response on the calendar invite
-so we can proceed to remove your booking from the system.
+please contact the code clinic helpers at `code-clinic-helpers-group@sheffield.ac.uk` to cancel your session
+and free it up for someone else.
 
 ### Any questions before your session?
 
