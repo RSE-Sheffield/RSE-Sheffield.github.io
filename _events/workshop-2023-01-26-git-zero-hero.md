@@ -2,7 +2,7 @@
 title: "git & GitHub through GitKraken - from Zero to Hero!"
 category: gitzerohero
 tags: collaboration, git, github, gitkraken
-permalink: /training/workshop/2022-11-28-git-zero-hero
+permalink: /training/workshop/2023-01-26-git-zero-hero
 date: 2023-01-26
 end-date: 2023-01-27
 from: "09:30"
