@@ -56,7 +56,9 @@ More details and registration via
 
 
 **Please note:** This workshop is **in person** and will run over 2 half days from 09:30-13:00 on Thursday 26th and
-Friday 27th January 2023.
+Friday 27th January 2023. If you would like to attend online instead please register for the course running
+[2022-03-06 / 2022-03-07](/training/workshop/2023-01-26-git-zero-hero).
+
 
 **Course material:** <https://srse-git-github-zero2hero.netlify.app/>
 
