@@ -52,7 +52,7 @@ This is an introductory course, teaching the git and GitHub skills required to m
 
 * [Git & GitHub through GitKraken workshop 2023-03-06 & 2023-03-07](https://rse.shef.ac.uk/training/workshop/2023-03-06-git-zero-hero) 
 
-If a course is "sold out" please join the wait list - we regularly email people to encourage those that can no longer attend to cancel.
+If a course is "sold out" please join the wait list by signing up - we regularly email people to encourage those that can no longer attend to cancel. Those on the wait list get early notification when the courses are run again.
 
 ### Opportunities
 
