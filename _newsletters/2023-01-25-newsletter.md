@@ -20,7 +20,7 @@ Welcome to this month's newsletter for the research software community at The Un
 
 * From the RSE Team blog [Who's to Blame?](https://rse.shef.ac.uk/blog/git-blame/) - Neil writes about using this unfortunately titled feature of `git` to better understand the history of code in a project.
 * A new book with Sheffield-based co-authors "[Live Coding: A User's Manual](https://livecodingbook.toplap.org/)" Performative, improvised, on the fly: live coding is about how people interact with the world and each other via code. In the last few decades, live coding has emerged as a dynamic creative practice, gaining attention across cultural and technical fields—from music and the visual arts to computer science.
-* [Announcing the 2023 Software Sustainability Institute Fellows](https://software.ac.uk/blog/2022-12-15-announcing-2023-software-sustainability-institute-fellows) - Read this blog post from the Software Sustainability Institute.
+* [Announcing the 2023 Software Sustainability Institute Fellows](https://software.ac.uk/blog/2022-12-15-announcing-2023-software-sustainability-institute-fellows) - Read this blog post from the Software Sustainability Institute to find out more about the fellowships they have awarded.
 * A huge [Online Rust Course](https://google.github.io/comprehensive-rust/) has been made available by the Android team.
 * A really valuable perspective on [convincing academics to use git](https://www.youtube.com/watch?v=KgxKJjzh-Y4) (video) from Juulia Suvilehto at NormConf.
 * [Invest 5% of research funds in ensuring data are reusable](https://www.nature.com/articles/d41586-020-00505-7) It is irresponsible to support research but not data stewardship, says Barend Mons.
