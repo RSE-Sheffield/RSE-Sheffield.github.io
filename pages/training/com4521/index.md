@@ -126,6 +126,7 @@ Each week's practical activities (the labs) follow the ideas presented in the le
 * [Lab Sheet](https://drive.google.com/file/d/1BC7kDWk0za9ljbEUPK-RTgSyGIWT_t5y/view?usp=share_link)
 * [Starting Code](https://github.com/RSE-Sheffield/COMCUDA_labs/archive/Lab01_src.zip)
 * [Solution](https://github.com/RSE-Sheffield/COMCUDA_labs/archive/Lab01_sln.zip)
+* [Frequently Asked Questions](./labs/1)
 
 --------------------
 
@@ -135,8 +136,8 @@ Each week's practical activities (the labs) follow the ideas presented in the le
 
 *Monday 10:00 Broad Lane LT2*
 
-* Memory
-* Optimisation
+* Memory ([pdf](https://drive.google.com/file/d/1Q3SPHDw-yKYEpnScqV6fSMmataXOIu5w/view?usp=share_link), [pdf with notes](https://drive.google.com/file/d/1ANbbpze6znQfaIyjknz-ZS6Thki8jsW-/view?usp=share_link))
+* Optimisation ([pdf](https://drive.google.com/file/d/1hB7s7RtsGnX-LCQs9H0xvxisekWSg0cd/view?usp=share_link), [pdf with notes](https://drive.google.com/file/d/1YsfnQOHh1m_JvwDISpHfrg4c3314NcFL/view?usp=share_link))
 
 #### Flip Classroom Pre-recorded Lectures
 
