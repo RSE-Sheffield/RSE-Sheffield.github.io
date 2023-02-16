@@ -156,6 +156,7 @@ Each week's practical activities (the labs) follow the ideas presented in the le
 * [Lab Sheet](https://drive.google.com/file/d/1CPVT4mY909_srrhuGMmlsSZ6BAZGLPTY/view?usp=sharing)
 * [Starting Code](https://github.com/RSE-Sheffield/COMCUDA_labs/archive/Lab02_src.zip)
 * [Solution](https://github.com/RSE-Sheffield/COMCUDA_labs/archive/Lab02_sln.zip)
+* [Frequently Asked Questions](./labs/2)
 
 --------------------
 
@@ -165,7 +166,7 @@ Each week's practical activities (the labs) follow the ideas presented in the le
 
 *Monday 10:00 Broad Lane LT2*
 
-* OpenMP
+* OpenMP ([pdf](https://drive.google.com/file/d/1ytyu8o4o1MlIfZWBugMT65UiOiPN-Cuc/view?usp=share_link), [pdf with notes](https://drive.google.com/file/d/1fJJxAi9eZ0g-mOSFlPEF_q7t0pRcnYGQ/view?usp=share_link))
 
 #### Flip Classroom Pre-recorded Lectures
 
