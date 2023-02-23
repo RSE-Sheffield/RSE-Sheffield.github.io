@@ -184,6 +184,7 @@ Each week's practical activities (the labs) follow the ideas presented in the le
 * [Lab Sheet](https://drive.google.com/file/d/1CQ3LXJd_P1C14C8N5edAAYKu_LxukjLw/view?usp=share_link)
 * [Starting Code](https://github.com/RSE-Sheffield/COMCUDA_labs/archive/Lab03_src.zip)
 * [Solution](https://github.com/RSE-Sheffield/COMCUDA_labs/archive/Lab03_sln.zip)
+* [Frequently Asked Questions](./labs/3)
 
 --------------------
 
@@ -193,8 +194,8 @@ Each week's practical activities (the labs) follow the ideas presented in the le
 
 *Monday 10:00 Broad Lane LT2*
 
-* GPU Architecture
-* Introduction to CUDA
+* GPU Architecture ([pdf](https://drive.google.com/file/d/1XyDFYjiV29u6aZjo_02fYJ8i8PLhgrcM/view?usp=share_link), [pdf with notes](https://drive.google.com/file/d/1y-A2sW9hXoUcX9gMjvmFKnTw0lDiPXVO/view?usp=share_link))
+* Introduction to CUDA ([pdf](https://drive.google.com/file/d/1ArIiA6khSXZeBdSzV0u4vxrybZiDHoMR/view?usp=share_link), [pdf with notes](https://drive.google.com/file/d/1VZyKLnzLLqW5_GOCJAKfBP0rY7itu7ij/view?usp=share_link))
 
 #### Flip Classroom Pre-recorded Lectures
 
@@ -216,10 +217,8 @@ The assignment will be handed out via Blackboard after Monday's lecture.
 * [Lab Sheet](https://drive.google.com/file/d/1CWh9jFA9psV5yhRwAYf1uMXt0x6H2Akt/view?usp=share_link)
 * [Starting Code](https://github.com/RSE-Sheffield/COMCUDA_labs/archive/Lab04_src.zip)
 * [Solution](https://github.com/RSE-Sheffield/COMCUDA_labs/archive/Lab04_sln.zip)
+* [Using CUDA with Visual Studio 2022 Guide](https://drive.google.com/file/d/145bvUng0QPsFLmQEPjPj1AYVgZQ45xXy/view?usp=share_link)
 
-<!--
-* [CUDA Compilation with Visual Studio 2022 Guide](https://drive.google.com/file/d/1p1WLCG_KfmB54pNxOwAl2fsoh3tFxLy7/view?usp=sharing)
--->
 
 --------------------
 
