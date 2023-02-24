@@ -58,7 +58,7 @@ Research IT courses will be adopting a hybrid approach from March. The team will
 #### RSE Team: Git & GitHub through GitKraken workshop - from Zero to Hero!
 
 This is an introductory course, teaching the git and GitHub skills required to manage research code over it’s development lifecycle. These skills are essential for collaborative research teams.
-
+* [Introduction to Conda for (Data) Scientists 2023-03-03](https://rse.shef.ac.uk/training/workshop/2023-03-03-intro-to-conda)
 * [Git & GitHub through GitKraken workshop 2023-03-06 & 2023-03-07](https://rse.shef.ac.uk/training/workshop/2023-03-06-git-zero-hero)
 
 If a course is "sold out" please join the wait list by signing up - we regularly email people to encourage those that can no longer attend to cancel. Those on the wait list get early notification when the courses are run again.
