@@ -68,7 +68,7 @@ The remaining 20% of the module mark is from two Blackboard quizzes which must b
 These Blackboard quizzes replace the lab classes of weeks 5 and 10.
 
 * Week 5 - 09:00 on the 7th March in Diamond Computer Room 1
-    * Quiz content covers lectures from weeks 1-4 (inclusive).
+    * Quiz content covers lectures from weeks 1-3 (inclusive).
 * Week 10 - 09:00 on the 2nd May in Diamond Computer Room 1
     * Quiz content covers lectures from weeks 4-9 (inclusive).
 
@@ -218,6 +218,8 @@ The assignment will be handed out via Blackboard after Monday's lecture.
 * [Starting Code](https://github.com/RSE-Sheffield/COMCUDA_labs/archive/Lab04_src.zip)
 * [Solution](https://github.com/RSE-Sheffield/COMCUDA_labs/archive/Lab04_sln.zip)
 * [Using CUDA with Visual Studio 2022 Guide](https://drive.google.com/file/d/145bvUng0QPsFLmQEPjPj1AYVgZQ45xXy/view?usp=share_link)
+* [Frequently Asked Questions](./labs/4)
+* [cudamemchk.bat](https://drive.google.com/file/d/1D6U3vaVC41ZuI37p3EdBiHp3Ae4v3KD3/view?usp=share_link) *(You may need to update the path to Compute Sanitizer if using a different version of CUDA)*
 
 
 --------------------
@@ -230,7 +232,7 @@ The assignment will be handed out via Blackboard after Monday's lecture.
 
 *Tuesday 9:00 Diamond CR1*
 
-This quiz held during the normal lab timeslot, covers the content from lectures 1-4 and **must** be attended in person as it will be held in exam conditions with invigilation.
+This quiz held during the normal lab timeslot, covers the content from lectures 1-3 and **must** be attended in person as it will be held in exam conditions with invigilation.
 
 The quiz consists of 25 multiple choice questions, and must be completed within 45 minutes.
 
