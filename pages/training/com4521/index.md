@@ -12,7 +12,7 @@ type: text
 ---
 
 
-# Course Information
+## Course Information
 
 Welcome to the 2022/2023 module page for COM4521/COM6521 Parallel Computing with GPUs.
 
@@ -37,6 +37,7 @@ As the module requires access to a machine with a GPU the following have been ma
 * Diamond High Spec Lab - These are higher spec machines with NVIDIA Quadro 5200 (Pascal generation) GPUs.
 * Other University Machines - As of 2021 the following buildings have computer labs containing machines with GPUs: Heartspace, IC, Hicks, Firth Court, Elmfield. It may be necessary to install Visual Studio and the CUDA toolkit on these machines on first use.  
 * Your own Windows/Linux machine - Follow the instructions under "software for this module".
+* University HPC - For more information refer to [dedicated guide](./hpc-sharc).
 
 ## Course Attendance Monitoring
 
@@ -73,6 +74,7 @@ These Blackboard quizzes replace the lab classes of weeks 5 and 10.
     * Quiz content covers lectures from weeks 4-9 (inclusive).
 
 Quizzes will take 45m (must be completed within the hour) and consist of 25 multiple choice questions.
+
 
 ## DDP students & Staff Candidates
 
