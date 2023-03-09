@@ -246,13 +246,13 @@ The quiz consists of 25 multiple choice questions, and must be completed within 
 
 *Monday 10:00 Broad Lane LT2*
 
-* CUDA Memory
+* CUDA Memory ([pdf](https://drive.google.com/file/d/1rO_QesLjgZTanG7x1kvx6P62zkn-2PAV/view?usp=share_link), [pdf with notes](https://drive.google.com/file/d/1PEHKzrElKZTOlBa5WSiftzRWnT9PtAjS/view?usp=share_link))
 
 #### Flip Classroom Pre-recorded Lectures
 
 * Memory Overview ([pdf](https://drive.google.com/file/d/1BxiovKdODm1OsRTsLzW0LyOj1CfBYVQX/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+09+-+Part+01+-+Memory+Overview/1_0pa748z1))
-* Global and Constant Memory ([pdf](https://drive.google.com/file/d/1ZvdLGJJ3D_-DrEFsR6Sai-sA5WN-uuWT/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+09+-+Part+02+-+Global+and+Constant+Memory/1_fl15aonq))
-* Read Only and Texture Memory ([pdf](https://drive.google.com/file/d/1bSk8km76Y0CXAcBhBypwknl8OGoXb0VT/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+09+-+Part+03+-+Read-Only+and+Texture+Memory/1_kiodtb5l))
+* Global & Constant Memory ([pdf](https://drive.google.com/file/d/1ZvdLGJJ3D_-DrEFsR6Sai-sA5WN-uuWT/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+09+-+Part+02+-+Global+and+Constant+Memory/1_fl15aonq))
+* Read Only & Texture Memory ([pdf](https://drive.google.com/file/d/1bSk8km76Y0CXAcBhBypwknl8OGoXb0VT/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+09+-+Part+03+-+Read-Only+and+Texture+Memory/1_kiodtb5l)) *(Covers old texture API)*
 
 <!--
 ##### Using GPU Backed Cloud Instances (Optional Content)
