@@ -1,6 +1,6 @@
 ---
 title: "Unix Shell Fundamentals"
-category: carpentry
+category: workshop
 tags: unix shell
 permalink: /training/workshop/2023-03-03-unix-shell
 date: 2023-03-23
