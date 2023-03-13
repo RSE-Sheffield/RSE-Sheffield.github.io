@@ -9,7 +9,10 @@ from: "12:30"
 to: "16:30"
 location: "Online"
 speaker: "David Wilby, Neil Shephard"
+social_image: /assets/images/hacker.jpg
 ---
+
+<a title="Image: Sohanhosen01, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Wallpapersden.com_anonymous-hacker-working_1280x720.jpg"><img width="60%" alt="Wallpapersden.com anonymous-hacker-working 1280x720" src="/assets/images/hacker.jpg"></a>
 
 The Unix shell (which you may know as the terminal, console, or 'bash') has been around longer than most of its users have been alive. It has survived because it’s a powerful tool that allows users to perform complex and powerful tasks, often with just a few keystrokes or lines of code. It helps users automate repetitive tasks and easily combine smaller tasks into larger, more powerful workflows. Use of the shell is fundamental to a wide range of advanced computing tasks, including high-performance computing. This lesson will introduce you to this powerful tool.
 
