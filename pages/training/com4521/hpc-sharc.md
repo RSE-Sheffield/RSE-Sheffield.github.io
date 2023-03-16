@@ -109,7 +109,7 @@ Success. Logging you in...
 
 ## Transferring Files
 
-Download and install the FileZilla **client** from https://filezilla-project.org.
+Download and install the FileZilla **client** from [https://filezilla-project.org](https://filezilla-project.org).
 
 When you first open FileZilla you need to create a site.
 
