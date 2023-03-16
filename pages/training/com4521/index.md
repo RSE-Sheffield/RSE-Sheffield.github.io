@@ -280,8 +280,8 @@ The quiz consists of 25 multiple choice questions, and must be completed within 
 
 *Monday 10:00 Broad Lane LT2*
 
-* CUDA Shared Memory
-* CUDA Performance
+* CUDA Shared Memory ([pdf](https://drive.google.com/file/d/1lpZQB_3YBhfrM60oJD-p4KnNHduAeA9H/view?usp=share_link), [pdf with notes](https://drive.google.com/file/d/1ym6kfSL7vnEdkHtKFhRzg87yO3J3XJVM/view?usp=share_link), [shared mem spreadsheet](https://docs.google.com/spreadsheets/d/1xXlE1CCb6QrsU6XUyrd8rBQkn8cPlg7j/edit?usp=share_link&ouid=103785091663071688487&rtpof=true&sd=true))
+* CUDA Performance ([pdf](https://drive.google.com/file/d/1mdpdngX2rIxQANvnusiucDt3JmPusjo2/view?usp=share_link), [pdf with notes](https://drive.google.com/file/d/1Ni3N-s423d2i4huk5aGRmwoLq1oEEykx/view?usp=share_link))
 
 #### Flip Classroom Pre-recorded Lectures
 
