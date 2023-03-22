@@ -3,14 +3,16 @@ title: "Unix Shell Fundamentals"
 category: workshop
 tags: unix shell
 permalink: /training/workshop/2023-03-03-unix-shell
-date: 2023-03-23
-end-date: 2023-03-23
+date: 2023-04-06
+end-date: 2023-04-06
 from: "12:30"
 to: "16:30"
 location: "Online"
 speaker: "David Wilby, Neil Shephard"
 social_image: /assets/images/hacker.jpg
 ---
+
+**Please note: this workshop has been rearranged for Thursday 6th April. Apologies for any inconvenience caused.**
 
 <a title="Image: Sohanhosen01, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Wallpapersden.com_anonymous-hacker-working_1280x720.jpg"><img width="60%" alt="Wallpapersden.com anonymous-hacker-working 1280x720" src="/assets/images/hacker.jpg"></a>
 
