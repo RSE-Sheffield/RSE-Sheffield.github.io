@@ -311,8 +311,8 @@ The quiz consists of 25 multiple choice questions, and must be completed within 
 
 *Monday 10:00 Broad Lane LT2*
 
-* CUDA Warp Level CUDA
-* CUDA Parallel Patterns
+* Warp Level CUDA & Atomics ([pdf](https://drive.google.com/file/d/1_v4KIobtPWs72ZBCCQ3jiImjpPJbRGjR/view?usp=share_link), [pdf with notes](https://drive.google.com/file/d/18-7aMNU44Z7L-x2IzvdHUBdIyVOwuh54/view?usp=share_link))
+* CUDA Parallel Patterns ([pdf](https://drive.google.com/file/d/16IXvCSsKmYifA1W90BOhW3xuIzQo_gBM/view?usp=share_link), [pdf with notes](https://drive.google.com/file/d/16nXSIhmMRJow4-JS47GOd7oW5Nxv8gqp/view?usp=share_link))
 
 #### Flip Classroom Pre-recorded Lectures
 
@@ -322,8 +322,6 @@ The quiz consists of 25 multiple choice questions, and must be completed within 
 * Parallel Patterns Overview ([pdf](https://drive.google.com/file/d/1gJfnZjQzlB1GzV4BgnaQNXU4aAWyfFIX/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+13+-+Part+01+-+Parallel+Patterns+Overview/1_a0nt7yyq))
 * Reduction ([pdf](https://drive.google.com/file/d/1mbFSXVTUKmvNZTPmBlLMRIfNjQbpuFDr/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+13+-+Part+02+-+Reduction/1_c12ixy0e))
 * Scan ([pdf](https://drive.google.c5-8om/file/d/1IUDNWjkWDOHtIgg5emo-UgnbyU1xboED/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+13+-+Part+03+-+Scan/1_pfrawiuc))
-
-## Week 8
 
 ### Lab 7 - Atomics & Primitives
 
