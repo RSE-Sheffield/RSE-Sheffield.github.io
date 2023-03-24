@@ -1,16 +1,15 @@
 ---
-alumnum: false
+alumnum: true
 level: 0
 published: true
 
 othernames: Paul
 surname: Richmond
-role: Group Director
+role: Former Group Director
 
 ---
 
-Paul is an [EPSRC Research Software Engineering Fellow](https://rse.ac.uk/community/epsrc-rse-fellows/). Paul's career as an academic researcher has always been focused on the development of software to support research, predominantly through the application of emerging hardware architectures to complex systems simulation. His technical expertise in GPU computing has led him to work more broadly, engaging with researchers in a wide range of domains to embed accelerated and GPU computing into their research ecosystems. His background in independent research means that he self-identifies as a [Research Software Engineer](https://rse.ac.uk/) with a strong emphasis on research relating to the application of GPUs. He is the director of the RSE group and oversees and manages team members and their more broad contribution to projects around research software development.
+Paul was a co-founder of the RSE team and led its growth and development from three staff to a teams of roughly 12 full time employees over a period of six years. He is the RSE team lead at the [Cambridge Institute of Computing for Climate Science](https://cambridge-iccs.github.io/) buit holds a part time role at the university of Sheffield as a Professor of Research software Engineering in the Department of Computer Science. He no longer oversees the RSE team but is actively engaged in research projects and impact work relating to the application of research software, in particular the [FLAME GPU](http://www.flamegpu.com) software for GPU accelerated agent based simulation. Paul was formally an [EPSRC Research Software Engineering Fellow](https://rse.ac.uk/community/epsrc-rse-fellows/) and President of the society of Research Software Engineering](https://society-rse.org/about/governance/rse-society-trustees-2020-2021/). He is actively engaged in the national RSE community and retains interest in advancing the national provision of RSE collaboration including within the University of Sheffield. 
 
 * Email: P.Richmond (at) Sheffield.ac.uk
 * Web: [http://paulrichmond.shef.ac.uk](http://paulrichmond.shef.ac.uk)
-* GPUComputing: [http://gpucomputing.shef.ac.uk/](http://gpucomputing.shef.ac.uk)
