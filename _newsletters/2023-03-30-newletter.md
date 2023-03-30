@@ -42,7 +42,7 @@ Welcome to this month's newsletter for the research software community at The Un
   Research](https://heidiseibold.ck.page/posts/why-we-need-research-software-engineers-for-reproducible-research) - Dr
   Heidi Seibold on the utility of Research Software Engineers.
 + [PyTorch 2.0](https://pytorch.org/blog/pytorch-2.0-release/) - the next iteration of the popular open-source machine
-  learning framework is "faster, more Pythonic and Dynamic as ever_".
+  learning framework is "_faster, more Pythonic and Dynamic as ever_".
 + [Indicators of Open Research - Call for Priorities](https://osf.io/jgb6q) - UK Reproducibility Network is looking for
   your input on metrics for monitoring indicators of open research so have your say ([direct link to
   survey](https://forms.office.com/pages/responsepage.aspx?id=MH_ksn3NTkql2rGM8aQVG83drixFredPnFQN6NWRAQ5UNjU1STFYMlNGVFJCWEMzWEs0V1ZVTzNQUyQlQCN0PWcu)).
@@ -55,6 +55,9 @@ Welcome to this month's newsletter for the research software community at The Un
 
 ### Events
 
++ [SYCL practitioners
+  hackathon](https://scicomp.webspace.durham.ac.uk/events/code_performance_series/sycl-practitioners-hackathon-2022-user-group-meeting/) -
+  Cambridge 17th April 2023.
 + [Stanage HPC launch Tickets](https://www.eventbrite.co.uk/e/stanage-hpc-launch-tickets-566515461997) - Firth Hall,
   Firth Court, Western Bank, Sheffield 14:30-18:30 19th April 2023.
 + [Performance Analysis Workshop Series
@@ -66,16 +69,13 @@ Welcome to this month's newsletter for the research software community at The Un
   Conference](https://www.sheffield.ac.uk/smi/events/teaching-reproducible-research-and-open-science-conference) - The
   University of Sheffield, 20th-22nd June 2023.
 + [BigDat 2023 Summer – 7th International School of Big Data](https://bigdat.irdta.eu/2023su/) - Las Palmas de Gran
-  Canaria 17th - 21st July 2023. Online participation possible.
+  Canaria 17th-21st July 2023. Online participation possible.
 + [RSE Conference 2023](https://rsecon23.society-rse.org/) - the UK Society of Research Software Engineering is holding
-  its 2023 conference in Swansea 5t-7th September 2023.
+  its 2023 conference in Swansea 5th-7th September 2023.
 + [OpenFest 2023](https://www.sheffield.ac.uk/library/research/open-research/openfest2023) - OpenFest at The University
   of Sheffield returns after the success of 2022's event for a two day event 6th-7th September 2023, including an online
   symposium _New Perspectives on Open Research_.
 + [US-RSE'23](https://us-rse.org/usrse23/) - The first US-RSE Conference ever! Chicago, 16th-18th October 2023.
-+ [SYCL practitioners
-  hackathon](https://scicomp.webspace.durham.ac.uk/events/code_performance_series/sycl-practitioners-hackathon-2022-user-group-meeting/) -
-  Cambridge 17th April 2023.
 
 ### Training
 
@@ -100,20 +100,22 @@ The Unix shell (which you may know as the terminal, console, or ‘bash’) has 
 
 ### Opportunities
 
-#### Funding
+<!-- #### Funding -->
 
 
 #### Jobs
 
 + [Head of Research Software Engineering (RSE) at University of
   Sheffield](https://www.jobs.ac.uk/job/CYD056/head-of-research-software-engineering-rse) - with the departure of
-  RSE Sheffield co-founder Paul Richmond we're looking for a new Head of Research Software Engineering.
+  RSE Sheffield co-founder Paul Richmond we're looking for a new Head of Research Software Engineering. Applications
+  close 16th April 2023.
 + [Research Software Engineer / Senior Software Engineer for Machine Learning and AI at University of
   Sheffield](https://www.jobs.ac.uk/job/CYL522/research-software-engineer-senior-software-engineer-for-machine-learning-and-ai) -
   Are you interested in facilitating or leading the development of reproducible software and Artificial Intelligence /
   Machine Learning (AI/ML) workflows through collaborations across the whole spectrum of university research areas and
   by working on secondment with Alan Turing Institute (ATI)? Then come and work with us! We've two posts available at
-  Grade 7 or Grade 8 with virtual secondment jointly funded by the [Alan Turing Institute](https://www.turing.ac.uk/).
+  Grade 7 or Grade 8 with virtual secondment jointly funded by the [Alan Turing
+  Institute](https://www.turing.ac.uk/). Applications close 20th April 2023.
 
 ### LunchBytes
 
