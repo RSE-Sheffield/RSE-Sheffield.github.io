@@ -343,7 +343,16 @@ The quiz consists of 25 multiple choice questions, and must be completed within 
 
 *Monday 10:00 Broad Lane LT2*
 
-* CUDA Performance Optimisation & Profiling
+* CUDA Performance Profiling ([pdf](https://drive.google.com/file/d/1IsE7KAKSi-jtDKULPFSlf2Gh9bRvllXV/view?usp=share_link), [pdf with notes](https://drive.google.com/file/d/1QZ1PKXaE0iyQ8LJayuHzYOC3j-sp6uWA/view?usp=share_link))
+
+
+#### Nsight Systems & Nsight Compute 
+
+If you wish to profile on your personal computer (or HPC) with a GPU newer than the Pascal architecture, you will need to instead use the newer profiling tools Nsight Systems/Nsight Compute. We do not currently provide a lecture for these, as they are not supported by the teaching hardware (managed desktops), however Nvidia's documentation and a couple of talks by Nvidia staff may be of value.
+
+* Nsight Systems ([Documentation](https://docs.nvidia.com/nsight-systems/index.html), [Video Guide](https://vimeo.com/398838139)): Nvidia's modern timeline profiler.
+* Nsight Compute ([Documentation](https://docs.nvidia.com/nsight-compute/index.html), [Video Guide](https://vimeo.com/398929189)): Nvidia's modern kernel profiler.
+
 
 #### Flip Classroom Pre-recorded Lectures
 
