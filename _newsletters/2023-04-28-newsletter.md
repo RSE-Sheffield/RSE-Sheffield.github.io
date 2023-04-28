@@ -27,7 +27,7 @@ Welcome to this month's newsletter for the research software community at The Un
 + [Code4thought: Who are We?](https://soundcloud.com/code4thought-615691925/en-who-are-we)
 + [MathWorks releases MATLAB extension for Visual Studio Code](https://blogs.mathworks.com/matlab/2023/04/26/do-you-use-visual-studio-code-matlab-is-now-there-too/)
 + [Jisc: Association for Computing Machinery agreement "a significant step forward for open access in the UK"](https://www.jisc.ac.uk/news/association-for-computing-machinery-agreement-a-significant-step-forward-for-open-access-in-the-uk-12-apr-2023?utm_campaign=headlines&utm_content=Headlines%2019%2F04%2F2023&utm_medium=email&utm_source=adestra)
-+ [Erasmus Uiversity Rotterdam: Dilemma Game App](https://www.eur.nl/en/about-eur/policy-and-regulations/integrity/research-integrity/dilemma-game)
++ [Erasmus University Rotterdam: Dilemma Game App](https://www.eur.nl/en/about-eur/policy-and-regulations/integrity/research-integrity/dilemma-game)
 + [Ladisa, Piergiorgio, et al. "Journey to the Center of Software Supply Chain Attacks." arXiv preprint arXiv:2304.05200 (2023)](https://arxiv.org/abs/2304.05200). [Interactive Taxonomy Website](https://sap.github.io/risk-explorer-for-software-supply-chains/)
 + [PsyArXiv preprint: Using ChatGPT to Fight Misinformation: ChatGPT Nails 72% of 12,000 Verified Claims](https://psyarxiv.com/qnjkf/)
 + [Vicki Boykis: Everything I learned about accidentally running a successful tech conference (Normconf)](https://vickiboykis.com/2022/12/22/everything-i-learned-about-accidentally-running-a-successful-tech-conference/)
