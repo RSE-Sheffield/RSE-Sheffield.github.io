@@ -53,6 +53,15 @@ Welcome to this month's newsletter for the research software community at The Un
 
 ### Training
 
++ [Data management with SQL for researchers](https://rse.shef.ac.uk/training/workshop/2023-05-02-sql) - 2 May 2023 to 2 May 2023 - 12:30-16:30
++ [Plotting and Programming with Python](https://rse.shef.ac.uk/training/workshop/2023-05-09-python) - 9 May 2023 to 10 May 2023 - 14:00-17:00
++ [Supercharge your research code with Git and GitHub](https://rse.shef.ac.uk/training/workshop/2023-05-23-git) - 23 May 2023 to 23 May 2023 - 12:30-16:30
++ [Data Analysis and Visualisation in R](https://rse.shef.ac.uk/training/workshop/2023-05-24-R) - 24 May 2023 to 24 May 2023 - 12:30-16:30
++ [Image Processing with Python](https://rse.shef.ac.uk/training/workshop/2023-06-14-image-processing) - 14 June 2023 to 16 June 2023 - 12:30-16:30
++ [Unix Shell Fundamentals](https://rse.shef.ac.uk/training/workshop/2023-06-26-bioinformatics) - 26 June 2023 to 26 June 2023 - 10:00-16030
++ [Foundations of Astronomical Data Science
+](https://rse.shef.ac.uk/training/workshop/2023-07-12-astro) - 12 July 2023 to 13 July 2023 - 12:30-16:30
+
 #### Research IT Training
 
 Research IT courses have adopted a hybrid approach. The team will be providing their courses both online and in person for the first time since March 2020. The team provides a place for beginners or advanced users to expand their knowledge of HPC and different programming languages. The courses are part of the Doctoral Development Programme. For more information please visit our training registration web page (via VPN): [crs.shef.ac.uk](https://crs.shef.ac.uk).
