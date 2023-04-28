@@ -1,5 +1,5 @@
 ---
-title: "Unix Shell Fundamentals"
+title: "Plotting and Programming with Python"
 category: workshop
 tags: unix shell
 permalink: /training/workshop/2023-05-09-python
@@ -9,7 +9,7 @@ from: "14:00"
 to: "17:00"
 location: "Training Room 108, Computing Centre"
 speaker: "Norbert Gyenge, Joe Heffer, Christopher Wild"
-social_image: 
+social_image:
 ---
 
 [**Register Here** via Eventbrite](https://www.eventbrite.co.uk/e/plotting-and-programming-with-python-tickets-609605936767)
