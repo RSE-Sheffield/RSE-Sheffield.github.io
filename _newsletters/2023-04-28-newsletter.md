@@ -19,6 +19,7 @@ Welcome to this month's newsletter for the research software community at The Un
 
 #### Web and Publications
 
++ [Stanage - The University of Sheffield's new HPC cluster is now accessible to all users](https://mailchi.mp/3ffddf67273e/new-hpc-stanage-is-live?e=efb44934e0)
 + [University of Sheffield becomes member of newly-established Turing University Network](https://www.sheffield.ac.uk/news/university-sheffield-becomes-member-newly-established-turing-university-network)
 + [The Research Software Alliance (ReSA)](https://upstream.force11.org/the-research-software-alliance-resa/)
 + [Code4thought: ByteSized RSE: Integrated Development Environments](https://soundcloud.com/code4thought-615691925/en-bytesized-rse-integrated-development-environments)
