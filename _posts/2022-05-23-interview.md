@@ -12,8 +12,6 @@ type: text
 excerpt_separator: <!--more-->
 ---
 
->If you'd like to come and work in the team, check out [this job - Research Software Engineer (RSE) / Associate RSE for Machine Learning](https://www.jobs.ac.uk/job/CRL803/research-software-engineer-rse-associate-rse-for-machine-learning). It's got a different focus to our usual roles so the candidate assesment will be adapted to include more material on selection, understanding and usage of AI/ML approaches.
-
 We want to make our candidate selection process as open as possible. Generally we’re not trying to hire people who can solve software problems on the acute timescale and in the pressured situation of a job interview, so maybe it’s best to share some example interview questions and assessment tools with everyone?
 
 **This is a representative example, and gives an idea of what to expect, but the process we use for any specific role may differ somewhat.**
