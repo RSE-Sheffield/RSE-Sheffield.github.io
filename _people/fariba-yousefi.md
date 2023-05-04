@@ -1,5 +1,5 @@
 ---
-alumnum: false
+alumnum: true
 level: 2
 published: true
 
@@ -11,7 +11,7 @@ role: Research Software Engineer
 
 Fariba Yousefi is in the process of completing her PhD in Machine Learning at the department of Computer Science, University of Sheffield. She recently joined the research software engineering team as a machine learning research engineer at the university of Sheffield.
 
-Her research interests are Gaussian Processes, data scarcity, imbalanced data and multi-task learning. She enjoys working on healthcare applications. 
+Her research interests are Gaussian Processes, data scarcity, imbalanced data and multi-task learning. She enjoys working on healthcare applications.
 
 Fariba’s experience in chairing and organizing scientific events include: the Gaussian processes summer school (http://gpss.cc/) and the Women in Machine Learning (WiML https://wimlworkshop.org/), where she was the senior programme chair at the affinity workshop for ICML 2020.
 

@@ -39,8 +39,10 @@ Every second Wednesday (13:30 - 15:30).
 ### Book a slot
 
 Clinic sessions are split into 3 half-hourly slots, bookable for consultation.
-To book, please **fill in this [brief form](https://goo.gl/forms/5MVy0jM6xQhWlpmn1).**
-Note that **slots can only be booked 48 hours or more before the scheduled time**.
+
+<a href="https://goo.gl/forms/5MVy0jM6xQhWlpmn1" class="btn btn-primary">Book a code clinic session now</a>
+
+**Note that slots can only be booked 48 hours or more before the scheduled time**.
 
 ### Preparing for your session
 
@@ -60,8 +62,9 @@ relevant upcoming training sessions, etc.
 
 ### Cancelling your session
 
-If you cannot attend the session, please give a **No** response on the calendar invite
-so we can proceed to remove your booking from the system.
+If you cannot attend the session, please give a **No** response on the calendar invite and email the code clinic helpers at 
+[`code-clinic-helpers-group@sheffield.ac.uk`](mailto:) so we can proceed to remove your booking from the system to cancel your session
+and free it up for someone else.
 
 ### Any questions before your session?
 

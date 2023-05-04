@@ -1,8 +1,5 @@
-name: CI build 
+name: CI build
 on:
-  push:
-    branches:
-      - "*"
   pull_request:
     branches:
       - master
@@ -17,7 +14,7 @@ jobs:
       USE_HTMLPROOFER: '0'
     steps:
       # Clone the repository and checkout into the relevant branch
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3.5.0
 
       # Install Ruby
       - name: Install Ruby
@@ -42,14 +39,14 @@ jobs:
 
       # Check for broken links if enabled
       - name: Check for broken links
-        if: ${{ env.USE_HTMLPROOFER == '1' }} 
+        if: ${{ env.USE_HTMLPROOFER == '1' }}
         run: |
           bundle exec htmlproofer --disable-external --allow-hash-href --internal-domains=rse.shef.ac.uk,rse.sheffield.ac.uk --log-level :debug ./_site &> links.log
         continue-on-error: true
 
-      # Store the list of potentially broken links 
+      # Store the list of potentially broken links
       - name: Archive log links
-        if: ${{ env.USE_HTMLPROOFER == '1' }} 
+        if: ${{ env.USE_HTMLPROOFER == '1' }}
         uses: actions/upload-artifact@v1
         with:
           name: links-check.log
