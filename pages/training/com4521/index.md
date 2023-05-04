@@ -343,7 +343,16 @@ The quiz consists of 25 multiple choice questions, and must be completed within 
 
 *Monday 10:00 Broad Lane LT2*
 
-* CUDA Performance Optimisation & Profiling
+* CUDA Performance Profiling ([pdf](https://drive.google.com/file/d/1IsE7KAKSi-jtDKULPFSlf2Gh9bRvllXV/view?usp=share_link), [pdf with notes](https://drive.google.com/file/d/1QZ1PKXaE0iyQ8LJayuHzYOC3j-sp6uWA/view?usp=share_link))
+
+
+#### Nsight Systems & Nsight Compute 
+
+If you wish to profile on your personal computer (or HPC) with a GPU newer than the Pascal architecture, you will need to instead use the newer profiling tools Nsight Systems/Nsight Compute. We do not currently provide a lecture for these, as they are not supported by the teaching hardware (managed desktops), however Nvidia's documentation and a couple of talks by Nvidia staff may be of value.
+
+* Nsight Systems ([Documentation](https://docs.nvidia.com/nsight-systems/index.html), [Video Guide](https://vimeo.com/398838139)): Nvidia's modern timeline profiler.
+* Nsight Compute ([Documentation](https://docs.nvidia.com/nsight-compute/index.html), [Video Guide](https://vimeo.com/398929189)): Nvidia's modern kernel profiler.
+
 
 #### Flip Classroom Pre-recorded Lectures
 
@@ -355,6 +364,8 @@ The quiz consists of 25 multiple choice questions, and must be completed within 
 
 * [Profile Lecture Example Code](https://github.com/RSE-Sheffield/COMCUDA_labs/archive/Lab08_sln.zip)
 There is no lab sheet for this lab. Examine the source code and try changing the `STEP` macro to compile different iterations of the code to run through the profiler.
+
+*Please Note:* Currently in order to open the Visual Profiler on managed desktops you need to run the command `nvvp -vm "C:\Program Files\Java\jdk-1.8\jre\bin\java"` in a console window.
 
 --------------------
 
@@ -372,7 +383,8 @@ The quiz consists of 25 multiple choice questions, and must be completed within 
 
 *Friday 9:00 Pam Liversidge LT1*
 
-* Sorting, Libraries & CUDA Streams
+* Sorting & Libraries ([pdf](https://drive.google.com/file/d/13PpCFOZzcML24Rbd1xsUbdQCb7zsrszt/view?usp=share_link), [pdf with notes](https://drive.google.com/file/d/1Z4ukaCJiAoWjxY-p_QJ5H9SthJe2Bx8J/view?usp=share_link))
+* CUDA Streams ([pdf](https://drive.google.com/file/d/1jfs0s3sw6YSWuP5-NWC6vLCvYDBBF13U/view?usp=share_link), [pdf with notes](https://drive.google.com/file/d/1DINSvckHn3Kvh8pxHuFAl-1asZirH1-U/view?usp=share_link))
 
 #### Flip Classroom Pre-recorded Lectures
 
