@@ -24,6 +24,7 @@ development lifecycle. These skills are essential for collaborative research tea
 **Prerequisite skills:** Some programming experience.
 
 **Learning Objectives**
+
 * Version controlling your own project through Git & GitHub.
 * Basic collaboration through forks on GitHub.
 * Advanced team collaboration through branches on GitHub.
@@ -55,7 +56,7 @@ More details and registration via
 [eventbrite](https://www.eventbrite.co.uk/e/git-github-through-gitkraken-from-zero-to-hero-registration-626271082667).
 
 
-**Please note:** This workshop will run over 2 half days from 09:30-13:00 on Monday 6th and Tuesday 7th March 2023.
+**Please note:** This workshop will run over 2 half days from 09:30-13:00 on Tuesday 30th May and Thursday 1st June 2023.
 
 **Course material:** <https://srse-git-github-zero2hero.netlify.app/>
 
