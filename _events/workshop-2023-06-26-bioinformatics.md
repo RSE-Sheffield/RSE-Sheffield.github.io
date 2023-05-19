@@ -1,13 +1,13 @@
 ---
-title: "Unix Shell Fundamentals"
+title: "Introduction to the Command Line for Bioinformatics"
 category: workshop
 tags: unix shell
 permalink: /training/workshop/2023-06-26-bioinformatics
 date: 2023-06-26
 end-date: 2023-06-26
-from: "10:00"
-to: "16030"
-location: "In person, venue tbc"
+from: "09:30"
+to: "16:30"
+location: "The Diamond - Workroom 2"
 speaker: "Mark Dunning"
 social_image: 
 ---
@@ -16,9 +16,29 @@ social_image:
 
 _This workshop is for University of Sheffield researchers. Please ensure that you sign up using a University of Sheffield email address so that your booking is accepted._
 
+This course offers an introduction to working with Linux. We will describe the Linux environment so that participants can start to utilize command-line tools and feel comfortable using a text-based way of interacting with a computer. We give example of processing data arising from Next-Generation Sequencing experiments, in particular an RNA-seq experiment. However, the tools presented should be applicable to other types of high-throughput biological data.
 
-**Details to follow**
 
+## Pre-requisites
+No prior programming experience is required. **You will need to bring your own laptop to the session**, but there is no software to install. Some familiarity with the experimental techniques used in Next-Generation Sequencing experiments would be advantageous.
+
+## Learning Outcomes
+After this course you should be able to:
+
+* Connect to a Unix / Linux system
+* Navigate around a file system by issuing commands; rather than using a Desktop environment
+* Move and copy files and directories within the Linux system
+* Work with text files
+* Run programs from the command-line
+* Configure a pipeline using the nextflow workflow manager
+
+## Aims
+During this course you will learn about:
+
+* Interacting with a Linux system using a command-line interface
+* A best-practice workflow for RNA-seq analysis
+* The importance of reproducible analysis pipelines
+* The nextflow system as an example of a workflow manager
 
 ## Statement on free at point of use training
 
