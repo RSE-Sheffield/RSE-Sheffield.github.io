@@ -7,7 +7,7 @@ date: 2023-06-05
 end-date: 2023-06-05
 from: "09:30"
 to: "13:30"
-location: "Computer Room B56 (38), Firth Court"
+location: "Online Blackboard Virtual Learning Environment"
 speaker: "RSE Team"
 ---
 
@@ -16,8 +16,8 @@ speaker: "RSE Team"
 **This is an intermediate course, teaching the use of Conda virtual environments for reproducible research environments.**
 
 
-*This event is for University of Sheffield researchers and research students only. Please register with an
-**@shef.ac.uk** or **@sheffield.ac.uk** email address to ensure your ticket request is accepted.*
+*This event is for University of Sheffield researchers and research students only. Please register with a
+University of Sheffield email address to ensure your ticket request is accepted.*
 
 
 ### Prerequisite skills
