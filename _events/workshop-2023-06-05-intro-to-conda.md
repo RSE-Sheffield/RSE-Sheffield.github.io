@@ -2,7 +2,7 @@
 title: "Conda Environments for Effective and Reproducible Research"
 category: introconda
 tags: computing, conda, python, reproducibility, research, virtual environment
-permalink: /training/workshop/2023-03-03-intro-to-conda
+permalink: /training/workshop/2023-06-05-intro-to-conda
 date: 2023-06-05
 end-date: 2023-06-05
 from: "09:30"
