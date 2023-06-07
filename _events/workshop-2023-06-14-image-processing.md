@@ -5,10 +5,10 @@ tags: unix shell
 permalink: /training/workshop/2023-06-14-image-processing
 date: 2023-06-14
 end-date: 2023-06-16
-from: "12:30"
-to: "16:30"
+from: "10:00"
+to: "16:00"
 location: "Training Room 108, Computing Centre"
-speaker: "Norbert Gyenge, Bob Turner"
+speaker: "Norbert Gyenge"
 social_image: 
 ---
 
