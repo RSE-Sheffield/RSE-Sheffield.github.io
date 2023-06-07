@@ -5,8 +5,8 @@ tags: unix shell
 permalink: /training/workshop/2023-07-12-astro
 date: 2023-07-12
 end-date: 2023-07-13
-from: "12:30"
-to: "16:30"
+from: "10:00"
+to: "16:00"
 location: "Training Room 108, Computing Centre"
 speaker: "Norbert Gyenge, Joe Heffer"
 social_image: 
