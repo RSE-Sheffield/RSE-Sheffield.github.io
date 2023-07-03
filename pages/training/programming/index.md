@@ -10,7 +10,9 @@ permalink: /training/programming
 
 A certain amount of technical ability is required as a modern researcher. From running simulations, running large calculations, applying data transformation and analysis or even automating mundane tasks such as renaming and moving data files, learning to program can really help improve your workflow and productivity.
 
-This page is a compilation of resources and learning materials that starts with learning to program from scratch to using the University’s High Performance Computing (HPC) clusters.
+This page is a compilation of resources and learning materials that can help with learning the skills researchers need.
+
+Like anything technical, programming is full of terminology and jargon which can make it hard to get started. Sarah from the [Lyndhurst STEM club](https://lyndhurststem.org/) found [this great article](https://www.qualtrics.com/blog/glossary-of-coding-and-programming-terms/) which explains a lot of terminology to help you get started.
 
 * Do not remove this line (it will not be displayed)
 {:toc}
