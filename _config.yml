@@ -53,6 +53,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-paginate
   - jemoji
+  - jekyll-target-blank
 exclude:
   - Gemfile
   - Gemfile.lock

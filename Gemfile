@@ -37,3 +37,5 @@ gem "jekyll-redirect-from"
 gem "jemoji"
 
 gem "webrick", "~> 1.7"
+
+gem 'jekyll-target-blank'
