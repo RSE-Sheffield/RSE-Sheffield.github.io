@@ -339,7 +339,7 @@ redirect_from:
 
 ## Linting
 
-[pre-commit](https://pre-commit.com) hooks have been added to the repository and are configured in
+[pre-commit](https://pre-commit.com) hooks have been added to the repository (2023-07-22) and are configured in
 `.pre-commit-config.yaml`. Basic `pre-commit` hooks to check YAML files, trailing whitespace and end of files are
 included along with a 8Mb file limit on large files. In addition the
 [markdownlint-cli2](https://github.com/DavidAnson/markdownlint-cli2) hook is also enabled to lint Markdown. It is
@@ -347,9 +347,9 @@ configured using the `.markdownlint-cli2.yaml` configuration file. A full list o
 [rule/aliases](https://github.com/DavidAnson/markdownlint#rules--aliases) serves as a reference for the style/linting
 that is applied to committed files. The hook is configured to fix errors automatically where possible.
 
-[pre-commit.ci](https://pre-commit.ci) configuration has also been included so linting will be applied to pull-requests
-and the test will fail if errors have not been corrected locally when making your commits. This will where possible has
-the added advantage that the `.pre-commit-config.yaml` will be kept up-to-date when new versions of hooks are released.
+[pre-commit.ci](https://pre-commit.ci) configuration has also been included so linting can be applied to pull-requests
+and the test will fail if errors have not been corrected locally when making your commits. This has the added advantage
+that the `.pre-commit-config.yaml` will be kept up-to-date when new versions of hooks are released.
 
 ### pre-commit
 
@@ -368,9 +368,10 @@ pre-commit install --install-hooks
 ```
 
 This will download the necessary virtual environment for running each of the hooks. You are now done, each `git commit`
-you now make will first run `pre-commit` to check the files that you are adding conform to the linting standards. If
-there are errors the commit will fail, where possible `markdownlint-cli2` will correct these and you will have unstaged
-changes that need staging and committing. This is not always possible, if for example there is a [MD045 -
+you now make will first run `pre-commit` to check the files that you are adding conform to the [linting
+rules](https://github.com/DavidAnson/markdownlint#rules--aliases). If there are errors the commit will fail, where
+possible `markdownlint-cli2` will correct these and you will have unstaged changes that need staging and committing. This
+is not always possible, if for example there is a [MD045 -
 no-alt-text](https://github.com/DavidAnson/markdownlint/blob/main/doc/md045.md) error which means there is no `alt-text`
 description for an included image. You will have to correct such errors manually and then stage the changes.
 
