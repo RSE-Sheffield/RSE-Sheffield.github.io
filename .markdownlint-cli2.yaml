@@ -1,0 +1,28 @@
+# Configuration
+
+config:
+
+# MD013 - line-length
+
+  line_length:
+    line_length: 120
+    code_blocks: false
+    tables: false
+  html:
+    allowed_elements:
+      - div
+      - br
+      - img
+      - ol
+      - li
+      - a
+      - script
+      - strong
+
+# ignores:
+
+# - ""
+
+# Fix any fixable errors
+
+fix: true

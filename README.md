@@ -45,7 +45,8 @@ license.
     bundle install
     ```
 
-**Note:** if you get an error related to the `public_suffix` package, try installing and updating bundler before rebuilding the site:
+**Note:** if you get an error related to the `public_suffix` package, try installing and updating bundler before
+rebuilding the site:
 
 ```sh
 gem install public_suffix --version 3.0.3
@@ -70,7 +71,8 @@ bundle exec jekyll serve
 
 The website can then be found at `http://127.0.0.1:4000`
 
-Note that if you are running Ruby 2.7 then you [will see lots of deprecation warnings until Jekyll 4.1 is released](https://github.com/jekyll/jekyll/pull/7948#issuecomment-584132037).
+Note that if you are running Ruby 2.7 then you [will see lots of deprecation warnings until Jekyll 4.1 is
+released](https://github.com/jekyll/jekyll/pull/7948#issuecomment-584132037).
 
 ### Building HTML files
 
@@ -98,15 +100,18 @@ This applies the `img-fluid` css class to the generate `<img>` element, to make 
 
 #### PDFs
 
-PDFs or other very large binary files should be stored in an alternate repository, to avoid polluting the main website source with very large files.
+PDFs or other very large binary files should be stored in an alternate repository, to avoid polluting the main website
+source with very large files.
 
 ##### Seminar-slides
 
-For seminar content, use the [RSE-Sheffield/seminar-slides](https://github.com/RSE-Sheffield/seminar-slides) repository. Detailed instructions are provided in the README.md for how to add files, and how to link to them.
+For seminar content, use the [RSE-Sheffield/seminar-slides](https://github.com/RSE-Sheffield/seminar-slides)
+repository. Detailed instructions are provided in the README.md for how to add files, and how to link to them.
 
 ##### Others
 
-Other files could be stored in an appropriate directory within `assets`, or alternatively another repository could be set up similar to [RSE-Sheffield/seminar-slides](https://github.com/RSE-Sheffield/seminar-slides).
+Other files could be stored in an appropriate directory within `assets`, or alternatively another repository could be
+set up similar to [RSE-Sheffield/seminar-slides](https://github.com/RSE-Sheffield/seminar-slides).
 
 ### Linking to Local Content
 
@@ -129,7 +134,6 @@ require careful attention to when adding a new member or updating details of tho
 
 The header of each Markdown file is written in [yaml](https://yaml.org) with intuitive and self-explanatory fields
 names.
-
 
 #### New Members
 
@@ -168,7 +172,8 @@ Blog posts are located in the `_posts` directory.
 
 The filename **MUST** be prepended with a date (ISO 8601) e.g. `2018-01-01-foo-bar.md`.
 
-Each blog post has a YAML *FrontMatter*, which **must** contain a `slug` (unique), `title`, `author`, `date` and `excerpt_separator`.
+Each blog post has a YAML _FrontMatter_, which **must** contain a `slug` (unique), `title`, `author`, `date` and
+`excerpt_separator`.
 Optional fields can also be included, such as `layout`, `category` (or `categories`), `tags` etc.
 `image` is an optional field and will override the default image (RSE logo) for social cards.
 
@@ -187,11 +192,18 @@ social_image: /assets/images/logo/rse-logoonly-stroke.png
 ---
 ```
 
-The `excerpt_separator` defines a token, which when placed in the blog post causes the remainder of the post to be omitted from blog post previews shown around the website (e.g. [here](https://rse.shef.ac.uk/blog/). It is recommended that blog posts account for the excerpt by having the first paragraph/s act as an introduction to the blog post's content. If `excerpt_separator` is not included in the front-matter, the first line-break will be treated as the end of the excerpt, the suggested seperator `<!--more-->` is a html comment so will not be visible within blog posts.
+The `excerpt_separator` defines a token, which when placed in the blog post causes the remainder of the post to be
+omitted from blog post previews shown around the website (e.g. [here](https://rse.shef.ac.uk/blog/). It is recommended
+that blog posts account for the excerpt by having the first paragraph/s act as an introduction to the blog post's
+content. If `excerpt_separator` is not included in the front-matter, the first line-break will be treated as the end of
+the excerpt, the suggested seperator `<!--more-->` is a html comment so will not be visible within blog posts.
 
-**Warning: GitHub will refuse to serve Jekyll sites that include funny characters (e.g. `&` or `@` in the `title:` YAML field unless the entire title is enclosed in double-quotes**, even though the Jekyll site will build locally without warnings.
+**Warning: GitHub will refuse to serve Jekyll sites that include funny characters (e.g. `&` or `@` in the `title:` YAML
+field unless the entire title is enclosed in double-quotes**, even though the Jekyll site will build locally without
+warnings.
 
-**Warning: Social Card images [cannot be SVGs](https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/summary-card-with-large-image)**.
+**Warning: Social Card images [cannot be
+SVGs](https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/summary-card-with-large-image)**.
 
 ### Events
 
@@ -202,7 +214,8 @@ Events have a YAML FrontMatter, which **must** include `category`, `date`, `from
 The `category` variable classifies the type of event.
 The list of existing categories can be found at `_data/event-categories.yml`.
 
-Different categories of event may expect or make use of additional variables, such as `speaker`, `institute` and `title` for the `seminar` category. See other examples of the same category for further details.
+Different categories of event may expect or make use of additional variables, such as `speaker`, `institute` and `title`
+for the `seminar` category. See other examples of the same category for further details.
 
 The following are some of the  **FrontMatter** variables which can be set:
 
@@ -218,8 +231,10 @@ The following are some of the  **FrontMatter** variables which can be set:
 | `location`      | Location of your event |
 | `tags`          | searchable tags, (not implemented yet) |
 
-**Note** - Permalinks *should* end with a trailing `/` so the event can be accessed with or without the trailing `/`.
- E.g. `permalink: /mycategory/2019-01-01-myevent/` will allow the page to be accessed at `https://rse.shef.ac.uk/mycategory/2019-01-01-myevent/` **and** `https://rse.shef.ac.uk/mycategory/2019-01-01-myevent`.
+**Note** - Permalinks _should_ end with a trailing `/` so the event can be accessed with or without the trailing `/`.
+ E.g. `permalink: /mycategory/2019-01-01-myevent/` will allow the page to be accessed at
+ `https://rse.shef.ac.uk/mycategory/2019-01-01-myevent/` **and**
+ `https://rse.shef.ac.uk/mycategory/2019-01-01-myevent`.
 
 ### Event Categories
 
@@ -251,7 +266,9 @@ To create a new page which lists all events of a given category:
 
 ### Adding/editing info re RSE team projects
 
-Each project listed in [`_data/projects.csv`](_data/projects.csv) should have a description in a markdown file in the [`_project_descriptions/`](_project_descriptions/) folder. The markdown file must be named identically to the text in the key column of `projects.csv`.
+Each project listed in [`_data/projects.csv`](_data/projects.csv) should have a description in a markdown file in the
+[`_project_descriptions/`](_project_descriptions/) folder. The markdown file must be named identically to the text in
+the key column of `projects.csv`.
 
 The following project data (and metadata) are to be populated in `projects.csv`:
 
@@ -282,20 +299,23 @@ The text should address the following:
 * A general description of the project, its aims and objectives, link to project website (if available).
 * What does / did the RSE collaboration add to the project?
 * Current and planned project outputs linked to RSE contribution (e.g. GitHub link, papers, talks).
-* Project impact beyond software (societal benefits, policy change, improved media output, financial / business, public engagement, health benefits).
+* Project impact beyond software (societal benefits, policy change, improved media output, financial / business, public
+  engagement, health benefits).
 
 ## Layout and Style
 
-The structure of Jekyll websites are controlled through *Layouts*, found in `_layouts` directory which can be specified per-page in the YAML header.
+The structure of Jekyll websites are controlled through _Layouts_, found in `_layouts` directory which can be specified
+per-page in the YAML header.
 
-Layouts (or pages) may reference *includes* which are re-usable sections of markup, found in `_includes`.
+Layouts (or pages) may reference _includes_ which are re-usable sections of markup, found in `_includes`.
 
 Style should primarily be controlled through CSS, both through the site theme and any custom CSS rules.
 Custom CSS should be specified in `assets/css/custom.css`
 
 ### Table Formatting
 
-Markdown tables generated by jekyll are not well-themed by the website theme / bootstrap by default, as classes need adding to the table to improve the formatting. This can be achieved in jekyll using a Kramdown feature as follows:
+Markdown tables generated by jekyll are not well-themed by the website theme / bootstrap by default, as classes need
+adding to the table to improve the formatting. This can be achieved in jekyll using a Kramdown feature as follows:
 
 ```markdown
 | Example | Table | A |
@@ -309,9 +329,99 @@ Markdown tables generated by jekyll are not well-themed by the website theme / b
 ### Enabling page redirects
 
 Sometimes you want to change the name or permalink of a page.
-A Jekyll plugin has been enabled to help with that: you can create redirects to a page by adding something like the following to the page's YAML header:
+A Jekyll plugin has been enabled to help with that: you can create redirects to a page by adding something like the
+following to the page's YAML header:
 
 ```yaml
 redirect_from:
   - /events/some-page-that-might-not-exist.html
 ```
+
+## Linting
+
+[pre-commit](https://pre-commit.com) hooks have been added to the repository and are configured in
+`.pre-commit-config.yaml`. Basic `pre-commit` hooks to check YAML files, trailing whitespace and end of files are
+included along with a 8Mb file limit on large files. In addition the
+[markdownlint-cli2](https://github.com/DavidAnson/markdownlint-cli2) hook is also enabled to lint Markdown. It is
+configured using the `.markdownlint-cli2.yaml` configuration file. A full list of the
+[rule/aliases](https://github.com/DavidAnson/markdownlint#rules--aliases) serves as a reference for the style/linting
+that is applied to committed files. The hook is configured to fix errors automatically where possible.
+
+[pre-commit.ci](https://pre-commit.ci) configuration has also been included so linting will be applied to pull-requests
+and the test will fail if errors have not been corrected locally when making your commits. This will where possible has
+the added advantage that the `.pre-commit-config.yaml` will be kept up-to-date when new versions of hooks are released.
+
+### pre-commit
+
+Installing and configuring `pre-commit` locally is relatively straight-forward. A useful reference is [pre-commit :
+Protecting your future self](https://rse.shef.ac.uk/blog/pre-commit/). You will need `pre-commit` installed on your
+system. Many Linux distributions include this in their package repository and it is available in Homebrew for OSX. For
+Windows systems you will have to use a virtual environment (and of course you can use a virtual environment under
+Linux/OSX too if desired).
+
+Once you have installed `pre-commit` on your system you need to enable it and install the configured hooks for this
+repository.
+
+``` bash
+cd ~/path/to/RSE-Sheffield.github.io
+pre-commit install --install-hooks
+```
+
+This will download the necessary virtual environment for running each of the hooks. You are now done, each `git commit`
+you now make will first run `pre-commit` to check the files that you are adding conform to the linting standards. If
+there are errors the commit will fail, where possible `markdownlint-cli2` will correct these and you will have unstaged
+changes that need staging and committing. This is not always possible, if for example there is a [MD045 -
+no-alt-text](https://github.com/DavidAnson/markdownlint/blob/main/doc/md045.md) error which means there is no `alt-text`
+description for an included image. You will have to correct such errors manually and then stage the changes.
+
+### markdownlint-cli2
+
+Some of the rules may be considered undesirable, for example Jekyll allows in-line html and it is widely used across
+files. For this reason a number of rules are disabled.
+
+### Retrospective Linting
+
+When enabling `pre-commit` and `markdownlint-cli2` an attempt was made to check and lint the existing pages using
+`pre-commit run --all-files`. A large number of errors were found, some more common than others e.g. [MD013 - line
+length](https://github.com/DavidAnson/markdownlint/blob/main/doc/md013.md) was the most common. Mindful of not wanting
+to break the web-site it was decided _not_ to fix these automatically. A summary of the number of each problem found
+across all files is given below.
+
+``` bash
+ pre-commit run --all-files | awk -F " M" '{ print "M" $2 }' | awk -F "/" '{ print $1 }' | sort | uniq -c
+      7 MD001
+     71 MD007
+     19 MD009
+    552 MD012
+   2023 MD013
+      2 MD018
+      2 MD019
+     25 MD022
+      2 MD023
+     44 MD024
+     44 MD025
+      4 MD028
+      2 MD029
+      1 MD030
+      5 MD031
+     20 MD032
+     66 MD033
+      3 MD034
+     69 MD036
+      1 MD038
+      1 MD039
+     31 MD040
+     42 MD041
+      1 MD042
+      8 MD045
+      5 MD047
+      8 MD051
+     24 MD052
+      3 MD053
+```
+
+A few files (`LICENSE.md`, `README.md`, `404.md`, `CNAME`, `rst_to_md.sh`) were however modified and included. If
+retrospective linting is to be undertaken be mindful that the `git blame` will be associated with whoever makes the
+changes. This can be avoided by adding the commit to the `.git-blame-ignore-revs` file which means `git` and GitHub will
+ignore the blame for any commits listed in that file. For more on ignoring blame revisions see [Who's to
+blame?](https://rse.shef.ac.uk/blog/git-blame/).
