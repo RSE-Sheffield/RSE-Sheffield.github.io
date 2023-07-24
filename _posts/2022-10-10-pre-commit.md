@@ -82,7 +82,7 @@ conda install -c conda-forge pre-commit
 If you are working on a Python project then you should include `pre-commit` as a requirement (either in
 `requirements-dev.txt`) or under the `dev` section of `[options.extras_require]` in your `setup.cfg` as shown below.
 
-```
+```cfg
 [options.extras_require]
 dev =
   pre-commit

@@ -30,12 +30,12 @@ I'm becoming a fan of `strace` for this sort of debugging.
 
 Have a look at this. When I run this command:
 
-```
+```sh
 strace -e signal= -e open bash -l -c 'echo SCRIPT GOT HERE'
 ```
 I get this output (long and boring, skip and come back to the
 bits I refer to):
-```
+```text
 open("/etc/ld.so.cache", O_RDONLY)      = 3
 open("/lib64/libtinfo.so.5", O_RDONLY)  = 3
 open("/lib64/libdl.so.2", O_RDONLY)     = 3

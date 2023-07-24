@@ -60,7 +60,7 @@ Use folders/directories to organise your project, so that it is obvious (to you 
 
 At the very top level of your project, why not have something like the following structure?
 
-```
+```text
 ├── data/             # directory to contain your data
 │   └── raw/          # all your raw, unprocessed data
 │   └── processed/    # any data that you have altered

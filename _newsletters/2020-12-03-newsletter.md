@@ -176,7 +176,7 @@ Euler Problem 1―Multiples of 3 and 5―is:
   into a PNG file or other graphic format.
   The shell script to generate the network graphic:
 
-    ```
+    ```dot
     dot -Tpng > graph.png <<EOF
     digraph G {
       a -> {b1 b2} -> {c1 c2} -> d
