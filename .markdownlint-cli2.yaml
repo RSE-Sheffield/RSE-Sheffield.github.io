@@ -19,9 +19,8 @@ config:
       - script
       - strong
 
-# ignores:
-
-# - ""
+  ignores:
+    - "assets/plugins/"
 
 # Fix any fixable errors
 
