@@ -18,7 +18,7 @@ In this edition of LunchBytes, we'll be getting together to show off our favouri
 Think: command line tools, IDE plugins, GitHub/Lab features etc.
 
 
-![](https://assets.website-files.com/6167686a04de0ebe0681d0c4/620193f40010d74e1b1aabfc_gitsave-300x2101.png)
+![A sign which reads: "Incase of fire; 1. git commit, 2. git push, 3. leave building.](https://assets.website-files.com/6167686a04de0ebe0681d0c4/620193f40010d74e1b1aabfc_gitsave-300x2101.png)
 
 
 # Speakers
