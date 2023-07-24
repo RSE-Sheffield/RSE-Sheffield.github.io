@@ -28,13 +28,13 @@ There are actually two types of merge which can occur;
 If the branches `master` and `topic` both contain new commits, a true merge will be applied. This essentially creates a new merge commit with parents from both of the branches being merged.
 
 If we call `git merge topic`, whilst the current branch is `master`
-```
+```text
       A---B---C topic
      /
 D---E---F---G master
 ```
 becomes
-```
+```text
       A---B---C topic
      /         \
 D---E---F---G---H master
@@ -46,13 +46,13 @@ In contrast, when the head of the current branch exists within the history of th
 
 If we call `git merge topic`, whilst the current branch is `master`
 
-```
+```text
       C---D---E topic
      /
 A---B master
 ```
 becomes
-```
+```text
                    topic
                  /
 A---B---C---D---E master
@@ -70,13 +70,13 @@ In contrast, `git rebase` incorporates changes from the current branch to the he
 More explicitly, it rolls back all commits on the current branch until a common point in history between the current and named branches is found. All commits after that point in the named branch are then fast-forward merged into current. Following the initially rolled back commits are reapplied individually.
 
 Therefore using the earlier example, if we instead call `git rebase master`, whilst the current branch is `topic`
-```
+```text
       A---B---C topic
      /
 D---E---F---G master
 ```
 becomes
-```
+```text
               a---b---c topic
              /
 D---E---F---G master
@@ -112,7 +112,7 @@ Furthermore `git rebase` can be very powerful, by using the `--interactive` flag
 
 When you first call `git rebase --interactive`, git opens your text editor and presents the below message
 
-```
+```text
 # Rebase AAAAAA..BBBBBB onto CCCCCC (N commands)
 #
 # Commands:

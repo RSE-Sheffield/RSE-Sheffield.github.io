@@ -44,7 +44,7 @@ One way of doing this is to run '``qalter -w v <myjobid>``' after job submission
 if say you think that a job has now been queueing for longer 
 than previously-submitted jobs of a similar nature:
 
-```
+```bash
 [te1st@sharc-login1 ~]$ qalter -w v 217834
 Job 217834 (-l h_rt=3600000) cannot run in queue "flybrain.q" because of cluster queue
 Job 217834 (-l h_rt=3600000) cannot run in queue "gpu.q" because of cluster queue
@@ -119,7 +119,7 @@ you'll observe the same behaviour: jobs that make requests unsatisfiable under t
 Again, job validation can help here but depending on the type of resource the validation error messages can be more or less cryptic.  
 For example, if you try to validate a 100000-'slot' (core) MPI job using ``-w v`` you get the following:
 
-```
+```bash
 qsub -pe mpi 100000 -w v somejob.sge
 ...
 Job 311838 cannot run in PE "mpi" because it only offers 0 slots
