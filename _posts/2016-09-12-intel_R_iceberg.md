@@ -126,7 +126,7 @@ Run time of these operations compared to Iceberg's standard install of R is show
   </tr>
 </table>
 
-![](/assets/images/matmul_r_intel.png)
+![A graph demonstrating the execution time of four different versions of matrix multiplication with R](/assets/images/matmul_r_intel.png)
 
 Another way of viewing these results is to see the speed up compared to the standard install of R. **Even on a single CPU core, the Intel builds are between 4 and 11 times faster than the standard builds**.  Making use of 16 cores takes this up to **141 times faster in the case of Matrix-Matrix Multiplication**!
 

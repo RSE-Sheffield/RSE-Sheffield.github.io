@@ -222,7 +222,7 @@ Similarly to what we saw above, an error will be raised if the wrong result is p
 
 We can run all of our tests for a project from the MATLAB desktop under the *Editor* tab, including running tests with the debugger.
 
-![](/assets/images/matlab-repro-blog/run-tests.png)
+![A screenshot of MATLAB's Run tests toolbar, it has four buttons: Run Tests (with a dropdown arrow), Run Current test, Step (disabled), Stop (disabled).](/assets/images/matlab-repro-blog/run-tests.png)
 
 #### Next steps in testing
 As mentioned above, MATLAB provides more featureful tools for testing under the [class-based testing framework](https://uk.mathworks.com/help/matlab/class-based-unit-tests.html); tools for [testing applications](https://uk.mathworks.com/help/matlab/app-testing-framework.html) and more. I may put together a blog post on these in the future.

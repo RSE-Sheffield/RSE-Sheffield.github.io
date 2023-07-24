@@ -19,4 +19,4 @@ The University of Sheffield has a site license that allows all staff and student
       * [ShARC](https://docs.hpc.shef.ac.uk/en/latest/sharc/software/apps/mathematica.html)
   * [Mathematica Code Cafe](https://github.com/RSE-Sheffield/Code_cafe/tree/master/WolframCodeCafe) - Basic training for Mathematica delivered as part of our Code Cafe series
 
-![](/assets/images/Mathematica.png)
+![Wolfram Mathematica's logo](/assets/images/Mathematica.png)

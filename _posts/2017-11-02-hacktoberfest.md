@@ -9,7 +9,7 @@ link:
 description:
 type: text
 ---
-![](/assets/images/Hacktoberfest17-728x90-03.png)
+![A banner reading; "Hacktoberfest: Contribute to open source. Get a free limited-edition T-shirt"](/assets/images/Hacktoberfest17-728x90-03.png)
 
 <br>
 
