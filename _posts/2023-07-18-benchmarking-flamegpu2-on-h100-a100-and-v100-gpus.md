@@ -93,6 +93,7 @@ Benchmark data was generated using FLAME GPU `2.0.0-rc`, with the `v2.0.0-rc` ta
 
 CUDA 11.8 was used for all GPUs (via Apptainer for the V100s in Bessemer) with CMake configured for the appropriate CUDA Compute Capabilities.
 `FLAMEGPU_SEATBELTS`, which provides better error messages and bounds checking, was disabled in the interest of performance.
+All benchmarks were performed using a single GPU.
 
 | GPU           | CPU                  | CUDA | CMAKE_CUDA_ARCHITECTURES | FLAMEGPU_SEATBELTS |
 |:--------------|:---------------------|:-----|:-------------------------|--------------------|
