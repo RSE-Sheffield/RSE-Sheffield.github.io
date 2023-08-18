@@ -34,8 +34,7 @@ At the time of writing, the following GPUs are available for members of the univ
   + 16 NVIDIA Tesla T4 16GB PCIe GPUs
 
 The newly available H100 GPUs in Stanage are the [300W PCIe variant][nvidia-h100-architecture], this means that for some workloads the university's 500W A100 SXM4 GPUs may offer higher performance (with higher power consumption).
-
-Multi-GPU workloads which perform a large volume of GPU to GPU communication may also be better suited to the A100 nodes than the H100 nodes.
+For example, multi-GPU workloads which perform a large volume of GPU to GPU communication may be better suited to the A100 nodes than the H100 nodes.
 The new H100 nodes in Stanage each contain 2 GPUs which are only connected via PCIe to the host.
 The existing A100 nodes each contain 4 GPUs which are directly connected to one another via NVLink and are connected to the host via PCIe.
 The NVLink interconnect offers higher memory bandwidth for GPU to GPU communication, which combined with twice as many GPUs per node may lead to shorter application run-times than offered by the H100 nodes.
@@ -55,6 +54,7 @@ Carl Kennedy and Nicholas Musembi of the Research and Innovation Team in IT Serv
 Models are implemented using CUDA C++ or Python 3, with modellers describing the behaviours of individuals within the simulation and how they interact with one another through message lists.
 From these relatively simple agent behaviours and interactions, complex behaviours can emerge and be observed.
 The underlying use of GPUs allows for much larger scale Agent Based Simulations than traditional CPU-based frameworks with high levels of performance, while abstracting the complexities of GPU programming away from the modeller.
+A recent [NVIDIA blog][nvidia-blog-flamegpu2] post showed how, in certain scenarios, FLAME GPU is able to operate thousands of times faster than CPU alternatives.
 
 The default `BruteForce` communication pattern in FLAME GPU 2 provides global communication, with all agents reading all messages in the message list.
 At large scales, this can be very costly and inefficient, so FLAME GPU 2 includes a number of specialised communication patterns to improve work-efficiency and performance where appropriate.
@@ -211,3 +211,4 @@ If you have any questions regarding FLAME GPU 2, feel free to [open a discussion
 [h100-rcg-ml-benchmark]: https://notesrcg.blogspot.com/2023/08/Stanage-HPC-new-h100-gpus-available-benchmarking.html
 [nvidia-h100-architecture]: https://resources.nvidia.com/en-us-tensor-core
 [rse-contact-us]: https://rse.shef.ac.uk/contact/
+[nvidia-blog-flamegpu2]: https://developer.nvidia.com/blog/fast-large-scale-agent-based-simulations-on-nvidia-gpus-with-flame-gpu/
