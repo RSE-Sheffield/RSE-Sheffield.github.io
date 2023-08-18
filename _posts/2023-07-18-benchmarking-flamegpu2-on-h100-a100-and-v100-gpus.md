@@ -180,7 +180,7 @@ Stanage, the University of Sheffield's newest Tier 3 HPC facility now contains N
 Using an artificial agent based modelling benchmark (circles) implemented using FLAME GPU 2, simulations of up to 1 million individual agents were benchmarked using GPUs in Stanage and Bessemer.
 Relative performance improvements of up to `1.38`x and `1.75`x were demonstrated using the A100 and H100 GPUs respectively compared to the V100 GPUs in Bessemer, demonstrating some of the capabilities of these newer GPUs.
 
-### More information / References / Acknowledgements
+### More information
 
 For more information on the GPU resources available at the University of Sheffield, please see the HPC documentation for [Stanage][stanage-gpus], [Bessemer][bessemer-gpus], [JADE 2][jade2] & [Bede][bede].
 The [ITS Research and Innovation Team "Machine Benchmarking A100 and H100 GPUs on Stanage" blog post][h100-rcg-ml-benchmark] provides benchmarking of some Machine Learning frameworks within Stanage.
