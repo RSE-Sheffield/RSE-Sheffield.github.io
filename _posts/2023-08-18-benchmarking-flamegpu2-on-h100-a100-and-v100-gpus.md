@@ -2,8 +2,8 @@
 layout: post
 title: "Benchmarking FLAME GPU 2 on H100, A100 and V100 GPUs"
 author: Peter Heywood
-slug: 2023-07-18-benchmarking-flamegpu2-on-h100-a100-and-v100-gpus
-date: 2023-07-18 12:00:00 UTC
+slug: 2023-08-18-benchmarking-flamegpu2-on-h100-a100-and-v100-gpus
+date: 2023-08-18 12:00:00 UTC
 tags: GPU FLAMEGPU benchmarking
 category:
 link:
@@ -48,7 +48,7 @@ Carl Kennedy and Nicholas Musembi of the Research and Innovation Team in IT Serv
 
 <!-- Within the RSE group, a number of staff have been involved in developing [FLAME GPU 2][flamegpu-website]... -->
 
-[![FLAME GPU 2 Logo](/assets/images/2023-07-18-benchmarking-flamegpu2-on-h100-a100-and-v100-gpus/flamegpu2-icon-256.png){: .img-fluid max-width="256px "}][flamegpu-website]{: .float-right .ml-2}
+[![FLAME GPU 2 Logo](/assets/images/2023-08-18-benchmarking-flamegpu2-on-h100-a100-and-v100-gpus/flamegpu2-icon-256.png){: .img-fluid max-width="256px "}][flamegpu-website]{: .float-right .ml-2}
 
 [FLAME GPU 2][flamegpu2-repo] is an open-source GPU accelerated simulator for domain independent complex systems simulations using an agent-based modelling approach.
 Models are implemented using CUDA C++ or Python 3, with modellers describing the behaviours of individuals within the simulation and how they interact with one another through message lists.
@@ -81,7 +81,7 @@ With random (uniform) initialisation of particles, the observed emergent behavio
 
 A more thorough description of the model is provided in Section 4.1 of ["FLAME GPU 2: A framework for flexible and performant agent based simulation on GPUs"][doi.org/10.1002/spe.3207].
 
-![Figure 1: FLAME GPU 2 Circles Benchmark visualisation screenshots](/assets/images/2023-07-18-benchmarking-flamegpu2-on-h100-a100-and-v100-gpus/flamegpu2-circles-progression-1800-1200.png)
+![Figure 1: FLAME GPU 2 Circles Benchmark visualisation screenshots](/assets/images/2023-08-18-benchmarking-flamegpu2-on-h100-a100-and-v100-gpus/flamegpu2-circles-progression-1800-1200.png)
 
 The `circles-benchmark` binary runs multiple benchmark experiments to evaluate the performance under different conditions.
 For this blog post, we are only interested in the `fixed-density` benchmark, which initialises the simulation with randomly positioned circles agents, with a fixed initial density as the size of the simulated environment is scaled.
@@ -135,9 +135,9 @@ Broadly speaking the newer the GPU and the higher the global memory bandwidth, t
 
 When using Run-time compilation, performance improves significantly. This is in part due to a reduction in the number of dependent global memory reads required to access agent data.
 
-![Figure 2: Circles Bruteforce - Mean Simulation Time (s) against Population Size](/assets/images/2023-07-18-benchmarking-flamegpu2-on-h100-a100-and-v100-gpus/plot-h100-a100-v100-cuda-118-fixed-density-circles_bruteforce.png)
+![Figure 2: Circles Bruteforce - Mean Simulation Time (s) against Population Size](/assets/images/2023-08-18-benchmarking-flamegpu2-on-h100-a100-and-v100-gpus/plot-h100-a100-v100-cuda-118-fixed-density-circles_bruteforce.png)
 
-![Figure 3: Circles Bruteforce RTC - Mean Simulation Time (s) against Population Size](/assets/images/2023-07-18-benchmarking-flamegpu2-on-h100-a100-and-v100-gpus/plot-h100-a100-v100-cuda-118-fixed-density-circles_bruteforce_rtc.png)
+![Figure 3: Circles Bruteforce RTC - Mean Simulation Time (s) against Population Size](/assets/images/2023-08-18-benchmarking-flamegpu2-on-h100-a100-and-v100-gpus/plot-h100-a100-v100-cuda-118-fixed-density-circles_bruteforce_rtc.png)
 
 ## Spatial 3D Communication Performance
 
@@ -146,16 +146,16 @@ On average, each agent is only reading `204.5` messages, rather than all `100000
 This greatly reduces the number of global memory reads performed and subsequently the impact of RTC is diminished although still significant.
 As the initial density of the simulations and communication radius are maintained as the population is scaled, the average number of relevant messages is roughly comparable at each scale, resulting in a more linear relationship between simulation time and population size.  
 
-![Figure 4: Circles Spatial3D - Mean Simulation Time (s) against Population Size](/assets/images/2023-07-18-benchmarking-flamegpu2-on-h100-a100-and-v100-gpus/plot-h100-a100-v100-cuda-118-fixed-density-circles_spatial3D.png)
+![Figure 4: Circles Spatial3D - Mean Simulation Time (s) against Population Size](/assets/images/2023-08-18-benchmarking-flamegpu2-on-h100-a100-and-v100-gpus/plot-h100-a100-v100-cuda-118-fixed-density-circles_spatial3D.png)
 
-![Figure 5: Circles Spatial3D RTC - Mean Simulation Time (s) against Population Size](/assets/images/2023-07-18-benchmarking-flamegpu2-on-h100-a100-and-v100-gpus/plot-h100-a100-v100-cuda-118-fixed-density-circles_spatial3D_rtc.png)
+![Figure 5: Circles Spatial3D RTC - Mean Simulation Time (s) against Population Size](/assets/images/2023-08-18-benchmarking-flamegpu2-on-h100-a100-and-v100-gpus/plot-h100-a100-v100-cuda-118-fixed-density-circles_spatial3D_rtc.png)
 
 ### Relative Performance against V100 SXM2
 
 For simulations at the largest scale benchmarked, containing 1 million agents, compared to the V100 GPUs in Bessemer, the A100 and H100 GPUs in Stanage were up to `1.38` and `1.75` times faster respectively, as shown in the following figure and table.
 The relative performance improvement is model and compilation method dependent.
 
-![Figure 6: Circles Benchmark relative Speedup against V100 SXM2 CUDA 11.8](/assets/images/2023-07-18-benchmarking-flamegpu2-on-h100-a100-and-v100-gpus/plot-speedup-v100-fixed-density-max-pop-V100_SXM2.png)
+![Figure 6: Circles Benchmark relative Speedup against V100 SXM2 CUDA 11.8](/assets/images/2023-08-18-benchmarking-flamegpu2-on-h100-a100-and-v100-gpus/plot-speedup-v100-fixed-density-max-pop-V100_SXM2.png)
 
 | Benchmark              |   V100 SXM2 |   A100 SXM4 |   H100 PCIe |
 |:-----------------------|------------:|------------:|------------:|
