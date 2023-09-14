@@ -8,7 +8,7 @@ tags: GPU FLAMEGPU benchmarking
 category:
 link:
 description:
-social_image: 
+social_image:
 type: text
 excerpt_separator: <!--more-->
 ---
@@ -39,6 +39,8 @@ The new H100 nodes in Stanage each contain 2 GPUs which are only connected via P
 The existing A100 nodes each contain 4 GPUs which are directly connected to one another via NVLink and are connected to the host via PCIe.
 The NVLink interconnect offers higher memory bandwidth for GPU to GPU communication, which combined with twice as many GPUs per node may lead to shorter application run-times than offered by the H100 nodes.
 If even more GPUs are required moving to the Tier 2 systems may be required, with Jade 2 offering up to 8 GPUs per Job, and Bede being the only current option for multi-node GPU jobs, with up to 128 GPUs per job.
+
+<!--more-->
 
 Within Stanage, software may need recompiling to run on the H100 nodes, or new versions of libraries may be required. For more information see the [HPC Documentation][stanage-using-gpus].
 
@@ -144,7 +146,7 @@ When using Run-time compilation, performance improves significantly. This is in 
 Using the much more work efficient Spatial 3D communication strategy, simulation run-times are significantly quicker than any of the brute-force benchmarks, with the largest simulations taking at most `0.944`s rather than `1457`s.
 On average, each agent is only reading `204.5` messages, rather than all `1000000` messages each agent must read in the bruteforce case.
 This greatly reduces the number of global memory reads performed and subsequently the impact of RTC is diminished although still significant.
-As the initial density of the simulations and communication radius are maintained as the population is scaled, the average number of relevant messages is roughly comparable at each scale, resulting in a more linear relationship between simulation time and population size.  
+As the initial density of the simulations and communication radius are maintained as the population is scaled, the average number of relevant messages is roughly comparable at each scale, resulting in a more linear relationship between simulation time and population size.
 
 ![Figure 4: Circles Spatial3D - Mean Simulation Time (s) against Population Size](/assets/images/2023-08-18-benchmarking-flamegpu2-on-h100-a100-and-v100-gpus/plot-h100-a100-v100-cuda-118-fixed-density-circles_spatial3D.png)
 
