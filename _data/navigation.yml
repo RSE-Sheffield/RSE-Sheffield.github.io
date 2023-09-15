@@ -1,29 +1,41 @@
-- title: RSE Service
+- title: Collaborate
   subitems:
-    - title: RSE Service Overview
-      url: /service/
-    - title: Service Model Provision
-      url: /service/provision/
-    - title: What we do
-      url: /service/activities
+    - title: Why work with us?
+      url: /collaboration/
+    - title: How to work with us
+      url: /collaboration/provision/ 
+    - title: Collaboration Guide
+      url: /collaboration/guide/ 
+    - title: What We Do
+      url: /collaboration/activities        
+    - title: Costing RSE time
+      url: /collaboration/costing
+    - title: Tier 2 Open Call
+      url: /collaboration/tier2
     - title: Projects
-      url: /service/projects
+      url: /collaboration/projects
     - title: Testimonials
-      url: /service/testimonials
-- title: "Support &amp; Training"
+      url: /collaboration/testimonials
+- title: "Training"
   subitems:
-    - title: Overview
+    - title: Training Courses
       url: /training/
     - title: Researcher Programming Resources
       url: /training/programming
+    - title: Researcher Artificial Intelligence and Machine Learning Resources
+      url: /training/deeplearning
     - title: Code Clinic
       url: /support/code-clinic
-    - title: Deep Learning
-      url: /training/deeplearning
-- title: RSE Community
+    - title: "COM4521/COM6521: Parallel Computing with GPUs"
+      url: /training/com4521
+- title: Our Community
   subitems:
     - title: Overview
       url: /community
+    - title: Code of Conduct
+      url: /community/code_of_conduct
+    - title: Slack
+      url: /community/slack
     - title: Lunch Bytes talks
       url: /community/lunch-bytes
     - title: Seminar Series

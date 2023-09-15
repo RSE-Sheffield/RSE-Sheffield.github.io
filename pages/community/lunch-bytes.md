@@ -1,5 +1,5 @@
 ---
-title: Lunch Bytes talks
+title: LunchBytes talks
 permalink: /community/lunch-bytes/
 slug: lunch-bytes
 type: text
@@ -16,28 +16,36 @@ use/manage research data and
 use/manage research infrastructure.
 We hope through these talks we will come together as a community to discuss best practices and useful methods/tools.
 
-For those familiar with the [RSE seminar series](/community/seminars/), LunchBytes has replaced it but is different in flavour:
-each session features several related short talks on a theme (each being ~10 mins) rather than one longer talk.
+Each LunchBytes session typically features several related short talks on a theme (each being ~10 mins) rather than one longer talk - followed by a discussion.
 
 ## Notifications about future events
 
-To hear about future events and be notified of Blackboard Collaborate joining instructions
-sign up to the RSE team's mailing list ([a Google Group](/community) to
+To hear about future events and be notified of joining instructions
+sign up to the ([RSE team's mailing list](/community) to
 receive the periodic [University of Sheffield RSE community newsletter](/newsletters/).
 
 ## Getting involved
 
-You’ll notice that all presenters are from IT Services or the RSE team;
-in future we hope that people from the research community feel able to:
+LunchBytes is a series by and for the Sheffield Research Software community and as such we're always open to offers from members of the community to:
 
 * Suggest themes for talks;
 * Request specific LunchBytes talks from others;
+* Curate talks on topics of their choice;
 * Offer LunchBytes talks on topics they find interesting.
 
+### Suggesting LunchBytes topics
 Please add requests/offers of LunchBytes talks to [this JamBoard](https://jamboard.google.com/d/1-51cRf0pwZl8O10CnLeJGAqKcnbww-QGaYjszFK-H38/) (using Sticky Notes):
- - For requests: a brief note for why you think this would be useful would be helpful
- - For offers: please note your email address in addition to your talk idea
+ - For __requests__: a brief note for why you think this would be useful would be helpful
+ - For __offers__: please note your email address in addition to your talk idea
  - If you want to up-vote a request/offer use the Pen tool to annotate a Sticky Note with **+1**.
+
+## Recordings of previous LunchBytes
+Each LunchBytes session is recorded and uploaded to the [University of Sheffield Digital Media channel](https://digitalmedia.sheffield.ac.uk/channel/LunchBytes%2Btalks/181886171)
+* [Writing (safer) Python code](https://digitalmedia.sheffield.ac.uk/media/LunchBytes+talks+1A+writing+safer+%28Python%29+code/1_muuuuhoj/181886171)
+* [Jupyter Notebooks - pros and cons](https://digitalmedia.sheffield.ac.uk/media/lunchBytes+2+-+Jupyter+Notebooks+-+pros+and+cons/1_3qv4p0mw/181886171)
+* [Beyond Static Data Visualisation](https://digitalmedia.sheffield.ac.uk/media/Lunchbytes+4A+Beyond+Static+Data+Viz/1_847riyp6/181886171)
+* [Making GPU Programming More Portable](https://digitalmedia.sheffield.ac.uk/media/Lunch+bytes+5+Making+GPU+Programming+More+Portable/1_lldycy2n/181886171)
+* [High Performance Computing (HPC) at Sheffield and Beyond](https://digitalmedia.sheffield.ac.uk/media/LunchBytesA+High+Performance+Computing+%28HPC%29+at+Sheffield+and+Beyond/1_yqkgcmh2)
 
 <!-- TODO: more info on what constitutes a good talk; CoC.
 

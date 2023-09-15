@@ -1,6 +1,6 @@
 ---
 alumnum: false
-level: 2
+level: 1
 published: true
 
 othernames: David
@@ -9,14 +9,17 @@ role: Research Software Engineer
 
 ---
 
-Following a PhD in Physics & Biology at the University of Bristol employing HPC-based optical simulation techniques and postdoctoral research at Bristol and Lund Universities in behavioural experimentation and ray tracing simulation in sensory biology, David made the transition to research software engineering in 2019. He is experienced in Python and MATLAB, with developing interest also in the languages R and Go.
+David is a Senior Research Software Engineer with a research background in optical physics and sensory biology. Following a PhD and postdoc at the University of Bristol and a postdoc at Lund University David made the transition to research software engineering in 2019.
 
-David's interests in research software relate to: impact enhancement, reproducibility and sustainability, best practice and environmental and social responsibility.
+His interests in research software relate to: impact enhancement, reproducibility and sustainability, best practice and environmental and social responsibility, in addition to interests in training researchers in research software.
 
-He has been involved with projects in: python packaging, web dashboards for data visualisation, service containerisation, API development and data visualisation.
+In 2022, David became a fellow of the Software Sustainability Institute with a project on developing guidance and training around reproducible research in MATLAB.
 
-Other technologies that David has worked with are: Django, TensorFlow, Docker, Jupyter notebooks, Javascript & Google App Script.
+He has been involved in numerous research projects including:
+* building Django-based web apps,
+* apps for medical research proof of principle in clinical trials,
+* COVID modelling software quality at the UK Joint Biosecurity Centre,
+* dockerising and python packaging NLP tools.
 
 * Email: d.wilby (at) sheffield.ac.uk
-* Twitter: [@DrDavidWilby](https://twitter.com/drdavidwilby)
-* Web: [davidwilby.github.io/](https://davidwilby.github.io/)
+* Website: [davidwilby.dev](https://davidwilby.dev)

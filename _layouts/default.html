@@ -21,9 +21,11 @@
     <meta name="twitter:card" content="{{ site.twitter.card }}" />
     <meta name="twitter:site" content="@{{ site.twitter.username }}" />
     <meta name="twitter:creator" content="@{{ site.twitter.username }}" />
+    {% if page.social_image %}<meta name="twitter:image" content="{{ site.url }}{{ page.social_image }}" />
+    {% else %}<meta name="twitter:image" content="{{ site.url }}{{ site.logo }}" />{% endif %}
 
-    <link href='https://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <!-- Plausible Analytics -->
+    <script defer data-domain="rse.shef.ac.uk" src="https://plausible.io/js/plausible.js"></script>
     <!-- FontAwesome JS -->
     <script defer src="https://use.fontawesome.com/releases/v5.1.0/js/all.js" integrity="sha384-3LK/3kTpDE/Pkp8gTNp2gR/2gOiwQ6QaO7Td0zV76UFJVhqLl4Vl3KL1We6q6wR9" crossorigin="anonymous"></script>
     <!-- Global CSS -->
@@ -35,6 +37,17 @@
     <link rel="stylesheet" href="/assets/css/custom.css" />
     <!-- GitHub Button -->
     <script async defer src="https://buttons.github.io/buttons.js"></script>
+
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicons/favicon-16x16.png">
+    <link rel="manifest" href="/assets/images/favicons/site.webmanifest">
+    <link rel="shortcut icon" href="/assets/images/favicons/favicon.ico">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="msapplication-config" content="/assets/images/favicons/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+
     {% feed_meta %}
 </head>
 
@@ -45,13 +58,9 @@
     <div class="container">
         <h1 class="logo float-left">
             <span class="logo-title">
-                <a href="https://www.sheffield.ac.uk">
-                    <img src="/assets/images/logo/TUOS_PRIMARY_LOGO_FULL_COLOUR.png" width="110"
-                        alt="The University of Sheffield" />
-                </a>
                 <a href="/">
-                    <img src="/assets/images/logo/rse-logoonly-stroke-small.png" width="45"
-                        alt="Research Software Engineering Sheffield" />
+                    <img src="/assets/images/logo/UoS_Violet_RSE.png" width="250"
+                        alt="The University of Sheffield Research Software Engineering" />
                 </a>
             </span>
         </h1><!--//logo-->
@@ -79,8 +88,28 @@
 <!-- ******FOOTER****** -->
 <footer class="section footer">
     <div class="container text-center">
+         <p xmlns:cc="http://creativecommons.org/ns#"
+            xmlns:dct="http://purl.org/dc/terms/"> 
+         All content (excluding logos or where explicitly stated) licensed under the 
+         <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1"
+            target="_blank"
+            rel="license noopener noreferrer"
+            style="display:inline-block;"
+            class="sm-a">
+         CC BY-SA 4.0
+         <img
+           style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
+           src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt="Creative Commons Logo CC"><img
+           style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
+           src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt="Creative Commons Logo Person"><img
+           style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
+           src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt="Creative Commons Logo Backwards C"></a>
+         license
+         </p>
+    </div><!--//container-->
+    <div class="container text-center">
         <!--/* This template is released under the Creative Commons Attribution 3.0 License. Please keep the attribution link below when using for your own project. Thank you for your support. :) If you'd like to use the template without the attribution, you can buy the commercial license via our website: themes.3rdwavemedia.com */-->
-        <small class="copyright">Designed with <i class="fas fa-heart"></i> by <a href="https://themes.3rdwavemedia.com" target="_blank">Xiaoying Riley</a> for developers</small>
+        <small class="copyright">Designed with <i class="fas fa-heart"></i> by <a href="https://themes.3rdwavemedia.com" target="_blank" class="sm-a">Xiaoying Riley</a> for developers</small>
     </div><!--//container-->
 </footer><!--//footer-->
 
@@ -93,7 +122,7 @@
 <script type="text/javascript" src="/assets/plugins/popper.min.js"></script>
 <script type="text/javascript" src="/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="/assets/plugins/jquery-scrollTo/jquery.scrollTo.min.js"></script>
-<script type="text/javascript" src="/assets/plugins/moment-with-locales.js"></script>
+<script type="text/javascript" src="/assets/plugins/dayjs.min.js"></script>
 <script type="text/javascript" src="/assets/js/main.js"></script>
 
 

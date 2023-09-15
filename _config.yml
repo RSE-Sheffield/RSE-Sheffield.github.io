@@ -51,14 +51,15 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-redirect-from
+  - jekyll-paginate
+  - jemoji
 exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
 strict_front_matter: true
 defaults:
-  -
-    scope:
+  - scope:
       path: "pages"
     values:
       layout: "page"
@@ -82,3 +83,7 @@ defaults:
       type: "newsletters"
     values:
       layout: "newsletter"
+
+# Configure Blog
+paginate: 10
+paginate_path: /blog/page:num/

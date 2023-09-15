@@ -8,4 +8,4 @@ AirQo has a strong team of academics and software engineers, mostly based at Mak
 
 AirQo shares its code via its [GitHub organisation](https://github.com/airqo-platform). In addition to live air quality data, [blog posts](https://www.airqo.net/blog) describe some recent milestones.
 
-The project outputs are hoped to include improved descisions based on newly available air quality data and information derived from machine learning. Ultimately this will improve air quality and health in Kampala and other African cities.
+The project outputs are hoped to include improved decisions based on newly available air quality data and information derived from machine learning. Ultimately this will improve air quality and health in Kampala and other African cities.

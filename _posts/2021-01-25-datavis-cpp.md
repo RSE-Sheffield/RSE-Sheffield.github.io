@@ -10,6 +10,7 @@ link:
 description:
 social_image: /assets/images/2021-01-25-datavis-cpp/image1.png
 type: text
+excerpt_separator: <!--more-->
 ---
 
 *A guest post by [Seb James](https://www.sheffield.ac.uk/psychology/people/research/sebastian-james-0), Research Associate, Department of Psychology ([GitHub](https://github.com/sebjameswml); [Twitter](https://twitter.com/sebjames)).*
@@ -17,6 +18,8 @@ type: text
 ---
 
 In this blog post I'm going to talk about data visualisation - making graphs - within C++ programs. I'll describe why you might want to do this and I'll try to justify why I've spent a sizeable part of my time over the last couple of years developing graphing code in C++, rather than using Python or R like everyone else! The code I'll discuss is available at [https://github.com/ABRG-Models/morphologica](https://github.com/ABRG-Models/morphologica).
+
+<!--more-->
 
 {% include image_caption.html url="/assets/images/2021-01-25-datavis-cpp/image0.png" description="A selection of visualisations made with morphologica. A: 2D graphs. B A: self-organising map simulation (orientation preference maps). C: Three dimensional quiver plot. D: gene driven reaction diffusion model. E: Debugging a large model."%}
 

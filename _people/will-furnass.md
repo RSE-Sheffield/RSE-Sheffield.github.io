@@ -1,5 +1,5 @@
 ---
-alumnum: false
+alumnum: true
 level: 1
 published: true
 
@@ -8,7 +8,7 @@ surname: Furnass
 role: Research Software Engineer
 
 ---
-Will is a Research Software Engineer who is currently:
+Will was a Research Software Engineer who was previously:
 
   - Helping Paul Richmond lead the RSE team
   - Contributing to the development and maintenance of University research computing platforms (inc. HPC)

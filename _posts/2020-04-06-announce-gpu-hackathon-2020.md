@@ -9,6 +9,7 @@ category:
 link:
 description:
 type: text
+excerpt_separator: <!--more-->
 ---
 
 Following the success of our 2019 event,
@@ -17,6 +18,8 @@ as part of the NVIDIA international GPU Hackathon Series.
 
 This event will take place between **27 – 31 July 2020**,
 most likely as an online event unless government restrictions around COVID-19 are significantly altered.
+
+<!--more-->
 
 Prior GPU experience is not required,
 as those selected will be paired with experienced mentors who will teach them how to

@@ -1,0 +1,43 @@
+name: pa11y tests
+
+on:
+  pull_request:
+    branches:
+      - master
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Building site and running pa11y-ci tests
+    runs-on: ubuntu-latest
+
+    steps:
+      # Clone the repository and checkout into the relevant branch
+      - uses: actions/checkout@v3.5.0
+
+      # Install Ruby
+      - name: Install Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.7.3 # Check https://pages.github.com/versions/ for the current Ruby version used by gh pages.
+
+      # Install dependencies required to run jekyll build
+      - name: Install gh-pages rubygem via bundler
+        run: |
+          # Update gem and bundler
+          gem update --system --no-document
+          gem update bundler --no-document
+          # Set the bundle directory
+          bundle config set path vendor/bundle
+          # Install Gemfile contents via bundler
+          bundle install
+
+      # Install pa11y requirements
+      - name: Install pa11y-ci
+        run: npm install -g pa11y-ci
+
+      # Check site accesibility
+      - name: Serve site and test with pa11y
+        run: |
+          bundle exec jekyll serve --detach
+          pa11y-ci http://localhost:4000/

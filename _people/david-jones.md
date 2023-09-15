@@ -1,5 +1,5 @@
 ---
-alumnum: false
+alumnum: true
 level: 2
 published: true
 
@@ -9,7 +9,7 @@ role: Research Software Engineer
 
 ---
 
-David is a Research Software Engineer in
+David was a Research Software Engineer in
 the University of Sheffield's RSE group.
 
 David graduated from the University of Cambridge with
@@ -23,6 +23,5 @@ embedded microcontrollers,
 programming language runtimes, Software Engineering Management,
 /bin/awk, and the PNG image format.
 
-- Email: David.R.Jones@sheffield.ac.uk
 - Twitter: [@drjtwit](https://twitter.com/drjtwit)
 - GitLab: [gitlab.com/drj11](https://gitlab.com/drj11)

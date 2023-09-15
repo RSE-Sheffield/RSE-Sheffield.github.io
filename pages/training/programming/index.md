@@ -6,9 +6,13 @@ type: text
 permalink: /training/programming
 ---
 
+*This is intended to be a living document and will be added to and corrected over time.*
+
 A certain amount of technical ability is required as a modern researcher. From running simulations, running large calculations, applying data transformation and analysis or even automating mundane tasks such as renaming and moving data files, learning to program can really help improve your workflow and productivity.
 
-This page is a compilation of resources and learning materials that starts with learning to program from scratch to using the University’s High Performance Computing (HPC) clusters.
+This page is a compilation of resources and learning materials that can help with learning the skills researchers need.
+
+Like anything technical, programming is full of terminology and jargon which can make it hard to get started. Sarah from the [Lyndhurst STEM club](https://lyndhurststem.org/) found [this great article](https://www.qualtrics.com/blog/glossary-of-coding-and-programming-terms/) which explains a lot of terminology to help you get started.
 
 * Do not remove this line (it will not be displayed)
 {:toc}
@@ -67,16 +71,16 @@ There are Python IDEs with data science focus such as [Rodeo](https://rodeo.yhat
 Here’s a demonstration of a notebook which is used to illustrate working through a machine learning exercise:  [https://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/ml/ML-Exercise1.ipynb](https://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/ml/ML-Exercise1.ipynb)
 
 
-### IT Services Training Courses
-IT Services run a number of [half-day training sessions][1] in topics such as:
-  * Introduction to Linux
-  * Linux Shell Scripting Tutorial
-  * Introduction to Running Software on the HPC
-  * Introduction to Matlab
-  * Introduction/Intermediate/Advanced Python Programming
-  * Python for Data Science
-  * Introduction to Machine Learning with Python
+### MATLAB
 
+#### Reproducibility
+On the RSE Sheffield blog: [A concise guide to reproducible MATLAB projects](/blog/2022-05-05-concise-guide-to-reproducible-matlab/)
+
+#### MATLAB Academy
+Online, self-paced MATLAB training is available to all at TUoS via the [MATLAB Academy](https://matlabacademy.mathworks.com/). There are courses on more specific topics such as image processing and deep learning in addition to the fundamentals of MATLAB.
+
+#### Best Practices in Toolbox Development
+Comprehensive guidance on developing your own toolbox and the best way to do it: <https://github.com/mathworks/toolboxdesign>
 
 
 ### LinkedIn Learning Courses
@@ -94,11 +98,6 @@ However, there are great courses on almost any topic in research computing. Why 
   * [Learning Linux Command Line](https://www.linkedin.com/learning/learning-linux-command-line-2/learning-linux-command-line)
 
 **Note**: You'll need to be on the [university VPN](https://www.sheffield.ac.uk/it-services/vpn) to get access.
-
-
-### MATLAB Academy
-Online, self-paced MATLAB training is available to all at TUoS via the [MATLAB Academy](https://matlabacademy.mathworks.com/). There are courses on more specific topics such as image processing and deep learning in addition to the fundamentals of MATLAB.
-
 
 ---
 
@@ -131,6 +130,10 @@ Familiarity with the command-line interface is required as git is a command-line
 *   [Git - the simple guide](https://rogerdudler.github.io/git-guide/), more of a reference than a full tutorial. It quickly goes through the commands used in basic git operations.
 *   [Git tutorial by Atlassian](https://www.atlassian.com/git/tutorials/tutorials/what-is-version-control), a more in-depth guide to git.
 *   [Git immersion](https://gitimmersion.com/index.html), demonstrates the use of git through code along examples and exercises.
+*   [Visualizing Git Concepts](https://onlywei.github.io/explain-git-with-d3/) - online simulator to help visualize how git works.
+*   [Introducing Version Control with Git](https://chryswoods.com/introducing_git/) - Chrys Woods (RSE @ Bristol Uni) walks through how to use git at the command line, including walkthrough videos and written instructions
+*   [Git for Collaboration](https://chryswoods.com/git_collaboration/) - Following on from his intro course above, Chrys takes you through using GitHub for collaborative research software development.
+
 
 
 ### On-line Git repository hosting
@@ -197,12 +200,10 @@ HPC clusters use a job scheduler to make sure everyone has a chance to run their
     *   HPC Carpentry series [https://hpc-carpentry.github.io/](https://hpc-carpentry.github.io/)
 *   Linux and the command line
     *   Ubuntu’s terminal tutorial [https://ubuntu.com/tutorials/command-line-for-beginners#1-overview](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
-* [IT Services Training Courses][1]
-  * Introduction to Linux
-  * Linux Shell Scripting Tutorial
-  * Introduction to Running Software on the HPC
 
+## Coding for Virtual Reality
 
+* [The Technology Behind Virtual Reality - Coding and Design](https://vr.space/news/education/vr-coding-design/)
 
 <!-- Reference Links -->
 [1]: https://www.sheffield.ac.uk/it-services/research/one-day-sessions

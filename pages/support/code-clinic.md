@@ -6,20 +6,12 @@ slug: code-clinic
 type: text
 ---
 
-**Code clinics will be done online using Google Hangouts for the foreseeable future due to the current Covid-19 situation**.
-
 ### Stop wasting valuable time trying to fix issues on your own.
 
-Code Clinics are **fortnightly support sessions**
-run by the **RSE** team 
-and IT Services' [Research and Innovation IT](https://www.sheffield.ac.uk/it-services/research) (ITS R&I) team.
-They are open to **anyone at TUOS writing code for research** to
-get help with programming problems and general advice on best practice.
+Code Clinics are **fortnightly support sessions** run by the [RSE team](https://rse.shef.ac.uk) (which is supported by the [Department of Computer Science](https://www.sheffield.ac.uk/dcs) and [IT Services](https://www.sheffield.ac.uk/departments/it-services)) and IT Services' [Research IT and support](https://www.sheffield.ac.uk/it-services/research) team.
+They are open to **anyone at TUOS writing code for research** to get help with programming problems and general advice on best practice.
 
-At each session, **members of the RSE and/or ITS R&I teams will be available to
-review code,
-advise,
-troubleshoot and
+At each session, **members of the RSE and/or Research IT and support teams will be available to review code, advise, troubleshoot and
 suggest ways to improve your computational workflows**.
 
 ### Where?
@@ -47,29 +39,16 @@ Every second Wednesday (13:30 - 15:30).
 ### Book a slot
 
 Clinic sessions are split into 3 half-hourly slots, bookable for consultation.
-To book, please **fill in this [brief form](https://goo.gl/forms/5MVy0jM6xQhWlpmn1).**
-Note that **slots can only be booked 48 hours or more before the scheduled time**.
+
+<a href="https://goo.gl/forms/5MVy0jM6xQhWlpmn1" class="btn btn-primary">Book a code clinic session now</a>
+
+**Note that slots can only be booked 48 hours or more before the scheduled time**.
 
 ### Preparing for your session
 
-  - **Organise** and **annotate** your code with **clarifying comments**.
-  - Try and restrict any materials you show us to those related to the specific matter at hand.
-    Consider stripping your code or data down to a **small reproducible example** of your problem.
-  - If helping with the problem requires us to understand your data,
-    please include at the very least a **[README file](https://en.wikipedia.org/wiki/README)**
-    with descriptions of data attributes.
-  - Please **test your microphone** before joining the Google Meet.
-  - If you think it would be useful for you to **share your screen** with a helper then
-    please install [Chrome Remote Desktop](https://remotedesktop.google.com/) in advance
-    (setup instructions [here](https://support.google.com/chrome/answer/1649523?co=GENIE.Platform%3DDesktop&hl=en)).
-    We ask that if you do choose to share your screen with a helper that
-    you consider in advance whether you will be exposing confidential data/code/information
-    that helpers are not permitted to view.
-    Note that Google Remote Desktop is not covered with the University's *Google for Educators* licence
-    so any confidential information shared over this medium
-    is only covered by Google's standard privacy policy.
-    If you have any questions regarding the information security implications of sharing your screen 
-    please contact the TUOS Information Security team via it-servicedesk@sheffield.ac.uk
+- Please provide examples of the code you are working on, if possible. Often the best way to do this is via a “Minimal, Reproducible Example” (<https://stackoverflow.com/help/minimal-reproducible-example>) but sometimes this isn’t possible. It is good software engineering practice to share code using collaborative version control (e.g. GitHub) and it is good open research practice to do this publicly, although these practices are not always possible.
+- Sometimes helping with the problem requires us to understand your data. Sharing data is not always possible. A readme or data dictionary is particularly useful in these situations. 
+- Please provide any information you can on the hardware, operating system, packages you are using.
 
 ### On the day
 
@@ -78,17 +57,22 @@ Note that **slots can only be booked 48 hours or more before the scheduled time*
 
 We will always try and help as best as possible.
 The overarching aim of the sessions is to better equip you to solve your own computational problems.
-This may include directing you to relevant documentation,
-appropriate online forums and resources,
+This may include directing you to relevant documentation, appropriate online forums and resources,
 relevant upcoming training sessions, etc.
 
 ### Cancelling your session
 
-If you cannot attend the session,
-please give a **No** response on the calendar invite
-so we can proceed to remove your booking from the system.
+If you cannot attend the session, please give a **No** response on the calendar invite and email the code clinic helpers at 
+[`code-clinic-helpers-group@sheffield.ac.uk`](mailto:) so we can proceed to remove your booking from the system to cancel your session
+and free it up for someone else.
+
+### Any questions before your session?
+
+In the first instance please contact the helper assigned to your request (see your Google Calendar appointment event for details)
+or if a helper hasn't been assigned yet please contact <code-clinic-helpers-group@sheffield.ac.uk>.
+
+Please do not reply directly to auto-generated emails received after booking a Code Clinic session - the associated mailbox is not monitored.
 
 ### Interested in getting involved?
 
-If you would like to get involved as a helper,
-please contact [Will Furnass or Anna Krystalli in the RSE team](/contact).
+If you would like to get involved as a helper, please contact <code-clinic-helpers-group@sheffield.ac.uk>.

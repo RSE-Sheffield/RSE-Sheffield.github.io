@@ -4,7 +4,7 @@ key: gpy
 
 Multiple output Gaussian processes are useful where several different measurements are made at different points in a parameter space, but not all measurements are made at each point. For example:
 
-<embed src="http://gpss.cc/gpss17/slides/multipleOutputGPs.pdf#page=4" type="application/pdf">
+<embed src="https://gpss.cc/gpss17/slides/multipleOutputGPs.pdf#page=4" type="application/pdf">
 
 A Gaussian process model can be created that allows prediction, with a measure of uncertainty, of any of the measurements at any point in the space. Furthermore, [inference of underlying functions driving the measurements](http://proceedings.mlr.press/v5/alvarez09a/alvarez09a.pdf) is also possible.
 
