@@ -95,8 +95,10 @@ news, opportunities, events and training for you.
 ### Training
 
 The new term sees the resumption of training. RSE training courses can be found [here](https://rse.shef.ac.uk/events/)
-and are normally announced to our mailing list, whereas Research IT courses can be found at
-[crs.shef.ac.uk](https://crs.shef.ac.uk).
+and are normally announced to our mailing list. Details of Research Computing IT courses can be found at
+[crs.shef.ac.uk](https://sites.google.com/sheffield.ac.uk/research-training/research-training). Please see the [event
+calendar](https://sites.google.com/sheffield.ac.uk/research-training/home?authuser=0#h.6pzwqnfhkj6p) for an overview of
+up-coming training events. Register via [myDevelopment](https://www.sheffield.ac.uk/muse).
 
 #### External Training
 
