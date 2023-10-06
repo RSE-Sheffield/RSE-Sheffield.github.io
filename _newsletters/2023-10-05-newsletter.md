@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Summer 2023 Newsletter
-editor: Robert Chisholm
-slug: 2023-07-21-newsletter
-date: 2023-07-21T00:00:00Z+0100
+title: October 2023 Newsletter
+editor: Neil Shephard
+slug: 2023-10-06-newsletter
+date: 2023-10-06T00:00:00Z+0100
 tags:
 category:
 link:
@@ -164,9 +164,9 @@ curate a session on a topic or present something, get in touch by emailing
 [lunchbytes-organisers-group@sheffield.ac.uk](mailto:lunchbytes-organisers-group@sheffield.ac.uk) - Or suggest topics
 [on the jamboard](https://jamboard.google.com/d/1-51cRf0pwZl8O10CnLeJGAqKcnbww-QGaYjszFK-H38/).
 
-### Support
+## Support
 
-#### Code Clinics
+### Code Clinics
 
 Why not come to a [Code
 Clinic](https://docs.google.com/forms/d/e/1FAIpQLScGXS55qjU0D0Zcz-KHOVcNTahcr3YC3H0OpoKBo3lWXWED5A/viewform)? We're keen
@@ -179,14 +179,14 @@ get help with programming problems and general advice on best practices.
 At each session, members of the RSE and/or Research IT teams will be available to review code, advise, troubleshoot, and
 suggest ways to improve your computational workflows.
 
-#### Research IT HPC Drop In
+### Research IT HPC Drop In
 
 HPC Drop-In sessions are providing assistance with HPC related user issues such as challenges in scaling an application
 from desktop to supercomputer. We are considering extending the number of our sessions to two or three weekly. These
 interactive sessions could provide a better interface with our users than our non-interactive ticketing system. These
 sessions are advertised on the [HPC mailing list](https://groups.google.com/u/1/a/sheffield.ac.uk/g/hpc).
 
-#### Research IT Consultations
+### Research IT Consultations
 
 Alongside the HPC Drop-In sessions, Research IT are also running one to one consultations to solve in depth user
 specific problems. These consultations can be booked via our webpage. If you are interested please visit the following
