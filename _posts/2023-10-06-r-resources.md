@@ -14,17 +14,18 @@ excerpt_separator: <!--more-->
 ---
 
 
-[R](https://www.r-project.org) is a statistical programming languages and one of the most popular languages for data
+[R](https://www.r-project.org) is a statistical programming language and one of the most popular languages for data
 analysis, statistics and plotting in academia and industry. Learning a new language can be daunting, particularly if you
 have no experience of scripting and are used to Graphical User Interfaces (GUIs) where you point and click to perform
 your statistical analysis.
 
 Fear not though, there are lot of resources and very friendly, enthusiastic and helpful R users out there who can help
-you on your journey learning [R](https://www.r-project.org). This post details some of them, and I'd welcome additions.
+you on your journey learning [R](https://www.r-project.org). This post details some of them, and I'd [welcome
+additions](mailto:n.shephard@sheffield.ac.uk).
 
 <!--more-->
 
-Most of these resources are links websites that are free and openly available. Where books are linked they are very
+Most of these resources are links to websites that are free and openly available. Where books are linked they are very
 often freely available on-line, but there will also often be the possibility of purchasing a hard copy, which you may
 want to consider doing if you find the resource useful to help support the authors.
 
@@ -182,8 +183,9 @@ Graphics](https://link.springer.com/book/10.1007/0-387-28695-0) has been very po
 
 ### Advanced Topics
 
-There is a lot to R than just Statistical analysis and one day you may want to investigate these in greater detail. The
-links below are to more advanced topics such as writing and maintaining packages or specific tasks such as text mining.
+There is a lot more to R than just Statistical analysis and one day you may want to investigate these in greater
+detail. The links below are to more advanced topics such as writing and maintaining packages or specific tasks such as
+text mining.
 
 + [R Packages](http://r-pkgs.had.co.nz/) by Hadley Wickham and Jenny Bryan
 + [Advanced R](http://adv-r.had.co.nz/) by Hadley Wickham
@@ -211,7 +213,7 @@ existing techniques and special issue articles to accompany conferences or parti
 ## Cheatsheats
 
 Cheatsheets come in handy as a reference to packages and commands. A central repository of cheatsheets is maintained by
-[Postit](https://posit.co/resources/cheatsheets/).
+[Posit](https://posit.co/resources/cheatsheets/).
 
 ## Community
 
