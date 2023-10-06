@@ -37,7 +37,10 @@ news, opportunities, events and training for you.
 
 #### RSE Advocacy
 
-+ [Software Sustainability Institute Fellowship Programme recruitment paused until September 2024](https://www.software.ac.uk/news/ssi-fellowship-programme-recruitment-paused-until-september-2024)
++ [Software Sustainability Institute Fellowship Programme recruitment paused until September
+  2024](https://www.software.ac.uk/news/ssi-fellowship-programme-recruitment-paused-until-september-2024)
++ [Call for Applications: Pushing the Boundaries of Research Software
+  Engineering](https://www.codeforsociety.org/news/call-for-applications-pushing-the-boundaries-of-research-software-engineering)
 
 #### MATLAB
 
