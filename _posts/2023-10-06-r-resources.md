@@ -44,22 +44,6 @@ R has a number of bodies, organisations and companies associated with it.
 Softrware (FOSS) you can download and install it on your computer for free. You will have to install it to use it and
 the isntr
 
-### Git Version Control
-
-It is good practice to version control the code you write, it provides an electronic paper trail of how your code has
-evolved over time and allows you to keep track not just of the code itself but why it has changed or been written.
-
-These days the most popular version control system is [Git](https://git.scm) and projects are often hosted/backed up on
-popular "forges" such as [GitHub](https://github.com) or [GitLab](https://gitlab.com). Sign up with an academic email
-address (`@<institute>.ac.uk` or `@<institute>.edu`) and you will have a few extra benefits.
-
-Learning Git is a whole, vast, topic in and of itself, but to get started with R and Git see the recommendation
-[below](#git-book). If you are a student or researcher at [The University of Sheffield](https://sheffield.ac.uk) you may
-want to consider taking the Research Software Engineering (RSE) Teams popular [Git, GitHub and GitKraken : Zero to
-Hero](https://srse-git-github-zero2hero.netlify.app/) course which runs regularly throughout the year. Sign up to their
-[mailing list](https://groups.google.com/a/sheffield.ac.uk/g/RSE-group) and you'll be notified of when the course
-runs. Alternatively [email them](mailto:rse@sheffield.ac.uk) to find out when the next course is scheduled to run.
-
 ### IDEs
 
 Integrated Development Environments (IDE) are software that help you write code faster and more consistently courtesy of
@@ -102,13 +86,6 @@ iteration of RMarkdown. It supports more document types (e.g. blogs and RevealJS
 [documentation](https://quarto.org/docs/guide/) and a growing number of
 [extensions](https://quarto.org/docs/extensions/). If you are just starting out I would recommend using Quarto over
 RMarkdown.
-
-### Git Book
-
-It is good practice to version control your code and literate documents as you develop them. This can be achieved using
-the version control system [Git](https://git.scm). Get yourself an account on [GitHub](https://github.com) and/or
-[GitLab](https://gitlab.com) and settle down to read Jenny Bryans excellent [Happy Git and GitHub for the
-useR](https://happygitwithr.com).
 
 ### Tidyverse
 
@@ -181,6 +158,13 @@ Graphics](https://link.springer.com/book/10.1007/0-387-28695-0) has been very po
 + [Data visualization with R and ggplot2 | the R Graph Gallery](https://r-graph-gallery.com/ggplot2-package.html)
 + [ggplot2tor](https://ggplot2tor.com/)
 
+### Git Book
+
+It is good practice to version control your code and literate documents as you develop them. This can be achieved using
+the version control system [Git](https://git.scm). Get yourself an account on [GitHub](https://github.com) and/or
+[GitLab](https://gitlab.com) and settle down to read Jenny Bryans excellent [Happy Git and GitHub for the
+useR](https://happygitwithr.com).
+
 ### Advanced Topics
 
 There is a lot more to R than just Statistical analysis and one day you may want to investigate these in greater
@@ -194,6 +178,22 @@ text mining.
 + [Outstanding User Interfaces with Shiny](https://unleash-shiny.rinterface.com/index.html) by Kenton Russel
 + [Reproducible Analytical Pipelines](https://rap4mads.eu/) by Bruno Rodrigues
 + [Text Mining with R](https://www.tidytextmining.com/) by Julia Silge and David Robinson
+
+#### Git Version Control
+
+It is good practice to version control the code you write, it provides an electronic paper trail of how your code has
+evolved over time and allows you to keep track not just of the code itself but why it has changed or been written.
+
+These days the most popular version control system is [Git](https://git.scm) and projects are often hosted/backed up on
+popular "forges" such as [GitHub](https://github.com) or [GitLab](https://gitlab.com). Sign up with an academic email
+address (`@<institute>.ac.uk` or `@<institute>.edu`) and you will have a few extra benefits.
+
+Learning Git is a whole, vast, topic in and of itself, but to get started with R and Git see the recommendation
+[above](#git-book). If you are a student or researcher at [The University of Sheffield](https://sheffield.ac.uk) you may
+want to consider taking the Research Software Engineering (RSE) Teams popular [Git, GitHub and GitKraken : Zero to
+Hero](https://srse-git-github-zero2hero.netlify.app/) course which runs regularly throughout the year. Sign up to their
+[mailing list](https://groups.google.com/a/sheffield.ac.uk/g/RSE-group) and you'll be notified of when the course
+runs. Alternatively [email them](mailto:rse@sheffield.ac.uk) to find out when the next course is scheduled to run.
 
 ## CRAN
 
@@ -250,54 +250,11 @@ these most have [RSS feeds](https://en.wikipedia.org/wiki/RSS)
 
 ## Mastodon
 
-Find posts and resources on Mastodon by searching for the `#rstats` hashtag. Here are some people I follow and find
-useful information from.
-
-### Bots
-
-+ [@rpodcast@podcastindex.social](https://fosstodon.org/@rpodcast@podcastindex.social)
-+ [@rweekly@fosstodon.org](https://fosstodon.org/@rweekly) toots weekly updates from the R Community
-+ [@CRANberriesFeed@mas.to](https://mastodon.social/@CRANberriesFeed@mas.to) a bot that toots about packages released or
-  updated on CRAN.
-
-### People
-
-+ [@e3mma@mastodon.social](https://mastodon.social/@3mma) Emma is a bioinformatician and lecturer at York University who
-  teaches R and reproducibility.
-+ [@f2harrel@mastodon.online](https://mastodon.online/@f2harrell) Frank is the author of the _Regression Modelling
-  Strategies_ book.
-+ [@Cmastication@mastodon.social](https://mastodon.social/@Cmastication) JD Long an avid R user.
-+ [@hadleywickham@fosstodon.org](https://fosstodon.org/@hadleywickham) doyen of R packages and the Tidyverse.
-+ [@HeathrTurnr](https://fosstodon.org/@HeathrTurnr) Heather Turner is a Research Software Engineering Fewllow in
-  Statistics at University of Warrick and an R Foundation board member.
-+ [@eddelbuettel@mastodon.social](https://mastodon.social/@eddelbuettel) ESS and R developer.
-+ [@sje@fosstodon.org](https://fosstodon.org/@sje) ESS developer.
-+ [@robjhyndman@aus.social](https://aus.social/@robjhyndman) co-author of _Forecasting Principles and Practice_.
-+ [@topepo@fosstodon.org](https://fosstodon.org/@topepo) author of _Applied Predictive Modelling_ and co-author of other
-  R books; R package developer (`tidymodels`).
-+ [@annakrystalli@fosstodon.org](https://fosstodon.org/@annakrystalli) Research Software Engineer, [ReproHack founder]
-  and editor at rOpenSci
-
-### Orgs
-
-+ [@ropensci@fosstodon.org](https://fosstodon.org/@ropensci)
-+ [@Posit@fosstodon.org](https://fosstodon.org/@Posit) the company that develops RStudio, Quarto and Shiny
+Find posts and resources on Mastodon by searching for the `#rstats` hashtag (you will also find this is still widely
+used on the site many migrated to Mastodon from). Over time you will find many enthusiastic users and developers who
+share there knowledge and experience freely.
 
 ## Podcasts
 
 + [The R-Podcast](https://r-podcast.org/)
 + [Shiny Developer Series](https://shinydevseries.com/)
-
-## Miscellaneous
-
-### Generative Art
-
-Many people enjoy playing with R and ggplot2 to create Generative Art. One example is
-[aRtsy](https://github.com/koenderks/aRtsy), an R package that implements algorithms for making generative art in a
-straightforward and standardized manner using 'ggplot2' (see archive of posts on
-[@aRtsy_package@mastodon](https://botsin.space/web/@aRtsy_package)). Another package is
-[aRt](https://nrennie.github.io/aRt/) by Nicola Rennie.
-
-+ [aRtsy](https://github.com/koenderks/aRtsy)
-+ [aRt](https://nrennie.github.io/aRt/) by Nicola Rennie
-+ [Generative art resources in R](https://blog.djnavarro.net/posts/2021-10-19_rtistry-posts/)
