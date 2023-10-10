@@ -2,8 +2,8 @@
 layout: post
 title: "R Resources"
 author: Neil Shephard
-slug: 2023-10-06-r-resources
-date: 2023-10-06 12:00:00 UTC
+slug: 2023-10-11-r-resources
+date: 2023-10-11 12:00:00 UTC
 tags: R
 category:
 link:
