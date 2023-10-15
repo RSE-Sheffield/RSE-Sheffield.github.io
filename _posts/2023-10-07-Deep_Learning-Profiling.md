@@ -70,10 +70,13 @@ We will explore some of the features shown on this screen in the following examp
 
 ## Setup
 
-gpu vs cpu. Define both. Diagram of workflow.
+To test the profiling process, I have created a simple deep learning training script that trains a simple convolutional neural network. I use the [TGS Salt Challenge Kaggle Dataset](). The code for this script can be found [here]().
 
-Emphasis that GPU utilization is vital.
+I have the following machine specifications for this blog:
 
+- RTX 3090 GPU (24GiB VRAM)
+- 64iB RAM
+- Intel i7-5930K, 6 cores, 12 threads
 
 ## Run 1
 
@@ -158,5 +161,29 @@ The new step time graph is shown below. **The average time to process a batch ha
 
 ![Figure 5: ](/assets/images/2023-10-07-Deep_Learning-Profiling/007_run3_memory_viewer.png)
 
+**WARNING: Mixed Precision can cause instability (sometimes NANs) in the loss function or a reduction in the metrics. Specifically, certain layers (such as softmax are not suited to float16). Please read [TensorFlow documentation](https://www.tensorflow.org/guide/mixed_precision) to check**
+
 
 ## Run 4
+
+Finally, can we spread our training across more hardware to speed up the training process? TensorFlow offers multiple ways of distributing training across multiple GPUs. Picking the correct option is entirely dependent on the setup of the user. For example, if the user has multiple GPUs on a single machine, then they can use the `tf.distribute.MirroredStrategy` class. If the user has multiple machines with multiple GPUs, then they can use the `tf.distribute.experimental.MultiWorkerMirroredStrategy` class. My setup is multiple GPUs in a single machine so I will be using the `tf.distribute.MirroredStrategy` class. `MirroredStrategy` is a synchronous training strategy that replicates the model across multiple GPUs and synchronises the training process. This means that the batch size is effectively multiplied by the number of GPUs. To use this strategy, add the following code to the top of our script:
+
+```
+strategy = tf.distribute.MirroredStrategy()
+with strategy.scope:
+    model = get_model()
+    model.compile(...)
+```
+
+It is important that the model is defined and compiled within the `strategy.scope` context manager.
+
+**The average time to process a batch has now reduced from 281ms to 250ms.** But why does doesn't the run time half? I don't know. .
+
+## Summary
+
+We run these 4 runs for 10 epochs and compare the runtimes. With very minimal code changes, we have sped up the training process by ~3x. The run times are shown below:
+
+![Figure 6: ](/assets/images/2023-10-07-Deep_Learning-Profiling/009_run_comparison.png)
+
+
+
