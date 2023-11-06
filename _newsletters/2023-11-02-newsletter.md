@@ -2,8 +2,8 @@
 layout: post
 title: November 2023 Newsletter
 editor: Matthew Leach
-slug: 2023-11-02-newsletter
-date: 2023-11-02T00:00:00Z+0100
+slug: 2023-11-06-newsletter
+date: 2023-11-06T00:00:00Z+0100
 tags:
 category:
 link:
