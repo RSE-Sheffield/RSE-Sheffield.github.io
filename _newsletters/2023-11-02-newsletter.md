@@ -25,14 +25,13 @@ news, opportunities, events and training for you.
 - Participate in the [2024 State of Open Soruce](https://www.research.net/r/OPEN-SOURCE-INITIATIVE) survey.
 - The Society of Research Software Engineering have published their [latest newsletter](https://society-rse.org/newsletter-october-2023/).
 - rOpenSci, who promote open and reproducible research have published their [latest newsletter](https://ropensci.org/blog/2023/10/20/news-october-2023/).
+- The University of Sheffield is hosting a [series of bitesize seminars](https://www.sheffield.ac.uk/openresearch/events/how-share-seminar-series) on how best to share different types of research data.
 
 #### MATLAB
 - MATLAB R2023b includes updated support for [gate-based quantum computing](https://blogs.mathworks.com/matlab/2023/10/17/quantum-computing-in-matlab-r2023b-on-the-desktop-and-in-the-cloud/)
 
 
 #### Open Research
-- The University of Sheffield will be hosting its [Annual Open Research Lecture](https://www.sheffield.ac.uk/openresearch/events/annual-open-research-lecture) on the 6th December 2023.
-- The University of Sheffield is hosting a [series of bitesize seminars](https://www.sheffield.ac.uk/openresearch/events/how-share-seminar-series) on how best to share different types of research data.
 - Free Software Foundation Europe (FSFE) published a [short explainer video on free software](https://media.fsfe.org/w/p/9gYSyoEYggsqBExLWjRejL).
 + A series of factsheets from [FAIRsharing](https://fairsharing.org/) have been published.
   + [FAIRsharing in a nutshell](https://zenodo.org/record/8191958)
@@ -50,21 +49,35 @@ news, opportunities, events and training for you.
 
 
 ### Events
-- The Alan Turing Institute is hosting the UK’s national showcase of data science and artificial intelligence (AI), [AI UK 2024](https://ai-uk.turing.ac.uk/). Tickets are now available.
-- You can now apply for the [Open Science Retreat](https://openscienceretreat.eu/) (25th - 29th March, 2024). This event brings people together to share their experiences of and best practices for open science.
-- The Software Sustainability Institute (SSI) have announced their next collaborations workshop, to be held 30th April - 2nd May 2024. You can now [register your interest](https://software.us7.list-manage.com/subscribe?u=628ee3fc74b8ef3497e3a7b66&id=9616c70676)
-- The N8 CIR are hosting a [half-day event](https://n8cir.org.uk/events/data-access-for-digital-health/) on the 8th November to discuss the challenges of data access in the field of digital health and what organisations and researchers are doing to overcome this challenge.
-- The N8 CIR are hosting [an event on Synthetic Data Generation](https://n8cir.org.uk/events/synthetic-data-generation-event/) on the 28th November.
-- NVIDIA are hosting a free [AI and Data Science Virtual Summit](https://www.nvidia.com/en-us/events/ai-data-science-virtual-summit/).
+- The N8 CIR are hosting a [half-day event](https://n8cir.org.uk/events/data-access-for-digital-health/) on the 8th November 2023 to discuss the challenges of data access in the field of digital health and what organisations and researchers are doing to overcome this challenge.
+- NVIDIA are hosting a free [AI and Data Science Virtual Summit](https://www.nvidia.com/en-us/events/ai-data-science-virtual-summit/) on the 8th November 2023.
+- The N8 CIR are hosting [an event on Synthetic Data Generation](https://n8cir.org.uk/events/synthetic-data-generation-event/) on the 28th November 2023.
 - The [PyLadies Conference](https://conference.pyladies.com/) will be running from 30th November to 3rd December 2023.
+- The Alan Turing Institute is hosting the UK’s national showcase of data science and artificial intelligence (AI) (19th - 24th March 2024), [AI UK 2024](https://ai-uk.turing.ac.uk/). Tickets are now available.
+- The University of Sheffield will be hosting its [Annual Open Research Lecture](https://www.sheffield.ac.uk/openresearch/events/annual-open-research-lecture) on the 6th December 2023.
+- You can now apply for the [Open Science Retreat](https://openscienceretreat.eu/) (25th - 29th March 2024). This event brings people together to share their experiences of and best practices for open science.
+- The Software Sustainability Institute (SSI) have announced their next collaborations workshop, to be held 30th April - 2nd May 2024. You can now [register your interest](https://software.us7.list-manage.com/subscribe?u=628ee3fc74b8ef3497e3a7b66&id=9616c70676)
 
 ### Training
 
-The new term sees the resumption of training. RSE training courses can be found [here](https://rse.shef.ac.uk/events/)
-and are normally announced to our mailing list. Details of Research Computing IT courses can be found at
-[crs.shef.ac.uk](https://sites.google.com/sheffield.ac.uk/research-training/research-training). Please see the [event
-calendar](https://sites.google.com/sheffield.ac.uk/research-training/home?authuser=0#h.6pzwqnfhkj6p) for an overview of
-up-coming training events. Register via [myDevelopment](https://www.sheffield.ac.uk/muse).
+#### R
+
+* [R for Statistics and Data Visualisation](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/943cfaf5-cb85-4b58-9af7-16064ae8752b) 2023-11-09 (fully booked, 5 people on waiting list)
+
+#### Python
+
+* [Python for Data Science I](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/653bbdfb-ab61-451b-894f-c38de64f7dbc) 2023-21-05 (fully booked, 5 people on waiting list)
+* [Python Programming 1](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/d2c02e5b-4b2e-43dd-9860-07ccca5c0400) 2023-11-27 (39 places available) 2023-12-11 (fully booked, 2 people on waiting list).
+* [Python Programming 2](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/8ebd2c6f-2c1b-499f-9866-9c78ae625172) 2023-12-01 (65 places available) 2023-12-12 (3 places available).
+* [Python Programming 3](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/d54e003f-6948-4e89-b245-57e4a1b5b587) 2023-12-04 (65 places available) 2024-01-16 (2 places available).
+* [Supervised Machine Learning 1](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/184a44dc-acdd-4908-8246-3d9897492f06) 2023-11-17 (14 places available) 2023-11-30 (91 spaces available) 2023-12-14 (7 spaces available) 2024-01-12 (13 spaces available) 2024-02-02 (13 spaces available)
+* [Supervised Machine Learning 2](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/87c9ec1e-648a-4d60-8a99-0a7eccf53577) 2024-01-15 (fully booked, 2 people on waiting list) 2024-01-29 (10 spaces available)
+*  [Temporal Analysis in Python](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/31ad16b9-5d28-48cf-8a46-1437e2248c8c) 2023-11-24 (4 places available) 2024-01-19 (6 spaces available)
+
+#### Matlab
+
+* [Introduction to Matlab 1](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/d96972b1-cb9e-475e-b680-a83d3fa57972) 2023-11-09 (1 place available)
+* [Introduction to Matlab 2](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/0746d395-7a7d-45b9-9cee-3f7220e28202) 2023-11-30 (9 places available)
 
 #### External Training
 
@@ -94,15 +107,14 @@ board](https://society-rse.org/careers/vacancies/).
 
 - Grade 9 [Principal Research Infrastructure](https://www.ucl.ac.uk/work-at-ucl/search-ucl-jobs/details?nPostingId=6263&nPostingTargetId=16767&id=Q1KFK026203F3VBQBLO8M8M07&LG=UK&languageSelect=UK&mask=extHi) Developer at UCL. Applications close 23rd November.
 - The University of Sheffield are offering a [PhD in the School of Biosciences](https://www.findaphd.com/phds/project/bis-01-mesnage-mass-xplorer-a-transformative-web-based-software-platform-for-peptidoglycomics-a-new-discipline-to-explore-antimicrobial-resistance-and-bacterial-population-dynamics/?p163266), with the aim of developing a web-based software platform for peptidoglycomics, a new discipline to explore antimicrobial resistance and bacterial population dynamics.
+
 #### Volunteer Positions
 
-- The [UK RSECon](https://society-rse.org/rse-conference-2024/) and [US RSECon](https://docs.google.com/forms/d/e/1FAIpQLSfxkbo-6eF2NENsrWwb44_Bb32UNCzgP2d6-z3Hq8HxbYCWYA/viewform) are each looking for volunteers for their organising committees.  
-- The Journal of Open Source Software (JOSS) has issued a [call for editors](https://blog.joss.theoj.org/2023/10/call-for-editors).
-- The Carpentries, who promote inclusive teaching of data and coding skills, are [looking for candidates for their board of directors](https://carpentries.org/blog/2023/09/board-of-directors-election-announcement/).
+- The [US RSECon](https://docs.google.com/forms/d/e/1FAIpQLSfxkbo-6eF2NENsrWwb44_Bb32UNCzgP2d6-z3Hq8HxbYCWYA/viewform) is looking for volunteers for its organising committee.  
 
 #### Funding
 - The University of Sheffield's [Unleash your Data and Software competition](https://www.sheffield.ac.uk/library/research-data-management/unleash-your-data-2023-24) has launched! PGRs and staff can apply for an award of up to £5,000 for a project. The deadline is 1st December, with two drop-in sessions for people to talk through their potential applications on 15th November, and 21st November
-- The Open Bioinformatics Foundation have opened a call for applications for the [OBF Event Fellowship](https://www.open-bio.org/2023/10/19/event-fellowship-2023-3/) which aims to increase diversity in attendance of events promoting open-source bionformatics or open science.
+- The Open Bioinformatics Foundation have opened a call for applications for the [OBF Event Fellowship](https://www.open-bio.org/2023/10/19/event-fellowship-2023-3/) which aims to increase diversity in attendance of events promoting open-source bionformatics or open science. The deadline is the 1st December.
 
 
 ### Digital Research Practice Support Community
@@ -114,7 +126,7 @@ You can join the google group
 [here](https://groups.google.com/u/1/a/sheffield.ac.uk/g/digital-research-practice-support-community-group/about) to
 stay informed.
 
-The next meeting is scheduled for 2pm on Wednesday 9th August.
+The next meeting is scheduled for 2pm on Wednesday 8th November.
 
 ### LunchBytes
 
@@ -122,7 +134,7 @@ The next meeting is scheduled for 2pm on Wednesday 9th August.
 software, data, and infrastructure.
 
 + [Making research software more visible and reusable: Open Source Software and
-  FAIR4RS](https://bit.ly/open-research-conversation-lunchbytes-fair4rs) in conjunction with Open Research Conversations
+  FAIR4RS](https://bit.ly/open-research-conversation-lunchbytes-fair4rs) (6th December 12:00 - 13:00) in conjunction with Open Research Conversations
   we look at the FAIR principles and how they apply to research software under the [FAIR for Research Softrware (FAIR4RS)
   principles](https://zenodo.org/record/6623556#.YqCJTJNBwlw).
 
