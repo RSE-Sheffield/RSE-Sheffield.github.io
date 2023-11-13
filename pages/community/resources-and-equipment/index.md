@@ -47,7 +47,6 @@ Additional storage can be purchased from IT Services.
 
 The RSE group has access to a set of private nodes in Bessemer and ShARC (GPU and big memory nodes) which we use for
 delivering HPC projects and occasionally to provide access for collaborators.
-If you require HPC resources beyond what is provided for free then we have prepared the following [HPC purchasing guidance](hpc).
 
 ### JADE Tier 2 GPU cluster
 
