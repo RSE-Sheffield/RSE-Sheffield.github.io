@@ -15,8 +15,8 @@ The University of Sheffield has a site license that allows all staff and student
 
   * [Download Mathematica](https://www.sheffield.ac.uk/software/) - Mathematica is available for Sheffield University staff and students from the IT Services download site
   * The documentation for Mathematica on the University's High Performance Computing clusters:
+      * [Stanage](https://docs.hpc.shef.ac.uk/en/latest/stanage/software/apps/mathematica.html)
       * [Bessemer](https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/apps/mathematica.html)
-      * [ShARC](https://docs.hpc.shef.ac.uk/en/latest/sharc/software/apps/mathematica.html)
   * [Mathematica Code Cafe](https://github.com/RSE-Sheffield/Code_cafe/tree/master/WolframCodeCafe) - Basic training for Mathematica delivered as part of our Code Cafe series
 
 ![](/assets/images/Mathematica.png)
