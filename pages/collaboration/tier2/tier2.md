@@ -40,7 +40,7 @@ Each of these activities is underpinned by the RSE groups ethos in good quality 
 
 This call is open to all research staff but with some conditions imposed by the Tier 2 facilities. Postdocs must have at least one year left on their contract (else should apply via their PI). Doctoral research students must have support from their supervisor.
 
-This call is specifically to facilitate uptake in the use of the Tier 2 resources. Collaborative support for use of the University HPC resources (e.g. Bessemer, ShARC) is within remit providing there is an ambition to later migrate workflows to the Tier 2 systems.
+This call is specifically to facilitate uptake in the use of the Tier 2 resources. Collaborative support for use of the University HPC resources (e.g. Stanage, Bessemer) is within remit providing there is an ambition to later migrate workflows to the Tier 2 systems.
 
 This call will fund upto £5,000 of embedded RSE time which is roughly 12 days of RSE support. There is no cash alternative available. Funding must be spent on embedded RSE time. As part of the review of your application a suitable member of the RSE team will be allocated to your project so you do not have to identify a particular team member. 
 
