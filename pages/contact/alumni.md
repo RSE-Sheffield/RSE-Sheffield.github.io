@@ -7,7 +7,7 @@ type: text
 
 Previous members of the RSE Sheffield team:
 
-{% assign people = site.people | sort: 'level' | sort: 'surname' | sort: 'othernames'  %}
+{% assign people = site.people | sort: 'othernames' | sort: 'surname' | sort: 'level'  %}
 <div class="people-list">
 {% for person in people %}
     {% if person.alumnum == true %}
