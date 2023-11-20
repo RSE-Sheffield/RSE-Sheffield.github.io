@@ -16,4 +16,4 @@ Romain holds a PhD in Astrophysics and Cosmology carried out at the Laboratoire 
 * Email: romain.thomas (at) Sheffield.ac.uk
 * Github [new]: [@Romain-Thomas-Shef](https://github.com/Romain-Thomas-Shef)
 * Github [old]: [@astrom-tom](https://github.com/astrom-tom)
-* Publications: [ADS link] (https://ui.adsabs.harvard.edu/user/libraries/lLg5JLTWRU2p8z0vp01YUQ) 
+* Publications: [ORCiD](https://orcid.org/0000-0001-8385-3276) 
