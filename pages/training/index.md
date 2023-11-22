@@ -17,7 +17,7 @@ The RSE Team focusses on training in version control as this is a key skill for 
 
 #### Upcoming training
 
-{% include events_list_upcoming.html category="workshop" %}
+{% include events_list_upcoming.html category="workshop,carpentry,gitzerohero,dltraining" %}
 
 
 ### IT Services Training
