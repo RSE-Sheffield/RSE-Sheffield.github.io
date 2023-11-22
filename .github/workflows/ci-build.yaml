@@ -37,6 +37,16 @@ jobs:
       - name: Build jekyll website with drafts
         run: bundle exec jekyll build --drafts
 
+      # Upload the website as an artifact for previews without local building, within the next 14 days. 
+      - name: Upload Artifact on PR
+        if: ${{ github.event_name == 'pull_request' }}
+        uses: actions/upload-artifact@v3
+        with:
+          name: rse.github.io
+          path: _site/
+          if-no-files-found: error
+          retention-days: 14
+
       # Check for broken links if enabled
       - name: Check for broken links
         if: ${{ env.USE_HTMLPROOFER == '1' }}
