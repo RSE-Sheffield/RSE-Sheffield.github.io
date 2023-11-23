@@ -7,7 +7,7 @@ type: text
 
 ### RSE support via the Centre for Machine Intelligence (CMI-RSE)
 
-Sheffield's <a href="https://www.sheffield.ac.uk/machine-intelligence">Centre for Machine Intelligence (CMI)</A> works closely with the Research Software Engineering (RSE) group in Computer Science. Two members of RSE are joint-funded by CMI and the Alan Turing Institute, enabling RSE to provided AI/ML services without cost recovery. The CMI-RSE team supports members of the Shef.AI and wider University communities in enabling, designing, implementing and refining AI streams in research projects, with involvement ranging from 2 months to 6 months or more, depending on requirements.
+Sheffield's <a href="https://www.sheffield.ac.uk/machine-intelligence">Centre for Machine Intelligence (CMI)</A> works closely with the Research Software Engineering (RSE) group in Computer Science. The CMI is funding 1 FTE of research engineering time, enabling RSE to provided AI/ML services without cost recovery. The CMI-RSE team primarily supports members of the University community by enabling, designing, implementing and refining AI streams in research projects.
 
 If you have a project in mind that would benefit from CMI-RSE involvement, please have a look at the FAQ below and complete the application form to register your interest and begin the conversation.
 
@@ -16,7 +16,7 @@ For longer-term projects and those involving a greater degree of AI R&amp;D, ple
 ### Frequently Asked Questions
 
 ##### What is on offer?
-Project support from one or more research software engineers with AI/ML experience on projects up to 6 months in duration.
+Project support from one or more research software engineers with AI/ML experience.
 
 ##### How much does it cost?
 Currently, CMI-RSE provision is free at point-of-use.
