@@ -23,7 +23,7 @@ with this by assisting with recruitment and by supporting your RSE within the Sh
 
 ## RSE "service" costing
 
-If you require paid RSE support which cannot be budgeted into a research grant then we provide an different mechanism
+If you require paid RSE support which cannot be budgeted into a research grant then we provide a different mechanism
 for buying RSE support. In this case we charge an internal RSE "service" day rate of £384 for internal grants and
 £665+VAT for external partners and industry.
 
