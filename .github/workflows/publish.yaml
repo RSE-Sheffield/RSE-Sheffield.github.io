@@ -1,0 +1,72 @@
+name: publish
+
+# Trigger the workflow on pushes to master, or workflow dispatches from the master branch (checked later)
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+# Set permissions on the github.token for gh-pages use
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Enable publication to gh pages via actions/deploy-pages@v2
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+# Enable use of gh
+env:
+  GH_TOKEN: ${{ github.token }}
+
+jobs:
+  build:
+    name: build-for-publish
+    runs-on: ubuntu-latest
+    steps:
+      # Clone the repository and checkout into the relevant branch
+      - uses: actions/checkout@v3.5.0
+
+      # Install Ruby
+      - name: Install Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.7.3 # Check https://pages.github.com/versions/ for the current Ruby version used by gh pages.
+
+      # Install dependencies required to run jekyll build
+      - name: Install gh-pages rubygem via bundler
+        run: |
+          # Update gem and bundler
+          gem update --system --no-document
+          gem update bundler --no-document
+          # Set the bundle directory
+          bundle config set path vendor/bundle
+          # Install Gemfile contents via bundler
+          bundle install
+
+      # Build the website via jekyll
+      - name: Build jekyll website without drafts
+        run: bundle exec jekyll build
+
+      # Save HTML for later
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: _site/
+
+  # If this should deploy (push or workflow dispatch on master) to github pages, do so using the saved artifact
+  # This requires "GitHub Actions" selected in github.com/org/repo/settings/pages
+  deploy:
+    if: ${{ ( github.event_name == 'workflow_dispatch' || github.event_name == 'push' ) && github.ref == 'refs/heads/master' }}
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
