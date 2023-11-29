@@ -12,6 +12,8 @@
       url: /collaboration/costing
     - title: Projects
       url: /collaboration/projects
+    - title: CMI-RSE Projects
+      url: /collaboration/cmi-rse         
     - title: Testimonials
       url: /collaboration/testimonials
 - title: "Training"
