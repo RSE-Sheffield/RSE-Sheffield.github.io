@@ -2,7 +2,7 @@
 
 This repository contains the source for the RSE-Sheffield website, built with [Jekyll](https://jekyllrb.com/).
 
-The website is hosted on GitHub Pages and can be found at [https://rse.shef.ac.uk](https://rse.shef.ac.uk).
+The website is hosted on GitHub Pages and can be found at [https://rse.shef.ac.uk](https://rse.shef.ac.uk), and mirrored at [https://rse.sheffield.ac.uk](https://rse.sheffield.ac.uk) by [RSE-Sheffield/rse.sheffield.ac.uk](https://github.com/RSE-Sheffield/rse.sheffield.ac.uk).
 
 All content (excluding logos or where explicitly stated) licensed under the
 <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1"
@@ -317,3 +317,26 @@ A Jekyll plugin has been enabled to help with that: you can create redirects to 
 redirect_from:
   - /events/some-page-that-might-not-exist.html
 ```
+
+## Deployment and Mirroring
+
+This website is deployed to `rse.shef.ac.uk` via github pages using `GitHub Actions` as the source, and the `.github/workflows/publish.yaml` action.
+
+It is deployed by pushes to master, or `workflow_dispatch` events on this repository.
+
+Additionally, this workflow will trigger deployment to `rse.sheffield.ac.uk` on github pages, via the `.github/workflows/mirror.yaml` CI workflow on [RSE-Sheffield/rse.sheffield.ac.uk](https://github.com/RSE-Sheffield/rse.sheffield.ac.uk).
+This requires a fine-grained PAT with `actions: read and write` permissions for actions events, storing in a repository secret `SHEFFIELD_MIRROR_TOKEN`.
+The token will need periodically renewing.
+
+### GitHub Settings
+
+* Enable Github pages, with `GitHub Actions` as the source.
+* Set the `custom domain` to `rse.sheffield.ac.uk`
+* Wait up to 24 hours, then enable `Enforce HTTPS`
+* a user with priviledges must [Generate a fine-grained PAT](https://github.com/settings/tokens?type=beta) with
+  * an appropriate name, description and expiration period
+  * the RSE-Sheffield org as the Resource Owner
+  * Access to `Only select repositories`, selecting `RSE-Sheffield/rse.sheffield.ac.uk`
+  * Grant `Read and write` permissions for `Actions`
+  * Save the PAT to an [action repository secret](https://github.com/RSE-Sheffield/RSE-Sheffield.github.io/settings/secrets/actions) named `SHEFFIELD_MIRROR_TOKEN`
+  * The token/secret will need renewing periodically.
