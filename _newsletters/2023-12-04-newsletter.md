@@ -133,7 +133,7 @@ software, data, and infrastructure.
 
 - [Making research software more visible and reusable: Open Source Software and
   FAIR4RS](https://bit.ly/open-research-conversation-lunchbytes-fair4rs) (6th December 12:00 - 13:00) in conjunction with Open Research Conversations
-  we look at the FAIR principles and how they apply to research software under the [FAIR for Research Softrware (FAIR4RS)
+  we look at the FAIR principles and how they apply to research software under the [FAIR for Research Software (FAIR4RS)
   principles](https://zenodo.org/record/6623556#.YqCJTJNBwlw).
 
 #### LunchBytes needs YOU
