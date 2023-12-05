@@ -32,13 +32,14 @@ Themes encompass: Environmental Sustainability, AI/ML tools for science, and Cit
 - [NVIDIA Is A New Sponsor Of The Scikit-Learn consortium at the Inria Foundation](https://blog.scikit-learn.org/funding/nvidia-is-a-new-sponsor/)
 
 - PyPi has completed its first security audit, you can read about what was audited, what was found, and how it was remediated in three parts ([Part 1](https://blog.pypi.org/posts/2023-11-14-1-pypi-completes-first-security-audit/), [Part 2](https://blog.pypi.org/posts/2023-11-14-2-security-audit-remediation-warehouse/), [Part 3](https://blog.pypi.org/posts/2023-11-14-3-security-audit-remediation-cabotage/))
-- [Research Software Alliance newsletter](https://preview.mailerlite.com/c3q9q5c5p3/2354512809695386395/k7l2/)
+
+- [Research Software Alliance newsletter - November 2023](https://preview.mailerlite.com/c3q9q5c5p3/2354512809695386395/k7l2/)
 
 #### RSE Advocacy
 
 - [US-RSE and the IEEE Computer Society are pleased to announce the publication of "Research Software Engineers: Creating a Career Path—and a Career"](https://zenodo.org/doi/10.5281/zenodo.10073232)
 
-- **Pre-Print** [Foundational Competencies and Responsibilities of a Research Software Engineer](https://arxiv.org/abs/2311.11457)
+- [Foundational Competencies and Responsibilities of a Research Software Engineer (pre-print)](https://arxiv.org/abs/2311.11457)
 
 #### Open Research
 
@@ -74,13 +75,13 @@ Themes encompass: Environmental Sustainability, AI/ML tools for science, and Cit
 
 - [Retracted articles use less free and open-source software and cite it worse](https://direct.mit.edu/qss/article/doi/10.1162/qss_a_00275/118074/Retracted-articles-use-less-free-and-open-source)
 
-- **Pre-Print** [A Comparative Study of Code Generation using ChatGPT 3.5 across 10 Programming Languages (pre-print)](https://arxiv.org/abs/2308.04477)
+- [A Comparative Study of Code Generation using ChatGPT 3.5 across 10 Programming Languages (pre-print)](https://arxiv.org/abs/2308.04477)
 
 - [The Luck of the Draw: Wellcome's Institutional Fund for Research Culture](https://wellcomeopenresearch.org/articles/8-525/v1)
 
 ### Events
 
-- [DRA Train-the-Trainer program #3](https://events.digital-research.academy/event/32/) - Starting in January 2024, Applications are open until December 15th 2023.
+- [Digital Research Academy Train-the-Trainer program #3](https://events.digital-research.academy/event/32/) - Starting in January 2024, Applications are open until December 15th 2023.
 
 - [4th conference for Research Software Engineering in Germany](https://events.hifis.net/event/994/) - 05-07 March 2024
 
