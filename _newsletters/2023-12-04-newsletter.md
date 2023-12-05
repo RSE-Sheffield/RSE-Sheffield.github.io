@@ -1,6 +1,6 @@
 ---
 layout: post
-title: November 2023 Newsletter
+title: December 2023 Newsletter
 editor: Dan Brady
 slug: 2023-12-04-newsletter
 date: 2023-12-04T00:00:00Z+0100
