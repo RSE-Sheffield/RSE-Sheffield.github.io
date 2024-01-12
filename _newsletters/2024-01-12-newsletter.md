@@ -43,22 +43,22 @@ news, opportunities, events and training for you.
 #### Wider RSE network events
 
 - The Institute of Computing for Climate Science (ICCS) RSE team is organising a
-  [ReproHack](https://www.reprohack.org/event/27/) for the climate research community on March 12th.
+  [ReproHack](https://www.reprohack.org/event/27/) for the climate research community on 12th March.
 
 - Registration is open for the next [Northern Bioinformatics User Group
-  (NorthernBUG)](https://northernbug.github.io/northernbug11) happening right here in Sheffield on March 25th. Open and
+  (NorthernBUG)](https://northernbug.github.io/northernbug11) happening right here in Sheffield on 25th March. Open and
   free to anyone interested in Bioinformatics or it's application in life science research.
 
 - Netherlands eScience Center are hosting a [National Research Software
-  Day](https://www.esciencecenter.nl/event/national-research-software-day/) in April.
+  Day](https://www.esciencecenter.nl/event/national-research-software-day/) on 23rd April.
 
 - For those interested in meeting and collaborating with others across the UK with a common interest in digital literacy
   in research, reproducibility etc, registration is now open for the Software Sustainability Institute’s [Collaborations
-  Workshop 2024](https://www.eventbrite.co.uk/e/collaborations-workshop-2024-cw24-collabw24-tickets-773091707107) April
-  30th - May 2nd. Themes: Environmental Sustainability, AI/ML tools for science, and Citizen Science.
+  Workshop 2024](https://www.eventbrite.co.uk/e/collaborations-workshop-2024-cw24-collabw24-tickets-773091707107)
+  30th April - 2nd May. Themes: Environmental Sustainability, AI/ML tools for science, and Citizen Science.
 
 - The Enterprise Applications of the R Language Conference (EARL) celebrates its 10th Anniversary at [EARL
-  2024](https://datacove.co.uk/earl-2024-tech-conference/) in September.
+  2024](https://datacove.co.uk/earl-2024-tech-conference/) on 4th-5th September.
 
 - _Get ready to unlock  the Power of R Shiny like never before!_ [ShinyConf2024](https://www.shinyconf.com/) virtual conferences has
   been announced 2024-04-17 to 2024-04-19 and early bird registration is available.
