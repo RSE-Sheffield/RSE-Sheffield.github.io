@@ -21,23 +21,23 @@ news, opportunities, events and training for you.
 
 #### Upcoming events in Sheffield
 
-- [Reproducibilitea Sheffield, 2024-01-18
+- [Reproducibilitea Sheffield, 2024-01-18 @ 12:00
   (Diamond/Hybrid)](https://reproducibilitea-sheffield.github.io/posts/2024-01-18/)
 
-- [ESRC Digital Good Network January 2024 Showcase, 2024-01-18 (The
+- [ESRC Digital Good Network January 2024 Showcase, 2024-01-18 @ 15:30 (The
   Wave)](https://www.ticketsource.co.uk/esrc-digital-good-network/keynote-speaker-charlton-mcilwain-digital-good-enough/2024-01-18/15:30/t-yadngeq)
 
-- [Sheffield R User Group Meeting, 2024-01-18
+- [Sheffield R User Group Meeting, 2024-01-18 @ 17:00
   (Diamond/Hybrid)](https://www.meetup.com/sheffieldr-sheffield-r-users-group/events/297758319/) Health Economics
   special featuring talks by Robert Smith and Wael Mohammed
 
-- [Front End Sheffield: January 2024, 2024-01-25 (Sheffield Hallam
+- [Front End Sheffield: January 2024, 2024-01-25 @ 18:15 (Sheffield Hallam
   University)](https://www.meetup.com/front-end-sheffield/events/298327283/)
 
 - [Sheffield Data For Good - Mapping Sheffield's neighbourhoods, 2024-01-26 - 2024-01-27 (Central
   Sheffield)](https://lu.ma/sheffield-neighbourhoods-1)
 
-- [SmartSheffield #24 - Steel City Twins!, 2024-01-29
+- [SmartSheffield #24 - Steel City Twins!, 2024-01-29 @ 18:30
   (Diamond)](https://www.eventbrite.co.uk/e/smartsheffield-24-steel-city-twins-registration-778310787517?aff=oddtdtcreator)
 
 #### Wider RSE network events
