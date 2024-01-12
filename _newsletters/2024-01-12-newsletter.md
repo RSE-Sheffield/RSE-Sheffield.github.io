@@ -60,7 +60,8 @@ news, opportunities, events and training for you.
 - The Enterprise Applications of the R Language Conference (EARL) celebrates its 10th Anniversary at [EARL
   2024](https://datacove.co.uk/earl-2024-tech-conference/) in September.
 
-
+- _Get ready to unlock  the Power of R Shiny like never before!_ [ShinyConf2024](https://www.shinyconf.com/) virtual conferences has
+  been announced 2024-04-17 to 2024-04-19 and early bird registration is available.
 ### Open Research
 
 #### University of Sheffield Open Research Conversation recordings
