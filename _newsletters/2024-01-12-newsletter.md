@@ -67,7 +67,8 @@ news, opportunities, events and training for you.
 #### University of Sheffield Open Research Conversation recordings
 
 - [Open Research Conversations x Lunchbytes session: Making research software more visible and reusable: Open Source
-  Software and FAIR4RS](https://doi.org/10.15131/shef.data.24756393.v1) with RSE team leader Romain Thomas and senior RSE David Wilby.
+  Software and FAIR4RS](https://doi.org/10.15131/shef.data.24756393.v1) with RSE team leader Romain Thomas and 
+  RSE alumnus David Wilby.
 
 - [Open Research Conversation on Editorial mass resignations: Collective action in the movement to open
   research](https://doi.org/10.15131/shef.data.24974859.v1)
