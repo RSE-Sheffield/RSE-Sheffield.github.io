@@ -29,7 +29,7 @@ news, opportunities, events and training for you.
 
 - [Sheffield R User Group Meeting, 2024-01-18 @ 17:00
   (Diamond/Hybrid)](https://www.meetup.com/sheffieldr-sheffield-r-users-group/events/297758319/) Health Economics
-  special featuring talks by Robert Smith and Wael Mohammed
+  special featuring talks by Robert Smith and Wael Mohammed.
 
 - [Front End Sheffield: January 2024, 2024-01-25 @ 18:15 (Sheffield Hallam
   University)](https://www.meetup.com/front-end-sheffield/events/298327283/)
@@ -47,28 +47,29 @@ news, opportunities, events and training for you.
 
 - Registration is open for the next [Northern Bioinformatics User Group
   (NorthernBUG)](https://northernbug.github.io/northernbug11) happening right here in Sheffield on 25th March. Open and
-  free to anyone interested in Bioinformatics or it's application in life science research.
+  free to anyone interested in Bioinformatics or its application in life science research.
 
-- Netherlands eScience Center are hosting a [National Research Software
+- Get ready to unlock the Power of R Shiny like never before! [ShinyConf 2024](https://www.shinyconf.com/) virtual
+  conference has been announced for 17th-19th April 2024 and early bird registration is available.
+
+- Netherlands eScience Center is hosting a [National Research Software
   Day](https://www.esciencecenter.nl/event/national-research-software-day/) on 23rd April.
 
 - For those interested in meeting and collaborating with others across the UK with a common interest in digital literacy
   in research, reproducibility etc, registration is now open for the Software Sustainability Institute’s [Collaborations
-  Workshop 2024](https://www.eventbrite.co.uk/e/collaborations-workshop-2024-cw24-collabw24-tickets-773091707107)
-  30th April - 2nd May. Themes: Environmental Sustainability, AI/ML tools for science, and Citizen Science.
+  Workshop 2024](https://www.eventbrite.co.uk/e/collaborations-workshop-2024-cw24-collabw24-tickets-773091707107) 30th
+  April - 2nd May. Themes: Environmental Sustainability, AI/ML tools for science, and Citizen Science.
 
 - The Enterprise Applications of the R Language Conference (EARL) celebrates its 10th Anniversary at [EARL
   2024](https://datacove.co.uk/earl-2024-tech-conference/) on 4th-5th September.
 
-- _Get ready to unlock  the Power of R Shiny like never before!_ [ShinyConf2024](https://www.shinyconf.com/) virtual conferences has
-  been announced 2024-04-17 to 2024-04-19 and early bird registration is available.
 ### Open Research
 
 #### University of Sheffield Open Research Conversation recordings
 
 - [Open Research Conversations x Lunchbytes session: Making research software more visible and reusable: Open Source
-  Software and FAIR4RS](https://doi.org/10.15131/shef.data.24756393.v1) with RSE team leader Romain Thomas and 
-  RSE alumnus David Wilby.
+  Software and FAIR4RS](https://doi.org/10.15131/shef.data.24756393.v1) with RSE team leader Romain Thomas and RSE
+  alumnus David Wilby.
 
 - [Open Research Conversation on Editorial mass resignations: Collective action in the movement to open
   research](https://doi.org/10.15131/shef.data.24974859.v1)
@@ -116,7 +117,7 @@ news, opportunities, events and training for you.
 #### Blogs
 
 - [Benchmarking NVIDIA L40 GPUs for Machine Learning and Simulation
-  Workloads](https://notesrcg.blogspot.com/2023/12/blog-post.html) Blog from University of Sheffield Reseach Computing
+  Workloads](https://notesrcg.blogspot.com/2023/12/blog-post.html) Blog from University of Sheffield Research Computing
   team co-authored by RSE team member Peter Heywood.
 - [Pytest Parameterisation](https://ns-rse.github.io/posts/pytest-param/) Blog from RSE team member Neil Shephard.
 
@@ -134,7 +135,7 @@ list](https://groups.google.com/a/sheffield.ac.uk/g/rse-group) to hear about new
 
 #### External Training
 
-- [Genomics: Learn data management and analytical skills for genomics research - 15-24 January 2024 (online, UK
+- [Genomics: Learn data management and analytical skills for genomics research - 15th-24th January 2024 (online, UK
   time)](https://cloud-span.york.ac.uk/upcoming/Genomics/)
 
 <!--#### Research IT Training-->
@@ -186,7 +187,7 @@ software, data, and infrastructure.
 
 LunchBytes are organised by and for the research software community at The University of Sheffield. If you'd like to
 curate a session on a topic or present something, get in touch by emailing
-[lunchbytes-organisers-group@sheffield.ac.uk](mailto:lunchbytes-organisers-group@sheffield.ac.uk) - Or suggest topics
+[lunchbytes-organisers-group@sheffield.ac.uk](mailto:lunchbytes-organisers-group@sheffield.ac.uk) or suggest topics
 [on the jamboard](https://jamboard.google.com/d/1-51cRf0pwZl8O10CnLeJGAqKcnbww-QGaYjszFK-H38/).
 
 ### Support
