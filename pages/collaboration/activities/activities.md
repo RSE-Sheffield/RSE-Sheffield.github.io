@@ -66,7 +66,7 @@ Microsoft to provide you with HPC support on local, regional, national
 and cloud-based facilities.
 
 Locally, we assist IT Services in supporting users on the University's HPC clusters,
-Bessemer and ShARC. We are major contributors to their documentation
+Stanage and Bessemer. We are major contributors to their documentation
 system and can help you with software installation, training and advice
 on how to make maximum use out of these HPC resources that are free to
 all members of The University of Sheffield.

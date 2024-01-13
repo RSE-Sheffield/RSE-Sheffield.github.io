@@ -21,8 +21,8 @@ both on University and personally owned machines.
 
   * Download MATLAB from IT Services' [software download site](https://www.sheffield.ac.uk/software/)
   * MATLAB documentation for the University's High Performance Computing (HPC) clusters:
+      * [Stanage](https://docs.hpc.shef.ac.uk/en/latest/stanage/software/apps/matlab.html)
       * [Bessemer](https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/apps/matlab.html)
-      * [ShARC](https://docs.hpc.shef.ac.uk/en/latest/sharc/software/apps/matlab.html)
 
 NAG Toolbox for MATLAB
 ----------------------

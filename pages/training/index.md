@@ -15,6 +15,11 @@ The RSE Team focusses on training in version control as this is a key skill for 
 - [git & GitHub through GitKraken - from Zero to Hero!](courses/git_Hero.md)
 - [Introduction to Deep Learning](courses/Intro_DL.md)
 
+#### Upcoming training
+
+{% include events_list_upcoming.html category="workshop,carpentry,gitzerohero,dltraining" %}
+
+
 ### IT Services Training
 
 Our colleagues in [IT Services][its] offer a range of [free training courses][its-courses]. This is a good place to look if you want to learn how to code, but there are a wide range of other courses there as well.
