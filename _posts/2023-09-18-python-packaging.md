@@ -87,7 +87,6 @@ requires = ["setuptools>=65.6.3", "setuptools_scm[tools]>=6.2", "wheel"]
 build-backend = "setuptools.build_meta"
 ```
 
-
 ### `project`
 
 This is the main body of the project description detailing `name`, `authors`, `description`, `readme`, `license`, `keywords`,
@@ -372,7 +371,7 @@ build-backend = "setuptools.build_meta"
 
 The package can now be built locally with...
 
-``` {.bash eval="no"}
+``` {.bash}
 python -m pip install --upgrade setuptools wheel
 python -m build --no-isolation
 ```

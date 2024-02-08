@@ -51,8 +51,8 @@ LAPACK, FFTW etc.
   * Best for compute intensive research.
   * Small number of network licenses. Need to be connected to the
     network at compile time
-  * Installed on the University's [Bessemer](https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/development/icc_ifort.html)
-    and [ShARC](https://docs.hpc.shef.ac.uk/en/latest/sharc/software/development/intel_compilers.html) HPC clusters.
+  * Installed on the University's [Stanage](https://docs.hpc.shef.ac.uk/en/latest/stanage/software/development/icc_ifort.html)
+    and [Bessemer](https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/development/intel_compilers.html) HPC clusters.
   * Can be used as a mex compiler for MATLAB (Windows only)
   * [Download](https://www.sheffield.ac.uk/software/) (University staff and students only)
   * [Vendor Website](https://software.intel.com/en-us/intel-compilers)
@@ -67,8 +67,7 @@ licenses so this compiler is not suitable for teaching.
   * Best for GPU development
   * Small number of network licenses. Need to be connected to the
     network at compile time
-  * Installed on the University's [Bessemer](https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/development/pgi.html)
-    and [ShARC](https://docs.hpc.shef.ac.uk/en/latest/sharc/software/development/pgi.html) HPC clusters.
+  * Installed on the University's [Bessemer](https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/development/pgi.html) HPC cluster.
   * [Vendor Website](https://www.pgroup.com/)
 
 ### Silverfrost Fortran Compiler (Windows only)

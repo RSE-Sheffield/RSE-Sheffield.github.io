@@ -253,6 +253,8 @@ seminar:
 
 To create a new category, add a new YAML element with a unique key to `_data/event-categories.yml`.
 
+Events with categories: `workshop`, `carpentry`, `dltraining` and `gitzerohero` are included in the list on the training page.
+
 #### Creating a new category listing
 
 To create a new page which lists all events of a given category:
