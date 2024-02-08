@@ -11,6 +11,7 @@ description:
 type: text
 ---
 
+*This page refers to a previous academic year and has now been deprecated, links may nolonger work. The live module page has now been moved to [Blackboard](http://vle.sheffield.ac.uk) per university policy. Contact [robert.chisholm@sheffield.ac.uk](mailto:robert.chisholm@sheffield.ac.uk) for further information.*
 
 ## Course Information
 
@@ -60,6 +61,7 @@ During the lab class there will be an opportunity to discuss and review lecture 
 
 Although the labs are structured around the lecture material each week you can (and should) ask for help regarding any of the labs during the scheduled lab time. The labs are also used for assignment help. You should start this early.
 
+<!--
 ## Course Assessment
 
 In response to student feedback the number of assignments has been reduced to a single assignment which reflects the reduced number of learning objectives for the module. The assignment will be released Monday the 27th February (week 4) and is due 17:00 on Friday 19th May (week 12). The assignment forms 80% of your mark. You are expected to ask for feedback on your assignment work during the scheduled lab classes.
@@ -74,7 +76,7 @@ These Blackboard quizzes replace the lab classes of weeks 5 and 10.
     * Quiz content covers lectures from weeks 4-9 (inclusive).
 
 Quizzes will take 45m (must be completed within the hour) and consist of 25 multiple choice questions.
-
+-->
 
 ## DDP students & Staff Candidates
 
@@ -229,7 +231,7 @@ The assignment will be handed out via Blackboard after Monday's lecture.
 ## Week 5
 
 *No Lecture*
-
+<!--
 ### Blackboard Quiz 1
 
 *Tuesday 9:00 Diamond CR1*
@@ -237,7 +239,7 @@ The assignment will be handed out via Blackboard after Monday's lecture.
 This quiz held during the normal lab timeslot, covers the content from lectures 1-3 and **must** be attended in person as it will be held in exam conditions with invigilation.
 
 The quiz consists of 25 multiple choice questions, and must be completed within 45 minutes.
-
+-->
 --------------------
 
 ## Week 6
@@ -370,7 +372,7 @@ There is no lab sheet for this lab. Examine the source code and try changing the
 --------------------
 
 ## Week 10
-
+<!--
 ### Blackboard Quiz 2
 
 *Tuesday 9:00 Diamond CR1*
@@ -378,7 +380,7 @@ There is no lab sheet for this lab. Examine the source code and try changing the
 This quiz held during the normal lab timeslot, covers the content from lectures 4-8 and **must** be attended in person as it will be held in exam conditions with invigilation.
 
 The quiz consists of 25 multiple choice questions, and must be completed within 45 minutes.
-
+-->
 ### Lecture 9 (Different Time/Location)
 
 *Friday 9:00 Pam Liversidge LT1*
