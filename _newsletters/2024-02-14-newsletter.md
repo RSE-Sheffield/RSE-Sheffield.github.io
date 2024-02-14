@@ -46,7 +46,7 @@ news, opportunities, events and training for you.
   - 2024-11-12 to 2024-11-14, Heidelberg, Germany
   - [Website](https://carpentries.org/blog/2024/01/announcing-cchd24/)
 - Royal Statistical Society Talk: - Medical Statistician Apprenticeships and Integrating R into GXP Medical Research
-  - 2024-02-28 1600-17:30
+  - 2024-02-28 16:00-17:30
   - [Website](https://rss.org.uk/training-events/events/events-2024/local-groups/medical-statistician-apprenticeships-and-integrati/#fulleventinfo)
 - Durham HPC Days 2024
   - 2024-05-06 to 2024-05-10, Durham, UK
