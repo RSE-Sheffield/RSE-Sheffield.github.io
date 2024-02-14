@@ -76,7 +76,7 @@ news, opportunities, events and training for you.
 
 ### Open Research
 
-- FAIR Faculty seminar series is now all scheduled on my development (requires login)
+- FAIR Faculty seminar series is now all scheduled on myDevelopment (requires login)
   - Various dates in February, grouped by Faculty.
   - [Mydevelopment](https://mydevelopment.csod.com/ui/lms-learner-search/search?pageNumber=1&query=FAIR%20faculty%20seminars)
 - 2nd International Research Software Funders Workshop Summary Report
