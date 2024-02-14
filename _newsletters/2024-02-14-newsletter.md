@@ -106,6 +106,16 @@ news, opportunities, events and training for you.
 
 ### Training
 
+#### Deep Learning Demystified: Foundations for Non-Computer Scientists
+
+- 2024-02-22 13:00-17:00 and 2024-02-32 13:00-17:00
+- Hicks Building, the University of Sheffield.
+- [Register on myDevelopment by 2024-02-22 13:00](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/8fb8273d-99ab-4e3e-8ce9-65242c2215ba)
+
+"Deep Learning Demystified: Foundations for Non-Computer Scientists" is an accessible and comprehensive course designed to introduce individuals from diverse backgrounds to the fundamental concepts of deep learning. Through clear explanations and real-world examples, participants will gain a solid understanding of key components of deep learning. By the end of the course, students will be equipped with the knowledge and confidence to engage with and apply deep learning techniques in various fields, regardless of their technical background.
+
+---
+
 We're in the process of finalising some forthcoming RSE training events so keep an eye on our
 [Training](https://rse.shef.ac.uk/training/) page for more information and join our [mailing
 list](https://groups.google.com/a/sheffield.ac.uk/g/rse-group) to hear about new events.
