@@ -108,7 +108,7 @@ news, opportunities, events and training for you.
 
 #### Deep Learning Demystified: Foundations for Non-Computer Scientists
 
-- 2024-02-22 13:00-17:00 and 2024-02-32 13:00-17:00
+- 2024-02-22 13:00-17:00 and 2024-02-23 13:00-17:00
 - Hicks Building, the University of Sheffield.
 - [Register on myDevelopment by 2024-02-22 13:00](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/8fb8273d-99ab-4e3e-8ce9-65242c2215ba)
 
