@@ -13,7 +13,7 @@ type: text
 
 ## The University of Sheffield Research Software Engineering Community Newsletter February 2024
 
-Welcome to the January 2024 newsletter for the research software community at The University of Sheffield, featuring
+Welcome to the February 2024 newsletter for the research software community at The University of Sheffield, featuring
 news, opportunities, events and training for you.
 
 ### Events
