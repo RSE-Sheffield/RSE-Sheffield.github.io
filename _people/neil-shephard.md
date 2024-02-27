@@ -41,7 +41,7 @@ Contact:
 
 * Email: n.shephard (at) sheffield.ac.uk
 * GitHub: [@ns-rse](https://github.com/ns-rse/)
-* Blog: [ns-rse](https://ns-rse.github.io/)
+* Blog: [nshephard.dev](https://blog.nshephard.dev/)
 * Web: [https://kimura.no-ip.info](https://kimura.no-ip.info)
 * Twitter: [@nshephardRSE](https://twitter.com/nshephardRSE)
 * Mastodon: [@nshephard@fosstodon.org](https://fosstodon.org/@nshephard)
