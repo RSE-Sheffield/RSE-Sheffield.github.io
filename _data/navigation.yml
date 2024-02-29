@@ -16,7 +16,7 @@
       url: /collaboration/cmi-rse         
     - title: Testimonials
       url: /collaboration/testimonials
-- title: "Training"
+- title: "Training & Resource"
   subitems:
     - title: Training Courses
       url: /training/
@@ -28,6 +28,8 @@
       url: /support/code-clinic
     - title: "COM4521/COM6521: Parallel Computing with GPUs"
       url: /training/com4521
+    - title: "Github Enterprise Early Access Program"
+      url: /training/github-enterprise
 - title: Our Community
   subitems:
     - title: Overview
