@@ -48,7 +48,7 @@ Should a member of a Github Organisation leave the research group or the Univers
 Should the owner of a Github Organisation leave the University, the ownership of the organisation must be transferred to an eligible member of UoS or transferred under management of the UoS Enterprise Administration team if there are no eligible members and it is in the interests of the University to retain the organisation. Otherwise the organisation should be deleted along with its contents.
 
 #### 1.3.4 Yearly Github Organisation Audit
-A yearly audit is performed by the UoS Enterprise Administration team to ensure access and ownership is in compliance with the Eligibility criteria. Organisations which are no longer in use and does not contain repositories kept for archival purposes should be removed. The owner of the Github Organisation will work with the UoS Enterprise Administration to facilitate the process.
+A yearly audit is performed by the UoS Enterprise Administration team to ensure access and ownership is in compliance with the Eligibility criteria. Organisations which are no longer in use and do not contain repositories kept for archival purposes should be removed. The owner of the Github Organisation will work with the UoS Enterprise Administration to facilitate the process.
 
 #### 1.3.5 Fair Use
 Due to limitations in availability of number of seats and github runner time, the owner of a Github Organisation must comply with access and usage warnings given by the UoS Enterprise Administration team. The UoS Enterprise Administration team reserves the right to restrict access and usage of GH Organisations in case of non-compliance.
