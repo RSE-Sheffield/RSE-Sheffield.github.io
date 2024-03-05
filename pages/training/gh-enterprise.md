@@ -81,7 +81,7 @@ should be deleted along with its contents.
 #### 1.3.4 Yearly Github Organisation Audit
 
 A yearly audit is performed by the UoS Enterprise Administration team to ensure access and ownership is in compliance
-with the Eligibility criteria. Organisations which are no longer in use and does not contain repositories kept for
+with the Eligibility criteria. Organisations which are no longer in use and do not contain repositories kept for
 archival purposes should be removed. The owner of the Github Organisation will work with the UoS Enterprise
 Administration to facilitate the process.
 
