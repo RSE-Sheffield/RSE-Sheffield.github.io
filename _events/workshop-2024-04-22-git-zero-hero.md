@@ -7,7 +7,7 @@ date: 2024-04-22
 end-date: 2024-04-23
 from: "09:30"
 to: "13:00"
-location: "Hicks Building Computer Room G39A"
+location: "Hicks Building Computer Room G34A"
 speaker: "RSE Team"
 ---
 
