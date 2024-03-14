@@ -19,4 +19,8 @@ type: text
 
 ## Courses
 
+Scheduled courses can also be found on
+[myDevelopment](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/d4d09f67-097b-4451-8ddb-86cb90636c06)
+ (requires University login).
+
 {% include events_list_upcoming.html category="gitzerohero" %}
