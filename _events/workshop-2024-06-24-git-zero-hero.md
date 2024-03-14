@@ -7,7 +7,7 @@ date: 2024-06-24
 end-date: 2024-06-25
 from: "09:30"
 to: "13:00"
-location: "The Diamond Computer Room 4"
+location: "The Diamond Computer Room 4 (Floor 2)"
 speaker: "RSE Team"
 ---
 
