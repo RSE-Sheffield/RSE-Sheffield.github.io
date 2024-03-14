@@ -2,7 +2,7 @@
 layout: post
 title: "Pytest Parametrisation"
 author: Neil Shephard
-slug: repo-review
+slug: pytest-param
 date: 2024-01-24 12:00:00 UTC
 tags: python pytest testing parametrisation
 category:
