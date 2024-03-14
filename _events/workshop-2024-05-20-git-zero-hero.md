@@ -7,7 +7,7 @@ date: 2024-05-20
 end-date: 2024-05-21
 from: "09:30"
 to: "13:00"
-location: "Information Commons 3.02"
+location: "Information Commons - Computer Room 3 (3.02)"
 speaker: "RSE Team"
 ---
 
