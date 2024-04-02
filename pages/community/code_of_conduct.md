@@ -4,16 +4,20 @@ permalink: /community/code_of_conduct
 type: text
 ---
 
-The RSE Team runs and participates in a range of online and in-person activities, including collaborative projects, [LunchBytes](lunch-bytes), Slack conversations and in-person seminars. Participants are mostly University of Sheffield staff / students, but sometimes include our external friends and collaborators.
+The RSE Team runs and participates in a range of online and in-person activities, including collaborative projects,
+[LunchBytes](lunch-bytes), Slack conversations and in-person seminars. Participants are mostly University of Sheffield
+staff / students, but sometimes include our external friends and collaborators.
 
-University of Sheffield staff and students conduct is governed by the terms of their employment / study which can be found on the [University website](https://www.sheffield.ac.uk) alongside reporting procedures. We have a code of conduct for those not staff or students at The University of Sheffield.
+University of Sheffield staff and students conduct is governed by the terms of their employment / study which can be
+found on the [University website](https://www.sheffield.ac.uk) alongside reporting procedures. We have a code of conduct
+for those not staff or students at The University of Sheffield.
 
 ## Code of Conduct for External Participants
 
 The RSE Team at The University of Sheffield have a Code of Conduct which is set out below. It defines the standards and
 behaviour you can expect from all participants of our community and in turn that we expect from you when you participate
 and engage with others in the community. They are based on the [Contributor Covenant][homepage] (see
-[Attribution](#Attribution) for further details).
+[Attribution](#attribution) for further details).
 
 ### Our Pledge
 
@@ -61,7 +65,9 @@ posting via an official social media account, or acting as an appointed represen
 ### Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible
-for enforcement at [p.richmond@sheffield.ac.uk ](mailto:p.richmond@sheffield.ac.uk) or [r.d.turner@sheffield.ac.uk](mailto:r.d.turner@sheffield.ac.uk). All complaints will be reviewed and investigated promptly and fairly.
+for enforcement at [romain.thomas@sheffield.ac.uk](mailto:romain.thomas@sheffield.ac.uk) or
+[t.karmakharm@sheffield.ac.uk](mailto:t.karmakharm@sheffield.ac.uk). All complaints will be reviewed and investigated
+promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the reporter of any incident.
 
