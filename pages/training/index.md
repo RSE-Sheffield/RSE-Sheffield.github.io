@@ -14,6 +14,7 @@ The RSE Team focusses on training in version control as this is a key skill for 
 
 - [git & GitHub through GitKraken - from Zero to Hero!](courses/git_Hero.md)
 - [Introduction to Deep Learning](courses/Intro_DL.md)
+- [Performance Profiling & Optimisation (Python)](/pando-python)
 
 #### Upcoming training
 
