@@ -23,6 +23,9 @@ tricks, & gotchas that attendees can incorporate into their existing research!
 
 Buffet lunch and coffee will be provided.
 
+This event is held in collaboration between the **[Research Software Engineering (RSE)](https://rse.shef.ac.uk/)** group 
+and the [**Centre for Machine Intelligence (CMI)**](https://www.sheffield.ac.uk/machine-intelligence) in the University of Sheffield.
+
 <br/>
 
 ### Agenda
