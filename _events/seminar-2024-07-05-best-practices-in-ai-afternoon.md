@@ -16,7 +16,7 @@ slides_url:
 
 ## Overview
 We are excited to present Best Practices in AI Afternoon which will be held on the **5th of July, 12-5pm at
-Workroom 2, 38 Mappin, Sheffield, S1 4DT**. 
+Workroom 2, 38 Mappin, Sheffield, S1 4DT and online**. 
 The afternoon will consist of talks, walkthroughs and demos on best practices for research, design, development, 
 and deployment of AI systems. There will be a focus on practical aspects such as tooling, processes, tips, 
 tricks, & gotchas that attendees can incorporate into their existing research!
