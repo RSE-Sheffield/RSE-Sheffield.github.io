@@ -26,8 +26,9 @@ not a member of UoS should be marked as an external collaborator.
 
 #### 1.1.2 Ownership of Repositories
 
-All repositories under UoS Github Enterprise must be owned by a member of UoS, with the permission of the owner or their
-delegates of the Github Organisation in which it belongs to.
+All repositories under UoS Github Enterprise must be owned by a member of UoS, with the permission of the owner (or their
+delegates) of the Github Organisation in which it belongs to. Additional owners of the repository can an external
+collaborator to UoS.
 
 #### 1.1.3 Ownership of Github Organisations
 
@@ -128,3 +129,22 @@ audit that will happen roughly a year after the migration.
 
 <a href="https://forms.gle/BS7uSbVpd7mCFAh69" class="btn btn-primary">Request the creation or migration of a Github
 organisation</a>
+
+## 6. Frequently Asked Questions
+
+### Is it possible to remove the organisation from UoS Enterprise after joining
+
+Yes, the process is fully reversible and you can request to leave UoS Enterprise any time.
+
+### Can I transfer my repositories outside of the Enterprise?
+
+Yes, repositories can be transferred as normal.
+
+### Will my organisation's private repositories remain private after transfer to UoS Github Enterprise?
+
+Yes, private repositories will remain private.
+
+### Are you planning to store/archive repositories of organisations within UoS Github Enterprise?
+
+We don't have any plans to take archives or off-platform backups of GitHub repositories. If we ever do, 
+they will respect the privacy setting of the repo.
