@@ -99,6 +99,7 @@ and integrates basic [Git][git] functionality for version control. Other IDEs su
 There are many books written in [Bookdown][bookdown] on using R, a selection are listed below.
 
 ##### Data Science
+
 * [R for Data Science (2e)](https://r4ds.hadley.nz/)
 
 ##### Graphics
@@ -268,6 +269,7 @@ HPC clusters use a job scheduler to make sure everyone has a chance to run their
 
 <!-- Reference Links -->
 
+[bioconductor]: https://www.bioconductor.org/
 [bookdown]: https://bookdown.org/
 [dslc]: https://dslc.io/
 [git]: https://git-scm.com/
