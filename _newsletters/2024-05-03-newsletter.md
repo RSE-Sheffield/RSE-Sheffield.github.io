@@ -136,7 +136,6 @@ list](https://groups.google.com/a/sheffield.ac.uk/g/rse-group) to hear about new
 - Check for advertised RSE and RSE-adjacent roles at the [RSE society's vacancies board](https://society-rse.org/careers/vacancies/)
 - Sheffield IT services is recruiting a Research Platform Engineer. Deadline to apply 2024-05-15. More information [here](https://www.jobs.ac.uk/job/DHD494/senior-research-platforms-engineer)
 
-.
 
 ### Community
 
