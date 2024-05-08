@@ -68,7 +68,6 @@ As you might expect, newer generations of GPU offer reduced application runtimes
 | FP32 Inference Time (s)           |       9.827 |       3.287 |       2.973 |         1.997 |
 | FP32 Training Samples per Second  |       9.481 |      34.028 |      38.261 |        60.886 |
 | FP32 Inference Samples per Second |      24.413 |      72.932 |      80.666 |       119.908 |
-
 {:.table.table-bordered.table-striped.table-hovered}
 
 #### FP16 Results
@@ -91,7 +90,7 @@ The relative performance difference will vary from workload to workload, with la
 | FP16 Inference Time (s)           |       5.723 |       3.290 |       2.893 |         2.147 |
 | FP16 Training Samples per Second  |      18.479 |      35.001 |      40.271 |        59.833 |
 | FP16 Inference Samples per Second |      41.892 |      72.819 |      82.826 |       111.463 |
-
+{:.table.table-bordered.table-striped.table-hovered}
 
 ## Accessing Bede
 
