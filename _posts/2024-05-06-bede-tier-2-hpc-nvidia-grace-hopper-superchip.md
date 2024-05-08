@@ -56,7 +56,7 @@ The following figures and tables show the benchmark data for **FP32** training a
 This includes the runtime training and inferencing phases in seconds (lower is better),
 and the samples processing rate in samples per second (higher is better).
 
-As you might expect, newer generations of GPU offer reduced application runtimes and increased performance compared to previous generations, with the GH200 outperforming the V100 SXM2 GPUs in Bessemer, the A100 SXM4 GPUs in Stanage and the H100 PCIe GPUs in stanage.
+As you might expect, newer generations of GPU offer reduced application runtimes and increased performance compared to previous generations, with the GH200 outperforming the V100 SXM2 GPUs in Bessemer, the A100 SXM4 GPUs in Stanage and the H100 PCIe GPUs in Stanage.
 
 ![Figure 2: FP32 Runtime (s)](/assets/images/2024-05-06-bede-tier-2-hpc-nvidia-grace-hopper-superchip/ngc-pytorch-24.02-fp32-runtime.png)
 
