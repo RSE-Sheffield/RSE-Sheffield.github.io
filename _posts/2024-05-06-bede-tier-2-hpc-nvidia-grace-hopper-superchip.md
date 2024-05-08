@@ -31,7 +31,7 @@ Source: [github.com/ptheywood/gpu-interconnect-plots][ptheywood/gpu-interconnect
 
 ### PyTorch LLM Fine-tuning Benchmark
 
-To illustrate the performance of the GH200 GPUs for machine learning workloads, a benchmark of LLM fine-tuning previously used by [Farhad Allian][farhad-github] to [investigate the performance of NVIDIA L40 GPUs for machine learning][l40-pytorch-benchmark-blog] benchmarked on the [GH200 GPUs in Bede][bede-gh200-pilot-docs].
+To illustrate the performance of the GH200 GPUs for machine learning workloads, a benchmark of LLM fine-tuning previously used by [Farhad Allian][farhad-website] (a Research Data Engineer in [Research & Innovation IT][RIT])  to [investigate the performance of NVIDIA L40 GPUs for machine learning][l40-pytorch-benchmark-blog] benchmarked on the [GH200 GPUs in Bede][bede-gh200-pilot-docs].
 
 The benchmark uses the [HuggingFace Transformers][huggingface-transfomers] [`run_clm.py`][huggingface-transformers-runclm] example to train and evaluate the fine-tuning of the [GPT-2 124 million parameter LLM][gpt-2] using the [WikiText-2 (raw)][wikitext-2-raw] dataset in FP32 and FP16 precisions.
 Each benchmark was repeated `3` times, using a single batch size of `8`.
@@ -121,7 +121,7 @@ In addition to Bede, Sheffield researchers can also access a range of GPUs in ou
 [nvidia-gh200-superchip]: https://www.nvidia.com/en-us/data-center/grace-hopper-superchip/
 [nvidia-nvlink-c2c]: https://www.nvidia.com/en-us/data-center/nvlink-c2c/
 [bede-gh200-pilot-docs]: https://bede-documentation.readthedocs.io/en/latest/usage/index.html#grace-hopper-pilot
-[farhad-github]: https://github.com/f-allian
+[farhad-website]: https://www.farhadallian.co.uk/
 [l40-pytorch-benchmark-blog]: https://notesrcg.blogspot.com/2023/12/blog-post.html
 [RSE-Sheffield/pytorch-transformers-wikitext2-benchmark]: https://github.com/RSE-Sheffield/pytorch-transformers-wikitext2-benchmark
 [ptheywood/gpu-interconnect-plots]: https://github.com/ptheywood/gpu-interconnect-plots
@@ -132,3 +132,4 @@ In addition to Bede, Sheffield researchers can also access a range of GPUs in ou
 [apptainer]: https://apptainer.org/docs/user/main/introduction.html
 [ngc-pytorch]: https://catalog.ngc.nvidia.com/orgs/nvidia/containers/pytorch
 [ngc-pytroch-24.02]: https://docs.nvidia.com/deeplearning/frameworks/pytorch-release-notes/rel-24-02.html
+[RIT]: https://www.sheffield.ac.uk/it-services/about
