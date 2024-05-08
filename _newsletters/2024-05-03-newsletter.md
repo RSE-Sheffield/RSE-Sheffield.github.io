@@ -2,8 +2,8 @@
 layout: post
 title: May 2024 Newsletter
 editor: Romain Thomas
-slug: 2024-05-03-newsletter
-date: 2024-05-03T12:00:00Z+0100
+slug: 2024-05-08-newsletter
+date: 2024-05-08T14:00:00Z+0100
 tags:
 category:
 link:
