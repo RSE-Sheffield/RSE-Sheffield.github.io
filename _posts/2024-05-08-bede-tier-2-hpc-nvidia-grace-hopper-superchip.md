@@ -2,8 +2,8 @@
 layout: post
 title: "Bede Tier 2 HPC: Nvidia Grace-Hopper Superchip Pilot"
 author: Peter Heywood
-slug: 2024-05-06-bede-tier-2-hpc-nvidia-grace-hopper-superchip
-date: 2024-05-06 12:00:00 UTC
+slug: 2024-05-08-bede-tier-2-hpc-nvidia-grace-hopper-superchip
+date: 2024-05-08 14:00:00 UTC
 tags: Bede Grace-Hopper GH200 GPU benchmarking PyTorch
 category:
 link:
@@ -26,7 +26,7 @@ This new interconnect allows data to be moved between the host and device with a
 
 The following figure shows the theoretical peak bandwidth for the range of GPU interconnect technologies used in a range of GPUs.
 
-![Figure 1: GPU host-device interconnect theoretical peak bandwidth](/assets/images/2024-05-06-bede-tier-2-hpc-nvidia-grace-hopper-superchip/gpu-interconnects-tuos.png)
+![Figure 1: GPU host-device interconnect theoretical peak bandwidth](/assets/images/2024-05-08-bede-tier-2-hpc-nvidia-grace-hopper-superchip/gpu-interconnects-tuos.png)
 Source: [github.com/ptheywood/gpu-interconnect-plots][ptheywood/gpu-interconnect-plots]
 
 ### PyTorch LLM Fine-tuning Benchmark
@@ -58,9 +58,9 @@ and the samples processing rate in samples per second (higher is better).
 
 As you might expect, newer generations of GPU offer reduced application runtimes and increased performance compared to previous generations, with the GH200 outperforming the V100 SXM2 GPUs in Bessemer, the A100 SXM4 GPUs in Stanage and the H100 PCIe GPUs in Stanage.
 
-![Figure 2: FP32 Runtime (s)](/assets/images/2024-05-06-bede-tier-2-hpc-nvidia-grace-hopper-superchip/ngc-pytorch-24.02-fp32-runtime.png)
+![Figure 2: FP32 Runtime (s)](/assets/images/2024-05-08-bede-tier-2-hpc-nvidia-grace-hopper-superchip/ngc-pytorch-24.02-fp32-runtime.png)
 
-![Figure 3: FP32 Samples per Second](/assets/images/2024-05-06-bede-tier-2-hpc-nvidia-grace-hopper-superchip/ngc-pytorch-24.02-fp32-samples-per-second.png)
+![Figure 3: FP32 Samples per Second](/assets/images/2024-05-08-bede-tier-2-hpc-nvidia-grace-hopper-superchip/ngc-pytorch-24.02-fp32-samples-per-second.png)
 
 | Metric                            |   V100 SXM2 |   A100 SXM4 |   H100 PCIe |   GH200 480GB |
 |:----------------------------------|------------:|------------:|------------:|--------------:|
@@ -81,9 +81,9 @@ and the samples processing rate in samples per second (higher is better).
 As with the FP32 results, the newer generations of GPU offer improved performance over older GPUs, with the GH200 out-performing the other models.
 The relative performance difference will vary from workload to workload, with larger batch sizes likely showing increased performance.
 
-![Figure 4: FP16 Runtime (s)](/assets/images/2024-05-06-bede-tier-2-hpc-nvidia-grace-hopper-superchip/ngc-pytorch-24.02-fp16-runtime.png)
+![Figure 4: FP16 Runtime (s)](/assets/images/2024-05-08-bede-tier-2-hpc-nvidia-grace-hopper-superchip/ngc-pytorch-24.02-fp16-runtime.png)
 
-![Figure 5: FP16 Samples per Second](/assets/images/2024-05-06-bede-tier-2-hpc-nvidia-grace-hopper-superchip/ngc-pytorch-24.02-fp16-samples-per-second.png)
+![Figure 5: FP16 Samples per Second](/assets/images/2024-05-08-bede-tier-2-hpc-nvidia-grace-hopper-superchip/ngc-pytorch-24.02-fp16-samples-per-second.png)
 
 | Metric                            |   V100 SXM2 |   A100 SXM4 |   H100 PCIe |   GH200 480GB |
 |:----------------------------------|------------:|------------:|------------:|--------------:|
