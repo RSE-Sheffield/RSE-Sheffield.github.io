@@ -101,6 +101,7 @@ Access is granted on a per project basis, with the [N8 CIR Bede website providin
 Once submitted, the application will be reviewed and if deemed appropriate and compatible with Bede the project will be created.
 
 [Bede's online documentation][bede-docs] now includes GH200 specific information on the appropriate pages, in addition to the [high level overview of the GH200 pilot][bede-gh200-pilot-docs].
+However, as there are only a limited number of GH200 GPUs in Bede at this time, jobs may spend a significant amount of time in the queue.
 
 In addition to Bede, Sheffield researchers can also access a range of GPUs in our local Tier 3 facilities [Bessemer][bessemer] and [Stanage][stanage]; as well as the [Tier 2 JADE HPC Facility][jade2].
 
