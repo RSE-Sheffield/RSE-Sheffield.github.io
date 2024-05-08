@@ -38,7 +38,7 @@ Instead, use a variable name that describes its content, such as `temperature_re
 ## 1. Don't reuse variables
 This concept may follow from using well-named variables. For instance, if your code performs some data cleaning and validation, each operation should assign a new variable.
 
-```
+```py
 data = "data/data.csv"
 
 data = read_data(data)
@@ -50,7 +50,7 @@ data = validate_data(data)
 
 is a lot less readable than
 
-```
+```py
 data_path = "raw_data/01readings.csv"
 
 raw_data = read_data(data_path)
@@ -67,8 +67,8 @@ If you do the same job at many places throughout your code, instead of copying t
 Functions take input variables (known as arguments), perform some operation and return a result.
 In the above pseudocode example, `read_data()` might look like this:
 
-```
-function read_data(filepath):
+```py
+def read_data(filepath):
     data = read_csv(filepath)
     return data    
 ```

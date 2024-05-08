@@ -26,7 +26,7 @@ Our speaker this month was Dr Ilse Daly who told us about her journey from visio
 
 *Sounds easy right: have an idea, write the app, sell the app... Turns out that's not entirely how it works, as I'll show in this talk.*
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Odontodactylus_scyllarus_R%C3%A9union.jpg/640px-Odontodactylus_scyllarus_R%C3%A9union.jpg)
+![Odontodactylus scyllarus, commonly known as the peacock mantis shrimp, harlequin mantis shrimp, painted mantis shrimp, clown mantis shrimp or rainbow mantis shrimp observed at la Réunion (western Indian ocean).](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Odontodactylus_scyllarus_R%C3%A9union.jpg/640px-Odontodactylus_scyllarus_R%C3%A9union.jpg)
 
 Image: Cédric Péneau via [Wikimedia](https://commons.wikimedia.org/wiki/File:Odontodactylus_scyllarus_R%C3%A9union.jpg)
 

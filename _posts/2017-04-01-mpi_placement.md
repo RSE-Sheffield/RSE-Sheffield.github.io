@@ -12,7 +12,7 @@ type: text
 
 Say you request a 16 slot MPI job on ShARC with 3GB per-process using a submission script like the one below:
 
-```
+```sh
 #!/bin/bash
 #Tell the scheduler that maximum runtime is 1 hour
 #$ -l h_rt=1:00:00
@@ -30,9 +30,9 @@ mpirun  ./MPI_hello_world
 
 The scheduler is free to decide where on the system your 16 slots get placed. You may have all 16 slots running on one node, one slot per node for 16 nodes or anything in between. The exact placement of your jobs may affect runtime.
 
-We can find out where the scheculer placed your MPI processes using the `$PE_HOSTFILE` environment variable. When your job starts running, this points to a file that contains placement information. We make use of it in a submission script as follows
+We can find out where the scheduler placed your MPI processes using the `$PE_HOSTFILE` environment variable. When your job starts running, this points to a file that contains placement information. We make use of it in a submission script as follows
 
-```
+```sh
 #!/bin/bash
 #Tell the scheduler that maximum runtime is 1 hour
 #$ -l h_rt=1:00:00
@@ -51,7 +51,7 @@ cat $PE_HOSTFILE  > node_info.txt
 mpirun  ./MPI_hello_world
 ```
 You'll now get a file called `node_info.txt` that contains information about which nodes your MPI slots were placed. For example
-```
+```text
 sharc-node031.shef.ac.uk 1 shortint.q@sharc-node031.shef.ac.uk UNDEFINED
 sharc-node069.shef.ac.uk 1 shortint.q@sharc-node069.shef.ac.uk UNDEFINED
 sharc-node112.shef.ac.uk 1 shortint.q@sharc-node112.shef.ac.uk UNDEFINED

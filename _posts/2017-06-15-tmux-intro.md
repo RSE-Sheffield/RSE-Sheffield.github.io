@@ -40,7 +40,7 @@ Have you ever?
 If the answer to any of these is "yes" then **terminal multiplexing**
 may help!
 
-![](/assets/images/tmux-intro/intro.png){: .img-fluid}
+![A screenshot of a terminal window split into four. Across the four terminals reads "Making remote -- Linux/Unix machines -- easer -- to use!"](/assets/images/tmux-intro/intro.png){: .img-fluid}
 
 ------------------------------------------------------------------------
 

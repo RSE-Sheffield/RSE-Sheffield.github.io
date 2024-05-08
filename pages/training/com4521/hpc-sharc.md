@@ -66,13 +66,13 @@ The below guide explains how to use [FileZilla](https://filezilla-project.org), 
 To login enter the following command in your terminal, replacing `$USER` with your university username e.g. `acb12de`.
 
 
-```
+```sh
 ssh $USER@sharc.shef.ac.uk
 ```
 
 You will then be prompted to enter you password
 
-```
+```text
 Password:
 ```
 
@@ -80,7 +80,7 @@ On password confirmation you will be prompted to select a MFA option.
 
 Either enter a passcode directly from the Duo mobile app, or enter `1` and respond to the push notification.
 
-```
+```text
 Duo two-factor login for $USER
 
 Enter a passcode or select one of the following options:
@@ -92,7 +92,7 @@ Passcode or option (1-1):
 
 If login was successful you should see a success message and login welcome.
 
-```
+```text
 Success. Logging you in...
 *****************************************************************************
 *         ShARC (Sheffield Advanced Research Computer) HPC cluster          *
@@ -149,7 +149,7 @@ On success you should see the prompt change from `@sharc-login` to `@sharc-node`
 
 To leave the interactive session you can call `exit`.
 
-```
+```sh
 [$USER@sharc-login2 ~]$ qrshx
 [$USER@sharc-node009 ~]$ exit
 exit
@@ -160,7 +160,7 @@ exit
 
 Lots of software is installed on the HPC system, therefore to prevent conflicts it is necessary to manually load the required software.
 
-```
+```sh
 module load libs/CUDA/11.6.0/binary
 module load dev/gcc/8.2
 ```
@@ -175,7 +175,7 @@ If you navigate to where you have uploaded your assignment code (e.g. `cd com452
 
 *The output below is normal for compilation success, it merely shows the commands passed to the two compilers.*
 
-```
+```text
 [$user@sharc-node009 com4521_assignment]$ make
 nvcc -c -o build/release/src/main.cu.o src/main.cu -gencode arch=compute_35,code=sm_35 -gencode arch=compute_60,code=sm_60 -gencode arch=compute_60,code=compute_60 -I. -Isrc -Wno-deprecated-gpu-targets -lineinfo -O3 -DNDEBUG -Xcompiler -fopenmp -Xcompiler -I. -Xcompiler -Isrc -Xcompiler -Wall -Xcompiler -O3 -Xcompiler -DNDEBUG
 gcc -c -o build/release/src/helper.c.o src/helper.c -fopenmp -I. -Isrc -Wall -O3 -DNDEBUG
@@ -188,7 +188,7 @@ nvcc -o bin/release/Particles build/release/src/main.cu.o build/release/src/help
 
 Errors and warnings take the below form. The exact messages may differ from those you receive in Visual Studio, but the code you are working with should remain cross-platform.
 
-```
+```text
 src/cuda.cu(45): error: expected a ";"
 ```
 
@@ -205,7 +205,7 @@ The header of the job script contains a large number of parameters which can be 
 
 To submit the default job scripts call the desired command below from the root of your project:
 
-```
+```sh
 qsub scripts/sharc/run.sh
 qsub scripts/sharc/run_debug.sh
 ```
@@ -224,7 +224,7 @@ It is necessary to install the Visual Profiler to view these outputs. It can be 
 
 To submit the default profiling job script call the below command from the root of your project:
 
-```
+```sh
 qsub scripts/sharc/profile.sh
 ```
 
@@ -270,7 +270,7 @@ The module does not cover usage of the modern profiling tools or interpretation 
 
 Compute sanitizer is available on HPC similar to the managed desktops, it can be executed with the sample job script to memory check Debug builds of your code. As before, **you will need to modify a copy of this script to specify different runtime argument to your application**.
 
-```
+```sh
 qsub scripts/sharc/cudamemchk.sh
 ```
 
@@ -284,13 +284,13 @@ In order to interactively debug your code on HPC it is necessary to get an inter
 
 An interactive GPU session, can be requested with the below command:
 
-```
+```sh
 qrshx -l gpu=1 -P rse -q rse-interactive.q
 ```
 
 If this succeeds, and you have loaded the same two modules required for compilation, you should then be able to use `cuda-gdb` to interactively debug your application.
 
-```
+```sh
 cuda-gdb --args "bin/debug/Particles" CUDA 100 512x512 output_image.png
 ```
 
