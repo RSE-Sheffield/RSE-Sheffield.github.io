@@ -34,13 +34,13 @@ jobs:
       - name: Install Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 2.7.3 # Check https://pages.github.com/versions/ for the current Ruby version used by gh pages.
+          ruby-version: 2.7.4 # Check https://pages.github.com/versions/ for the current Ruby version used by gh pages.
 
       # Install dependencies required to run jekyll build
       - name: Install gh-pages rubygem via bundler
         run: |
-          # Update gem and bundler
-          gem update --system --no-document
+          # Update gem and bundler - disabled due to gem install errors on CI
+          # gem update --system --no-document
           gem update bundler --no-document
           # Set the bundle directory
           bundle config set path vendor/bundle
