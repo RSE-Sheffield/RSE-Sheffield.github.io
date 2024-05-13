@@ -1,6 +1,8 @@
 name: CI build
 on:
-  push: [ htmlproofer ]
+  push: 
+    branches: 
+      - htmlproofer
   pull_request:
     branches:
       - master
