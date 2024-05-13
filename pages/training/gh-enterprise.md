@@ -28,7 +28,7 @@ not a member of UoS should be marked as an external collaborator.
 
 All repositories under UoS Github Enterprise must be owned by a member of UoS, with the permission of the owner (or their
 delegates) of the Github Organisation in which it belongs to. Additional owners of the repository can be external
-collaborator to UoS.
+collaborators to UoS.
 
 #### 1.1.3 Ownership of Github Organisations
 
