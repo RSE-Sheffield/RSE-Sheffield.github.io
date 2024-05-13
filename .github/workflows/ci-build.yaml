@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       # Control the use of htmlproofer. Set to '1' to enable htmlproofer.
-      USE_HTMLPROOFER: '0'
+      USE_HTMLPROOFER: '1'
     steps:
       # Clone the repository and checkout into the relevant branch
       - uses: actions/checkout@v3.5.0
