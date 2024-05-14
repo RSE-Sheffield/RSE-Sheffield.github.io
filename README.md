@@ -2,7 +2,9 @@
 
 This repository contains the source for the RSE-Sheffield website, built with [Jekyll](https://jekyllrb.com/).
 
-The website is hosted on GitHub Pages and can be found at [https://rse.shef.ac.uk](https://rse.shef.ac.uk).
+The website is hosted on GitHub Pages and can be found at [https://rse.shef.ac.uk](https://rse.shef.ac.uk), and mirrored
+at [https://rse.sheffield.ac.uk](https://rse.sheffield.ac.uk) by
+[RSE-Sheffield/rse.sheffield.ac.uk](https://github.com/RSE-Sheffield/rse.sheffield.ac.uk).
 
 All content (excluding logos or where explicitly stated) licensed under the
 <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1"
@@ -193,10 +195,10 @@ social_image: /assets/images/logo/rse-logoonly-stroke.png
 ```
 
 The `excerpt_separator` defines a token, which when placed in the blog post causes the remainder of the post to be
-omitted from blog post previews shown around the website (e.g. [here](https://rse.shef.ac.uk/blog/). It is recommended
-that blog posts account for the excerpt by having the first paragraph/s act as an introduction to the blog post's
-content. If `excerpt_separator` is not included in the front-matter, the first line-break will be treated as the end of
-the excerpt, the suggested seperator `<!--more-->` is a html comment so will not be visible within blog posts.
+omitted from blog post previews shown around the website (e.g. the [blog](https://rse.shef.ac.uk/blog/). It is
+recommended that blog posts account for the excerpt by having the first paragraph/s act as an introduction to the blog
+post's content. If `excerpt_separator` is not included in the front-matter, the first line-break will be treated as the
+end of the excerpt, the suggested seperator `<!--more-->` is a html comment so will not be visible within blog posts.
 
 **Warning: GitHub will refuse to serve Jekyll sites that include funny characters (e.g. `&` or `@` in the `title:` YAML
 field unless the entire title is enclosed in double-quotes**, even though the Jekyll site will build locally without
@@ -253,7 +255,8 @@ seminar:
 
 To create a new category, add a new YAML element with a unique key to `_data/event-categories.yml`.
 
-Events with categories: `workshop`, `carpentry`, `dltraining` and `gitzerohero` are included in the list on the training page.
+Events with categories: `workshop`, `carpentry`, `dltraining` and `gitzerohero` are included in the list on the training
+page.
 
 #### Creating a new category listing
 
@@ -285,8 +288,8 @@ The following project data (and metadata) are to be populated in `projects.csv`:
 | start | Project start date `dd/mm/yyyy` | Yes |
 | end | Project end date `dd/mm/yyyy`; leave as the empty string if ongoing | No |
 | department | Collaborator department. | Yes |
-| level | Priority level for display - currently set to 1 if project has a description, 2 if not. |
-| show | Set to 1 if the project is to be displayed, 0 if not. |
+| level | Priority level for display - currently set to 1 if project has a description, 2 if not. | No |
+| show | Set to 1 if the project is to be displayed, 0 if not. | No |
 
 Project descriptions are to be written in markdown with a header containing the project key:
 
@@ -428,3 +431,36 @@ retrospective linting is to be undertaken be mindful that the `git blame` will b
 changes. This can be avoided by adding the commit to the `.git-blame-ignore-revs` file which means `git` and GitHub will
 ignore the blame for any commits listed in that file. For more on ignoring blame revisions see [Who's to
 blame?](https://rse.shef.ac.uk/blog/git-blame/).
+
+## Deployment and Mirroring
+
+This website is deployed to [`rse.shef.ac.uk`](https://rse.shef.ac.uk) via GitHub pages using `GitHub Actions`.
+The `.github/workflows/publish.yaml` workflow is triggered by pushes to `master`, or `workflow_dispatch` events on this repository.
+
+When this workflow successfully deploys the website, it also triggers a deployment to
+[`rse.sheffield.ac.uk`](https://rse.sheffield.ac.uk), by triggering the
+[RSE-Sheffield/rse.sheffield.ac.uk](https://github.com/RSE-Sheffield/rse.sheffield.ac.uk) repositories
+[`.github/workflows/mirror.yaml`](https://github.com/RSE-Sheffield/rse.sheffield.ac.uk/actions/workflows/mirror.yaml)
+workflow via `gh`.
+This requires a fine-grained PAT with `actions: read and write` permissions for actions events, storing in a repository
+secret `SHEFFIELD_MIRROR_TOKEN`.
+The token will need periodically renewing.
+
+The mirror CI workflow can also be manually triggered if needed, by selecting `Run workflow` on
+[github.com/RSE-Sheffield/rse.sheffield.ac.uk/actions/workflows/mirror.yaml](https://github.com/RSE-Sheffield/rse.sheffield.ac.uk/actions/workflows/mirror.yaml). This
+should not be necessary, but may be required if the PAT expires or API errors occur.
+
+### GitHub Settings
+
+* Enable Github pages, with `GitHub Actions` as the source.
+* Set the `custom domain` to `rse.sheffield.ac.uk`
+* Wait up to 24 hours, then enable `Enforce HTTPS`
+* a user with privileges must [Generate a fine-grained PAT](https://github.com/settings/tokens?type=beta) with
+  * an appropriate name, description and expiration period
+  * the `RSE-Sheffield` org as the Resource Owner
+  * Access to `Only select repositories`, selecting `RSE-Sheffield/rse.sheffield.ac.uk`
+  * Grant `Read and write` permissions for `Actions`
+  * Save the PAT to an [action repository
+    secret](https://github.com/RSE-Sheffield/RSE-Sheffield.github.io/settings/secrets/actions) named
+    `SHEFFIELD_MIRROR_TOKEN`
+  * The token/secret will need renewing periodically.

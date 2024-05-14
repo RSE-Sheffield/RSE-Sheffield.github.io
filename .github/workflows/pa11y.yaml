@@ -13,7 +13,7 @@ jobs:
 
     steps:
       # Clone the repository and checkout into the relevant branch
-      - uses: actions/checkout@v3.5.0
+      - uses: actions/checkout@v4
 
       # Install Ruby
       - name: Install Ruby
