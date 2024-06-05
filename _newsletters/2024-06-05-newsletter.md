@@ -2,8 +2,8 @@
 layout: post
 title: June 2024 Newsletter
 editor: Dan Brady
-slug: 2024-05-05-newsletter
-date: 2024-05-05T14:00:00Z+0100
+slug: 2024-06-05-newsletter
+date: 2024-06-05T14:00:00Z+0100
 tags:
 category:
 link:
