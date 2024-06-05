@@ -21,7 +21,7 @@ news, opportunities, events and training for you.
 
 - Would you like 6 months of free RSE time on your project? The [2024 RSE collaboration call for proposals](https://rse.shef.ac.uk/collaboration/RSEtime_call2024/) is open. __Deadline: 28th June__
 
-- [Responsible AI UK: skills programme](https://www.ukri.org/opportunity/responsible-ai-uk-skills-programme/?utm_medium=email&utm_source=govdelivery): Funding to develop open educational resources for the training of artificial intelligence (AI) developers, users, managers, the public and other stakeholders. Proposals may include research into the creation of resources, responding to responsible AI skills critical challenges, including issues related to upskilling, reskilling, pedagogy, or educational delivery. __Deadline: 14 June 2024__
+- [Responsible AI UK: skills programme](https://www.ukri.org/opportunity/responsible-ai-uk-skills-programme/): Funding to develop open educational resources for the training of artificial intelligence (AI) developers, users, managers, the public and other stakeholders. Proposals may include research into the creation of resources, responding to responsible AI skills critical challenges, including issues related to upskilling, reskilling, pedagogy, or educational delivery. __Deadline: 14 June 2024__
 
 - The N8 CIR are looking to share experiences of women in HPC on the N8 CIR web pages. You can share your experiences as a woman in HPC by filling in [their survey](https://www.qualtrics.manchester.ac.uk/jfe/form/SV_8wBj4w0UueMYrS6). See more about the N8 CIR Women in HPC chapter [here](https://n8cir.org.uk/women-hpc/).
 
@@ -38,6 +38,13 @@ news, opportunities, events and training for you.
 <!-- List in chronological order -->
 
 - SheffieldR 21st June Meetup announced, more details on the [website](https://sheffieldr.github.io/posts/2024-06-21-june-meetup/)
+
+- Best Practices in AI Afternoon
+  - **2024-07-05 July @ 12:00-17:00**. The RSE team at the university of Sheffield, in collaboration with the CMI, are holding and afternoon "Best practices in AI" seminar.
+     The even will be held in Workroom 2, 38 Mappin, University of Sheffield. S1 4DT. 
+     We are looking for talks, walkthrough and demos on best practices research, design development and deployment of AI systems or,
+     alternatively, how AI can be used to contribute to these best practices. Registration and call for speakers can
+     be found [here](https://rse.shef.ac.uk/events/seminar-2024-07-05-best-practices-in-ai-afternoon.html)
 
 #### Upcoming external events
 
