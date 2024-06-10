@@ -40,6 +40,15 @@ and the [**Centre for Machine Intelligence (CMI)**](https://www.sheffield.ac.uk/
 ### Agenda
 
 <div class="timetable">
+ <div class="row">
+    <div class="col-2 event-time">11:00-12:00</div> 
+    <div class="col">
+      <div class="title">1:1 meetings with Nvidia</div>
+      <div class="speaker"></div>
+      <div class="description">Book a 1 to 1 meeting with Nvidia experts on the day! For details, see below.</div>
+    </div>
+  </div>
+
   <div class="row">
     <div class="col-2 event-time">12:00-13:00</div> 
     <div class="col">
