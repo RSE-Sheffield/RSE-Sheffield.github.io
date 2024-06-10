@@ -38,7 +38,6 @@ and the [**Centre for Machine Intelligence (CMI)**](https://www.sheffield.ac.uk/
 </div>
 
 ### Agenda
-**Final details TBC**
 
 <div class="timetable">
   <div class="row">
@@ -197,10 +196,10 @@ explore how to use AI/HPC in your project. Example discussion topics include:
 - Which GPU to use for your workload
 - Generative AI and LLM related topics
 
-**Our experts on the day:**
-- **Karin Sevegnani**, Senior Solutions Architect at Nvidia
+**Nvidia experts on the day:**
 - **Andy Grant**, EMEA Director for Supercomputing and AI at Nvidia
 - **Denis Battistella**, Higher Education and Research at Nvidia
+- **Karin Sevegnani**, Senior Solutions Architect at Nvidia
 
 
 **In-person meetings will take place on the day and slots are limited and are first come, first served. Remote meetings (may not happen on the day) will be offered once we've run out of meeting slots.**
