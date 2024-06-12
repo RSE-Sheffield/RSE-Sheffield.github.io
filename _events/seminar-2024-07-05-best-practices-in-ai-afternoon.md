@@ -53,7 +53,7 @@ and the [**Centre for Machine Intelligence (CMI)**](https://www.sheffield.ac.uk/
   <div class="row">
     <div class="col-2 event-time">12:00-13:00</div> 
     <div class="col">
-      <div class="title">Networking Lunch</div>
+      <div class="title">Networking Lunch and registration</div>
       <div class="speaker"></div>
       <div class="description">Buffet lunch, soft drinks and coffee.</div>
     </div>
