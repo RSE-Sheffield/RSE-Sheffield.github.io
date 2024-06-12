@@ -26,7 +26,7 @@ The afternoon will consist of talks, walkthroughs and demos on best practices fo
 and deployment of AI systems. There will be a focus on practical aspects such as tooling, processes, tips,
 tricks, & gotchas that attendees can incorporate into their existing research!
 
-Buffet lunch and coffee will be provided.
+**Buffet lunch and coffee will be provided, with a drinks reception sponsored by Nvidia after the event.**
 
 This event is held in collaboration between the **[Research Software Engineering (RSE)](https://rse.shef.ac.uk/)** group
 and the [**Centre for Machine Intelligence (CMI)**](https://www.sheffield.ac.uk/machine-intelligence) in the University of Sheffield.
@@ -41,7 +41,7 @@ and the [**Centre for Machine Intelligence (CMI)**](https://www.sheffield.ac.uk/
 
 <div class="timetable">
  <div class="row">
-    <div class="col-2 event-time">11:00-12:00</div> 
+    <div class="col-2 event-time">11:00-12:00</div>
     <div class="col">
       <div class="title">1:1 meetings with Nvidia</div>
       <div class="speaker"></div>
@@ -54,7 +54,7 @@ and the [**Centre for Machine Intelligence (CMI)**](https://www.sheffield.ac.uk/
     <div class="col">
       <div class="title">Networking Lunch</div>
       <div class="speaker"></div>
-      <div class="description"></div>
+      <div class="description">Buffet lunch, soft drinks and coffee.</div>
     </div>
   </div>
 
@@ -166,6 +166,15 @@ and the [**Centre for Machine Intelligence (CMI)**](https://www.sheffield.ac.uk/
       <div class="description"></div>
     </div>
   </div>
+
+  <div class="row">
+    <div class="col-2 event-time">17:00-18:00</div>
+    <div class="col">
+      <div class="title">Drinks reception sponsored by Nvidia</div>
+      <div class="speaker"></div>
+      <div class="description">Alcoholic, soft drinks and nibbles.</div>
+    </div>
+  </div>
 </div>
 
 
@@ -196,8 +205,16 @@ physical devices from the world of condensed matter physics.
 
 ## Book a 1 to 1 with Nvidia
 
+<<<<<<< HEAD
 Book a 1 to 1 meeting with Nvidia experts on the day! They are open to discuss your research project at any stage whether you are already familiar
  and use accelerated computing looking to optimise or scale your project or whether you are relatively new and want to
+||||||| parent of ad41c2b (Best Practices in AI Afternoon - Update event details)
+Book a 1 to 1 meeting with Nvidia experts on the day! They are open to discuss your research project at any stage whether you are already familiar
+ and use accelerated computing looking to optimise or scale your project or whether you are relatively new and want to
+=======
+Book a 15 to 30 minutes 1 to 1 meeting with Nvidia experts on the day! They are open to discuss your research project at any stage whether you are already familiar
+ and use accelerated computing looking to optimise or scale your project or whether you are relatively new and want to
+>>>>>>> ad41c2b (Best Practices in AI Afternoon - Update event details)
 explore how to use AI/HPC in your project. Example discussion topics include:
 
 - Possible approaches and techniques for your research problem/domain
