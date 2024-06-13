@@ -4,7 +4,7 @@ date: 2024-07-05
 published: True
 
 from: "12:00"
-to: "17:00"
+to: "18:00"
 location: "Workroom 2, 38 Mappin, Sheffield, S1 4DT and Online"
 speaker: "Various"
 institute: "RSE, CMI"
@@ -20,7 +20,7 @@ slides_url:
 
 
 ## Overview
-We are excited to present Best Practices in AI Afternoon which will be held on the **5th of July, 12-5pm at
+We are excited to present Best Practices in AI Afternoon which will be held on the **5th of July, 12-6pm at
 Workroom 2, 38 Mappin, Sheffield, S1 4DT and online**. 
 
 The afternoon will consist of talks and walkthroughs on best practices for research, design, development, 
