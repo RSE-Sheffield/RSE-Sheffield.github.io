@@ -194,15 +194,20 @@ valuable industry experience through an internship at Amazon in 2021, where she 
 recommendation algorithms.
 
 
-#### Ryan Daniels, University of Cambridge
+#### Ryan Daniels, Machine Learning Engineer, University of Cambridge
 Ryan is a machine learning engineer at the Accelerate Programme for Scientific Discovery and is interested in driving 
 forward scientific research which is grounded in excellent software engineering and machine learning fundamentals. 
 Before working at Accelerate, Ryan’s research interests explored unconventional approaches to computing using complex 
 physical devices from the world of condensed matter physics.
 
-#### More profiles coming soon...
+#### Wahab Kawafi, AI Supercomputing Infrastructure Engineer, University of Bristol
 
-<br/>
+Wahab finished their PhD in machine learning from the University of Bristol on computer vision applications in biomedicine and material science. They worked as a visiting researcher at the European Space Agency analysing motion capture data of stroke-survivors. More recently working as a machine learning engineer in robotics and aerospace applications. He joined the Isambard AI team in April 2024.
+
+#### Edwin Brown, Research Software Engineer, University of Sheffield
+Edwin joined the RSE team in October 2022. He comes from a background in geophysics following a BSc and MSc in Geophysical Sciences at the University of Leeds. After university, he worked in the private sector, developing machine learning (ML) workflows to solve geophysical imaging and inversion problems.
+
+Edwin has practical experience in the designing, training and evaluation of ML models. He is experienced in Python having worked with data science libraries such as Numpy, Pandas, Scikit-learn, Tensorflow and Keras. He has a growing interest in MLOps (Machine Learning Operations) and the practical challenges of scaling up ML practices.
 
 ## Book a 1 to 1 with Nvidia
 
