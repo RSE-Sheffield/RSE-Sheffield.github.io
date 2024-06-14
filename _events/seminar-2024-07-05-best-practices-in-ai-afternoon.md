@@ -90,7 +90,7 @@ and the [**Centre for Machine Intelligence (CMI)**](https://www.sheffield.ac.uk/
     <div class="col-2 event-time">14:30-15:00</div> 
     <div class="col">
       <div class="title">How do you unit test an ML model?</div>
-      <div class="speaker"><img class="align-self-center mr-2" src="/assets/images/icons/icons8-communication-skill-50.png" width="20" alt="Speaker">Wahab Kawafi, University of Bristol</div>
+      <div class="speaker"><img class="align-self-center mr-2" src="/assets/images/icons/icons8-communication-skill-50.png" width="20" alt="Speaker">Wahab Kawafi, University of Bristol (Remote speaker)</div>
       <div class="description">Covering methods such as mock testing, simulation, experiment tracking, and dataset curation. With examples in medicine, chemistry, aerospace engineering, and LLMs.</div>
     </div>
   </div>
@@ -109,7 +109,7 @@ and the [**Centre for Machine Intelligence (CMI)**](https://www.sheffield.ac.uk/
     <div class="col">
       <div class="title">Lightning talk 1: Research Software Engineering</div>
       <div class="speaker"><img class="align-self-center mr-2" src="/assets/images/icons/icons8-communication-skill-50.png" width="20" alt="Speaker">TBC</div>
-      <div class="description"></div>
+      <div class="description">Introduction to the RSE team and how they can help support your project.</div>
     </div>
   </div>
   
@@ -125,8 +125,8 @@ and the [**Centre for Machine Intelligence (CMI)**](https://www.sheffield.ac.uk/
   <div class="row">
     <div class="col-2 event-time">15:25-15:30</div> 
     <div class="col">
-      <div class="title">Lightning talk 3: TBC</div>
-      <div class="speaker"><img class="align-self-center mr-2" src="/assets/images/icons/icons8-communication-skill-50.png" width="20" alt="Speaker">TBC</div>
+      <div class="title">Lightning talk 3: Nvidia Self-paced Training Courses</div>
+      <div class="speaker"><img class="align-self-center mr-2" src="/assets/images/icons/icons8-communication-skill-50.png" width="20" alt="Speaker">Denis Battistella, Higher Education and Research, Nvidia</div>
       <div class="description"></div>
     </div>
   </div>
