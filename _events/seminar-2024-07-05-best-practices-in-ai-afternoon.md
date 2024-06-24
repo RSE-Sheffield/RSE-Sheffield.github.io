@@ -19,6 +19,8 @@ slides_url:
 </div>
 
 
+
+
 ## Overview
 We are excited to present Best Practices in AI Afternoon which will be held on the **5th of July, 12-6pm at
 Workroom 2, 38 Mappin, Sheffield, S1 4DT and online**. 
@@ -32,9 +34,10 @@ A focus on practical aspects such as tooling, optimisation, profiling, tips and 
 This event is held in collaboration between the **[Research Software Engineering (RSE)](https://rse.shef.ac.uk/)** group 
 and the [**Centre for Machine Intelligence (CMI)**](https://www.sheffield.ac.uk/machine-intelligence) in the University of Sheffield.
 
+<p style="font-weight: bold; color: #db0d36;">We're now out of in-person places but you can still join us remotely! Please register and we will send a joining link to you before the event.</p>
+
 <div class="row" style="margin: 1em 0">
   <div class="col text-center"><a class="btn btn-primary" href="https://forms.gle/JiuFkT1jNgbuMfCT9">Register for the event</a></div>
-  <div class="col text-center"><a class="btn btn-primary" href="https://forms.gle/fDfgkv4WUhMhz6j58">Speak at the event</a></div>
   <div class="col text-center"><a class="btn btn-primary" href="https://forms.gle/EVoSCpfuUrTdaJiE9">Book a 1 to 1 with Nvidia</a></div>
 </div>
 
@@ -144,9 +147,9 @@ and the [**Centre for Machine Intelligence (CMI)**](https://www.sheffield.ac.uk/
   <div class="row">
     <div class="col-2 event-time">16:00-16:30</div> 
     <div class="col">
-      <div class="title">TBC</div>
-      <div class="speaker"><img class="align-self-center mr-2" src="/assets/images/icons/icons8-communication-skill-50.png" width="20" alt="Speaker">TBC</div>
-      <div class="description"></div>
+      <div class="title">From Research Software to Software as a Service</div>
+      <div class="speaker"><img class="align-self-center mr-2" src="/assets/images/icons/icons8-communication-skill-50.png" width="20" alt="Speaker">Robert (Bob) Turner, Research Software Engineer, University of Oxford</div>
+      <div class="description">A workshop session based on a recent blog post I wrote https://www.software.ac.uk/blog/how-make-research-software-software-service-part-1. A mind-mapping type approach with lots of audience engagement, not a traditional presentation, will be used to explore the things that need to be considered when making Software as a Service based on research software. We will discuss how ideas in the post might be applied to AI.</div>
     </div>
   </div>
   
@@ -209,6 +212,13 @@ Edwin joined the RSE team in October 2022. He comes from a background in geophys
 
 Edwin has practical experience in the designing, training and evaluation of ML models. He is experienced in Python having worked with data science libraries such as Numpy, Pandas, Scikit-learn, Tensorflow and Keras. He has a growing interest in MLOps (Machine Learning Operations) and the practical challenges of scaling up ML practices.
 
+#### Robert (Bob) Turner, Research Software Engineer, University of Oxford
+
+Bob works in the Modernising Medical Microbiology group in the Nuffield Department of Medicine on software as a service platforms for infectious disease diagnostics, public health and research applications.
+
+He has collaborated with a wide range of academic, public and private sector partners including GPAS, AirQo, Institut Pasteur, the UK Health Security Agency and Health Data Research UK. Bob has been a maintainer and a reviewer for The Carpentries, and has contributed to more than 20 peer-reviewed publications, including one in Nature. He is currently interested in technologies and working practises that result in useful research software.
+
+
 ## Book a 1 to 1 with Nvidia
 
 Book a 15 to 30 minutes 1 to 1 meeting with Nvidia experts on the day! They are open to discuss your research project at any stage whether you are already familiar
@@ -231,10 +241,10 @@ explore how to use AI/HPC in your project. Example discussion topics include:
 ## Registration
 We hope to see you on the day whether in-person or online! Please use the buttons below to register for the event, present a talk or book a 1 to 1 meeting with Nvidia.
 
+<p style="font-weight: bold; color: #db0d36;">We're now out of in-person places but you can still join us remotely! Please register and we will send a joining link to you before the event.</p>
 
 <div class="row" style="margin: 1em 0">
   <div class="col text-center"><a class="btn btn-primary" href="https://forms.gle/JiuFkT1jNgbuMfCT9">Register for the event</a></div>
-  <div class="col text-center"><a class="btn btn-primary" href="https://forms.gle/fDfgkv4WUhMhz6j58">Speak at the event</a></div>
   <div class="col text-center"><a class="btn btn-primary" href="https://forms.gle/EVoSCpfuUrTdaJiE9">Book a 1 to 1 with Nvidia</a></div>
 </div>
 
