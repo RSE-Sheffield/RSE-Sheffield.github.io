@@ -5,7 +5,7 @@ slug: index
 type: text
 ---
 
-<span style="color:red"> Due to the amount of preject with received, this call is on hold until November 2024.</span>.
+<div class="alert alert-danger" role="alert">Due to the amount of projects received, this call is on hold until November 2024.</div>
 
 ### RSE support via the Centre for Machine Intelligence (CMI-RSE)
 
