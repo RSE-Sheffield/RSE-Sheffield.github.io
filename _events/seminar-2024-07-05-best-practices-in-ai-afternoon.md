@@ -149,7 +149,7 @@ and the [**Centre for Machine Intelligence (CMI)**](https://www.sheffield.ac.uk/
     <div class="col">
       <div class="title">From Research Software to Software as a Service</div>
       <div class="speaker"><img class="align-self-center mr-2" src="/assets/images/icons/icons8-communication-skill-50.png" width="20" alt="Speaker">Robert (Bob) Turner, Research Software Engineer, University of Oxford</div>
-      <div class="description">A workshop session based on a recent blog post I wrote https://www.software.ac.uk/blog/how-make-research-software-software-service-part-1. A mind-mapping type approach with lots of audience engagement, not a traditional presentation, will be used to explore the things that need to be considered when making Software as a Service based on research software. We will discuss how ideas in the post might be applied to AI.</div>
+      <div class="description">A workshop session based on a <a href="https://www.software.ac.uk/blog/how-make-research-software-software-service-part-1">recent blog post I wrote</a>. A mind-mapping type approach with lots of audience engagement, not a traditional presentation, will be used to explore the things that need to be considered when making Software as a Service based on research software. We will discuss how ideas in the post might be applied to AI.</div>
     </div>
   </div>
 
