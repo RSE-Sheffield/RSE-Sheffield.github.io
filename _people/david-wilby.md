@@ -8,7 +8,8 @@ role: Research Software Engineer
 
 ---
 
-David was a Senior Research Software Engineer with a research background in optical physics and sensory biology. Following a PhD and postdoc at the University of Bristol and a postdoc at Lund University David made the transition to research software engineering in 2019.
+David was a Senior Research Software Engineer with a research background in optical physics and sensory biology. Following a PhD and postdoc at the University of Bristol and a postdoc at Lund University David made the transition to research software engineering in 2019.  
+David left the RSE Sheffield team in 2023 to take up a role as a Research Software Engineer at the British Antarctic Survey.
 
 His interests in research software relate to: impact enhancement, reproducibility and sustainability, best practice and environmental and social responsibility, in addition to interests in training researchers in research software.
 
