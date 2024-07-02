@@ -9,7 +9,8 @@ role: Research Software Engineer
 
 ---
 
-Fariba Yousefi is in the process of completing her PhD in Machine Learning at the department of Computer Science, University of Sheffield. She recently joined the research software engineering team as a machine learning research engineer at the university of Sheffield.
+Fariba Yousefi completed her PhD in Machine Learning at the department of Computer Science, University of Sheffield. She joined the RSE Sheffield team as a machine learning research engineer.  
+Fariba left the RSE Sheffield team in 2022 to take up a role as an AI Scientist at AstraZeneca.
 
 Her research interests are Gaussian Processes, data scarcity, imbalanced data and multi-task learning. She enjoys working on healthcare applications.
 
