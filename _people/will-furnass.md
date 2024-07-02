@@ -13,6 +13,8 @@ Will was a Research Software Engineer who was previously:
   - Helping Paul Richmond lead the RSE team
   - Contributing to the development and maintenance of University research computing platforms (inc. HPC)
 
+Will left the RSE Sheffield Team in 2021 to become a Research Platforms Engineer at the University of Sheffield.
+
 Previous projects:
 
   - Packaging, test infrastructure, releases and documentation for the [MuMoT multi-scale modelling tool](https://mumot.readthedocs.io/en/stable/).
