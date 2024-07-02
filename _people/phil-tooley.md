@@ -19,5 +19,4 @@ traditional compiled languages, possible in conjunction with parallel frameworks
 [Dask](https://dask.pydata.org/).  
 Phil left the RSE Sheffield team in 2019 to take up a role as a Senior Software Engineer at the Numerical Algorithms Group (NAG).
 
-* Email: phil.tooley (at) sheffield.ac.uk
 * Twitter: [@acceleratedsci](https://twitter.com/acceleratedsci)

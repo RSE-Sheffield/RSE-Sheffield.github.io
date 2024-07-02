@@ -25,6 +25,5 @@ Bob's role included contributing to the management of the RSE team, under Paul R
 
 Contact:
 
-- Email: r.d.turner (at) sheffield.ac.uk
 - Web: [https://sites.google.com/view/robert-turner](https://sites.google.com/view/robert-turner)
 - Twitter: [@Bobatron](https://twitter.com/bobatron)
