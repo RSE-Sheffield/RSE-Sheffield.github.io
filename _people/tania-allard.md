@@ -8,8 +8,7 @@ surname: Allard
 
 ---
 
-Tania left RSE Sheffield for a [Research Associate/Research Software
-Engineer] position at the University of Leeds. She has a PhD in
+Tania left the RSE Sheffield team in 2018 for a Machine Learning Engineer position at Hello Soda. She has a PhD in
 computational nanomechanics at the University of Manchester where she
 focused on the multi-scale modelling of biological and biocompatible
 materials. She is part of [Open Dream Kit] (a [Horizon2020 project]),
@@ -25,7 +24,6 @@ instructor.
 
 -   Twitter: [@ixek]
 
-[Research Associate/Research Software Engineer]: https://rse.ac.uk/
 [Open Dream Kit]: https://opendreamkit.org/
 [Horizon2020 project]: https://ec.europa.eu/programmes/horizon2020/
 [@ixek]: https://twitter.com/ixek
