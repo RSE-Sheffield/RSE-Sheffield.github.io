@@ -9,7 +9,8 @@ role: Research Software Engineer
 
 ---
 
-Bob was a senior research software engineer who started his career in software and databases after completing a degree in *Applied Physics* at the *University of Durham*. After four years in the private sector, he did a *PhD in Biophysics* at the *University of Leeds*, before working as a postdoc researcher at the *University of Sheffield* in several departments, including Physics and Astronomy, Molecular Biology and Biotechnology Mechanical, Engineering and the Dental School, reflecting an unusually broad range of research interests spanning microscopy, microbiology, engineering and healthcare.
+Bob was a senior research software engineer who started his career in software and databases after completing a degree in *Applied Physics* at the *University of Durham*. After four years in the private sector, he did a *PhD in Biophysics* at the *University of Leeds*, before working as a postdoc researcher at the *University of Sheffield* in several departments, including Physics and Astronomy, Molecular Biology and Biotechnology Mechanical, Engineering and the Dental School, reflecting an unusually broad range of research interests spanning microscopy, microbiology, engineering and healthcare.  
+Bob left the RSE Sheffield team in 2023 to take up a Research Software Engineering position at the University of Oxford.
 
 An accomplished researcher with some [important publications](https://scholar.google.com/citations?hl=en&user=JdHx1A8AAAAJ), as a software engineer Bob collaborates with researchers to develop and improve software. This of course involved writing code, but also lots of liaison, discussion, leadership and, most importantly, listening!
 
