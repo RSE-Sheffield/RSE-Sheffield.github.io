@@ -16,7 +16,8 @@ Fortran, but also champions the use of the Numpy/Scipy stack for scientific comp
 This includes the use of accelerator technologies including [Numba](https://numba.pydata.org) and
 [Cython](http://cython.org/) to write custom python code which is speed competitive with
 traditional compiled languages, possible in conjunction with parallel frameworks such as
-[Dask](https://dask.pydata.org/).
+[Dask](https://dask.pydata.org/).  
+Phil left the RSE Sheffield team in 2019 to take up a role as a Senior Software Engineer at the Numerical Algorithms Group (NAG).
 
 * Email: phil.tooley (at) sheffield.ac.uk
 * Twitter: [@acceleratedsci](https://twitter.com/acceleratedsci)
