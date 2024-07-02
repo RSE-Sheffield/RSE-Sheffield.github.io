@@ -34,4 +34,4 @@ The following links can provide more information on *national* initiatives.
 
 * [https://society-rse.org/](https://society-rse.org/) - the UK Society of Research Software Engineering
 * [http://www.software.ac.uk](https://www.software.ac.uk) - The Software Sustainability Institute
-* [https://twitter.com/ResearchSoftEng](https://twitter.com/ResearchSoftEng) - Official twitter feed of the UK RSE Community
+* [https://mastodon.social/@ResearchSoftEng](https://mastodon.social/@ResearchSoftEng) - Official mastodon feed of the UK RSE Community
