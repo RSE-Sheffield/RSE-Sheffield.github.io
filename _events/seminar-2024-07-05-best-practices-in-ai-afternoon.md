@@ -34,11 +34,9 @@ A focus on practical aspects such as tooling, optimisation, profiling, tips and 
 This event is held in collaboration between the **[Research Software Engineering (RSE)](https://rse.shef.ac.uk/)** group 
 and the [**Centre for Machine Intelligence (CMI)**](https://www.sheffield.ac.uk/machine-intelligence) in the University of Sheffield.
 
-<p style="font-weight: bold; color: #db0d36;">We're now out of in-person places but you can still join us remotely! Please register and we will send a joining link to you before the event.</p>
-
 <div class="row" style="margin: 1em 0">
-  <div class="col text-center"><a class="btn btn-primary" href="https://forms.gle/JiuFkT1jNgbuMfCT9">Register for the event</a></div>
-  <div class="col text-center"><a class="btn btn-primary" href="https://forms.gle/EVoSCpfuUrTdaJiE9">Book a 1 to 1 with Nvidia</a></div>
+  <div class="col text-center"><a class="btn btn-primary" href="https://bit.ly/bpaia-slido">Ask questions and participate on Slido</a></div>
+  <div class="col text-center"><a class="btn btn-primary" href="https://bit.ly/bpaia-feedback">Give feedback on the event</a></div>
 </div>
 
 ### Agenda
@@ -111,7 +109,7 @@ and the [**Centre for Machine Intelligence (CMI)**](https://www.sheffield.ac.uk/
     <div class="col-2 event-time">15:15-15:20</div> 
     <div class="col">
       <div class="title">Lightning talk 1: Research Software Engineering</div>
-      <div class="speaker"><img class="align-self-center mr-2" src="/assets/images/icons/icons8-communication-skill-50.png" width="20" alt="Speaker">TBC</div>
+      <div class="speaker"><img class="align-self-center mr-2" src="/assets/images/icons/icons8-communication-skill-50.png" width="20" alt="Speaker">Twin Karmakharm</div>
       <div class="description">Introduction to the RSE team and how they can help support your project.</div>
     </div>
   </div>
@@ -238,14 +236,11 @@ explore how to use AI/HPC in your project. Example discussion topics include:
 
 **In-person meetings will take place on the day and slots are limited and are first come, first served. Remote meetings (may not happen on the day) will be offered once we've run out of meeting slots.**
 
-## Registration
-We hope to see you on the day whether in-person or online! Please use the buttons below to register for the event, present a talk or book a 1 to 1 meeting with Nvidia.
-
-<p style="font-weight: bold; color: #db0d36;">We're now out of in-person places but you can still join us remotely! Please register and we will send a joining link to you before the event.</p>
+## Participation and feedback
 
 <div class="row" style="margin: 1em 0">
-  <div class="col text-center"><a class="btn btn-primary" href="https://forms.gle/JiuFkT1jNgbuMfCT9">Register for the event</a></div>
-  <div class="col text-center"><a class="btn btn-primary" href="https://forms.gle/EVoSCpfuUrTdaJiE9">Book a 1 to 1 with Nvidia</a></div>
+  <div class="col text-center"><a class="btn btn-primary" href="https://bit.ly/bpaia-slido">Ask questions and participate on Slido</a></div>
+  <div class="col text-center"><a class="btn btn-primary" href="https://bit.ly/bpaia-feedback">Give feedback on the event</a></div>
 </div>
 
 
