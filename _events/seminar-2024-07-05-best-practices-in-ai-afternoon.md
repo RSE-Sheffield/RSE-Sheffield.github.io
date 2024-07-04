@@ -109,7 +109,7 @@ and the [**Centre for Machine Intelligence (CMI)**](https://www.sheffield.ac.uk/
     <div class="col-2 event-time">15:15-15:20</div> 
     <div class="col">
       <div class="title">Lightning talk 1: Research Software Engineering</div>
-      <div class="speaker"><img class="align-self-center mr-2" src="/assets/images/icons/icons8-communication-skill-50.png" width="20" alt="Speaker">Twin Karmakharm</div>
+      <div class="speaker"><img class="align-self-center mr-2" src="/assets/images/icons/icons8-communication-skill-50.png" width="20" alt="Speaker">Twin Karmakharm, Research Software Engineering, University of Sheffield</div>
       <div class="description">Introduction to the RSE team and how they can help support your project.</div>
     </div>
   </div>
