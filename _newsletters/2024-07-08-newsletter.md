@@ -50,7 +50,6 @@ Thank you to everyone who applied for the [2024 RSE collaboration call for propo
 
 
 
-### Open Research
 
 
 ### Articles, Blogs, Papers & Podcasts
