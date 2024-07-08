@@ -49,9 +49,6 @@ Thank you to everyone who applied for the [2024 RSE collaboration call for propo
   - **2025/01/13 - 2025/01/17**: This five-day residential retreat will again take place in Manchester and comprises panel discussions and group sessions for technology specialists to develop soft skills and network with peers. This national event is open to software engineers, infrastructure engineers, data managers, academics, and industry professionals at any stage of their careers. We encourage those new to these fields to attend. Paid accommodation is offered to all in-person attendees.
 
 
-
-
-
 ### Articles, Blogs, Papers & Podcasts
 
 #### Articles & Blogs
@@ -110,9 +107,11 @@ list](https://groups.google.com/a/sheffield.ac.uk/g/rse-group) to hear about new
 
 #### Jobs
 
-- Check for advertised RSE and RSE-adjacent roles at the [RSE society's vacancies board](https://society-rse.org/careers/vacancies/)
+- We're recruiting a [Research Software Engineer on a permanent contract!](https://www.jobs.ac.uk/job/DIL227/research-software-engineer-rse) Please help forward to anyone who may be interested! Closes: 4th August 2024.
 
 - [New RSE Service Lead post in BEAR.](https://blog.bham.ac.uk/bear/2024/06/24/were-recruiting-new-rse-service-lead-post-in-bear/)
+
+- Check for advertised RSE and RSE-adjacent roles at the [RSE society's vacancies board](https://society-rse.org/careers/vacancies/)
 
 
 ### Community
