@@ -74,7 +74,7 @@ Thank you to everyone who applied for the [2024 RSE collaboration call for propo
 
 - [The penumbra of open source: projects outside of centralized platforms are longer maintained, more academic and more collaborative](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-022-00345-7)
 
--[Acknowledging Good Java Code with Code Perfumes](https://arxiv.org/abs/2406.16348)
+- [Acknowledging Good Java Code with Code Perfumes](https://arxiv.org/abs/2406.16348)
 
 
 #### Podcasts
