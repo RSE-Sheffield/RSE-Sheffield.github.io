@@ -139,7 +139,7 @@ projects.
 
 If you have a project in mind that would benefit from CMI-RSE involvement, please have a look at the
 [FAQ](https://rse.shef.ac.uk/collaboration/cmi-rse/) and complete the application form to register your interest and
-begin the conversation.
+begin the conversation. **Note**: Due to the amount of projects received, this call is on hold until November 2024.
 
 #### Code Clinics
 
