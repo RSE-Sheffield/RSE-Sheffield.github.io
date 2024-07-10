@@ -1,9 +1,9 @@
 ﻿---
 layout: post
-title: "Upgrading R to version 4.4.0"
+title: "Upgrading R to at least version 4.4.0"
 author: Grace Accad, Gemma Ives, Will Furnass
-slug: 2024-06-05-faqs-for-upgrading-r
-date: 2024-06-05 09:00:00 UTC
+slug: 2024-07-10-faqs-for-upgrading-r
+date: 2024-07-10 09:00:00 UTC
 tags: R rstats security
 category:
 link:
@@ -13,9 +13,9 @@ type: text
 excerpt_separator: <!--more-->
 ---
 
-# Upgrading R to version 4.4.0
+# Upgrading R to at least version 4.4.0
 
-Due to a security vulnerability, all users are advised to update their installation of R to version 4.4.0 as soon as possible, and by the end of June 2024 at the latest.
+Due to a security vulnerability, all users are advised to update their installation of R to version 4.4.0 or newer as soon as possible, and by the end of July 2024 at the latest.
 <!--more-->
 
 * [YoYo and Managed Desktop users](#yoyo-and-managed-desktop-users)
@@ -31,11 +31,11 @@ We want to bring to your attention the security risks associated with handling R
 A vulnerability ([CVE-2024-27322](https://hiddenlayer.com/research/r-bitrary-code-execution/)) has been identified in the R language that allows attackers to run any code they want without your permission when certain types of (maliciously-crafted) data files are loaded, which could potentially lead to unauthorised access, manipulation of systems or unauthorised exporting of data. This vulnerability affects RDS (R Data Serialization) format files and RDX (R database index) files. Attackers can exploit this by crafting malicious RDS or RDX files to execute arbitrary commands on the target device. The vulnerability arises from how R implements data loading, particularly through the readRDS function, used to load RDS and RDX files. Despite expectations that loaded files don't run code, this vulnerability allows for unauthorised code execution.
 
 
-The most concerning aspects of this exploit have been fixed in the newest version of R (version 4.4.0 at the time of writing) and we strongly recommend that all R users at the University of Sheffield upgrade their R version immediately. However, it is important to note that there will continue to be a risk when using RDS or RDX files from untrusted sources, regardless of whether you are using version 4.4.0. As always, members of the University of Sheffield should use their best judgement when running code from sources outside of the University.
+The most concerning aspects of this exploit have been fixed in R 4.4.0 (with 4.4.1 being the newest version at the time of writing) and we strongly recommend that all R users at the University of Sheffield upgrade their R version immediately. However, it is important to note that there will continue to be a risk when using RDS or RDX files from untrusted sources, regardless of whether you are using R >= 4.4.0. As always, members of the University of Sheffield should use their best judgement when running code from sources outside of the University.
 
 ## YoYo and Managed Desktop users
 
-The upgrade to R 4.4.0 will happen automatically and you will not need to take any further action to update R itself. You will need to recreate your R package library for R 4.4.0 - reinstalling any R packages that you currently need/use.
+The upgrade to R >= 4.4.0 will happen automatically and you will not need to take any further action to update R itself. You will need to recreate your R package library for R >= 4.4.0 - reinstalling any R packages that you currently need/use.
 
 ## Unmanaged machine or Ronin users 
 
@@ -46,17 +46,17 @@ We recommend that you have a recent *backup* of your files before beginning the 
 1. Navigate to the precompiled package: 
     * For *Windows* machines: 
         * Choose _base_
-        * Click _Download R 4.4.0 for Windows_.
+        * Click _Download R 4.4.1 for Windows_.
         * Open the downloaded file and follow the installation instructions.
     * For *Mac* machines:
         * Choose the .pkg file that is appropriate for your macOS version and architecture.
         * Open the downloaded file and follow the installation instructions.
 1. When the installer has completed, open R Studio. In the _Tools_ menu, select _Global Options..._   ![Tools menu in RStudio](/assets/images/2024-06-05-faqs-for-upgrading-r/upgrading-r-rstudio-tools-menu.png)
 1. On the _General_ settings page, in the _R Sessions_ section,  view the file path under _R Version_ and click _Change..._
-1. Choose R version 4.4.0 from the pop up file explorer. Click OK.   ![R version selection in RStudio](/assets/images/2024-06-05-faqs-for-upgrading-r/upgrading-r-rstudio-version-selection.png)
+1. Choose R version 4.4.1 from the pop up file explorer. Click OK.   ![R version selection in RStudio](/assets/images/2024-06-05-faqs-for-upgrading-r/upgrading-r-rstudio-version-selection.png)
 1. Restart RStudio when prompted.
 1. (Re)install the R packages you use in your work (your R package library is specific to the version of R you're using) .
-1. Test your workflows with R 4.4.0 
+1. Test your workflows with R 4.4.1 
 1. Delete your older version(s) of R. 
    1. To do this, open your file explorer and navigate to where your base R files are located. Use the file path from step 4 to guide you to the files if they are not obvious.  ![Picking old versions to delete](/assets/images/2024-06-05-faqs-for-upgrading-r/upgrading-r-rstudio-r-folder-deletion.png)
    1. Right click on the older version(s) and select _Delete_.  
@@ -74,13 +74,13 @@ If you're using R via Conda on Bessemer or Stanage, see the *guidance for Conda*
 
 These are binary files used to store R objects such as data frames, lists, functions, and other R data structures. They are commonly used for saving and loading data within the R programming environment.
 
-### Do I have to upgrade to R 4.4.0?
+### Do I have to upgrade to R 4.4.0 or newer?
 
-Upgrading to R version 4.4.0 is mandatory as it addresses recent security vulnerabilities. It's important to remember that even with the latest version there is still a risk with untrusted RDS files.
+Upgrading to R >= 4.4.0 is mandatory as it addresses recent security vulnerabilities. It's important to remember that even with the latest version there is still a risk with untrusted RDS files.
 
 ### How long will it take to upgrade?
 
-The time to upgrade to 4.4.0 can range from 2 minutes to 30 mins depending on the internet speed and other factors.
+The time to upgrade to >= 4.4.0 can range from 2 minutes to 30 mins depending on the internet speed and other factors.
 
 ### How do I upgrade R versions when using Conda or Docker containers?
 
@@ -120,12 +120,13 @@ Changes in R version 4.4.0 can be found in [R News Documentation](https://cran.r
 
 ### What if I don't use R Studio as my default environment for R?
 
-We recommend that you read the documentation for your chosen text editor. If you cannot find an appropriate method, then we recommend starting the update process by deleting your older version of your base R files before downloading and installing version 4.4.0. 
+We recommend that you read the documentation for your operating system / chosen operating system package manager (if applicable). If you cannot find an appropriate method, then we recommend starting the update process by either uninstalling the older version of base R or (less preferable) manually deleting the base R files before downloading and installing version >= 4.4.0.  The FAQs linked to from [https://cloud.r-project.org/](https://cloud.r-project.org/) may also be useful.
 
 ## General advice
 
 1. Use trusted sources
-    * Use packages from a reputable source with a history of well maintained packages. 
+    * Use packages from a reputable source with a history of well-maintained packages. 
+    * Use only serialised (`.Rds` / `.Rdx`) objects from trusted sources; be very wary of such files shared openly on the internet.
 1. Regular updates
     * Keep your R environment and packages up-to-date with the latest security patches. 
 1. Data minimisation
