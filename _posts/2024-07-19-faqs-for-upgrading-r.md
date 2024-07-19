@@ -2,8 +2,8 @@
 layout: post
 title: "Upgrading R to at least version 4.4.0"
 author: Grace Accad, Gemma Ives, Will Furnass
-slug: 2024-07-10-faqs-for-upgrading-r
-date: 2024-07-10 09:00:00 UTC
+slug: 2024-07-19-faqs-for-upgrading-r
+date: 2024-07-19 09:00:00 UTC
 tags: R rstats security
 category:
 link:
@@ -15,7 +15,7 @@ excerpt_separator: <!--more-->
 
 # Upgrading R to at least version 4.4.0
 
-Due to a security vulnerability, all users are advised to update their installation of R to version 4.4.0 or newer as soon as possible, and by the end of July 2024 at the latest.
+Due to a security vulnerability, all users are advised to update their installation of R to version 4.4.0 or newer as soon as possible (ideally within the next month).
 <!--more-->
 
 * [YoYo and Managed Desktop users](#yoyo-and-managed-desktop-users)
@@ -35,7 +35,7 @@ The most concerning aspects of this exploit have been fixed in R 4.4.0 (with 4.4
 
 ## YoYo and Managed Desktop users
 
-The upgrade to R >= 4.4.0 will happen automatically and you will not need to take any further action to update R itself. You will need to recreate your R package library for R >= 4.4.0 - reinstalling any R packages that you currently need/use.
+The upgrade to R >= 4.4.0 will happen automatically in late July and you will not need to take any further action to update R itself. You will need to recreate your R package library for R >= 4.4.0 - reinstalling any R packages that you currently need/use (using e.g. `update.packages()`).
 
 ## Unmanaged machine or Ronin users 
 
