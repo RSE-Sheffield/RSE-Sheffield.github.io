@@ -20,7 +20,6 @@ slides_url:
 
 
 
-
 ## Overview
 
 We are excited to present Best Practices in AI Afternoon which will be held on the **5th of July, 12-5pm at
@@ -35,9 +34,9 @@ This event is held in collaboration between the **[Research Software Engineering
 and the [**Centre for Machine Intelligence (CMI)**](https://www.sheffield.ac.uk/machine-intelligence) in the University of Sheffield.
 
 <div class="row" style="margin: 1em 0">
-  <div class="col text-center"><a class="btn btn-primary" href="https://bit.ly/bpaia-slido">Ask questions and participate on Slido</a></div>
-  <div class="col text-center"><a class="btn btn-primary" href="https://bit.ly/bpaia-feedback">Give feedback on the event</a></div>
+  <div class="col text-center"><a class="btn btn-primary" href="/blog/2024-07-24-best-practices-in-ai-afternoon-event-summary">Videos, Slides and Resources from the event</a></div>
 </div>
+
 
 ### Agenda
 
@@ -236,11 +235,10 @@ explore how to use AI/HPC in your project. Example discussion topics include:
 
 **In-person meetings will take place on the day and slots are limited and are first come, first served. Remote meetings (may not happen on the day) will be offered once we've run out of meeting slots.**
 
-## Participation and feedback
+## Event summary
 
 <div class="row" style="margin: 1em 0">
-  <div class="col text-center"><a class="btn btn-primary" href="https://bit.ly/bpaia-slido">Ask questions and participate on Slido</a></div>
-  <div class="col text-center"><a class="btn btn-primary" href="https://bit.ly/bpaia-feedback">Give feedback on the event</a></div>
+  <div class="col text-center"><a class="btn btn-primary" href="/blog/2024-07-24-best-practices-in-ai-afternoon-event-summary">Videos, Slides and Resources from the event</a></div>
 </div>
 
 
