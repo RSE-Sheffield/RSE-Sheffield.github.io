@@ -31,7 +31,9 @@ suggest ways to improve your computational workflows**.
 
 ### Where?
 
-A Google Meet link will be provided in the Google Calendar invite issued when you book a clinic.
+The clinic will be held on Google Meet by default.
+A link will be provided in the Google Calendar invite issued when you book a clinic.
+If you would rather have an in person meeting, please contact us at [`code-clinic-helpers-group@sheffield.ac.uk`](mailto:)
 
 ### When
 
