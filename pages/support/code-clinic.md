@@ -14,10 +14,6 @@ They are open to **anyone at TUOS writing code for research** to get help with p
 At each session, **members of the RSE, Bioinformatics Core and/or Research IT and support teams will be available to review code, advise, troubleshoot and
 suggest ways to improve your computational workflows**.
 
-### Where?
-
-A Google Meet link will be provided in the Google Calendar invite issued when you book a clinic.
-
 ### Who: Are you...
 
   - Thinking of ways to improve your code?
@@ -32,6 +28,10 @@ A Google Meet link will be provided in the Google Calendar invite issued when yo
   - Struggling with Bioinformatics analysis?
 
 **We can help!**
+
+### Where?
+
+A Google Meet link will be provided in the Google Calendar invite issued when you book a clinic.
 
 ### When
 
