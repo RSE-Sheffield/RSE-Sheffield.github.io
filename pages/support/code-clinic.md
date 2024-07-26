@@ -49,9 +49,10 @@ Clinic sessions are split into 3 half-hourly slots, bookable for consultation.
 
 ### Preparing for your session
 
+- When you book a code clinic you will receive a link to a Google Doc where you can provide more information about your issue.  
 - Please provide examples of the code you are working on, if possible. Often the best way to do this is via a “Minimal, Reproducible Example” (<https://stackoverflow.com/help/minimal-reproducible-example>) but sometimes this isn’t possible. It is good software engineering practice to share code using collaborative version control (e.g. GitHub) and it is good open research practice to do this publicly, although these practices are not always possible.
-- Sometimes helping with the problem requires us to understand your data. Sharing data is not always possible. A readme or data dictionary is particularly useful in these situations. 
-- Please provide any information you can on the hardware, operating system, packages you are using.
+- Please provide any information you can on the hardware, operating system, packages you are using.  
+- Sometimes helping with the problem requires us to understand your data. Sharing data is not always possible. A readme or data dictionary is particularly useful in these situations.  
 
 ### On the day
 
