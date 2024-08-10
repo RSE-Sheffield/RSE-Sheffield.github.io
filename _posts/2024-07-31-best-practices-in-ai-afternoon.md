@@ -17,9 +17,11 @@ excerpt_separator: <!--more-->
 <img src="/assets/images/2024-07-05-best-practices-in-ai/banner-gforms.svg" alt="Best Practices in AI Afternoon Banner"/>
 </div>
 
-We've finally put all the videos, slides and other resources together from the [Best Practices in AI Afternoon](/events/seminar-2024-07-05-best-practices-in-ai-afternoon) 
+We've finally put all the videos, slides and other resources together from the [Best Practices in AI Afternoon](/events/seminar-2024-07-05-best-practices-in-ai-afternoon)
 event that happened on the 5th of July 2024. You can find them listed below.
-  
+
+
+<!--more-->
 
 ### Maximizing Efficiency in Large Language Models: Compute, Memory, and Fine-Tuning
 **<img class="align-self-center mr-2" src="/assets/images/icons/icons8-communication-skill-50.png" width="20" alt="Speaker"> Karin Sevegnani, Senior Solutions Architect, Nvidia**
@@ -71,26 +73,26 @@ Links to the resources discussed in the presentation:
   - [Instructor-led workshops](https://learn.nvidia.com/en-us/training/instructor-led-workshops)
   - [DLI University Ambassador Program](https://www.nvidia.com/en-gb/training/educator-programs/university-ambassador-program/)
   - [Deep Learning Programs for Educators](https://www.nvidia.com/en-gb/training/educator-programs/)
-  - Twin Karmakharm (<a href="t.karmakharm@sheffield.ac.uk">t.karmakharm@sheffield.ac.uk</a>) of the RSE group is the University of Sheffield's local DLI ambassador and can help with access to the above training resources.  
+  - Twin Karmakharm (<a href="t.karmakharm@sheffield.ac.uk">t.karmakharm@sheffield.ac.uk</a>) of the RSE group is the University of Sheffield's local DLI ambassador and can help with access to the above training resources.
 - PhD fellowships: [https://research.nvidia.com/graduate-fellowships#gf-section-graduate-fellows-](https://research.nvidia.com/graduate-fellowships#gf-section-graduate-fellows-)
 - Accelerated software:
   - Denis touched upon [NGC](https://www.nvidia.com/en-us/gpu-cloud/): software repository for accelerated software, including SDKs, frameworks, containers – which you can download and deploy for free. Regularly updated.
   - New released [NIM](https://www.nvidia.com/en-gb/ai/) accelerated inference microservices to accelerate the deployment of Gen AI models.
 
 
-### Acknowledgements 
+### Acknowledgements
 
-We'd like to say thank you to all the speakers and attendees for making [Best Practices in AI Afternoon](/events/seminar-2024-07-05-best-practices-in-ai-afternoon) 
-a great success! 
+We'd like to say thank you to all the speakers and attendees for making [Best Practices in AI Afternoon](/events/seminar-2024-07-05-best-practices-in-ai-afternoon)
+a great success!
 
-Thank you to Emma and Kate from the [Centre for Machine Intelligence (CMI)](https://www.sheffield.ac.uk/machine-intelligence) for all the help with 
-organising the event and the [CMI](https://www.sheffield.ac.uk/machine-intelligence) and Nvidia for sponsoring the event.  
+Thank you to Emma and Kate from the [Centre for Machine Intelligence (CMI)](https://www.sheffield.ac.uk/machine-intelligence) for all the help with
+organising the event and the [CMI](https://www.sheffield.ac.uk/machine-intelligence) and Nvidia for sponsoring the event.
 
 
 ### Photos from the day
 
 ![Karin Sevegnani presenting](/assets/slides/2024-07-05-best-practices-ai/P1022846.jpg)
-*Karin Sevegnani presenting "Maximizing Efficiency in Large Language Models: Compute, Memory, and Fine-Tuning"* 
+*Karin Sevegnani presenting "Maximizing Efficiency in Large Language Models: Compute, Memory, and Fine-Tuning"*
 
 ![Ryan Daniels presenting](/assets/slides/2024-07-05-best-practices-ai/P1022853.jpg)
 *Ryan Daniels presenting "Docker for Machine Learning"*
@@ -106,4 +108,3 @@ organising the event and the [CMI](https://www.sheffield.ac.uk/machine-intellige
 
 ![Q & A Panel](/assets/slides/2024-07-05-best-practices-ai/P1022863.jpg)
 *Q & A Panel with Andy Grant, Edwin Brown, Ryan Daniels, and Christopher Wild*
-
