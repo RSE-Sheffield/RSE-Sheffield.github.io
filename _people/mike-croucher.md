@@ -9,8 +9,8 @@ role: Co-founder
 
 ---
 
-Mike is now head of Research IT at the University of Leeds. He is also an
-[EPSRC Research Software Engineering Fellow] with 10+ years experience
+Mike left the RSE Sheffield team in 2018 to become head of Research IT at the University of Leeds.
+He is also an [EPSRC Research Software Engineering Fellow] with 10+ years experience
 supporting scientific software, high performance computing and research
 software engineering at The University of Manchester and, more recently,
 the University of Sheffield. Mike specialises in high-level languages
