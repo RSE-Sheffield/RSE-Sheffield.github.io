@@ -2,8 +2,8 @@
 layout: post
 title: "Python Virtualenvwrapper"
 author: Neil Shephard
-slug: 2024-08-11-python-virtualenvwrapper
-date: 2024-08-11 12:00:00 UTC
+slug: 2024-08-13-python-virtualenvwrapper
+date: 2024-08-13 12:00:00 UTC
 tags: python "virtual environment" anaconda virtualenvwrapper pip
 category:
 link:
@@ -13,13 +13,9 @@ type: text
 excerpt_separator: <!--more-->
 ---
 
-Recently the use of [Anaconda](https://www.anaconda.com/) has been highlighted as problematic for those working in a
-research environment because of the restrictive
-[licensing](https://legal.anaconda.com/policies/en/?name=terms-of-service) that is starting to be
-[enforced](https://www.theregister.com/2024/08/08/anaconda_puts_the_squeeze_on/). This article introduces another option
-[virtualenvwrapper](https://virtualenvwrapper.readthedocs.io/en/latest/) for creating and working with
-[Python](https://www.python/org) Virtual Environments showing how to install and use it and highlighting some useful
-features.
+This article introduces  [virtualenvwrapper](https://virtualenvwrapper.readthedocs.io/en/latest/) for creating and
+working with [Python](https://www.python/org) Virtual Environments showing how to install and use it and highlighting
+some useful features.
 
 <!--more-->
 
@@ -29,9 +25,9 @@ href="https://www.flickr.com/photos/slackline/53176160657/" target="_blank">Neil
 
 If you use [Python](https://www.python/org) regularly chances are you are familiar with and use virtual environments to
 isolate the installed packages as you develop your code from the Python packages installed at the system level. The
-standard libraries [venv](https://docs.python.org/3/library/venv.html), [pipx](https://github.com/pypa/pipx),
-[virtualenv](https://virtualenv.pypa.io/en/latest/) and [Anaconda](https://www.anaconda.com/) are all popular options,
-perhaps the later being the most popular for its ease of use. Many of the popular package development suites such as
+standard library [venv](https://docs.python.org/3/library/venv.html), and other packages such as
+[pipx](https://github.com/pypa/pipx), [virtualenv](https://virtualenv.pypa.io/en/latest/) and
+[Anaconda](https://www.anaconda.com/) are all popular options. Many of the popular package development suites such as
 [Hatch](https://hatch.pypa.io/latest/), [PDM](https://pdm-project.org/latest/) and [Poetry](https://python-poetry.org/)
 will also manage virtual environments for you too. One you might not have come across is
 [virtualenvwrapper](https://virtualenvwrapper.readthedocs.io/en/latest/) which is...
@@ -40,31 +36,32 @@ will also manage virtual environments for you too. One you might not have come a
 > virtual environments and otherwise managing your development workflow, making it easier to work on more than one
 > project at a time without introducing conflicts in their dependencies._
 
-**NB** If you are using Microsoft Windows it is recommended that you install and use [Windows Subsystem for
-Linux](https://learn.microsoft.com/en-us/windows/wsl/install) to follow along.
+**NB** If you are using Microsoft Windows you can follow along by using [Windows Subsystem for
+Linux](https://learn.microsoft.com/en-us/windows/wsl/install), otherwise `virtualenvwrapper` installation and usage is
+slightly different under Windows and you should consult the
+[virtualenvwrapper](https://virtualenvwrapper.readthedocs.io/en/latest/).
 
-## What are Virtual Environments
+## What are Virtual Environments?
 
 Before getting started a quick recap for readers who aren't familiar with virtual environments.
 
-When you run programmes at the command line such as invoking `python`, whether that is GNU/Linux, Mac OSX or Microsoft
+When you run programmes, such as invoking `python` at the command line, whether that is GNU/Linux, Mac OSX or Microsoft
 Windows, the operating system searches for the command you run in a defined set of places. It doesn't look everywhere,
-rather it looks in the locations defined by an environment variable called `$PATH`. This is a variable holds a set of
-paths to locations to look for executable/binary programmes, you can inspect its value with `echo $PATH` and it lists
-all paths that are searched for executable files separated by colons (`:`). The order in which the listed paths are
-checked takes left-to-right precedence and on my system this looks like the following.
+rather it looks in the locations defined by an environment variable called `$PATH`. This variable holds a set of
+paths to locations in which to look for executable/binary programmes. You can inspect its value with `echo $PATH`. The
+order in which the listed paths are checked takes left-to-right precedence and on my system this looks like the following.
 
 ``` bash
 ❱ echo $PATH
 /home/neil/.local/share/pnpm:/home/neil/bin:/home/neil/.cargo/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/opt/bin:/usr/lib/llvm/18/bin:/usr/lib/llvm/17/bin:/home/neil/.local/bin:/home/neil/.cargo/bin:/home/neil/.node/bin
 ```
 
-Thus if I invoke `python` the first path that is checked for a binary with that name is `/home/neil/.local/share/pnpm`
-if one isn't found the second is checked (`/home/neil/bin`), then the third (`/home/neil/.cargo/bin`) and so on until a
-match is found. If no match is found. You can check the path to a given binary using `which` if no such
-programme with that name is found you are told so and likely made a tpyo (**Hint** use
-[tab-complete](https://www.cyberciti.biz/faq/add-bash-auto-completion-in-ubuntu-linux/) its usually installed and works
-in most shells).
+Thus if I invoke `python` the first path that is checked for a binary with that name is `/home/neil/.local/share/pnpm`.
+If one isn't found the second is checked (`/home/neil/bin`), then the third (`/home/neil/.cargo/bin`) and so on until a
+match is found. If no match is found you can check the path to a given binary using `which` and if no programme with
+that name is found you are told. This means its either not installed o your system or you perhaps made a tpyo (**Hint**
+use [tab-complete](https://www.cyberciti.biz/faq/add-bash-auto-completion-in-ubuntu-linux/) its usually installed and
+works in most shells).
 
 ``` bash
 ❱ which python
@@ -91,7 +88,7 @@ directory.
 
 As the name suggests [`virtualenvwrapper`](https://virtualenvwrapper.readthedocs.io/en/latest/) is a wrapper for the
 [`virtualenv`](https://virtualenv.pypa.io/en/latest/) package that adds a bunch of convenience functions and features
-that, in this authors view, make it easier to install, activate/deactivate and manage your virtual environments.
+that, in this author's view, make it easier to install, activate/deactivate and manage your virtual environments.
 
 ### Installation
 
@@ -105,7 +102,7 @@ different GNU/Linux or OSX using Homebrew this can be done with...
 ❱ brew install virtualenvwrapper           # OSX Homebrew
 ```
 
-...or if you are happy installing packages using you can follow the [official installation
+...or if you are happy installing packages using `pip` you can follow the [official installation
 instructions](https://virtualenvwrapper.readthedocs.io/en/latest/install.html) and use `pip` to install at the system
 level.
 
@@ -169,7 +166,7 @@ directory using `which`.
 
 ## Activating/Deactivating Virtual Environment
 
-You have been dropped into the `test_env` virtual environment to exit from it use the `deactivate` command, again you
+You have been dropped into the `test_env` virtual environment. To exit from it use the `deactivate` command, again you
 can check which version of `python` is found on your `$PATH` using `which`.
 
 ```bash
@@ -198,11 +195,21 @@ with...
 mkproject new_project
 ```
 
+One advantage this confers is that when you activate the project, e.g. with `workon new_project` your working directory
+will automatically change to that of the project, i.e. `$PROJECT_HOME/new_project`, meaning you don't have to use `cd`
+to change directory to that location.
+
 ### Manually setting Project Directories
 
 If you don't use `mkproject` to create a project you can set it manually after activating a virtual environment using
 `setvirtualenvproject` in the desired directory. This adds an entry to the `~/.virtualenv/<env_name>/.project` file
 that reflects the directory associated with the environment.
+
+```bash
+mkproject new_project
+cd ~/work/some/other/path/for/new_project
+setvirtualenvproject
+```
 
 ### Disabling Switching to Project Directories
 
@@ -215,19 +222,18 @@ for all invocations of `workon`_". If this is something you _don't_ want to happ
 export VIRTUALENVWRAPPER_WORKON_CD=0
 ```
 
-## Deactivating and Removing Virtual Environments
+## Removing Virtual Environments
 
-Its straight-forward to deactivate the current virtual environment just type `deactivate`. Similarly you can remove a
-virtual environment with `rmvirtualenv <env_name>`.
+You can remove a virtual environment with `rmvirtualenv <env_name>`.
 
 One neat option if you want to keep a virtual environment but install all packages anew is the ability to remove all
-third-party packages in the current virtual environment using `wipeenv`. You can then use `pip` to reinstall a packages
+third-party packages in the current virtual environment using `wipeenv`. You can then use `pip` to reinstall a package's
 dependencies or a set of packages from a `requirements.txt` file.
 
 ## Temporary Virtual Environments
 
 Sometimes you just want to try something out quickly in a clean virtual environment, if for example you are reviewing a
-Pull Request and want to check installation and testes pass. `virtualenvwrapper` can help here as it has the
+Pull Request and want to check installation and tests pass. `virtualenvwrapper` can help here as it has the
 `mktmpenv`. There are two options here `-c|--cd` or `-n|--no-cd` which changes directory post-activation or _doesn't_
 respectively. The environment gets a unique name and will be deleted automatically when it is deactivated.
 
@@ -268,14 +274,14 @@ packages in my virtual environments.
 
 Because I have my `dotfiles` cloned to the same location on every computer (`~/dotfiles`) I added the following to the
 `~/.virtualenvs/postmkvirtualenv` [^2] which will install all of the packages listed in
-`~/dotfiles/python/venv_minimal_requirements.txt` whenever a create a new virtual environment, whether that is with
-`mkvritualenv` or `mktmpenv`.
+`~/dotfiles/python/venv_minimal_requirements.txt` whenever I create a new virtual environment, whether that is with
+`mkvirtualenv` or `mktmpenv`.
 
 ```bash
 pip install --no-cache-dir -r ~/dotfiles/python/venv_minimal_requirements.txt
 ```
 
-This ensured the latest versions of each packages listed in `~/dotfiles/python/venv_minimal_requirements.txt` were
+This ensures the latest versions of each package listed in `~/dotfiles/python/venv_minimal_requirements.txt` were
 downloaded and installed as the `--no-cache-dir` prevents using cached versions of packages.
 
 ### A smarter script
@@ -346,16 +352,16 @@ myself though as I find it tidier to keep them all in one place and easier to fi
 
 ## Conclusion
 
-With [Anaconda](https://www.anaconda.com/) enforcing their licensing more strictly many at Universities and research
-institutes where there are > 200 employees should look for an alternative solution for working with Python virtual
-environments. There are many options including those provided by package development frameworks such as
-[Hatch](https://hatch.pypa.io/latest/), [PDM](https://pdm-project.org/latest/) and [Poetry](https://python-poetry.org/)
-but [`virtualenvwrapper`](https://virtualenvwrapper.readthedocs.io/en/latest/) is a viable option that has many neat
-features, more than covered here, that make working with virtual environments straight-forward. The
-[documentation](https://virtualenvwrapper.readthedocs.io/en/latest/) is excellent and worth reading in detail if this
-introductory article has sparked your interest as there are more than options than those covered here.
+There are many options for installing and managing Python Virtual Environments including those provided by package
+development frameworks such as [Hatch](https://hatch.pypa.io/latest/), [PDM](https://pdm-project.org/latest/) and
+[Poetry](https://python-poetry.org/) but [`virtualenvwrapper`](https://virtualenvwrapper.readthedocs.io/en/latest/) is a
+viable option that has many neat features, more than covered here, that make working with virtual environments
+straight-forward. The [documentation](https://virtualenvwrapper.readthedocs.io/en/latest/) is excellent and worth
+reading in detail if this introductory article has sparked your interest as there are more than options than those
+covered here.
 
-**NB** This post is based on (and hopefully improves on) two earlier blogs made by the author...
+**NB** This post is based on (and hopefully improves on) two earlier blogs made by the author. Most of the improvements
+are Thanks to my colleagues _Tamora James_ and _Pete Heywood_ who reviewed a draft and provided feedback.
 
 + [virtualenvwrapper](https://blog.nshephard.dev/posts/virtualenvwrapper/)
 + [virtualenvwrapper hooks](https://blog.nshephard.dev/posts/virtualenv-hooks/)
@@ -374,6 +380,7 @@ introductory article has sparked your interest as there are more than options th
 [^1]: There is a wealth of information on what you can do with your `dotfiles` but that is an article in itself and I'm
     yet to write it. A useful set of different aliases you could use can be found
     [here](https://dotfiles.io/about/#introduction).
+
 [^2]: Actually I create the script in
     [`~/dotfiles/python/postmkvirtualenv`](https://gitlab.com/nshephard/dotfiles/-/blob/master/python/postmkvirtualenv?ref_type=heads)
     and made a symbolic link at `~/.virtualenv/postmkvirtualenv` that points to it so that whenever I update or improve
