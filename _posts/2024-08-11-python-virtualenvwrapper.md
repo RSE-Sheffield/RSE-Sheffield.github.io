@@ -153,6 +153,7 @@ This is straight-forward.
 
 ```bash
 ❱ mkvirtualenv test_env
+(test_env) ❱
 ```
 
 By default on creating a new virtual environment it is activated and your prompt should change to reflect this with the
@@ -192,7 +193,8 @@ you will have configured during [installation](installation). You can then creat
 with...
 
 ```bash
-mkproject new_project
+❱ mkproject new_project
+(new_project) ❱
 ```
 
 One advantage this confers is that when you activate the project, e.g. with `workon new_project` your working directory
@@ -206,9 +208,9 @@ If you don't use `mkproject` to create a project you can set it manually after a
 that reflects the directory associated with the environment.
 
 ```bash
-mkproject new_project
-cd ~/work/some/other/path/for/new_project
-setvirtualenvproject
+❱ mkvirtualenv new_project
+(new_project) ❱ cd ~/work/some/other/path/for/new_project
+(new_project) ❱ setvirtualenvproject
 ```
 
 ### Disabling Switching to Project Directories
