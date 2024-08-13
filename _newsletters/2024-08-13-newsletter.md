@@ -105,7 +105,7 @@ list](https://groups.google.com/a/sheffield.ac.uk/g/rse-group) to hear about new
 <!-- - [Description](https://www.elsewhere.ac.uk/): -->
 <!--   - More Details (optional) -->
 
-#### Jobs
+### Jobs
 
 - Check for advertised RSE and RSE-adjacent roles at the [RSE society's vacancies board](https://society-rse.org/careers/vacancies/)
 
