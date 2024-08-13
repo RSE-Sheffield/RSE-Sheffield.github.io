@@ -20,7 +20,13 @@ news, opportunities, events and training for you.
 
 ### News
 
-Thank you to everyone who applied for the [2024 RSE collaboration call for proposals](https://rse.shef.ac.uk/collaboration/RSEtime_call2024/). This call is now closed. We had 26 applications! We have reviewed all proposals and sent notifications to all applicants.
+Thank you to everyone who applied for the [2024 RSE collaboration call for proposals](https://rse.shef.ac.uk/collaboration/RSEtime_call2024/). This call is now closed. 
+
+We received 26(!) applications from across the University. We have reviewed all proposals and sent notifications to applicants. The successful projects that will receive six months 0.5 FTE RSE support are...
+
+- PolyChron: A tool for archaeologists for the management of absolute and relative dating evidence - Bryony Moody (School of Mathematics)
+- HYBIRD: a Particle-Fluid Engineering Simulation Tool (HYPFEST) - Alessandro Leonardi (Civil Engineering)
+- Tools to analyse splice-aware SLAMseq - Ian Sudbery (School of Biosciences)
 
 
 ### Events
