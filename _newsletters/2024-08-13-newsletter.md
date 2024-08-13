@@ -3,7 +3,7 @@ layout: post
 title: August 2024 Newsletter
 editor: Romain Thomas
 slug: 2024-08-13-newsletter
-date: 2024-07-13T17:00:00Z+0100
+date: 2024-08-13T17:00:00Z+0100
 tags:
 category:
 link:
