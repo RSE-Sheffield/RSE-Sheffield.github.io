@@ -35,7 +35,6 @@ If you have a considerable requirement for RSE staff you may consider underwriti
 By doing so you will ensure that a member of staff will exist with the specific skills which you require for your
 research.  You will also be given the opportunity to join our strategy group to influence how free RSE time should be
 allocated.  Underwriting a post does not guarantee that the staff member will be available to you 100% of the time.  The
-staff member will be costed onto grants (benefiting you and your research group) in the normal way.  Our method of cost
-recovery will allow us to recover up to 75% of the staff costs which will be reimbursed annually.  Cost recovery will be
+staff member will be costed onto grants (benefiting you and your research group) in the normal way. Cost recovery will be
 reported on at each RSE strategy group meeting which you will be invited to attend as a contributor to the group.
-Examples of current contributors include The Department of Computer Science and IT Services.
+Examples of current contributors include The School of Computer Science, IT Services, and the School of Mathematical and Physical Sciences.

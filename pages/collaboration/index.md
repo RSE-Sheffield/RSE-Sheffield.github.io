@@ -42,5 +42,3 @@ In most cases where an RSE is required, the novel research is facilitated by sof
 If you wish to undertake a collaborative software engineering project where the focus is on *novel software engineering research* then
 this can be provided by our director or academics associated with the RSE team.
 As part of this you may also cost RSE time.
-The RSE director for example, holds an academic position in the Department of Computer Science and
-delivers collaborative research around novel high-performance computing.
