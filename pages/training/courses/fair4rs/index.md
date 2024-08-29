@@ -1,8 +1,21 @@
 ---
-title: FAIR^2 for research software
+title: FAIR^2 for research software 
 layout: page
 type: text
 ---
+
+
+## Research must be Open
+
+The French philosopher Blaise Pascal once said 'La succession de chercheurs est comparable a un seul homme qui apprend indefiniment', which can be translated to 'The succession of researchers is comparable to a single human learning indefinitely'. This assumes that a given generation of researchers is able to build upon what the previous one has done without having to reinvent the wheel or restart from scratch, allowing them to push the limits further. Very much like a single human that would not forget what they have done before. But what if one generation of researcher stops sharing how they are doing their work? Research will stall. It is therefore the duty of each generation of researchers, to allow the next one to take over in the most efficient way possible.And this is done by fully opening research, this role of the Open Science initiative.            
+
+Open Science (or Open research) is a push that aims at making scientific research more transparent and accessible. The core idea is to share data, methods, software and results freely with the global community. There are multiple aspects to open Science, going Open access to publications to Open educational ressources, passing by Open data and methodologies. What we are interested in here is Open software.
+Nowadays, software has become a pivotal aspect of modern research. In the RSE team, we are ideally placed that software are used in all research domains, from physical sciences, to psychology or humanities. Some of these software are used to collect data from medical patients, others are used to run complex simulations of merging galaxies. Software are a inherent part of research and allow researcher to push boundaries of what is possible. They often hold the key to the actual research that is being carried out. Nevertheless, it is not yet common to share these important aspect of research with others and that's why the RSE team, in collaboration with the Data Analytics Service (DAS) and the Library team, has created this FAIR^2 training program. The aim is to provide the research community with the knowledge and tools they need to create better software and share them with others.
+
+Finally, it is worth mentioning that the University of Sheffield is endorsing the Open Research initiative, as it can be seen via statement on Open research [^0]. Founders, such as UKRI[^00], are also supporters of this global initiative.  
+
+
+## The FAIR principles
 
 The FAIR principles were originally developed as guidelines to enhance the reusability of research data. The FAIR
 principles apply the concepts of Findability, Accessibility, Interoperability and Reusability to scholarly data
@@ -77,7 +90,8 @@ After completing this course, participants should be able to:
 <!-- ## Courses -->
 
 <!-- {% include events_list_upcoming.html category="fair4rs" %} -->
-
+[^0]: https://www.sheffield.ac.uk/openresearch/university-statement-open-research
+[^00]: https://www.ukri.org/what-we-do/supporting-healthy-research-and-innovation-culture/open-research/
 [^1]: Wilkinson et al., ‘The FAIR Guiding Principles for Scientific Data Management and Stewardship’.
 [^2]: Barker et al., ‘Introducing the FAIR Principles for Research Software’.
 [^3]: Barker et al., ‘Introducing the FAIR Principles for Research Software’.
