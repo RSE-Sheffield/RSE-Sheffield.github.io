@@ -5,7 +5,9 @@ type: text
 ---
 
 
-## Research must be Open
+## FAIR? Open Science and the FAIR principles
+
+### Towards a more open research
 
 The French philosopher Blaise Pascal once said 'La succession de chercheurs est comparable a un seul homme qui apprend indefiniment', which can be translated to 'The succession of researchers is comparable to a single human learning indefinitely'. This assumes that a given generation of researchers is able to build upon what the previous one has done without having to reinvent the wheel or restart from scratch, allowing them to push the limits further. Very much like a single human that would not forget what they have done before. But what if one generation of researcher stops sharing how they are doing their work? Research will stall. It is therefore the duty of each generation of researchers, to allow the next one to take over in the most efficient way possible. And this is done by fully opening research, this role of the Open Science initiative.            
 
@@ -15,7 +17,7 @@ Nowadays, software has become a pivotal aspect of modern research. In the RSE te
 Finally, it is worth mentioning that the University of Sheffield is endorsing the Open Research initiative, as it can be seen via statement on Open research [^0]. Founders, such as UKRI[^00], are also supporters of this global initiative.  
 
 
-## The FAIR principles
+### The FAIR principles
 
 The FAIR principles were originally developed as guidelines to enhance the reusability of research data. The FAIR
 principles apply the concepts of Findability, Accessibility, Interoperability and Reusability to scholarly data
@@ -28,17 +30,19 @@ reproducibility and open access. A modified set of FAIR principles for research 
 inherent differences between data and software, has been developed to provide a framework for the development of FAIR
 research software[^3].
 
+## The Training program
+
+### Introduction and target audience
+
 This training offers a modular programme to support researchers in applying FAIR principles and open research practices to
 their research software. The overview module provides an introduction to FAIR for research software and gives an
 overview of the topics that are offered in more detail in additional modules, which can be selected according to an
 individual’s learning goals.
 
-**Target audience**
-
 This course is aimed at researchers, including PhDs and postgraduate research students, who create code (whether a few scripts or
 something more substantial) as part of their research and who want to make their research more open by applying the FAIR pinricple to their software.
 
-## Training program
+### Training program
 
 <div class="alert alert-info"> <strong>Info!<strong> The definitive program (with dates and registration links) will be online on Oct 1st.</div>
 
@@ -64,12 +68,17 @@ After completing this program, participants should be able to:
 <!-- **Outline** -->
 
 <!-- Better software for Better research: Introduction to the FAIR training program (Romain Thomas) -->
+In this introduction session we will try to understand what the FAIR principles are and why they have emerged. We will then introduce some actionnable action on how to apply them to software and present a global review of the training program.
 
 <!-- Software lifecycle planning (Romain Thomas, Ric Campbell, Kate O'Neill)-->
 
 <!-- Version control (Neil Shephard)-->
+This version control bit is separated in two distincts training sessions: one for beginners and one for more advanced users.
 
 <!-- Software design (Romain Thomas) -->
+
+The way you write your code will have a massive impact on how easy it is to maintain. During this course we will try to understand how to create maintainable, readable and reusable code. Using examples and exercices, we will see that creating high quality codes is actually quite straightforward when you understand how to do it and what tools are there to make your life easier.  
+
 
 <!-- Testing & Continuous Integration (Sylvia Whittle) -->
 
