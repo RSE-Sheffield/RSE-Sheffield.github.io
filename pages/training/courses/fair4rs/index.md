@@ -96,6 +96,7 @@ Well-documented software promotes reproducibility, maintainability, and increase
 Ensuring that others are able to take your code, run it, and are able to produce the same (or equivalent) results is one of the key tenets of FAIR and reproducible research software. This course will provide you with an overview of different ways to make your code reproducible and then focus on virtual environments as a specific tool for computational reproducibility.
 
 ** Packaging (Farhad Allian & Christopher Wild) **
+Packaging your software is one of the important steps in a software project to make it both findable and accessible. This course will provide you with an understanding of why and when packaging is useful, what different standards exist to package Python projects and take you through each step of the packaging process.
 
 ** Publishing a software paper in JOSS (Romain Thomas & Arfon Smith) **
 
