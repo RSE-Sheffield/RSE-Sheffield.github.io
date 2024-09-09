@@ -1,9 +1,11 @@
 ---
-title: CMI-RSE Support
+title: CMI-RSE Support [On Hold]
 permalink: /collaboration/cmi-rse/
 slug: index
 type: text
 ---
+
+<div class="alert alert-danger" role="alert">Due to the amount of projects received, this call is on hold until November 2024.</div>
 
 ### RSE support via the Centre for Machine Intelligence (CMI-RSE)
 

@@ -8,15 +8,11 @@ type: text
 
 ### Stop wasting valuable time trying to fix issues on your own.
 
-Code Clinics are **fortnightly support sessions** run by the [RSE team](https://rse.shef.ac.uk) (which is supported by the [Department of Computer Science](https://www.sheffield.ac.uk/dcs) and [IT Services](https://www.sheffield.ac.uk/departments/it-services)), IT Services' [Research IT and support](https://www.sheffield.ac.uk/it-services/research) team and [Sheffield Bioinformatics Core](https://sbc.shef.ac.uk) team.
+Code Clinics are **fortnightly support sessions** run by the [RSE team](https://rse.shef.ac.uk) (which is supported by the [School of Computer Science](https://www.sheffield.ac.uk/dcs), [IT Services](https://www.sheffield.ac.uk/departments/it-services) and the [School of Mathematical and Physical Sciences](https://www.sheffield.ac.uk/mps)), IT Services' [Research IT and support](https://www.sheffield.ac.uk/it-services/research) team and [Sheffield Bioinformatics Core](https://sbc.shef.ac.uk) team.
 They are open to **anyone at TUOS writing code for research** to get help with programming problems and general advice on best practice.
 
 At each session, **members of the RSE, Bioinformatics Core and/or Research IT and support teams will be available to review code, advise, troubleshoot and
 suggest ways to improve your computational workflows**.
-
-### Where?
-
-A Google Meet link will be provided in the Google Calendar invite issued when you book a clinic.
 
 ### Who: Are you...
 
@@ -33,6 +29,12 @@ A Google Meet link will be provided in the Google Calendar invite issued when yo
 
 **We can help!**
 
+### Where?
+
+The clinic will be held on Google Meet by default.
+A link will be provided in the Google Calendar invite issued when you book a clinic.
+If you would rather have an in person meeting, please contact us at [`code-clinic-helpers-group@sheffield.ac.uk`](mailto:)
+
 ### When
 
 Every second Wednesday (13:30 - 15:30).
@@ -47,9 +49,10 @@ Clinic sessions are split into 3 half-hourly slots, bookable for consultation.
 
 ### Preparing for your session
 
+- When you book a code clinic you will receive a link to a Google Doc where you can provide more information about your issue.  
 - Please provide examples of the code you are working on, if possible. Often the best way to do this is via a “Minimal, Reproducible Example” (<https://stackoverflow.com/help/minimal-reproducible-example>) but sometimes this isn’t possible. It is good software engineering practice to share code using collaborative version control (e.g. GitHub) and it is good open research practice to do this publicly, although these practices are not always possible.
-- Sometimes helping with the problem requires us to understand your data. Sharing data is not always possible. A readme or data dictionary is particularly useful in these situations. 
-- Please provide any information you can on the hardware, operating system, packages you are using.
+- Please provide any information you can on the hardware, operating system, packages you are using.  
+- Sometimes helping with the problem requires us to understand your data. Sharing data is not always possible. A readme or data dictionary is particularly useful in these situations.  
 
 ### On the day
 

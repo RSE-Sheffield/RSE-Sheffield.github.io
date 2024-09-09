@@ -1,0 +1,91 @@
+name: publish
+
+# Trigger the workflow on pushes to master, or workflow dispatches from the master branch (checked later)
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+# Set permissions on the github.token for gh-pages use
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Enable publication to gh pages via actions/deploy-pages@v2
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+# Enable use of gh
+env:
+  GH_TOKEN: ${{ github.token }}
+
+jobs:
+  build:
+    name: build-for-publish
+    runs-on: ubuntu-latest
+    steps:
+      # Clone the repository and checkout into the relevant branch
+      - uses: actions/checkout@v4
+
+      # Install Ruby
+      - name: Install Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.3.4 # Check https://pages.github.com/versions/ for the current Ruby version used by gh pages.
+
+      # Install dependencies required to run jekyll build
+      - name: Install gh-pages rubygem via bundler
+        run: |
+          # Update gem and bundler - disabled due to gem install errors on CI
+          # gem update --system --no-document
+          gem update bundler --no-document
+          # Set the bundle directory
+          bundle config set path vendor/bundle
+          # Install Gemfile contents via bundler
+          bundle install
+
+      # Build the website via jekyll
+      - name: Build jekyll website without drafts
+        run: bundle exec jekyll build
+
+      # Save HTML for later
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site/
+
+  # If this should deploy (push or workflow dispatch on master) to github pages, do so using the saved artifact
+  # This requires "GitHub Actions" selected in github.com/org/repo/settings/pages
+  deploy:
+    if: ${{ ( github.event_name == 'workflow_dispatch' || github.event_name == 'push' ) && github.ref == 'refs/heads/master' }}
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+  
+  # Trigger the build of the rse.sheffield.ac.uk mirror
+  mirror:
+    if: ${{ ( github.event_name == 'workflow_dispatch' || github.event_name == 'push' ) && github.ref == 'refs/heads/master' && github.repository_owner == 'RSE-Sheffield' }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      # Use gh to trigger the workflow_dispatch event on the appropriate workflow in another repository.
+      # This step may fail if the PAT is invalid or has expired
+      # If so, create a fine-grained pat with actions: write and permissions on the appropriate repository, storing it in the relevant secret on this repository.
+      - name: Trigger RSE-Sheffield/rse.sheffield.ac.uk
+        env:
+          GH_TOKEN: ${{ secrets.SHEFFIELD_MIRROR_TOKEN }}  # Note that this will periodically need to be renewed
+          REPO: "RSE-Sheffield/rse.sheffield.ac.uk"
+          WORKFLOW: "mirror.yaml"
+        run: |
+          gh workflow run ${WORKFLOW} -R ${REPO}
+          sleep 5
+          gh run watch -R ${REPO} $(gh run list -R ${REPO} -w ${WORKFLOW} -L1 --json databaseId --jq .[0].databaseId)
