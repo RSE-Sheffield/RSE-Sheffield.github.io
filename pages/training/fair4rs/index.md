@@ -17,7 +17,7 @@ without having to reinvent the wheel or restart from scratch, allowing them to p
 single human that would not forget what they have done before. But what if one generation of researcher stops sharing
 how they are doing their work? Research will stall. It is therefore the duty of each generation of researchers, to allow
 the next one to take over in the most efficient way possible. In the age of digital research data-driven discovery,
-sharing research can not be limited to publishing results on academic papers only. This is role of the Open Science
+sharing research can not be limited to publishing results on academic papers only. This is the role of the Open Science
 initiative.
 
 Open Science (or Open research) is a push that aims at making scientific research more transparent and accessible. The
