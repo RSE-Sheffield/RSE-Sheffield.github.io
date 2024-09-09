@@ -87,8 +87,8 @@ This version control bit is separated in two distincts training sessions: one fo
 
 The way you write your code will have a massive impact on how easy it is to maintain. During this course we will try to understand how to create maintainable, readable and reusable code. Using examples and exercices, we will see that creating high quality codes is actually quite straightforward when you understand how to do it and what tools are there to make your life easier.  
 
-
 ** Testing & Continuous Integration (Sylvia Whittle) **
+This course aims to equip researchers with the skills to write effective tests and ensure the quality and reliability of their research software. No prior testing experience is required! We’ll guide you through the fundamentals of software testing using Python’s Pytest framework, a powerful and beginner-friendly tool. You’ll also learn how to integrate automated testing into your development workflow using continuous integration (CI). CI streamlines your process by automatically running tests with every code change, catching bugs early and saving you time. 
 
 ** Documentation (Joe Heffer) **
 
