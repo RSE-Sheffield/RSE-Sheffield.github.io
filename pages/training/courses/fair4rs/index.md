@@ -72,6 +72,8 @@ After completing this program, participants should be able to:
 In this introduction session we will try to understand what the FAIR principles are and why they have emerged. We will then introduce some actionnable action on how to apply them to software and present a global review of the training program.
 
 ** Software lifecycle planning (Romain Thomas, Ric Campbell, Kate O'Neill) **
+When you start a software it is often very useful to think about the development process and how you will make you software sustainable in the long term. In this module we will introduce important aspects of software development in research: Software lifecyle, management plan, Licences and dissemination. This should allow you to ask youself the right questions when starting a research software project. 
+
 
 ** Version control (Neil Shephard) **
 This version control bit is separated in two distincts training sessions: one for beginners and one for more advanced users.
