@@ -10,11 +10,12 @@ People working with code for research, whether they are writing their first scri
 
 ### Regular RSE Team Training
 
-The RSE Team focusses on training in version control as this is a key skill for reproducible research and collaborative software development. We also offer training in Deep Learning to improve and facilitate update of AI. These courses are run on a regular basis. If there are not courses currently advertised, check back soon, or [join our mailing](https://groups.google.com/a/sheffield.ac.uk/g/rse-group) list to find out when new courses are advertised.
+The RSE Team focusses on training in version control as this is a key skill for reproducible research and collaborative software development. We have recently introduced a programme of FAIR and reproducible software skills for researchers. We also offer training in Deep Learning to improve and facilitate update of AI. These courses are run on a regular basis. If there are not courses currently advertised, check back soon, or [join our mailing](https://groups.google.com/a/sheffield.ac.uk/g/rse-group) list to find out when new courses are advertised.
 
 - [git & GitHub through GitKraken - from Zero to Hero!](courses/git_Hero.md)
 - [Introduction to Deep Learning](courses/Intro_DL.md)
 - [Performance Profiling & Optimisation (Python)](/pando-python)
+- [FAIR<sup>2</sup> for research software](fair4rs)
 
 #### Upcoming training
 

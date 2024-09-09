@@ -2,6 +2,7 @@
 title: FAIR<sup>2</sup> for research software 
 layout: page
 type: text
+permalink: /training/fair4rs/
 ---
 
 
