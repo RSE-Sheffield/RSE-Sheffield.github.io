@@ -31,7 +31,7 @@ allows researchers to push boundaries of what was considered impossible a few ye
 actual research that is being carried out. Nevertheless, it is not yet common to share this important aspect of the
 research process with others. This might be due to the fear of sharing something that you think is not in the best
 shape, technical barriers, time limitations or other concerns. That is why the RSE team, in collaboration with the Data Analytics Service
-(DAS) and the Library team, has created this FAIR<sup>2</sup> training program. The aim is to provide the research
+(DAS) and the Library team, has created this FAIR<sup>2</sup> training programme. The aim is to provide the research
 community with the knowledge and tools they need to create better software and the confidence to share it with others.
 
 Finally, it is worth mentioning that the University of Sheffield is endorsing the Open Research initiative, as can be
@@ -89,14 +89,14 @@ After completing this modular programme, participants should be able to:
 - Apply approaches such as packaging and containers to enhance the reusability and reproducibility of research software.
 
 
-### Outline of the program
+### Outline of the programme
 
 <div class="alert alert-info"> <strong>Info!</strong> The definitive programme (with dates and registration links) will be
 online on Oct 1st.</div>
 
 
 * [Better software for better research: Introduction to the FAIR training
-  program](#better-software-for-better-research-introduction-to-the-fair-training-program)
+  programme](#better-software-for-better-research-introduction-to-the-fair-training-programme)
 * [Software lifecycle planning](#software-lifecycle-planning)
 * [Version control](#version-control)
 * [Software design](#software-design)
@@ -106,12 +106,12 @@ online on Oct 1st.</div>
 * [Packaging](#packaging)
 * [Publishing a software paper in JOSS](#publishing-a-software-paper-in-joss)
 
-#### Better software for better research: Introduction to the FAIR training program
+#### Better software for better research: Introduction to the FAIR training programme
 
 **22nd October 2024, LunchBytes talk, 12pm, online**
 
-In this introduction session we will try to understand what the FAIR principles are and why they have emerged. We will
-then introduce some actions on how to apply them to software and present a global review of the training program.
+In this introductory session we will try to understand what the FAIR principles are and why they have emerged. We will
+then introduce some actions on how to apply them to software and present a global review of the training programme.
 
 #### Software lifecycle planning
 
@@ -200,12 +200,12 @@ review process is done.
 ### Prerequisites
 
 Each session will have some individual prerequisities. Some experience with developing research software or scripts, for
-example in Python or R might be needed. Please refer to the complete program to know what they are.
+example in Python or R might be needed. Please refer to the complete programme to know what they are.
 
 <!-- {% include events_list_upcoming.html category="fair4rs" %} -->
 
 ### Contact information
-For enquiries, please contact Tamora James ([t.d.james@sheffield.ac.uk](mailto:t.d.james@sheffield.ac.uk), Program
+For enquiries, please contact Tamora James ([t.d.james@sheffield.ac.uk](mailto:t.d.james@sheffield.ac.uk), Programme
 manager), and/or Romain Thomas, ([romain.thomas@sheffield.ac.uk](mailto:romain.thomas@sheffield.ac.uk), Head of the RSE
 group).
 
