@@ -17,7 +17,7 @@ without having to reinvent the wheel or restart from scratch, allowing them to p
 single human that would not forget what they have done before. But what if one generation of researcher stops sharing
 how they are doing their work? Research will stall. It is therefore the duty of each generation of researchers, to allow
 the next one to take over in the most efficient way possible. In the age of digital research and data-driven discovery,
-sharing research can not be limited to publishing results on academic papers only. This is the role of the Open Science
+sharing research cannot be limited to publishing results in academic papers only. This is the role of the Open Science
 initiative.
 
 Open Science (or Open Research) is a paradigm shift that aims at making scientific research more transparent and accessible. The
@@ -27,7 +27,7 @@ methodologies. What we are interested in here is Open software.  Nowadays, softw
 modern research. In the RSE team, we are ideally placed to witness how software is used in all research domains, from
 physical sciences, to psychology or humanities. Some of these software tools are used to collect data from medical
 patients, others are used to run complex simulations of merging galaxies. Software is an inherent part of modern research and
-allows researchers to push boundaries of what was considered impossible a few years ago. Software often holds the key to the
+allows researchers to push the boundaries of what was considered impossible a few years ago. Software often holds the key to the
 actual research that is being carried out. Nevertheless, it is not yet common to share this important aspect of the
 research process with others. This might be due to the fear of sharing something that you think is not in the best
 shape, technical barriers, time limitations or other concerns. That is why the RSE team, in collaboration with the Data Analytics Service
