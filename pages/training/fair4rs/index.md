@@ -24,7 +24,7 @@ Open Science (or Open Research) is a paradigm shift that aims at making scientif
 core idea is to share data, methods, software and results freely with the global community. There are multiple aspects
 to Open Science, going from Open access, to publications, to Open educational resources, passing by Open data and
 methodologies. What we are interested in here is Open software.  Nowadays, software has become a pivotal aspect of
-modern research. In the RSE team, we are ideally placed to witness that software is used in all research domains, from
+modern research. In the RSE team, we are ideally placed to witness how software is used in all research domains, from
 physical sciences, to psychology or humanities. Some of these software tools are used to collect data from medical
 patients, others are used to run complex simulations of merging galaxies. Software is an inherent part of modern research and
 allows researchers to push boundaries of what was considered impossible a few years ago. Software often holds the key to the
