@@ -107,7 +107,7 @@ online on Oct 1st.</div>
 
 #### Better software for better research: Introduction to the FAIR training program
 
-<!-- ##### R. Thomas, 22nd October 2024, Lunchbyte talk, 12pm, online -->
+**22nd October 2024, LunchBytes talk, 12pm, online**
 
 In this introduction session we will try to understand what the FAIR principles are and why they have emerged. We will
 then introduce some actions on how to apply them to software and present a global review of the training program.
