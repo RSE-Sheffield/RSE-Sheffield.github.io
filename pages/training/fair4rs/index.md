@@ -22,19 +22,19 @@ initiative.
 
 Open Science (or Open Research) is a paradigm shift that aims at making scientific research more transparent and accessible. The
 core idea is to share data, methods, software and results freely with the global community. There are multiple aspects
-to Open Science, going from Open access to publications to Open educational ressources, passing by Open data and
+to Open Science, going from Open access, to publications, to Open educational resources, passing by Open data and
 methodologies. What we are interested in here is Open software.  Nowadays, software has become a pivotal aspect of
 modern research. In the RSE team, we are ideally placed to witness that software is used in all research domains, from
 physical sciences, to psychology or humanities. Some of these software tools are used to collect data from medical
-patients, others are used to run complex simulations of merging galaxies. Software is an inherent part of research and
-allows researchers to push boundaries of what still was impossible few years ago. Software often holds the key to the
+patients, others are used to run complex simulations of merging galaxies. Software is an inherent part of modern research and
+allows researchers to push boundaries of what was considered impossible a few years ago. Software often holds the key to the
 actual research that is being carried out. Nevertheless, it is not yet common to share this important aspect of the
 research process with others. This might be due to the fear of sharing something that you think is not in the best
-shape, technical and time barriers or others. That is why the RSE team, in collaboration with the Data Analytics Service
+shape, technical barriers, time limitations or other concerns. That is why the RSE team, in collaboration with the Data Analytics Service
 (DAS) and the Library team, has created this FAIR<sup>2</sup> training program. The aim is to provide the research
-community with the knowledge and tools they need to create better software and to share it with others.
+community with the knowledge and tools they need to create better software and the confidence to share it with others.
 
-Finally, it is worth mentioning that the University of Sheffield is endorsing the Open Research initiative, as it can be
+Finally, it is worth mentioning that the University of Sheffield is endorsing the Open Research initiative, as can be
 seen via the statement on [Open
 research](https://www.sheffield.ac.uk/openresearch/university-statement-open-research). Funders, such as
 [UKRI](https://www.ukri.org/what-we-do/supporting-healthy-research-and-innovation-culture/open-research/), are also
@@ -63,22 +63,22 @@ their research software. The overview module provides an introduction to FAIR fo
 overview of the topics that are offered in more detail in additional modules, which can be selected according to an
 individual’s learning goals.
 
-This course is aimed at researchers, including PhDs and postgraduate research students, who create code (whether a few
+This programme is aimed at researchers, including PhDs and postgraduate research students, who create code (whether a few
 scripts or something more substantial) as part of their research and who want to make their research more open by
-applying the FAIR pinricple to their software.
+applying the FAIR principles to their software.
 
 
 ### Learning outcomes
 
 
-After completing this program, participants should be able to:
+After completing this modular programme, participants should be able to:
 
 - Understand the FAIR principles and describe how they apply to research software
 - Explain how applying FAIR principles to research software can support open research goals such as transparency,
   reproducibility and reusability
 - Identify actions that can be taken at different stages of the research lifecycle to enhance the FAIRness of their
   research software outputs
-- Develop a software management plan addressing the intended scope, impact and lifespan of research software
+- Develop a plan addressing the intended scope, impact and lifespan of their research software
 - Describe different types of software licence and discuss their potential implications for reuse of research software,
   including commercialisation
 - Apply best practices for scientific software development including design, version control, testing, continuous
@@ -91,7 +91,7 @@ After completing this program, participants should be able to:
 
 ### Outline of the program
 
-<div class="alert alert-info"> <strong>Info!</strong> The definitive program (with dates and registration links) will be
+<div class="alert alert-info"> <strong>Info!</strong> The definitive programme (with dates and registration links) will be
 online on Oct 1st.</div>
 
 
@@ -117,7 +117,7 @@ then introduce some actions on how to apply them to software and present a globa
 
 <!-- ##### Romain Thomas, Ric Campbell, Kate O'Neill -->
 
-When you start writing software it is often very useful to think about the development process and how you will make you
+When you start writing software it is often very useful to think about the development process and how you will make your
 software sustainable in the long term. In this module we will introduce important aspects of software development in
 research: software lifecyle, management plan, licences and dissemination. This module should allow you to ask yourself
 the right questions when starting a research software project.
@@ -136,7 +136,7 @@ foundations with collaborative exercises that introduce key concepts such as for
 you the chance to get some hands-on experience with using version control in a research setting.
 
 **Git collaboration**: This course aims to help you develop a deeper understanding of how Git works to facilitate
-collaboration. It builds on foundations laid by the Git beginners course. The core idea around the course is that by
+collaboration. It builds on the foundations laid by the Git beginners course. The core idea around the course is that by
 improving your understanding of working with branches and how to make your commits tidier and neater it makes it easier
 to understand pull requests and Git history which in turn makes it easier to collaborate and work on code with others
 (including your future self!).
@@ -145,9 +145,9 @@ to understand pull requests and Git history which in turn makes it easier to col
 #### Software design
 <!-- (Romain Thomas) -->
 
-The way you write your code will have a massive impact on how easy it is to maintain. During this course we will try to
-understand how to create maintainable, readable and reusable code. Using examples and exercises, we will see that
-creating high quality code is actually quite straightforward when you understand how to do it and what tools are there
+The way you write your code will have a massive impact on how easy it is to maintain. During this course we will learn
+how to create maintainable, readable and reusable code. Using examples and exercises, we will see that
+creating high quality code is actually quite straightforward when you understand how to do it and what tools are available
 to make your life easier.
 
 
@@ -190,8 +190,8 @@ standards exist to package Python projects and take you through each step of the
 <!-- (Romain Thomas & Arfon Smith) -->
 
 Did you know that you can actually publish a paper about your software? This is an ideal way to get recognition (and
-citation) for the software you have spent countless hours creating. In this session we will walk you through an example
-of submission in the [Journal of open Source software](https://joss.theoj.org/). We will submit an example software to
+citation) for the software you have spent countless hours creating. In this course we will walk you through an example
+of submission in the [Journal of open Source software](https://joss.theoj.org/). We will make an example software submission to
 the journal, and thanks to the collaboration of the Editor in Chief of JOSS (Arfon Smith), we will look at how the
 review process is done.
 
@@ -211,6 +211,6 @@ group).
 
 <hr>
 
-[^1]: Wilkinson et al., ‘The FAIR Guiding Principles for Scientific Data Management and Stewardship’.
-[^2]: Barker et al., ‘Introducing the FAIR Principles for Research Software’.
-[^3]: Barker et al., ‘Introducing the FAIR Principles for Research Software’.
+[^1]: Wilkinson _et al_., ‘The FAIR Guiding Principles for Scientific Data Management and Stewardship’. [doi:10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18)
+[^2]: Barker _et al_., ‘Introducing the FAIR Principles for Research Software’. [doi:10.1038/s41597-022-01710-x](https://doi.org/10.1038/s41597-022-01710-x)
+[^3]: Chue Hong _et al_., ‘FAIR Principles for Research Software (FAIR4RS Principles)’. [doi:10.15497/RDA00068](https://doi.org/10.15497/RDA00068)
