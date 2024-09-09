@@ -20,7 +20,7 @@ the next one to take over in the most efficient way possible. In the age of digi
 sharing research can not be limited to publishing results on academic papers only. This is the role of the Open Science
 initiative.
 
-Open Science (or Open research) is a push that aims at making scientific research more transparent and accessible. The
+Open Science (or Open Research) is a paradigm shift that aims at making scientific research more transparent and accessible. The
 core idea is to share data, methods, software and results freely with the global community. There are multiple aspects
 to Open Science, going from Open access to publications to Open educational ressources, passing by Open data and
 methodologies. What we are interested in here is Open software.  Nowadays, software has become a pivotal aspect of
