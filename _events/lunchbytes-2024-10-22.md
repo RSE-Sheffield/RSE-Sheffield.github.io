@@ -35,7 +35,7 @@ organiser first at [romain.thomas@sheffield.ac.uk](mailto:romain.thomas@sheffiel
 
 ### Questions
 
-We'll use sli.do for questions, link will be circulated during the event.
+We'll use [sli.do](sli.do) for questions, link will be circulated during the event.
 
 ### Background Reading
 
