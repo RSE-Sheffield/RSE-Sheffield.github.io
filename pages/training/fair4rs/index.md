@@ -6,42 +6,7 @@ permalink: /training/fair4rs/
 ---
 
 
-## Open Science and the FAIR principles
-
-### Towards a more open research culture
-
-The French philosopher Blaise Pascal once said _'La succession de chercheurs est comparable a un seul homme qui apprend
-indefiniment'_, which can be translated to _'The succession of researchers is comparable to a single human learning
-indefinitely'_. This assumes that a given generation of researchers is able to build upon what the previous one has done
-without having to reinvent the wheel or restart from scratch, allowing them to push the limits further. Very much like a
-single human that would not forget what they have done before. But what if one generation of researcher stops sharing
-how they are doing their work? Research will stall. It is therefore the duty of each generation of researchers, to allow
-the next one to take over in the most efficient way possible. In the age of digital research and data-driven discovery,
-sharing research cannot be limited to publishing results in academic papers only. This is the role of the Open Science
-initiative.
-
-Open Science (or Open Research) is a paradigm shift that aims at making scientific research more transparent and accessible. The
-core idea is to share data, methods, software and results freely with the global community. There are multiple aspects
-to Open Science, going from Open access, to publications, to Open educational resources, passing by Open data and
-methodologies. What we are interested in here is Open software.  Nowadays, software has become a pivotal aspect of
-modern research. In the RSE team, we are ideally placed to witness how software is used in all research domains, from
-physical sciences, to psychology or humanities. Some of these software tools are used to collect data from medical
-patients, others are used to run complex simulations of merging galaxies. Software is an inherent part of modern research and
-allows researchers to push the boundaries of what was considered impossible a few years ago. Software often holds the key to the
-actual research that is being carried out. Nevertheless, it is not yet common to share this important aspect of the
-research process with others. This might be due to the fear of sharing something that you think is not in the best
-shape, technical barriers, time limitations or other concerns. That is why the RSE team, in collaboration with the Data Analytics Service
-(DAS) and the Library team, has created this FAIR<sup>2</sup> training programme. The aim is to provide the research
-community with the knowledge and tools they need to create better software and the confidence to share it with others.
-
-Finally, it is worth mentioning that the University of Sheffield is endorsing the Open Research initiative, as can be
-seen via the statement on [Open
-research](https://www.sheffield.ac.uk/openresearch/university-statement-open-research). Funders, such as
-[UKRI](https://www.ukri.org/what-we-do/supporting-healthy-research-and-innovation-culture/open-research/), are also
-supporters of this global initiative.
-
-
-### What are the FAIR principles for research software?
+## What are the FAIR principles for research software?
 
 The FAIR principles were originally developed as guidelines to enhance the reusability of research data. The FAIR
 principles apply the concepts of Findability, Accessibility, Interoperability and Reusability to scholarly data
