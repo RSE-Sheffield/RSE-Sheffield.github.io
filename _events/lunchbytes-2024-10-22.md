@@ -12,7 +12,7 @@ image:
 slides_url:
 ---
 
-As code and software become an ever bigger part of research (its likely that [around 1/3 of researchers write
+As code and software become an ever bigger part of research (it's likely that [around 1/3 of researchers write
 code](https://rse.shef.ac.uk/sssurvey/)), coding and other digital skills become ever more important to researchers. The
 FAIR for Research Software Principles adapted the _FAIR Guiding Principles for Scientific Data
 Management and Stewardship_  to Research Software and provide a framework for the development of code and
