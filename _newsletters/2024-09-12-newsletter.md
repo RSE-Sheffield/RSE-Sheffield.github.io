@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Month Year Newsletter
+title: September 2024 Newsletter
 editor: Neil Shephard
 slug: 2024-09-12-newsletter
 date: 2024-09-12T12:00:00Z+0100
@@ -11,7 +11,7 @@ description:
 type: text
 ---
 
-## The University of Sheffield Research Software Engineering Community Newsletter March 2024
+## The University of Sheffield Research Software Engineering Community Newsletter September 2024
 
 Welcome to the September 2024 newsletter for the research software community at The University of Sheffield, featuring
 news, opportunities, events and training for you.
@@ -92,9 +92,11 @@ list](https://groups.google.com/a/sheffield.ac.uk/g/rse-group) to hear about the
 
 There are two positions within the University of Sheffield currently being advertised.
 
-- [Data Technical Lead at University of Sheffield](https://www.jobs.ac.uk/job/DJM932/data-technical-lead)
+- [Data Technical Lead at University of Sheffield](https://www.jobs.ac.uk/job/DJM932/data-technical-lead) (Closes 26th
+  September 2024)
 - [Research Software Engineer in AI and Machine Learning at University of
-  Sheffield](https://www.jobs.ac.uk/job/DJL697/research-software-engineer-in-ai-and-machine-learning)
+  Sheffield](https://www.jobs.ac.uk/job/DJL697/research-software-engineer-in-ai-and-machine-learning) (Closes 25th
+  September 2024)
 
 Check for advertised RSE and RSE-adjacent roles at the [RSE society's vacancies
 board](https://society-rse.org/careers/vacancies/).
@@ -128,9 +130,7 @@ curate a session on a topic or present something, get in touch by emailing
 
 #### Code Clinics
 
-Why not come to a [Code
-Clinic](https://docs.google.com/forms/d/e/1FAIpQLScGXS55qjU0D0Zcz-KHOVcNTahcr3YC3H0OpoKBo3lWXWED5A/viewform)? We're keen
-to help you.
+Why not come to a [Code Clinic](https://rse.shef.ac.uk/support/code-clinic/)? We're keen to help you.
 
 Code Clinics are fortnightly supported sessions run by the RSE team and IT Services’ [Research
 IT](https://www.sheffield.ac.uk/it-services/research) team. They are open to anyone at TUoS writing code for research to
