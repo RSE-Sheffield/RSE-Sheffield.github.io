@@ -5,12 +5,23 @@ type: text
 permalink: /training/fair4rs/
 ---
 
+## Introduction and target audience
 
-## What are the FAIR principles for research software?
+This training offers a modular programme to support researchers in applying FAIR (Findable, Accessible, Interoperable,
+Reusable) principles and open research practices to their research software. The overview module provides an
+introduction to [FAIR for research software](#what-are-the-fair-principles-for-research-software) and gives an overview
+of the topics that are offered in more detail in [additional modules](#outline-of-the-programme), which can be selected
+according to an individual’s learning goals.
 
-The FAIR principles were originally developed as guidelines to enhance the reusability of research data. The FAIR
-principles apply the concepts of Findability, Accessibility, Interoperability and Reusability to scholarly data
-holdings, and were also intended to be applied to other digital research objects such as algorithms and workflows[^1].
+This programme is aimed at researchers, including PhDs and postgraduate research students, who create code (whether a few
+scripts or something more substantial) as part of their research and who want to make their research more open by
+applying the FAIR principles to their software.
+
+### What are the FAIR principles for research software?
+
+The FAIR principles were developed as guidelines to enhance the reusability of research data[^1]. The FAIR principles
+apply the concepts of Findability, Accessibility, Interoperability and Reusability to scholarly data holdings, and were
+also intended to be applied to other digital research objects such as algorithms and workflows.
 
 Over the past few years there has been growing recognition that research software, defined as _“source code files,
 algorithms, scripts, computational workflows and executables that were created during the research process or for a
@@ -19,42 +30,7 @@ reproducibility and open access. A modified set of FAIR principles for research 
 inherent differences between data and software, has been developed to provide a framework for the development of FAIR
 research software[^3].
 
-## FAIR<sup>2</sup> for research software
-
-### Introduction and target audience
-
-This training offers a modular programme to support researchers in applying FAIR principles and open research practices to
-their research software. The overview module provides an introduction to FAIR for research software and gives an
-overview of the topics that are offered in more detail in additional modules, which can be selected according to an
-individual’s learning goals.
-
-This programme is aimed at researchers, including PhDs and postgraduate research students, who create code (whether a few
-scripts or something more substantial) as part of their research and who want to make their research more open by
-applying the FAIR principles to their software.
-
-
-### Learning outcomes
-
-
-After completing this modular programme, participants should be able to:
-
-- Understand the FAIR principles and describe how they apply to research software
-- Explain how applying FAIR principles to research software can support open research goals such as transparency,
-  reproducibility and reusability
-- Identify actions that can be taken at different stages of the research lifecycle to enhance the FAIRness of their
-  research software outputs
-- Develop a plan addressing the intended scope, impact and lifespan of their research software
-- Describe different types of software licence and discuss their potential implications for reuse of research software,
-  including commercialisation
-- Apply best practices for scientific software development including design, version control, testing, continuous
-  integration and documentation
-- Associate their research software with a unique and persistent identifier and use metadata to enhance its findability,
-  accessibility and reusability
-- Identify repositories that provide long-term persistent storage for research software
-- Apply approaches such as packaging and containers to enhance the reusability and reproducibility of research software.
-
-
-### Outline of the programme
+## Outline of the programme
 
 <div class="alert alert-info"> <strong>Info!</strong> The definitive programme (with dates and registration links) will be
 online on Oct 1st.</div>
@@ -67,7 +43,7 @@ online on Oct 1st.</div>
 * [Software design](#software-design)
 * [Testing and Continuous Integration](#testing-and-continuous-integration)
 * [Documentation](#documentation)
-* [Reproducible computational environment](#reproducible-computational-environments)
+* [Reproducible computational environments](#reproducible-computational-environments)
 * [Packaging](#packaging)
 * [Publishing a software paper in JOSS](#publishing-a-software-paper-in-joss)
 
@@ -87,7 +63,6 @@ software sustainable in the long term. In this module we will introduce importan
 research: software lifecyle, management plan, licences and dissemination. This module should allow you to ask yourself
 the right questions when starting a research software project.
 
-
 #### Version control
 
 <!-- ##### Neil Shephard -->
@@ -106,7 +81,6 @@ improving your understanding of working with branches and how to make your commi
 to understand pull requests and Git history which in turn makes it easier to collaborate and work on code with others
 (including your future self!).
 
-
 #### Software design
 <!-- (Romain Thomas) -->
 
@@ -114,7 +88,6 @@ The way you write your code will have a massive impact on how easy it is to main
 how to create maintainable, readable and reusable code. Using examples and exercises, we will see that
 creating high quality code is actually quite straightforward when you understand how to do it and what tools are available
 to make your life easier.
-
 
 #### Testing & Continuous Integration 
 
@@ -162,14 +135,33 @@ review process is done.
 
 <!-- Summary session (Romain Thomas) -->
 
-### Prerequisites
+## Prerequisites
 
-Each session will have some individual prerequisities. Some experience with developing research software or scripts, for
-example in Python or R might be needed. Please refer to the complete programme to know what they are.
+Each session will have some individual prerequisites. Some experience with developing research software or scripts, for
+example in Python or R, might be needed. Please refer to the individual course details to know what they are.
+
+## Learning outcomes
+
+After completing this modular programme, participants should be able to:
+
+- Understand the FAIR principles and describe how they apply to research software
+- Explain how applying FAIR principles to research software can support open research goals such as transparency,
+  reproducibility and reusability
+- Identify actions that can be taken at different stages of the research lifecycle to enhance the FAIRness of their
+  research software outputs
+- Develop a plan addressing the intended scope, impact and lifespan of their research software
+- Describe different types of software licence and discuss their potential implications for reuse of research software,
+  including commercialisation
+- Apply best practices for scientific software development including design, version control, testing, continuous
+  integration and documentation
+- Associate their research software with a unique and persistent identifier and use metadata to enhance its findability,
+  accessibility and reusability
+- Identify repositories that provide long-term persistent storage for research software
+- Apply approaches such as packaging and containers to enhance the reusability and reproducibility of research software.
 
 <!-- {% include events_list_upcoming.html category="fair4rs" %} -->
 
-### Contact information
+## Contact information
 For enquiries, please contact Tamora James ([t.d.james@sheffield.ac.uk](mailto:t.d.james@sheffield.ac.uk), Programme
 manager), and/or Romain Thomas, ([romain.thomas@sheffield.ac.uk](mailto:romain.thomas@sheffield.ac.uk), Head of the RSE
 group).
