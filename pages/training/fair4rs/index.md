@@ -7,7 +7,7 @@ permalink: /training/fair4rs/
 
 ## Introduction and target audience
 
-This training offers a modular programme to support researchers in applying FAIR (Findable, Accessible, Interoperable,
+This training curriculum offers a modular programme to support researchers in applying FAIR (Findable, Accessible, Interoperable,
 Reusable) principles and open research practices to their research software. The overview module provides an
 introduction to [FAIR for research software](#what-are-the-fair-principles-for-research-software) and gives an overview
 of the topics that are offered in more detail in [additional modules](#outline-of-the-programme), which can be selected
@@ -15,7 +15,7 @@ according to an individual’s learning goals.
 
 This programme is aimed at researchers, including PhDs and postgraduate research students, who create code (whether a few
 scripts or something more substantial) as part of their research and who want to make their research more open by
-applying the FAIR principles to their software.
+applying the FAIR principles to their software or simply want to become more confident in the research code they are writing.
 
 ### What are the FAIR principles for research software?
 
