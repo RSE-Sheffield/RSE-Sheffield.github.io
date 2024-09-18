@@ -89,7 +89,7 @@ how to create maintainable, readable and reusable code. Using examples and exerc
 creating high quality code is actually quite straightforward when you understand how to do it and what tools are available
 to make your life easier.
 
-#### Testing & Continuous Integration 
+#### Testing and Continuous Integration
 
 <!-- (Sylvia Whittle) -->
 
