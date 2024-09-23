@@ -25,7 +25,7 @@ standard.
 
 ![Distribution of applications by faculty](/assets/images/2024-09-24-funded-proposals-faculty.png)
 
-In the end the RSE team was able to fund support for three proposals and team members [Robert Chisholm][rob] and [Neil
+In the end the RSE team was able to fund support for three proposals and team members [Dr Robert Chisholm][rob] and [Neil
 Shephard][neil] are about to start work on two of the projects with the third postponed, with agreement, until a new RSE
 who has been recruited starts later in the year.
 
@@ -54,11 +54,10 @@ allowed the investigation of the formation of granular fronts in free-surface fl
 particle-laden flow dynamics which have been successfully applied to key areas in environmental and geo-technical
 engineering.
 
-Work will be undertaken by [Robert Chisholm][rob] to re-write the build system in [CMake][cmake] which will make it
-possible to compile and run the code across multiple operating systems and free it from is current constraints of being
-developed using outdated software. Profiling and optimisation will then be undertaken to hopefully remove the current
-large memory requirements required when running simulations. The possibility of parallelising the modelling via GPU and
-Cuda will also be investigated.
+Work will be undertaken by [Dr Robert Chisholm][rob], a performance optimisation and GPU parallelisation specialist from
+our team, to modernise HYBIRD's build system, address the limiting factors of its performance and enable it to take
+advantage of GPU parallelisation. The broad objectives of this project are to reduce barriers to entry for new users and
+to increase the performance to enable faster and larger research experiments.
 
 ## Polychron
 
@@ -82,7 +81,6 @@ please don't hesitate to get in touch by emailing [rse@sheffield.ac.uk](mailto:r
 
 [alessandro]: https://www.sheffield.ac.uk/mac/people/civil-academic-staff/alessandro-leonardi
 [bryony]: https://www.sheffield.ac.uk/mps/people/all-academic-staff/bryony-moody
-[cmake]: https://cmake.org/
 [fair4rs]: https://rse.shef.ac.uk/training/fair4rs/
 [hybrid]: https://github.com/gnomeCreative/HYBIRD
 [ian]: https://www.sheffield.ac.uk/biosciences/academic-staff/people/ian-sudbery
