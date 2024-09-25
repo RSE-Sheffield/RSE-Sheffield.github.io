@@ -33,11 +33,12 @@ All work undertaken will be done with a view to adhering to the [FAIR for Resear
 
 ## SLAMSeq
 
-SLAMSeq is software developed within the [SubLab][sudlab] which is lead by [Dr Ian Subery's][ian] and performs sequence
-alignment of variably spliced RNA sequences to assess degradation rates. Despite wide adoption of the technique the
-current software is limited to only being run on a per-gene basis rather than per isoform basis and statistical
-comparison of differences in decay rates are limited. The [Sudlab][sudlab] have addressed this deficiency by developing
-an analysis pipeline with pre-processing performed in Python and statistical analysis undertaken in R.
+The [SubLab][sudlab], which is lead by [Dr Ian Subery][ian], have developed software to analyse the output of SLAMSeq
+experiments which performs sequence alignment of variably spliced RNA sequences to assess degradation rates. Despite
+wide adoption of the technique the current software is limited to only being run on a per-gene basis rather than per
+isoform basis and statistical comparison of differences in decay rates are limited. The [Sudlab][sudlab] have addressed
+this deficiency by developing an analysis pipeline with pre-processing performed in Python and statistical analysis
+undertaken in R.
 
 RSE support will be used to refactor the code into formal packages with a modular code structure and formal tests which
 facilitate long-term maintenance and make extension easier and will make it straight-forward for users to
