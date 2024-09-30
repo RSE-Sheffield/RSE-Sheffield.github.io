@@ -49,7 +49,7 @@ online on Oct 1st.</div>
 
 #### Better software for better research: Introduction to the FAIR training programme
 
-**22nd October 2024, LunchBytes talk, 12pm, online, [registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/60f213bd-340d-4035-8754-a15c9567d620)**
+**Tuesday 22nd October 2024, LunchBytes talk, 12pm, online, [registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/60f213bd-340d-4035-8754-a15c9567d620)**
 
 In this introductory session we will try to understand what the FAIR principles are and why they have emerged. We will
 then introduce some actions on how to apply them to software and present a global review of the training programme.
@@ -58,7 +58,7 @@ then introduce some actions on how to apply them to software and present a globa
 
 <!-- ##### Romain Thomas, Ric Campbell, Kate O'Neill -->
 
-**8th November 2024, Afternoon, 2pm, online, [registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/2d69f5c5-f9e7-46c2-999a-ffb3ed1db028)**
+**Friday 8th November 2024, Afternoon, 2pm, online, [registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/2d69f5c5-f9e7-46c2-999a-ffb3ed1db028)**
 
 When you start writing software it is often very useful to think about the development process and how you will make your
 software sustainable in the long term. In this module we will introduce important aspects of software development in
@@ -77,7 +77,7 @@ then we introduce some useful tools and get started with some basic workflow usi
 foundations with collaborative exercises that introduce key concepts such as forks, pull requests and branches and give
 you the chance to get some hands-on experience with using version control in a research setting.
 
-**18th/19th November 2024, In person, two half days, [registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/d4d09f67-097b-4451-8ddb-86cb90636c06)** (Another session will be given during second
+**Monday 18th & Tuesday 19th November 2024 (morning only), In person, [registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/d4d09f67-097b-4451-8ddb-86cb90636c06)** (Another session will be given during second
 semester)
 
 
@@ -91,7 +91,7 @@ to understand pull requests and Git history which in turn makes it easier to col
 #### Software design
 <!-- (Romain Thomas) -->
 
-**9th/10th December 2024, In person, two half days, [registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/d3c2cca5-d894-44b6-a79b-e93dea7a7c94)** 
+**Monday 9th & Tuesday 10th December 2024 (morning only), In person, [registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/d3c2cca5-d894-44b6-a79b-e93dea7a7c94)** 
 
 The way you write your code will have a massive impact on how easy it is to maintain. During this course we will learn
 how to create maintainable, readable and reusable code. Using examples and exercises, we will see that
