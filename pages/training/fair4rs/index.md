@@ -37,10 +37,10 @@ online on Oct 1st.</div>
 
 
 * [Better software for better research: Introduction to the FAIR training
-  programme](#better-software-for-better-research-introduction-to-the-fair-training-programme), 22nd October 2024
-* [Software lifecycle planning](#software-lifecycle-planning), 8th November 2024
-* [Version control](#version-control), 18th/19th November 2024
-* [Software design](#software-design), 9th/10th December 2024
+  programme](#better-software-for-better-research-introduction-to-the-fair-training-programme), Tuesday 22nd October 2024
+* [Software lifecycle planning](#software-lifecycle-planning), Friday 8th November 2024
+* [Version control](#version-control), Monday 18th & Tuesday 19th November 2024
+* [Software design](#software-design), Monday 9th & Tuesday 10th December 2024
 * [Testing and Continuous Integration](#testing-and-continuous-integration), 2nd Semester, date to be decided
 * [Documentation](#documentation), 2nd Semester, date to be decided
 * [Reproducible computational environments](#reproducible-computational-environments), 2nd Semester, date to be decided
