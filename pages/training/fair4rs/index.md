@@ -37,15 +37,15 @@ online on Oct 1st.</div>
 
 
 * [Better software for better research: Introduction to the FAIR training
-  programme](#better-software-for-better-research-introduction-to-the-fair-training-programme)
-* [Software lifecycle planning](#software-lifecycle-planning)
-* [Version control](#version-control)
-* [Software design](#software-design)
-* [Testing and Continuous Integration](#testing-and-continuous-integration)
-* [Documentation](#documentation)
-* [Reproducible computational environments](#reproducible-computational-environments)
-* [Packaging](#packaging)
-* [Publishing a software paper in JOSS](#publishing-a-software-paper-in-joss)
+  programme](#better-software-for-better-research-introduction-to-the-fair-training-programme), 22nd October 2024
+* [Software lifecycle planning](#software-lifecycle-planning), 8th November 2024
+* [Version control](#version-control), 18th/19th November 2024
+* [Software design](#software-design), 9th/10th December 2024
+* [Testing and Continuous Integration](#testing-and-continuous-integration), 2nd Semester, date to be decided
+* [Documentation](#documentation), 2nd Semester, date to be decided
+* [Reproducible computational environments](#reproducible-computational-environments), 2nd Semester, date to be decided
+* [Packaging](#packaging), 2nd Semester, date to be decided
+* [Publishing a software paper in JOSS](#publishing-a-software-paper-in-joss), 2nd Semester, date to be decided
 
 #### Better software for better research: Introduction to the FAIR training programme
 
