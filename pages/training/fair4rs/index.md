@@ -37,19 +37,19 @@ online on Oct 1st.</div>
 
 
 * [Better software for better research: Introduction to the FAIR training
-  programme](#better-software-for-better-research-introduction-to-the-fair-training-programme)
-* [Software lifecycle planning](#software-lifecycle-planning)
-* [Version control](#version-control)
-* [Software design](#software-design)
-* [Testing and Continuous Integration](#testing-and-continuous-integration)
-* [Documentation](#documentation)
-* [Reproducible computational environments](#reproducible-computational-environments)
-* [Packaging](#packaging)
-* [Publishing a software paper in JOSS](#publishing-a-software-paper-in-joss)
+  programme](#better-software-for-better-research-introduction-to-the-fair-training-programme), Tuesday 22nd October 2024
+* [Software lifecycle planning](#software-lifecycle-planning), Friday 8th November 2024
+* [Version control](#version-control), Monday 18th & Tuesday 19th November 2024
+* [Software design](#software-design), Monday 9th & Tuesday 10th December 2024
+* [Testing and Continuous Integration](#testing-and-continuous-integration), 2nd Semester, date to be decided
+* [Documentation](#documentation), 2nd Semester, date to be decided
+* [Reproducible computational environments](#reproducible-computational-environments), 2nd Semester, date to be decided
+* [Packaging](#packaging), 2nd Semester, date to be decided
+* [Publishing a software paper in JOSS](#publishing-a-software-paper-in-joss), 2nd Semester, date to be decided
 
 #### Better software for better research: Introduction to the FAIR training programme
 
-**22nd October 2024, LunchBytes talk, 12pm, online**
+**Tuesday 22nd October 2024, LunchBytes talk, 12pm, online, [registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/60f213bd-340d-4035-8754-a15c9567d620)**
 
 In this introductory session we will try to understand what the FAIR principles are and why they have emerged. We will
 then introduce some actions on how to apply them to software and present a global review of the training programme.
@@ -57,6 +57,8 @@ then introduce some actions on how to apply them to software and present a globa
 #### Software lifecycle planning
 
 <!-- ##### Romain Thomas, Ric Campbell, Kate O'Neill -->
+
+**Friday 8th November 2024, Afternoon, 2pm, online, [registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/2d69f5c5-f9e7-46c2-999a-ffb3ed1db028)**
 
 When you start writing software it is often very useful to think about the development process and how you will make your
 software sustainable in the long term. In this module we will introduce important aspects of software development in
@@ -75,14 +77,21 @@ then we introduce some useful tools and get started with some basic workflow usi
 foundations with collaborative exercises that introduce key concepts such as forks, pull requests and branches and give
 you the chance to get some hands-on experience with using version control in a research setting.
 
+**Monday 18th & Tuesday 19th November 2024 (morning only), In person, [registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/d4d09f67-097b-4451-8ddb-86cb90636c06)** (Another session will be given during second
+semester)
+
+
+
 **Git collaboration**: This course aims to help you develop a deeper understanding of how Git works to facilitate
 collaboration. It builds on the foundations laid by the Git beginners course. The core idea around the course is that by
 improving your understanding of working with branches and how to make your commits tidier and neater it makes it easier
 to understand pull requests and Git history which in turn makes it easier to collaborate and work on code with others
-(including your future self!).
+(including your future self!). **Date to be decided, it will be during second semester** 
 
 #### Software design
 <!-- (Romain Thomas) -->
+
+**Monday 9th & Tuesday 10th December 2024 (morning only), In person, [registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/d3c2cca5-d894-44b6-a79b-e93dea7a7c94)** 
 
 The way you write your code will have a massive impact on how easy it is to maintain. During this course we will learn
 how to create maintainable, readable and reusable code. Using examples and exercises, we will see that
@@ -97,7 +106,8 @@ This course aims to equip researchers with the skills to write effective tests a
 their research software. No prior testing experience is required! We'll guide you through the fundamentals of software
 testing using Python's Pytest framework, a powerful and beginner-friendly tool. You'll also learn how to integrate
 automated testing into your development workflow using continuous integration (CI). CI streamlines your process by
-automatically running tests with every code change, catching bugs early and saving you time.
+automatically running tests with every code change, catching bugs early and saving you time. **Date to be decided, it 
+will be during second semester** 
 
 
 #### Documentation
@@ -106,7 +116,8 @@ automatically running tests with every code change, catching bugs early and savi
 
 Well-documented software promotes reproducibility, maintainability, and increased research impact through wider adoption
 and citation. This course teaches researchers how to document their software effectively, making it accessible and
-understandable to others. It covers topics such as writing readable code and usage instructions.
+understandable to others. It covers topics such as writing readable code and usage instructions. **Date to be decided,
+ it will be during second semester** 
 
 #### Reproducible computational environments
 <!-- (Daniel Brady) -->
@@ -114,14 +125,15 @@ understandable to others. It covers topics such as writing readable code and usa
 Ensuring that others are able to take your code, run it, and are able to produce the same (or equivalent) results is one
 of the key tenets of FAIR and reproducible research software. This course will provide you with an overview of different
 ways to make your code reproducible and then focus on virtual environments as a specific tool for computational
-reproducibility.
+reproducibility. **Date to be decided, it will be during second semester** 
 
 #### Packaging 
 <!--(Farhad Allian & Christopher Wild)-->
 
 Packaging your software is one of the important steps in a software project to make it both findable and
 accessible. This course will provide you with an understanding of why and when packaging is useful, what different
-standards exist to package Python projects and take you through each step of the packaging process.
+standards exist to package Python projects and take you through each step of the packaging process. **Date to be decided, 
+it will be during second semester** 
 
 #### Publishing a software paper in JOSS
 
@@ -131,7 +143,7 @@ Did you know that you can actually publish a paper about your software? This is 
 citation) for the software you have spent countless hours creating. In this course we will walk you through an example
 of submission in the [Journal of open Source software](https://joss.theoj.org/). We will make an example software submission to
 the journal, and thanks to the collaboration of the Editor in Chief of JOSS (Arfon Smith), we will look at how the
-review process is done.
+review process is done. **Date to be decided, it will be during second semester** 
 
 <!-- Summary session (Romain Thomas) -->
 
