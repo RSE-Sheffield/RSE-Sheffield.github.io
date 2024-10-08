@@ -5,23 +5,19 @@ published: true
 
 othernames: Robert
 surname: Chisholm
-role: Research Software Engineer/Research Associate in Large Scale Simulation
+role: Research Software Engineer
 
 ---
 
 Robert is a Research Software Engineer that previously completed his PhD at the University of Sheffield.
-He specialises in GPU accelerated computing and complex system simulations, following his PhD's focus on improving the performance of spatial communication in GPU accelerated algorithms.
+He specialises in performance optimisation and GPU parallelisation, following his PhD's focus on improving the performance of spatial communication in GPU accelerated algorithms.
 
-He is a developer of the [FLAMEGPU](http://www.flamegpu.com/) software framework, facilitating wider access to complex systems modelling on GPUs.
+As a developer of the [FLAMEGPU](http://www.flamegpu.com/) software framework, which facilitates wider access to complex systems modelling on GPUs, he has supported projects ranging from EU funded biological modelling to industrially funded transport modelling.
 
-Previously he worked on the [PRIMAGE project](https://www.primageproject.eu/),
-which proposed an open cloud-based platform to support decision making in the clinical management of two paediatric cancers. 
-In particular, working towards the development of a cell scale model of neuroblastoma to be scaled across multiple GPUs and distributed HPC resources.
+Since the 2022/2023 academic year he has been the module leader for [COM4521/COM6521](https://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level4/com4521.html) that covers parallel programming with OpenMP and CUDA. He also reguarly supervises a small number of undergraduate projects within the school of computer science.
 
-Currently he is working with [Fujitsu Research Europe](https://www.fujitsu.com/uk/about/local/corporate/subsidiaries/fle/) developing a GPU accelerated transport model.
+He is also a strong advocate for making software performance best practices accessible to programmers at all skill-levels. First he developed the [Profling & Optimisation for Python short-course](/pando-python) which is [reguarly delivered to researchers at Sheffield](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/fe34df6f-ab5f-49cf-b794-88aba03b3803). More recently he has founded the ["Reasonable Performance Computing" Special Interest Group](https://sig-rpc.github.io/), with support from the [Society of Research Software Engineers](https://society-rse.org/), to more broadly gather and disseminate performance best practices at a national level.
 
-Since the 2022/2023 academic year he has been the module leader for [COM4521/COM6521](/training/com4521) that covers parallel programming with OpenMP and CUDA.
-
-* Email: r.chisholm (at) sheffield.ac.uk
+* Email: robert.chisholm (at) sheffield.ac.uk
 * Twitter: [@robadob](https://twitter.com/robadob)
 * Github: [@robadob](https://github.com/Robadob)
