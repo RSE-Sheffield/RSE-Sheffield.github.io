@@ -36,6 +36,7 @@ news, opportunities, events and training for you.
 #### Upcoming External Events
 
 - [pyOpenSci Fall Festival 2024](https://www.eventbrite.com/e/pyopensci-fall-festival-2024-registration-1000762657047) (Oct 29th - Nov 1st) - A week of events to empower scientists to write better code and share their outcomes openly.
+- [DiRAC GPU Hackathon, Durham University](https://dirac.ac.uk/training_events/dirac-nvidia-hackathon-2024/) (Nov 26-28th), application deadline 12pm October 16th. 
 - [UK Technology Specialists Network Conference](https://itss.org.uk/uk-technology-specialists-network-conference-2025/) April 29-30th 2025
 - [Cambridge RSE Seminar series](https://rse.group.cam.ac.uk/seminars) Thursday's 1pm (currently scheduled till Dec 5th)
     - [Open source research software project life cycles: understanding project maturity successes, and challenge events](https://talks.cam.ac.uk/talk/index/219982) (Thurs Oct 17th 1pm)
