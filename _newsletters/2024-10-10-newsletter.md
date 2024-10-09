@@ -53,7 +53,7 @@ news, opportunities, events and training for you.
 
 - [2024] [Research Software Engineering: Bridging Knowledge Gaps](https://drops.dagstuhl.de/entities/document/10.4230/DagRep.14.4.42)
 - [2024] [Understanding and effectively mitigating code review anxiety](https://link.springer.com/article/10.1007/s10664-024-10550-9)
-- [2024] [A Vision on Open Science for the Evolution of Software Engineering Research and Practice](https://arxiv.org/abs/2405.12132)
+- [2024] **Pre-print** [A Vision on Open Science for the Evolution of Software Engineering Research and Practice](https://arxiv.org/abs/2405.12132)
 - [2024] [Just Enough Software Engineering for Domain Scientists in Research Software Development](https://ieeexplore.ieee.org/document/10603285)
 - [2023] [The replication crisis has led to positive structural, procedural, and community changes](https://www.nature.com/articles/s44271-023-00003-2)
 
