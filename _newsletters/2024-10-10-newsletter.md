@@ -119,7 +119,7 @@ You can join the google group
 [here](https://groups.google.com/u/1/a/sheffield.ac.uk/g/digital-research-practice-support-community-group/about) to
 stay informed.
 
-The next meeting is scheduled for 2pm on Wednesday 18th September 2024.
+The next meeting is scheduled for 2pm on Wednesday 6th November 2024.
 
 #### LunchBytes
 
