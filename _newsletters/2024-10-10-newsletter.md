@@ -104,7 +104,6 @@ Where multiple dates are listed, you will need to attend all dates. You can also
 
 There are two positions within the University of Sheffield currently being advertised.
 
-- 
 
 Check for advertised RSE and RSE-adjacent roles at the [RSE society's vacancies
 board](https://society-rse.org/careers/vacancies/).
