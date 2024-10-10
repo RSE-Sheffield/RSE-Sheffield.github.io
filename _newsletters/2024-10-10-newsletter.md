@@ -53,7 +53,7 @@ news, opportunities, events and training for you.
 
 #### Papers
 
-- [2024] [Research Software Engineering: Bridging Knowledge Gaps](https://drops.dagstuhl.de/entities/document/10.4230/DagRep.14.4.42)
+- [2024] **Seminar Report** [Research Software Engineering: Bridging Knowledge Gaps](https://drops.dagstuhl.de/entities/document/10.4230/DagRep.14.4.42)
 - [2024] [Understanding and effectively mitigating code review anxiety](https://link.springer.com/article/10.1007/s10664-024-10550-9)
 - [2024] **Pre-print** [A Vision on Open Science for the Evolution of Software Engineering Research and Practice](https://arxiv.org/abs/2405.12132)
 - [2024] [Just Enough Software Engineering for Domain Scientists in Research Software Development](https://ieeexplore.ieee.org/document/10603285)
@@ -101,10 +101,8 @@ Where multiple dates are listed, you will need to attend all dates. You can also
     - Creating EOSC compliant interoperability policies based on the EOSC Interoperability Framework (IF)
     - Testing the trustworthy and FAIR-enabling repositories prototype
     - Implementation of a shared API for semantic catalogues
+
 #### Jobs
-
-There are two positions within the University of Sheffield currently being advertised.
-
 
 Check for advertised RSE and RSE-adjacent roles at the [RSE society's vacancies
 board](https://society-rse.org/careers/vacancies/).
