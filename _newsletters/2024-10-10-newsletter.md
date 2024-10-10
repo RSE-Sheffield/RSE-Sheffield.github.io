@@ -126,11 +126,9 @@ The next meeting is scheduled for 2pm on Wednesday 6th November 2024.
 software, data, and infrastructure.
 
 Due to capacity within the RSE team, there was very limited LunchBytes content over the past academic year.
-This should be changing soon, a new co-ordinator for LunchBytes has been found, with a plan to reboot these lunchtime
- seminars in the spring semester.
+This should be changing soon, a new co-ordinator for LunchBytes has been found (Research IT's Farhad Allian), with a plan to reboot these lunchtime seminars in the spring semester.
  
-More information will be coming out over the coming months, so keep your eyes peeled if you'd like to learn more about
-research software and associate practices, or share what you know!
+More information will be coming out over the coming months, so keep your eyes peeled if you'd like to learn more about research software and associated practices, or share what you know!
 
 ### Support
 
