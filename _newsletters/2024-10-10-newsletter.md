@@ -35,7 +35,7 @@ news, opportunities, events and training for you.
 
 #### Upcoming External Events
 
-- Until Nov 10th - [MATLAB Shorts Mini Hack](https://uk.mathworks.com/matlabcentral/contests/2024-matlab-mini-hack.html): Use upto 2,000 characters ofr MATLAB code to generated a MATLAB movie and win prizes.
+- Until Nov 10th - [MATLAB Shorts Mini Hack](https://uk.mathworks.com/matlabcentral/contests/2024-matlab-mini-hack.html): Use upto 2,000 characters of MATLAB code to generate a MATLAB movie and win prizes.
 - Thursday's 1pm - [Cambridge RSE Seminar series](https://rse.group.cam.ac.uk/seminars) (currently scheduled till Dec 5th)
     - Thurs Oct 17th 1pm - [Open source research software project life cycles: understanding project maturity successes, and challenge events](https://talks.cam.ac.uk/talk/index/219982)
 - Oct 29th - Nov 1st - [pyOpenSci Fall Festival 2024](https://www.eventbrite.com/e/pyopensci-fall-festival-2024-registration-1000762657047): A week of events to empower scientists to write better code and share their outcomes openly.
