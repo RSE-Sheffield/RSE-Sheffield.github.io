@@ -126,12 +126,12 @@ The next meeting is scheduled for 2pm on Wednesday 6th November 2024.
 [LunchBytes](https://rse.shef.ac.uk/community/lunch-bytes/) are short talks from the research community on research
 software, data, and infrastructure.
 
-##### LunchBytes needs YOU
-
-LunchBytes are organised by and for the research software community at The University of Sheffield. If you'd like to
-curate a session on a topic or present something, get in touch by emailing
-[lunchbytes-organisers-group@sheffield.ac.uk](mailto:lunchbytes-organisers-group@sheffield.ac.uk) or suggest topics
-[on the jamboard](https://jamboard.google.com/d/1-51cRf0pwZl8O10CnLeJGAqKcnbww-QGaYjszFK-H38/).
+Due to capacity within the RSE team, there was very limited LunchBytes content over the past academic year.
+This should be changing soon, a new co-ordinator for LunchBytes has been found, with a plan to reboot these lunchtime
+ seminars in the spring semester.
+ 
+More information will be coming out over the coming months, so keep your eyes peeled if you'd like to learn more about
+research software and associate practices, or share what you know!
 
 ### Support
 
