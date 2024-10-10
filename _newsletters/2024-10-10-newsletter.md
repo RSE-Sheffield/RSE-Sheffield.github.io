@@ -26,8 +26,8 @@ news, opportunities, events and training for you.
 
 #### Upcoming Local Events
 
-- SheffieldR User Group is hosting hybrid weekly [hackathons throughout October on Fridays](https://sheffieldr.github.io/posts/2024-10/) for those participating in HacktoberFest 2024.
-- [CMI Town Hall](https://www.sheffield.ac.uk/machine-intelligence/events/shefai-community-meeting-8) (Weds 16th Oct) Eighth CMI community and networking event.
+- Fridays during October - SheffieldR User Group is hosting hybrid [weekly hackathons](https://sheffieldr.github.io/posts/2024-10/) for those participating in HacktoberFest 2024.
+- Weds 16th Oct - [CMI Town Hall](https://www.sheffield.ac.uk/machine-intelligence/events/shefai-community-meeting-8) Eighth CMI community and networking event.
 - Open Access Week: Oct 21st-25th is International Open Access Week, and the university library is hosting a [programme of events](https://www.sheffield.ac.uk/library/open-access/open-access-week-2024) to explore the value and possibilities of open access scholarship.
     - Tues Oct 22nd 1-1.30pm - White Rose University Press - A bitesize introduction. [Book your place here](https://www.eventbrite.co.uk/e/white-rose-university-press-a-bitesize-introduction-tickets-1029731543767)
 - Open Research Conversation's [Autumn-Winter Schedule](https://www.sheffield.ac.uk/openresearch/events/open-research-conversations) has now been announced with 5 Wednesday lunchtime events from October through February.
@@ -35,11 +35,12 @@ news, opportunities, events and training for you.
 
 #### Upcoming External Events
 
-- [pyOpenSci Fall Festival 2024](https://www.eventbrite.com/e/pyopensci-fall-festival-2024-registration-1000762657047) (Oct 29th - Nov 1st) - A week of events to empower scientists to write better code and share their outcomes openly.
-- [DiRAC GPU Hackathon, Durham University](https://dirac.ac.uk/training_events/dirac-nvidia-hackathon-2024/) (Nov 26-28th), application deadline 12pm October 16th. 
-- [UK Technology Specialists Network Conference](https://itss.org.uk/uk-technology-specialists-network-conference-2025/) April 29-30th 2025
-- [Cambridge RSE Seminar series](https://rse.group.cam.ac.uk/seminars) Thursday's 1pm (currently scheduled till Dec 5th)
-    - [Open source research software project life cycles: understanding project maturity successes, and challenge events](https://talks.cam.ac.uk/talk/index/219982) (Thurs Oct 17th 1pm)
+- Until Nov 10th - [MATLAB Shorts Mini Hack](https://uk.mathworks.com/matlabcentral/contests/2024-matlab-mini-hack.html): Use upto 2,000 characters ofr MATLAB code to generated a MATLAB movie and win prizes.
+- Thursday's 1pm - [Cambridge RSE Seminar series](https://rse.group.cam.ac.uk/seminars) (currently scheduled till Dec 5th)
+    - Thurs Oct 17th 1pm - [Open source research software project life cycles: understanding project maturity successes, and challenge events](https://talks.cam.ac.uk/talk/index/219982)
+- Oct 29th - Nov 1st - [pyOpenSci Fall Festival 2024](https://www.eventbrite.com/e/pyopensci-fall-festival-2024-registration-1000762657047): A week of events to empower scientists to write better code and share their outcomes openly.
+- Nov 26-28th - [DiRAC GPU Hackathon, Durham University](https://dirac.ac.uk/training_events/dirac-nvidia-hackathon-2024/): **application deadline 12pm October 16th.**
+- April 29-30th 2025 - [UK Technology Specialists Network Conference](https://itss.org.uk/uk-technology-specialists-network-conference-2025/) 
 
 
 ### Articles, Blogs, Papers & Podcasts
@@ -77,10 +78,10 @@ will be given in a [LunchBytes session 2024-10-22](../events/lunchbytes-2024-10-
 The Sheffield Bioinformatics Core is pleased to announce a schedule of courses for the new academic year. These courses provide an introduction to the R programming language, Unix environment (required for the use of the University's High Performance Computing facilities) and also specific applications in RNA-sequencing.
 You can now sign-up for these courses using myDevelopment (search for "bioinformatics"). Course charges still apply, and upon sign-up we will contact you for a valid grant code or cost centre. In-person attendance is encouraged, but online options are also available.
 
-- Data Manipulation and Visualization - October 28th, 30th and November 1st 13:00 - 16:00 - (£72 for students and £80 for staff)
-- Introduction to RNA-seq analysis - November 12th 13:00 - 16:00 (£32 for students and £40 for staff)
-Introduction to the Command-Line for Bioinformatics - November 27th 13:00 - 16:00 (£32 for students and £80 for staff)
-- Introduction to RNA-seq analysis in R - December 1st, 3rd and 5th 13:00 - 16:00 (£72 for students and £80 for staff)
+- Oct 28th, 30th, Nov 1st 1-4pm - Data Manipulation and Visualization (£72 for students and £80 for staff)
+- Tues Nov 12th 1-4pm - Introduction to RNA-seq analysis (£32 for students and £40 for staff)
+- Weds Nov 27th 1-4pm - Introduction to the Command-Line for Bioinformatics (£32 for students and £80 for staff)
+- Dec 1st, 3rd, 5th 1-4pm - Introduction to RNA-seq analysis in R (£72 for students and £80 for staff)
 
 Where multiple dates are listed, you will need to attend all dates. You can also find more information on these course on their website (https://sbc.shef.ac.uk)
 
@@ -89,7 +90,7 @@ Where multiple dates are listed, you will need to attend all dates. You can also
 - [SSI Software Practices in the Social Sciences programme](https://www.software.ac.uk/blog/ssi-announces-research-software-practices-social-sciences-programme) - A new programme of 1-hour workshops covering topics such as Relational Databases, Reproducible Analysis and Data Cleanup for Social Scientists.
 - [UK Data Service](https://ukdataservice.ac.uk/) provide access to a wide range of reusable social sciene data, and training to enable researchers to make the most of it.
     - Mon Oct 14th 10am - [Introduction to synthetic data for longitudinal data managers](https://ukdataservice.ac.uk/events/introduction-to-synthetic-data-for-longitudinal-data-managers/)
-    - Mon 10th 10am - [Safe Researcher Training](https://ukdataservice.ac.uk/events/safe-researcher-training-67/)
+    - Mon Oct 14th 10am - [Safe Researcher Training](https://ukdataservice.ac.uk/events/safe-researcher-training-67/)
     - [and more...](https://ukdataservice.ac.uk/training-events/)
     - with recordings of past trainings available on their [YouTube](https://www.youtube.com/ukdataservice)
 
