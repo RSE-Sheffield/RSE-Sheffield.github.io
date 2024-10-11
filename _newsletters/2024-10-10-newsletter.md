@@ -13,8 +13,7 @@ type: text
 
 ## The University of Sheffield Research Software Engineering Community Newsletter October 2024
 
-Welcome to the October 2024 newsletter for the research software community at The University of Sheffield, featuring
-news, opportunities, events and training for you.
+Welcome to the October 2024 newsletter for the research software community at The University of Sheffield, featuring news, opportunities, events and training for you.
 
 ### News
 
@@ -49,6 +48,7 @@ news, opportunities, events and training for you.
 
 - [Dual licensing R packages with code and data](https://epiverse-trace.github.io/posts/data-licensing.html)
 - [Technical Properties of Sustainable Software](https://bssw.io/blog_posts/technical-properties-of-sustainable-software)
+- [Where’s the Money? Options for Commercializing Technology, Part 1: Open Source Software](https://www.morganlewis.com/blogs/sourcingatmorganlewis/2023/05/wheres-the-money-options-for-commercializing-technology-part-1-open-source-software)
 
 
 #### Papers
@@ -88,7 +88,7 @@ Where multiple dates are listed, you will need to attend all dates. You can also
 #### Outside Sheffield
 
 - [SSI Software Practices in the Social Sciences programme](https://www.software.ac.uk/blog/ssi-announces-research-software-practices-social-sciences-programme) - A new programme of 1-hour workshops covering topics such as Relational Databases, Reproducible Analysis and Data Cleanup for Social Scientists.
-- [UK Data Service](https://ukdataservice.ac.uk/) provide access to a wide range of reusable social sciene data, and training to enable researchers to make the most of it.
+- [UK Data Service](https://ukdataservice.ac.uk/) provide access to a wide range of reusable social science data, and training to enable researchers to make the most of it.
     - Mon Oct 14th 10am - [Introduction to synthetic data for longitudinal data managers](https://ukdataservice.ac.uk/events/introduction-to-synthetic-data-for-longitudinal-data-managers/)
     - Mon Oct 14th 10am - [Safe Researcher Training](https://ukdataservice.ac.uk/events/safe-researcher-training-67/)
     - [and more...](https://ukdataservice.ac.uk/training-events/)
@@ -126,7 +126,7 @@ The next meeting is scheduled for 2pm on Wednesday 6th November 2024.
 software, data, and infrastructure.
 
 Due to capacity within the RSE team, there was very limited LunchBytes content over the past academic year.
-This should be changing soon, a new co-ordinator for LunchBytes has been found (Research IT's Farhad Allian), with a plan to reboot these lunchtime seminars in the spring semester.
+This should be changing soon, a new coordinator for LunchBytes has been found (Research IT's Farhad Allian), with a plan to reboot these lunchtime seminars in the spring semester.
  
 More information will be coming out over the coming months, so keep your eyes peeled if you'd like to learn more about research software and associated practices, or share what you know!
 
