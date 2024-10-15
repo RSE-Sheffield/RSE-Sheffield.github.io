@@ -32,10 +32,6 @@ research software[^3].
 
 ## Outline of the programme
 
-<div class="alert alert-info"> <strong>Info!</strong> The definitive programme (with dates and registration links) will be
-online on Oct 1st.</div>
-
-
 * [Better software for better research: Introduction to the FAIR training
   programme](#better-software-for-better-research-introduction-to-the-fair-training-programme), Tuesday 22nd October 2024
 * [Software lifecycle planning](#software-lifecycle-planning), Friday 8th November 2024
