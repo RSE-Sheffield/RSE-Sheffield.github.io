@@ -45,10 +45,12 @@ research software[^3].
 
 #### Better software for better research: Introduction to the FAIR training programme
 
-**Tuesday 22nd October 2024, LunchBytes talk, 12pm, online, [registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/60f213bd-340d-4035-8754-a15c9567d620)**
+**Tuesday 22nd October 2024, LunchBytes talk, 12pm, online,**
 
 In this introductory session we will try to understand what the FAIR principles are and why they have emerged. We will
 then introduce some actions on how to apply them to software and present a global review of the training programme.
+
+Material: [Recording](https://orda.shef.ac.uk/articles/media/Better_software_for_Better_research_Introduction_to_the_FAIR2_for_Research_Software_training_programme/27283239?file=49937889) and [slides](https://fair2-for-research-software.github.io/Better_software_for_better_research/#/title-slide)
 
 #### Software lifecycle planning
 
