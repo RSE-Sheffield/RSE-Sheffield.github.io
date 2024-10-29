@@ -19,3 +19,4 @@ Edwin has practical experience in the designing, training and evaluation of ML m
 * Email: w.e.brown (at) sheffield.ac.uk
 * Github: [@EdwinB12](https://github.com/EdwinB12)
 * [LinkedIn](https://www.linkedin.com/in/edwin-brown-214471108/)
+* [Orchid](https://orcid.org/0009-0004-1124-469X)
