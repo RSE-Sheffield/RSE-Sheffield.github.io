@@ -21,3 +21,4 @@ He is also a strong advocate for making software performance best practices acce
 * Email: robert.chisholm (at) sheffield.ac.uk
 * Twitter: [@robadob](https://twitter.com/robadob)
 * Github: [@robadob](https://github.com/Robadob)
+* ORCID: [0000-0003-3379-9042](https://orcid.org/0000-0003-3379-9042)
