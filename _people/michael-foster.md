@@ -19,6 +19,7 @@ He is experienced in Python, and has worked with data science libraries such as 
 He also has experience in functional programming, formal methods, code optimisation, and parallelisation.
 
 * Email: m.foster (at) sheffield.ac.uk
-* Github: [@jmafoster1](https://github.com/jmafoster1)
+* GitHub: [@jmafoster1](https://github.com/jmafoster1)
+* ORCID [0000-0001-8233-9873](https://orcid.org/0000-0001-8233-9873)
 * [Google Scholar](https://scholar.google.com/citations?user=4fTJseoAAAAJ)
 * [Personal Webpage](https://jmafoster1.github.io)
