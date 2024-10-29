@@ -41,6 +41,7 @@ Contact:
 
 * Email: n.shephard (at) sheffield.ac.uk
 * GitHub: [@ns-rse](https://github.com/ns-rse/)
+* ORCID: [0000-0001-8301-6857](https://orcid.org/0000-0001-8301-6857)
 * Blog: [blog.nshephard.dev](https://blog.nshephard.dev/)
 * Web: [nshephard.dev](https://wiki.nshephard.dev/)
 * Mastodon: [@nshephard@fosstodon.org](https://fosstodon.org/@nshephard)
