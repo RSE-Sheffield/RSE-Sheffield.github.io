@@ -16,7 +16,7 @@ type: text
 Welcome to the November 2024 newsletter for the research software community at The University of Sheffield, featuring news, opportunities, events and training for you.
 
 ### RSE FAIR<sup>2</sup> 4RS Training Programme Launch!
-This training curriculum offers a modular programme to support researchers in applying FAIR (Findable, Accessible, Interoperable, Reusable) principles and open research practices to their research software. The programme is aimed at researchers, including PhDs and postgraduate research students, who create code (whether a few scripts or something more substantial) as part of their research and who want to make their research more open by applying the FAIR principles to their software or simply want to become more confident in the research code they are writing.
+This training curriculum offers a modular programme to support researchers in applying FAIR (Findable, Accessible, Interoperable, Reusable) principles and open research practices to their [research software](https://zenodo.org/records/6623556). The programme is aimed at researchers, including PhDs and postgraduate research students, who create code (whether a few scripts or something more substantial) as part of their research and who want to make their research more open by applying the FAIR principles to their software or simply want to become more confident in the research code they are writing.
 
 The programme will be running over the next few months, check out for [more information](https://rse.shef.ac.uk/training/fair4rs/) or to [sign up](https://rse.shef.ac.uk/training/fair4rs/) for sessions!
 
