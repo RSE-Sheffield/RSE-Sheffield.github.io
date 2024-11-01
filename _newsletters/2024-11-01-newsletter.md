@@ -15,49 +15,69 @@ type: text
 
 Welcome to the November 2024 newsletter for the research software community at The University of Sheffield, featuring news, opportunities, events and training for you.
 
+### RSE FAIR<sup>2</sup> 4RS Training Programme Launch!
+This training curriculum offers a modular programme to support researchers in applying FAIR (Findable, Accessible, Interoperable, Reusable) principles and open research practices to their research software. The programme is aimed at researchers, including PhDs and postgraduate research students, who create code (whether a few scripts or something more substantial) as part of their research and who want to make their research more open by applying the FAIR principles to their software or simply want to become more confident in the research code they are writing.
+
+The programme will be running over the next few months, check out for [more information](https://rse.shef.ac.uk/training/fair4rs/) or to [sign up](https://rse.shef.ac.uk/training/fair4rs/) for sessions!
+
+In the first session which took place in October, our Head of Research Software Engineering, Romain Thomas, delivered a talk titled "Better software for Better research: Introduction to the FAIR2 for Research Software training programme". In this introductory talk we present what the FAIR principles are and why they are crucial to make your research more open. We give some initial hints on how to apply them to software and present the FAIR training programme that our teams have designed for the UoS research community.
+
+The [recording](https://orda.shef.ac.uk/articles/media/Better_software_for_Better_research_Introduction_to_the_FAIR2_for_Research_Software_training_programme/27283239?file=49937889) of the talk and the [slides](https://fair2-for-research-software.github.io/Better_software_for_better_research/#/title-slide) are both available.
+
+
 ### News
+
+- [Open consultation Invest 2035: the UK's modern industrial strategy](https://www.gov.uk/government/consultations/invest-2035-the-uks-modern-industrial-strategy/invest-2035-the-uks-modern-industrial-strategy): The new modern industrial strategy – Invest 2035 – is the UK government’s credible, 10-year plan to deliver the certainty and stability businesses need to invest in the high growth sectors that will drive our growth mission. This green paper sets out the government’s approach and asks for your views and evidence to help develop a successful, modern industrial strategy to be launched in spring 2025.
+- [Bede: 3 additional Grace-Hopper nodes available (6 total)](https://bede-documentation.readthedocs.io/en/latest/usage/index.html#grace-hopper-pilot): The N8 CIR Bede Tier 2 HPC facility now includes a pilot of 6 Grace-Hopper nodes, each containing an NVIDIA GH200 Grace Hopper Superchip. Bede is available for use by researchers from N8 Research Partnership, including the University of Sheffield. Access to Bede is managed per project, with details of the [application procedure](https://n8cir.org.uk/bede/accessing-bede/) provided on the N8 CIR website. Please contact `tier-2-hpc-support-group@sheffield.ac.uk` if you have any questions regarding the application process, the Grace-Hopper pilot, or Bede in general.
+- [NASA Funds Open-Source Software Underpinning Scientific Innovation](https://www.nasa.gov/news-release/nasa-funds-open-source-software-underpinning-scientific-innovation/): NASA has awarded $15.6 million in grant funding to 15 projects supporting the maintenance of open-source tools, frameworks, and libraries used by the NASA science community, for the benefit of all.
+
+
 
 
 ### Events
 
 #### Upcoming Local Events
+- 28th November - [Reproducibilitea Journal Club 2024-11-28](https://reproducibilitea-sheffield.github.io/posts/2024-11-28/): A guided discussion of the paper [“Best Paper” awards lack transparency, inclusivity, and support for Open Science](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002715)
+- 5th December - [Annual open research lecture - December 2024](https://www.sheffield.ac.uk/openresearch/events/annual-open-research-lecture): Professor Stephen Pinfield, Professor of Information Services Management and Senior Research Fellow at the Research on Research Institute (RoRI) will deliver a talk on "Achieving Global Open Access: The Need for Scientific, Epistemic and Participatory Openness"
 
 
 #### Upcoming External Events
 
+- 4th & 5th November - [Towards an International Research Software Conference: Join our Community Consultation](https://www.researchsoft.org/events/2024-10/): Join one of the Research Software Alliance's upcoming webinars to discuss community-supported routes for convening the first-ever international research software conference in 2025/26
 - Until Nov 10th - [MATLAB Shorts Mini Hack](https://uk.mathworks.com/matlabcentral/contests/2024-matlab-mini-hack.html): Use upto 2,000 characters of MATLAB code to generate a MATLAB movie and win prizes.
 - Thursday's 1pm - [Cambridge RSE Seminar series](https://rse.group.cam.ac.uk/seminars) (currently scheduled till Dec 5th)
-    - Thurs Oct 17th 1pm - [Open source research software project life cycles: understanding project maturity successes, and challenge events](https://talks.cam.ac.uk/talk/index/219982)
-- Nov 26-28th - [DiRAC GPU Hackathon, Durham University](https://dirac.ac.uk/training_events/dirac-nvidia-hackathon-2024/): **application deadline 12pm October 16th.**
 - April 29-30th 2025 - [UK Technology Specialists Network Conference](https://itss.org.uk/uk-technology-specialists-network-conference-2025/) 
 
 
 ### Articles, Blogs, Papers & Podcasts
 
 #### Articles & Blogs
-
-
+- [Pytest Matplotlib](https://blog.nshephard.dev/posts/pytest-mpl/): The RSE team's Neil Shephard writes about his experience of using pytest-mpl to provide automated testing of functions which generate images using matplotlib or similar libraries.
+- [Winamp deletes entire GitHub source code repo after a rocky few weeks](https://arstechnica.com/gadgets/2024/10/winamp-really-whips-open-source-coders-into-frenzy-with-its-source-release/): A case study on the importance of licencing!
 
 #### Papers
+- *Pre-print* [Software Frugality in an Accelerating World: the Case of Continuous Integration](https://arxiv.org/abs/2410.15816)
+- *Pre-print* [Extending and Applying Automated HERMES Software Publication Workflows](https://arxiv.org/abs/2410.17614)
 
-- [2024] **Seminar Report** [Research Software Engineering: Bridging Knowledge Gaps](https://drops.dagstuhl.de/entities/document/10.4230/DagRep.14.4.42)
-- [2024] [Understanding and effectively mitigating code review anxiety](https://link.springer.com/article/10.1007/s10664-024-10550-9)
-- [2024] **Pre-print** [A Vision on Open Science for the Evolution of Software Engineering Research and Practice](https://arxiv.org/abs/2405.12132)
-- [2024] [Just Enough Software Engineering for Domain Scientists in Research Software Development](https://ieeexplore.ieee.org/document/10603285)
-- [2023] [The replication crisis has led to positive structural, procedural, and community changes](https://www.nature.com/articles/s44271-023-00003-2)
 
 #### Podcasts
+- [HPC software installations made EESSI - Alan O'Cais and Kenneth Hoste](https://codeforthought.buzzsprout.com/1326658/episodes/15867365-en-hpc-software-installations-made-eessi-alan-o-cais-and-kenneth-hoste): Meet Kenneth Hoste and Alan O'Cais who will tell us about EESSI,The European Environment for Scientific Software Installation for high performance computing (HPC). 
+
+#### Books
+- [Research Software Engineering - A Guide to the Open Source Ecosystem](https://rse-book.github.io/): This book aims at two things: First, to give a big picture overview and starting point to reach what the open source software community calls a “software carpentry” level. Second, to give an understanding of the opportunities of automation and reproducibility, as well as the effort to maintain the required environment. 
 
 
 ### Training
 
 #### At Sheffield
 
-**FAIR<sup>2</sup>**
+**FAIR<sup>2</sup> 4RS Workshops**
+- 2pm 8th November - [Software Lifecycle Planning](https://rse.shef.ac.uk/training/fair4rs/#software-lifecycle-planning): Learn how to make your software sustainable in the long term through lifecycle planning, management plans, licences and dissemination.
+- 18th & 19th November - [Version Control](https://rse.shef.ac.uk/training/fair4rs/#version-control): The version control module has two distinct training sessions: one for beginners and one for more advanced users. The first introduces key version control concepts such as forks, pull requests and branches using Git, GitHub and GitKraken, then gives you the chance to get some hands-on experience with using version control in a research setting. The second session aims to help you develop a deeper understanding of how Git works to facilitate collaboration by improving your understanding of working with branches and how to make your commits tidier, as well as understanding how to effectively use pull requests and Git history.
+- 9th & 10th December - [Software Design](https://rse.shef.ac.uk/training/fair4rs/#software-design): The way you write your code will have a massive impact on how easy it is to maintain. During this course we will learn how to create maintainable, readable and reusable code.
 
 The [FAIR<sup>2</sup> for Research Software Training Programme](https://rse.shef.ac.uk/training/fair4rs/) has been developed
-by the RSE, Data Analytics Service and Library teams and will be launched in October. An introduction to the programme
-will be given in a [LunchBytes session 2024-10-22](../events/lunchbytes-2024-10-22.html). The full syllabus is now live on [MyDevelopment](https://mydevelopment.csod.com/ui/lms-learning-details/app/curriculum/06573f55-12e4-44f1-be4c-fac5ea9d6851) (requires login).
+by the RSE, Data Analytics Service and Library teams and will be launched in October. The full syllabus is now live on [MyDevelopment](https://mydevelopment.csod.com/ui/lms-learning-details/app/curriculum/06573f55-12e4-44f1-be4c-fac5ea9d6851) (requires login).
 
 **Sheffield Bioinformatics Core**
 
@@ -72,6 +92,10 @@ Where multiple dates are listed, you will need to attend all dates. You can also
 
 #### Outside Sheffield
 
+- 19th - 22nd November [Software Sustainability Institute Carpentries Instructor Training](https://www.software.ac.uk/news/instructor-training-workshop-announced-part-research-software-camp): Instructor Training teaches evidence-based approaches and pedagogy for teaching computational and data skills to novices effectively. It is part of the official training for becoming a certified Carpentries instructor.
+- 26th - 27th November [Archer 2 - Message Passing programming with MPI](https://www.archer2.ac.uk/training/courses/241126-mpi/): The world’s largest supercomputers are used almost exclusively to run applications which are parallelised using Message Passing. The course covers all the basic knowledge required to write parallel programs using this programming model, and is directly applicable to almost every parallel computer architecture.
+- 13th November [Reproducible analysis: Python for social scientists](https://www.software.ac.uk/news/registration-now-open-second-round-research-software-practices-social-sciences-workshops): introduce Python as a coding language and useful analytical tool in the social sciences studies. During the workshop, the instructor will practically demonstrate (i.e. through live coding) the basics of this coding language, including key points of the standard Python workflow like exploring datasets, performing basic summary statistics and visualisations, and exporting project results. 
+
 
 ### Funding Opportunities
 
@@ -80,6 +104,9 @@ Where multiple dates are listed, you will need to attend all dates. You can also
     - Creating EOSC compliant interoperability policies based on the EOSC Interoperability Framework (IF)
     - Testing the trustworthy and FAIR-enabling repositories prototype
     - Implementation of a shared API for semantic catalogues
+- [DARE UK Transformational Programme](https://www.ukri.org/opportunity/dare-uk-transformational-programme-core-components/), deadline 26th November. The main objective of this funding opportunity is to support the transition and integration of solutions developed as part of the 2023 DARE UK Driver Projects to production-ready reference implementations, ready for testing and adoption in real-world research settings by secure UK Trusted Research Environments (TREs). 
+- [Access to high performance computing facilities – autumn 2024](https://www.ukri.org/opportunity/access-to-high-performance-computing-facilities-autumn-2024/), deadline 28th November. This opportunity provides an open and flexible route to computational support for high quality projects across the entire UK Research and Innovation (UKRI) remit. If you are considering submitting an application, please consider contacting research-it@sheffield.ac.uk, who would be happy to advise/review.
+- [UKFin+ Funding Research Collaborations for Wicked Problems in Financial Services](https://ukfin.network/) UKFin+ is an EPSRC funded £2.5M programme of funding, whose aim is to bridge the gap that currently exists between the research in universities and the needs of the financial services industry, consumers, and regulators.
 
 #### Jobs
 
