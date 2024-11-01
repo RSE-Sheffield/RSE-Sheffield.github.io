@@ -77,7 +77,7 @@ The [recording](https://orda.shef.ac.uk/articles/media/Better_software_for_Bette
 - 9th & 10th December - [Software Design](https://rse.shef.ac.uk/training/fair4rs/#software-design): The way you write your code will have a massive impact on how easy it is to maintain. During this course we will learn how to create maintainable, readable and reusable code.
 
 The [FAIR<sup>2</sup> for Research Software Training Programme](https://rse.shef.ac.uk/training/fair4rs/) has been developed
-by the RSE, Data Analytics Service and Library teams and will be launched in October. The full syllabus is now live on [MyDevelopment](https://mydevelopment.csod.com/ui/lms-learning-details/app/curriculum/06573f55-12e4-44f1-be4c-fac5ea9d6851) (requires login).
+by the RSE, Data Analytics Service and Library teams and launched in October. The full syllabus is now live on [MyDevelopment](https://mydevelopment.csod.com/ui/lms-learning-details/app/curriculum/06573f55-12e4-44f1-be4c-fac5ea9d6851) (requires login).
 
 **Sheffield Bioinformatics Core**
 
