@@ -16,7 +16,7 @@ type: text
 Welcome to the November 2024 newsletter for the research software community at The University of Sheffield, featuring news, opportunities, events and training for you.
 
 ### RSE FAIR<sup>2</sup> 4RS Training Programme Launch!
-This training curriculum offers a modular programme to support researchers in applying FAIR (Findable, Accessible, Interoperable, Reusable) principles and open research practices to their [research software](https://zenodo.org/records/6623556). The programme is aimed at researchers, including PhDs and postgraduate research students, who create code (whether a few scripts or something more substantial) as part of their research and who want to make their research more open by applying the FAIR principles to their software or simply want to become more confident in the research code they are writing.
+This training curriculum offers a modular programme to support researchers in applying FAIR (Findable, Accessible, Interoperable, Reusable) principles and open research practices to their [research software](https://zenodo.org/records/6623556). The programme is aimed at researchers, including PhDs and postgraduate research students at the University of Sheffield, who create code (whether a few scripts or something more substantial) as part of their research and who want to make their research more open by applying the FAIR principles to their software or simply want to become more confident in the research code they are writing.
 
 The programme will be running over the next few months. For more information  check out for [the RSE page](https://rse.shef.ac.uk/training/fair4rs/) where you will find links to register for modules that are already scheduled. You can also find the modules on [myDevelopment](https://mydevelopment.csod.com/ui/lms-learning-details/app/curriculum/06573f55-12e4-44f1-be4c-fac5ea9d6851) (requires institutional login).
 
@@ -56,8 +56,8 @@ The [recording](https://orda.shef.ac.uk/articles/media/Better_software_for_Bette
 - [Winamp deletes entire GitHub source code repo after a rocky few weeks](https://arstechnica.com/gadgets/2024/10/winamp-really-whips-open-source-coders-into-frenzy-with-its-source-release/): A case study on the importance of licencing!
 
 #### Papers
-- *Pre-print* [Software Frugality in an Accelerating World: the Case of Continuous Integration](https://arxiv.org/abs/2410.15816)
-- *Pre-print* [Extending and Applying Automated HERMES Software Publication Workflows](https://arxiv.org/abs/2410.17614)
+- **Pre-print** [Software Frugality in an Accelerating World: the Case of Continuous Integration](https://arxiv.org/abs/2410.15816)
+- **Pre-print** [Extending and Applying Automated HERMES Software Publication Workflows](https://arxiv.org/abs/2410.17614)
 
 
 #### Podcasts
@@ -72,6 +72,8 @@ The [recording](https://orda.shef.ac.uk/articles/media/Better_software_for_Bette
 #### At Sheffield
 
 **FAIR<sup>2</sup> 4RS Workshops**
+
+These events form part of the FAIR<sup>2</sup> 4RS training programme discussed in this newsletter's introduction.
 - 2pm 8th November - [Software Lifecycle Planning](https://rse.shef.ac.uk/training/fair4rs/#software-lifecycle-planning): Learn how to make your software sustainable in the long term through lifecycle planning, management plans, licences and dissemination.
 - 18th & 19th November - [Version Control](https://rse.shef.ac.uk/training/fair4rs/#version-control): The version control module has two distinct training sessions: one for beginners and one for more advanced users. The first introduces key version control concepts such as forks, pull requests and branches using Git, GitHub and GitKraken, then gives you the chance to get some hands-on experience with using version control in a research setting. The second session aims to help you develop a deeper understanding of how Git works to facilitate collaboration by improving your understanding of working with branches and how to make your commits tidier, as well as understanding how to effectively use pull requests and Git history.
 - 9th & 10th December - [Software Design](https://rse.shef.ac.uk/training/fair4rs/#software-design): The way you write your code will have a massive impact on how easy it is to maintain. During this course we will learn how to create maintainable, readable and reusable code.
@@ -99,13 +101,13 @@ Where multiple dates are listed, you will need to attend all dates. You can also
 
 ### Funding Opportunities
 
-- [FAIR-IMPACT's 3rd call](https://fair-impact.eu/3rd-open-call-route-2-support-opens-30-sept), deadline 4th Dec, hopes to fund applicants in four areas
+- [DARE UK Transformational Programme](https://www.ukri.org/opportunity/dare-uk-transformational-programme-core-components/) **deadline 26th November**. The main objective of this funding opportunity is to support the transition and integration of solutions developed as part of the 2023 DARE UK Driver Projects to production-ready reference implementations, ready for testing and adoption in real-world research settings by secure UK Trusted Research Environments (TREs). 
+- [Access to high performance computing facilities – autumn 2024](https://www.ukri.org/opportunity/access-to-high-performance-computing-facilities-autumn-2024/) **deadline 28th November**. This opportunity provides an open and flexible route to computational support for high quality projects across the entire UK Research and Innovation (UKRI) remit. If you are considering submitting an application, please consider contacting research-it@sheffield.ac.uk, who would be happy to advise/review.
+- [FAIR-IMPACT's 3rd call](https://fair-impact.eu/3rd-open-call-route-2-support-opens-30-sept) **deadline 4th Dec**. Hopes to fund applicants in four areas
     - Managing data types, schemas and vocabularies and crosswalks for FAIR researcher related metadata (in partnership with FAIRCORE4EOSC)
     - Creating EOSC compliant interoperability policies based on the EOSC Interoperability Framework (IF)
     - Testing the trustworthy and FAIR-enabling repositories prototype
     - Implementation of a shared API for semantic catalogues
-- [DARE UK Transformational Programme](https://www.ukri.org/opportunity/dare-uk-transformational-programme-core-components/), deadline 26th November. The main objective of this funding opportunity is to support the transition and integration of solutions developed as part of the 2023 DARE UK Driver Projects to production-ready reference implementations, ready for testing and adoption in real-world research settings by secure UK Trusted Research Environments (TREs). 
-- [Access to high performance computing facilities – autumn 2024](https://www.ukri.org/opportunity/access-to-high-performance-computing-facilities-autumn-2024/), deadline 28th November. This opportunity provides an open and flexible route to computational support for high quality projects across the entire UK Research and Innovation (UKRI) remit. If you are considering submitting an application, please consider contacting research-it@sheffield.ac.uk, who would be happy to advise/review.
 - [UKFin+ Funding Research Collaborations for Wicked Problems in Financial Services](https://ukfin.network/) UKFin+ is an EPSRC funded £2.5M programme of funding, whose aim is to bridge the gap that currently exists between the research in universities and the needs of the financial services industry, consumers, and regulators.
 
 #### Jobs
