@@ -246,8 +246,6 @@ Access to these clusters are open to all UoS researchers and academics and theyâ
     * Suitable for running many independent jobs or single-node MPI jobs
     * More GPUs coming soon!
 * Tier 2 HPC systems with affiliation to University of Sheffield
-  * [JADE](https://docs.hpc.shef.ac.uk/en/latest/jade.html): for research projects that uses deep learning or simulate molecular dynamics.
-  * [JADE 2](https://docs.hpc.shef.ac.uk/en/latest/jade2.html) (coming soon): for research projects that uses deep learning or simulate molecular dynamics.
   * [Bede](https://docs.hpc.shef.ac.uk/en/latest/bede.html): for very large GPU jobs that require multiple GPUs and multiple nodes.
 
 ## HPC Learning resources
