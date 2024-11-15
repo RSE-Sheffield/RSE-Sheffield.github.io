@@ -30,11 +30,10 @@ The University of Sheffield provides staff and students with access to [four Hig
 * [**Stanage**](https://docs.hpc.shef.ac.uk/en/latest/stanage/index.html): run by TUoS.  Optimised for high-performance, multi-node jobs. Typically 64 cores per node but has very high bandwidth, low latency network connections between nodes. Includes H100 and A100 GPUs.
 * [**Bessemer**](https://docs.hpc.shef.ac.uk/en/latest/bessemer/index.html): run by TUoS.  Optimised for high-throughput of single-node jobs.  Typically 40 cores per node. Includes V100 GPUs.
 * [**Bede**](https://bede-documentation.readthedocs.io/): a GPU HPC cluster run by the N8 consortium (inc. TUoS). Designed to accommodate multi-node, multi-GPU jobs inc. machine learning/deep learning workflows.
-* [**JADE 2**](https://docs.jade.ac.uk/): a GPU HPC cluster run by a different consortium (inc. TUoS).  Designed to accommodate single-node, multi-GPU jobs for machine learning and molecular dynamics workflows.
 
 All TUoS academics and researchers can request free access to Stanage and Bessemer.  Research students need their supervisors to make requests.
 
-There are slightly more formal application processes for Bede and JADE 2 - see the [HPC Documentation for details](https://docs.hpc.shef.ac.uk/en/latest/other-uk-hpc-resources.html#university-of-sheffield-directly-affliated-hpc-systems).
+There is a slightly more formal application processes for Bede - see the [HPC Documentation for details](https://docs.hpc.shef.ac.uk/en/latest/other-uk-hpc-resources.html#university-of-sheffield-directly-affliated-hpc-systems).
 
 ## Research data storage
 
@@ -46,18 +45,6 @@ Additional storage can be purchased from IT Services.
 
 The RSE group and Department of Computer Science has access to a set of private nodes in Bessemer (GPU and big memory nodes) which we use for
 delivering HPC projects and occasionally to provide access for collaborators.
-
-### JADE Tier 2 GPU cluster
-
-The Joint Academic Data Science Endeavour (JADE) is the largest GPU facility in the UK supporting world-leading research in machine learning.
-The computational hub will harness the capabilities of the NVIDIA DGX-1 Deep Learning System and
-comprise of 22 servers, each containing 8 of the newest NVIDIA Tesla P100 GPUs linked by NVIDIA's NV link interconnect technology.
-The new JADE facility aims to address the gap between university systems and access to national HPC services.
-This will drive forward innovation in machine learning, identifying new applications and insights in to research challenges.
-
-The RSE group director (Paul Richmond) is a co-investigator in the [EPSRC Tier 2 JADE system](https://www.jade.ac.uk/).
-As such members of the University of Sheffield are able to access this resource for free (for use with deep learning research).
-Please [contact us](/contact/) for more information on accessing this resource.
 
 ### Cloud Computing
 
