@@ -13,4 +13,4 @@ Dan joined the RSE team in December 2022. His background is in Cognitive Neurosc
 
 * Email: daniel.brady (at) sheffield.ac.uk
 * Github: [@ubdbra001](https://github.com/ubdbra001)
-* Twitter: [@DanTBrady](https://twitter.com/DanTBrady)
+* ORCiD: [0000-0003-4671-0676](https://orcid.org/0000-0003-4671-0676)
