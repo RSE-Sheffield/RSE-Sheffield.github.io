@@ -38,6 +38,17 @@ type: text
       margin-top: 1em;
     }
 
+    @media only screen and (max-width:768px) {
+
+      .project > .proj-content {
+        display: block;
+      }
+
+      .proj-content > img {
+        padding-bottom: 1em;
+      }
+    }
+
 </style>
 
 The Research Software Engineering team at Sheffield has worked on projects involving a variety of methods and technologies, below are some of the projects we have either worked on are are currently working on:
