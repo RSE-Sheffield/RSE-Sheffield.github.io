@@ -2,6 +2,14 @@
 layout: default
 ---
 
+{% capture blog_post_limit %}
+{{ site.blog_limit | default: 10 }}
+{% endcapture %}
+
+{% capture event_limit %}
+{{ site.event_limit | default: 10 }}
+{% endcapture %}
+
 <!-- ******PROMO****** -->
 <section id="promo" class="promo section offset-header">
     <div class="container text-center">
@@ -72,7 +80,7 @@ layout: default
 
                 <h2><a href="/blog/">Blog</a></h2>
                 <br />
-                {% include post_list_prev10.html %}
+                {% include post_list_prev10.html post_limit=blog_post_limit %}
 
                 <p>
                     <a href="/blog/">All blog articles >></a>
@@ -81,7 +89,7 @@ layout: default
             </div>
 
             <div class="col-md-6">
-                {% include events_list_top10.html %}
+                {% include events_list_top10.html post_limit=event_limit %}
 
                 <p>
                     <a href="/events/">All of our upcoming and previous events >></a>
