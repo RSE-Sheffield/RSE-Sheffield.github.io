@@ -76,12 +76,12 @@ To find out what the FAIR principles are and why they are crucial to make your r
 The [FAIR<sup>2</sup> for research software training programme](https://rse.shef.ac.uk/training/fair4rs/) has been developed by the RSE, Data Analytics Service and Library teams and launched in October. The full syllabus is now live on [MyDevelopment](https://mydevelopment.csod.com/ui/lms-learning-details/app/curriculum/06573f55-12e4-44f1-be4c-fac5ea9d6851) (requires login). The programme will be continuing over the next few months, with the following courses now scheduled:
 
 - 2024-12-09 &amp; 2024-12-10, 9.30am \- 1.00pm [Software Design](https://rse.shef.ac.uk/training/fair4rs/#software-design)
-- 2025-01-20 &amp; 2025-01-21, 9.30am \- 1.00pm [Git, GitHub and GitKraken - From Zero to Hero](https://rse.shef.ac.uk/training/fair4rs/#version-control)
-- 2025-02-06, 2.00pm - 5.00pm [Testing and Continuous Integration](https://rse.shef.ac.uk/training/fair4rs/#testing-and-continuous-integration)
-- 2025-02-17 &amp; 2025-02-18, 9.30am \- 1.00pm [Git Collaboration](https://rse.shef.ac.uk/training/fair4rs/#version-control)
-- 2025-03-06, 9.30am \- 1.00pm [Documentation](https://rse.shef.ac.uk/training/fair4rs/#documentation)
-- 2025-03-24, 9.30am \- 1.00pm [Reproducible computational environments](https://rse.shef.ac.uk/training/fair4rs/#reproducible-computational-environments)
-- 2025-04-11, 2.00pm - 5.00pm [Packaging](https://rse.shef.ac.uk/training/fair4rs/#packaging)
+- 2025-01-20 &amp; 2025-01-21, 9.00am \- 1.30pm [Git, GitHub and GitKraken - From Zero to Hero](https://rse.shef.ac.uk/training/fair4rs/#version-control)
+- 2025-02-06, 1.00pm - 5.00pm [Testing and Continuous Integration](https://rse.shef.ac.uk/training/fair4rs/#testing-and-continuous-integration)
+- 2025-02-17 &amp; 2025-02-18, 9.00am \- 1.30pm [Git Collaboration](https://rse.shef.ac.uk/training/fair4rs/#version-control)
+- 2025-03-06, 9.00am \- 1.30pm [Documentation](https://rse.shef.ac.uk/training/fair4rs/#documentation)
+- 2025-03-24, 9.00am \- 1.30pm [Reproducible computational environments](https://rse.shef.ac.uk/training/fair4rs/#reproducible-computational-environments)
+- 2025-04-11, 1.30pm - 5.00pm [Packaging](https://rse.shef.ac.uk/training/fair4rs/#packaging)
 
 
 ### Jobs
