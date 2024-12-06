@@ -77,11 +77,11 @@ The [FAIR<sup>2</sup> for research software training programme](https://rse.shef
 
 - 2024-12-09 &amp; 2024-12-10, 9.30am \- 1.00pm [Software Design](https://rse.shef.ac.uk/training/fair4rs/#software-design)
 - 2025-01-20 &amp; 2025-01-21, 9.00am \- 1.30pm [Git, GitHub and GitKraken - From Zero to Hero](https://rse.shef.ac.uk/training/fair4rs/#version-control)
-- 2025-02-06, 1.00pm - 5.00pm [Testing and Continuous Integration](https://rse.shef.ac.uk/training/fair4rs/#testing-and-continuous-integration)
+- 2025-02-06, 1.00pm \- 5.00pm [Testing and Continuous Integration](https://rse.shef.ac.uk/training/fair4rs/#testing-and-continuous-integration)
 - 2025-02-17 &amp; 2025-02-18, 9.00am \- 1.30pm [Git Collaboration](https://rse.shef.ac.uk/training/fair4rs/#version-control)
 - 2025-03-06, 9.00am \- 1.30pm [Documentation](https://rse.shef.ac.uk/training/fair4rs/#documentation)
 - 2025-03-24, 9.00am \- 1.30pm [Reproducible computational environments](https://rse.shef.ac.uk/training/fair4rs/#reproducible-computational-environments)
-- 2025-04-11, 1.30pm - 5.00pm [Packaging](https://rse.shef.ac.uk/training/fair4rs/#packaging)
+- 2025-04-11, 1.30pm \- 5.00pm [Packaging](https://rse.shef.ac.uk/training/fair4rs/#packaging)
 
 
 ### Jobs
