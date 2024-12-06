@@ -1,5 +1,5 @@
 ---
-title: FAIR<sup>2</sup> for research software 
+title: FAIR<sup>2</sup> for research software
 layout: page
 type: text
 permalink: /training/fair4rs/
@@ -78,8 +78,6 @@ then we introduce some useful tools and get started with some basic workflow usi
 foundations with collaborative exercises that introduce key concepts such as forks, pull requests and branches and give
 you the chance to get some hands-on experience with using version control in a research setting.
 
-**Monday 18th & Tuesday 19th November 2024 (morning only), In person.**
-
 **Monday 20th & Tuesday 21st January 2025 (Mornings only), In person, [Registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/d4d09f67-097b-4451-8ddb-86cb90636c06).**
 
 
@@ -89,13 +87,13 @@ improving your understanding of working with branches and how to make your commi
 to understand pull requests and Git history which in turn makes it easier to collaborate and work on code with others
 (including your future self!).
 
-**Monday 17th and Tuesday 18th (Mornings only), In person, [Registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/6197989b-bef2-4352-a14b-02c4f45bbca6).**
+**Monday 17th and Tuesday 18th February 2025 (Mornings only), In person, [Registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/6197989b-bef2-4352-a14b-02c4f45bbca6).**
 
 
 #### Software design
 <!-- (Romain Thomas) -->
 
-**Monday 9th & Tuesday 10th December 2024 (morning only), In person.** 
+**Monday 9th & Tuesday 10th December 2024 (morning only), In person.**
 
 The way you write your code will have a massive impact on how easy it is to maintain. During this course we will learn
 how to create maintainable, readable and reusable code. Using examples and exercises, we will see that
@@ -112,8 +110,8 @@ This course aims to equip researchers with the skills to write effective tests a
 their research software. No prior testing experience is required! We'll guide you through the fundamentals of software
 testing using Python's Pytest framework, a powerful and beginner-friendly tool. You'll also learn how to integrate
 automated testing into your development workflow using continuous integration (CI). CI streamlines your process by
-automatically running tests with every code change, catching bugs early and saving you time. **Date to be decided, it 
-will be during second semester** 
+automatically running tests with every code change, catching bugs early and saving you time. **Date to be decided, it
+will be during second semester**
 
 
 #### Documentation
@@ -125,7 +123,7 @@ will be during second semester**
 Well-documented software promotes reproducibility, maintainability, and increased research impact through wider adoption
 and citation. This course teaches researchers how to document their software effectively, making it accessible and
 understandable to others. It covers topics such as writing readable code and usage instructions. **Date to be decided,
- it will be during second semester** 
+ it will be during second semester**
 
 #### Reproducible computational environments
 <!-- (Daniel Brady) -->
@@ -136,9 +134,9 @@ understandable to others. It covers topics such as writing readable code and usa
 Ensuring that others are able to take your code, run it, and are able to produce the same (or equivalent) results is one
 of the key tenets of FAIR and reproducible research software. This course will provide you with an overview of different
 ways to make your code reproducible and then focus on virtual environments as a specific tool for computational
-reproducibility. **Date to be decided, it will be during second semester** 
+reproducibility. **Date to be decided, it will be during second semester**
 
-#### Packaging 
+#### Packaging
 <!--(Farhad Allian & Christopher Wild)-->
 
 **Friday 11th April (Afternoon only), In person, [Registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/0cbafddd-4c31-4e8a-bce6-a12e895a4acf).**
@@ -146,8 +144,8 @@ reproducibility. **Date to be decided, it will be during second semester**
 
 Packaging your software is one of the important steps in a software project to make it both findable and
 accessible. This course will provide you with an understanding of why and when packaging is useful, what different
-standards exist to package Python projects and take you through each step of the packaging process. **Date to be decided, 
-it will be during second semester** 
+standards exist to package Python projects and take you through each step of the packaging process. **Date to be decided,
+it will be during second semester**
 
 #### Publishing a software paper in JOSS
 
@@ -159,7 +157,7 @@ Did you know that you can actually publish a paper about your software? This is 
 citation) for the software you have spent countless hours creating. In this course we will walk you through an example
 of submission in the [Journal of open Source software](https://joss.theoj.org/). We will make an example software submission to
 the journal, and thanks to the collaboration of the Editor in Chief of JOSS (Arfon Smith), we will look at how the
-review process is done. **Date to be decided, it will be during second semester** 
+review process is done. **Date to be decided, it will be during second semester**
 
 <!-- Summary session (Romain Thomas) -->
 
