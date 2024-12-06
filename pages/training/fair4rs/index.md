@@ -80,7 +80,7 @@ you the chance to get some hands-on experience with using version control in a r
 
 **Monday 18th & Tuesday 19th November 2024 (morning only), In person.**
 
-**Monday 20th & Tuesday 21st January 2025 (Mornings only), In person, [Registration link]().**
+**Monday 20th & Tuesday 21st January 2025 (Mornings only), In person, [Registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/d4d09f67-097b-4451-8ddb-86cb90636c06).**
 
 
 **Git collaboration**: This course aims to help you develop a deeper understanding of how Git works to facilitate
