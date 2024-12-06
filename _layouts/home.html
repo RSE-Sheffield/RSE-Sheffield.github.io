@@ -2,6 +2,14 @@
 layout: default
 ---
 
+{% capture blog_post_limit %}
+{{ site.blog_limit | default: 10 }}
+{% endcapture %}
+
+{% capture event_limit %}
+{{ site.event_limit | default: 10 }}
+{% endcapture %}
+
 <!-- ******PROMO****** -->
 <section id="promo" class="promo section offset-header">
     <div class="container text-center">
@@ -47,7 +55,8 @@ layout: default
         <div class="row mt-3 mb-3">
             <div class="col-md text-center">
                 <h2 style="color: white">Community</h2>
-                <p>Connect with us and researchers who code on <a class="sm-a" href="https://twitter.com/intent/follow?original_referer=http%3A%2F%2F127.0.0.1%3A4000%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5ERSE_Sheffield&region=follow_link&screen_name=RSE_Sheffield">Twitter</a>, 
+                <p>Connect with us and researchers who code on <a class="sm-a" href="https://fosstodon.org/@RSE_Sheffield" rel="me">Mastodon</a>,
+                    <a class="sm-a" href="https://twitter.com/intent/follow?original_referer=http%3A%2F%2F127.0.0.1%3A4000%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5ERSE_Sheffield&region=follow_link&screen_name=RSE_Sheffield">Twitter</a>,
                     <a class="sm-a" href="/community/slack">Slack</a>, 
                     <a class="sm-a" href="https://github.com/orgs/RSE-Sheffield">GitHub</a> or the RSE Community 
                     <a class="sm-a" href="https://groups.google.com/a/sheffield.ac.uk/g/rse-group">mailing list</a>.</p>
@@ -72,7 +81,7 @@ layout: default
 
                 <h2><a href="/blog/">Blog</a></h2>
                 <br />
-                {% include post_list_prev10.html %}
+                {% include post_list_prev10.html post_limit=blog_post_limit %}
 
                 <p>
                     <a href="/blog/">All blog articles >></a>
@@ -81,7 +90,7 @@ layout: default
             </div>
 
             <div class="col-md-6">
-                {% include events_list_top10.html %}
+                {% include events_list_top10.html post_limit=event_limit %}
 
                 <p>
                     <a href="/events/">All of our upcoming and previous events >></a>

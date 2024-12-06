@@ -77,6 +77,10 @@ a {
     text-decoration: underline;
 }
 
+.contact-inner a:hover {
+    color: var(--uos-deep-violet-70);
+}
+
 .contact-inner h2 {
     color: var(--white) !important;
 }
