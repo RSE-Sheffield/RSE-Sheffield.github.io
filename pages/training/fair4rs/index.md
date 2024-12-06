@@ -87,7 +87,7 @@ you the chance to get some hands-on experience with using version control in a r
 collaboration. It builds on the foundations laid by the Git beginners course. The core idea around the course is that by
 improving your understanding of working with branches and how to make your commits tidier and neater it makes it easier
 to understand pull requests and Git history which in turn makes it easier to collaborate and work on code with others
-(including your future self!). **Date to be decided, it will be during second semester** 
+(including your future self!).
 
 **Monday 17th and Tuesday 18th (Mornings only), In person, [Registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/6197989b-bef2-4352-a14b-02c4f45bbca6).**
 
