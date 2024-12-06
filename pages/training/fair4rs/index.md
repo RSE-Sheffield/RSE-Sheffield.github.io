@@ -56,12 +56,15 @@ Material: [Recording](https://orda.shef.ac.uk/articles/media/Better_software_for
 
 <!-- ##### Romain Thomas, Ric Campbell, Kate O'Neill -->
 
-**Friday 8th November 2024, Afternoon, 2pm, online, [registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/2d69f5c5-f9e7-46c2-999a-ffb3ed1db028)**
+**Friday 8th November 2024, Afternoon, 2pm, online**
 
 When you start writing software it is often very useful to think about the development process and how you will make your
 software sustainable in the long term. In this module we will introduce important aspects of software development in
 research: software lifecyle, management plan, licences and dissemination. This module should allow you to ask yourself
 the right questions when starting a research software project.
+
+
+Material: [Recording](https://orda.shef.ac.uk/articles/media/FAIR2_for_Research_Software_training_programme_Software_Management_plan_licences_and_dissemination/27652128) and [website](https://fair2-for-research-software.github.io/Software_Lifecycle_Planning/)
 
 #### Version control
 
@@ -75,9 +78,9 @@ then we introduce some useful tools and get started with some basic workflow usi
 foundations with collaborative exercises that introduce key concepts such as forks, pull requests and branches and give
 you the chance to get some hands-on experience with using version control in a research setting.
 
-**Monday 18th & Tuesday 19th November 2024 (morning only), In person, [registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/d4d09f67-097b-4451-8ddb-86cb90636c06)** (Another session will be given during second
-semester)
+**Monday 18th & Tuesday 19th November 2024 (morning only), In person.**
 
+**Monday 20th & Tuesday 21st January 2025 (Mornings only), In person, [Registration link]().**
 
 
 **Git collaboration**: This course aims to help you develop a deeper understanding of how Git works to facilitate
@@ -86,10 +89,13 @@ improving your understanding of working with branches and how to make your commi
 to understand pull requests and Git history which in turn makes it easier to collaborate and work on code with others
 (including your future self!). **Date to be decided, it will be during second semester** 
 
+**Monday 17th and Tuesday 18th (Mornings only), In person, [Registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/6197989b-bef2-4352-a14b-02c4f45bbca6).**
+
+
 #### Software design
 <!-- (Romain Thomas) -->
 
-**Monday 9th & Tuesday 10th December 2024 (morning only), In person, [registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/d3c2cca5-d894-44b6-a79b-e93dea7a7c94)** 
+**Monday 9th & Tuesday 10th December 2024 (morning only), In person.** 
 
 The way you write your code will have a massive impact on how easy it is to maintain. During this course we will learn
 how to create maintainable, readable and reusable code. Using examples and exercises, we will see that
@@ -99,6 +105,8 @@ to make your life easier.
 #### Testing and Continuous Integration
 
 <!-- (Sylvia Whittle) -->
+
+**Thursday 6th February (afternoon only), In person, [Registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/460c53c5-40e4-4c97-ab4f-144213544026).**
 
 This course aims to equip researchers with the skills to write effective tests and ensure the quality and reliability of
 their research software. No prior testing experience is required! We'll guide you through the fundamentals of software
@@ -112,6 +120,8 @@ will be during second semester**
 
 <!--(Joe Heffer)-->
 
+**Thursday 6th March (Morning only), In person, [Registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/7c81f9fd-656f-4ae9-ba48-bc83afe81cc2).**
+
 Well-documented software promotes reproducibility, maintainability, and increased research impact through wider adoption
 and citation. This course teaches researchers how to document their software effectively, making it accessible and
 understandable to others. It covers topics such as writing readable code and usage instructions. **Date to be decided,
@@ -119,6 +129,9 @@ understandable to others. It covers topics such as writing readable code and usa
 
 #### Reproducible computational environments
 <!-- (Daniel Brady) -->
+
+
+**Monday 24th March (Morning only), In person, [Registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/e30c407d-c97d-44a0-b3fd-4e87f95c4789).**
 
 Ensuring that others are able to take your code, run it, and are able to produce the same (or equivalent) results is one
 of the key tenets of FAIR and reproducible research software. This course will provide you with an overview of different
@@ -128,6 +141,9 @@ reproducibility. **Date to be decided, it will be during second semester**
 #### Packaging 
 <!--(Farhad Allian & Christopher Wild)-->
 
+**Friday 11th April (Afternoon only), In person, [Registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/0cbafddd-4c31-4e8a-bce6-a12e895a4acf).**
+
+
 Packaging your software is one of the important steps in a software project to make it both findable and
 accessible. This course will provide you with an understanding of why and when packaging is useful, what different
 standards exist to package Python projects and take you through each step of the packaging process. **Date to be decided, 
@@ -136,6 +152,8 @@ it will be during second semester**
 #### Publishing a software paper in JOSS
 
 <!-- (Romain Thomas & Arfon Smith) -->
+
+**Date to be confirmed**
 
 Did you know that you can actually publish a paper about your software? This is an ideal way to get recognition (and
 citation) for the software you have spent countless hours creating. In this course we will walk you through an example
