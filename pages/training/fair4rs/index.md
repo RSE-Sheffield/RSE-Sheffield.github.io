@@ -37,8 +37,8 @@ research software[^3].
 * [Software lifecycle planning](#software-lifecycle-planning), Friday 8th November 2024
 * [Version control](#version-control), Monday 18th & Tuesday 19th November 2024, Second session Monday 20th & Tuesday 21st Of January.
 * [Software design](#software-design), Monday 9th & Tuesday 10th December 2024
-* [Testing and Continuous Integration](#testing-and-continuous-integration), Friday 6th February
-* [Documentation](#documentation), Friday 6th March
+* [Testing and Continuous Integration](#testing-and-continuous-integration), Thursday 6th February
+* [Documentation](#documentation), Thursday 6th March
 * [Reproducible computational environments](#reproducible-computational-environments), Monday 24th March
 * [Packaging](#packaging), Friday 11th April
 * [Publishing a software paper in JOSS](#publishing-a-software-paper-in-joss), 2nd Semester, date to be decided
