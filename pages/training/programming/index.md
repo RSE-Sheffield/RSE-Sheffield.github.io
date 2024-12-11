@@ -19,7 +19,13 @@ the [Lyndhurst STEM club](https://lyndhurststem.org/) found [this great
 article](https://www.qualtrics.com/blog/glossary-of-coding-and-programming-terms/) which explains a lot of terminology
 to help you get started.
 
-* Do not remove this line (it will not be displayed) {:toc}
+A broad overview of many of the relevant topics is provided by the MIT Computer Sciences [Missing
+Semester][mit-missing-semester] material (there is also a fork maintained by the [University of
+Birmingham][birmingham-missing-semester]). Either of these resources cover a lot of ground that is relevant to Research
+Software Engineering and are worth working through.
+
+* Do not remove this line (it will not be displayed)
+{:toc}
 
 ## Learning to program, where to start?
 
@@ -341,6 +347,8 @@ on the cluster.
 [bookdown]: https://bookdown.org/
 [dslc]: https://dslc.io/
 [git]: https://git-scm.com/
+[mit-missing-semester]: https://missing.csail.mit.edu/
+[birmingham-missing-semester]: https://missingsemester.afnom.net/
 [posit]: https://posit.co/
 [quarto]: https://quarto.org/
 [r]: https://www.r-project.org/
