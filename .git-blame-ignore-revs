@@ -1,1 +1,10 @@
 # Linting with markdownlint-cli2
+# Ignore the blame associated with the listed revisions
+#
+# For an overview of how this works see https://rse.shef.ac.uk/blog/git-blame/
+#
+# Whilst the purpose of a commit can always be reviewed in the logs for convenience a short comment can be added to a
+# commit or block of commits to indicate  indicate what they relate to, e.g.
+#
+#  # Lint _post/2022-05-12-rrse.md with markdownlint-cli2
+#  01234567891abcdefghijklmnopqrstuvwxyz012
