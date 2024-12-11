@@ -35,12 +35,12 @@ research software[^3].
 * [Better software for better research: Introduction to the FAIR training
   programme](#better-software-for-better-research-introduction-to-the-fair-training-programme), Tuesday 22nd October 2024
 * [Software lifecycle planning](#software-lifecycle-planning), Friday 8th November 2024
-* [Version control](#version-control), Monday 18th & Tuesday 19th November 2024
+* [Version control](#version-control), Monday 18th & Tuesday 19th November 2024, Second session Monday 20th & Tuesday 21st Of January.
 * [Software design](#software-design), Monday 9th & Tuesday 10th December 2024
-* [Testing and Continuous Integration](#testing-and-continuous-integration), 2nd Semester, date to be decided
-* [Documentation](#documentation), 2nd Semester, date to be decided
-* [Reproducible computational environments](#reproducible-computational-environments), 2nd Semester, date to be decided
-* [Packaging](#packaging), 2nd Semester, date to be decided
+* [Testing and Continuous Integration](#testing-and-continuous-integration), Friday 6th February
+* [Documentation](#documentation), Friday 6th March
+* [Reproducible computational environments](#reproducible-computational-environments), Monday 24th March
+* [Packaging](#packaging), Friday 11th April
 * [Publishing a software paper in JOSS](#publishing-a-software-paper-in-joss), 2nd Semester, date to be decided
 
 #### Better software for better research: Introduction to the FAIR training programme
