@@ -21,8 +21,8 @@ to help you get started.
 
 A broad overview of many of the relevant topics is provided by the MIT Computer Sciences [Missing
 Semester][mit-missing-semester] material (there is also a fork maintained by the [University of
-Birmingham][birmingham-missing-semester]). Either of these resources cover a lot of ground that is relevant to Research
-Software Engineering and are worth working through.
+Birmingham][birmingham-missing-semester]). Both of these resources cover a lot of ground that is relevant to Research
+Software Engineering and either of them is worth working through.
 
 * Do not remove this line (it will not be displayed)
 {:toc}
