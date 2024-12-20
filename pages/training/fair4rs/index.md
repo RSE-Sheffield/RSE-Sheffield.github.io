@@ -43,7 +43,7 @@ research software[^3].
 * [Documentation](#documentation), Thursday 6th March 2025
 * [Reproducible computational environments](#reproducible-computational-environments), Monday 24th March 2025
 * [Packaging](#packaging), Friday 11th April 2025
-* [Publishing a software paper in JOSS](#publishing-a-software-paper-in-joss), 2nd Semester, date to be decided
+* [Publishing a software paper in JOSS](#publishing-a-software-paper-in-joss), 2nd Semester, date to be confirmed
 
 #### Better software for better research: Introduction to the FAIR training programme
 
