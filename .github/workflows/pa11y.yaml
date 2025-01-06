@@ -34,7 +34,7 @@ jobs:
 
       # Install pa11y requirements
       - name: Install pa11y-ci
-        run: npm install -g @aarongoldenthal/pa11y-ci
+        run: npm install -g pa11y-ci
 
       # Check site accesibility
       - name: Serve site and test with pa11y
