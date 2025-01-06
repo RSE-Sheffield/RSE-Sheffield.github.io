@@ -16,7 +16,7 @@ of Sheffield_ learning UNIX system administration and [literate
 programming](https://en.wikipedia.org/wiki/Literate_programming) along the way. He then shifted careers to medical
 statistics and spent eight years working at the [Clinical Trials Research
 Unit](https://www.sheffield.ac.uk/scharr/research/centres/ctru) at the _University of Sheffield_. Throughout this time
-Neil developed and became enthusiastic about reproducible research and developed practical approaches to achieving
+Neil has been enthusiastic about reproducible research and developed practical approaches to achieving
 reproducible research in [R](https://www.r-project.org) using  [RMarkdown](https://rmarkdown.rstudio.com).
 
 In 2018 he left academia for the private sector working for a telematics company using data captured from
