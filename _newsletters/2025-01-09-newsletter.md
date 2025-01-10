@@ -83,6 +83,7 @@ https://engagementhub.ukri.org/epsrc-events/4daf6868 If you have any questions o
 - NVIDIA Deep Learning Institute [Free training on AI and more](https://www.nvidia.com/en-us/training/)
 
 #### FAIR<sup>2</sup> for research software
+
 This training curriculum offers a modular programme to support researchers in applying FAIR (Findable, Accessible, Interoperable, Reusable) principles and open research practices to their [research software](https://zenodo.org/records/6623556). The programme is aimed at researchers, including PhDs and postgraduate research students at the University of Sheffield, who create code (whether a few scripts or something more substantial) as part of their research and who want to make their research more open by applying the FAIR principles to their software or simply want to become more confident in the research code they are writing.
 
 To find out what the FAIR principles are and why they are crucial to make your research more open, you can watch the introductory talk by Head of Research Software Engineering, Romain Thomas, [_Better software for Better research: Introduction to the FAIR2 for Research Software training programme_](https://orda.shef.ac.uk/articles/media/Better_software_for_Better_research_Introduction_to_the_FAIR2_for_Research_Software_training_programme/27283239?file=49937889). You can also view the [slides](https://fair2-for-research-software.github.io/Better_software_for_better_research/#/title-slide) for this talk.
