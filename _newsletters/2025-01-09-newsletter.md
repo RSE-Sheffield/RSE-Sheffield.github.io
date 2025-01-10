@@ -37,7 +37,7 @@ https://engagementhub.ukri.org/epsrc-events/4daf6868 If you have any questions o
 ### Articles, Blogs, Papers & Podcasts
 
 #### Papers
-- "Why don't we share data and code? Perceived barriers and benefits to public archiving practices", Dylan G. E. Gomes, et al. Proc. R. Soc. B. 2022 https://doi.org/10.1098/rspb.2022.1113
+- Why don't we share data and code? Perceived barriers and benefits to public archiving practices, Dylan G. E. Gomes, _et al._ Proc. R. Soc. B. 2022 [10.1098/rspb.2022.1113](https://doi.org/10.1098/rspb.2022.1113)
 - "The Unreasonable Effectiveness of Open Science in AI: A Replication Study" Gundersen, Odd Erik, et al. 2024, [10.48550/arXiv.2412.17859](https://arxiv.org/abs/2412.17859)
 - ["Gaps between Open Science activities and actual recognition systems: Insights from an international survey". Florencia Grattarola et al. PlOS One 2024](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315632)
 - The zettabyte era is in our DNA. Daniella Bar-Lev, et al [Nature Computational Science](https://www.nature.com/articles/s43588-024-00717-1)
