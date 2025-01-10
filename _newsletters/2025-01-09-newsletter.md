@@ -77,7 +77,6 @@ https://engagementhub.ukri.org/epsrc-events/4daf6868 If you have any questions o
 
 ### Training
 - 17 - 18 February 2025  Reproducible computational environments using containers: introduction to Docker and Singularity
-- Archer2 Training (e.g. parallel programming, reproducibility via containers,) https://www.archer2.ac.uk/training/#upcoming-training
 - 2025-01-10 13:00-14:30 [Sign-up for Byte-sized RSE Season 3 Episode 2: Psychology of data visualisation](https://docs.google.com/forms/d/e/1FAIpQLSfUAt8q4bH4yTLVrPEKg-b_3s5Oha5J3n0kQH4tRQ5jfYCgBg/viewform)
   (NB Year is wrong on Google form, the source indicates its 2025) 
 - NVIDIA Deep Learning Institute [Free training on AI and more](https://www.nvidia.com/en-us/training/)
