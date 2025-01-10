@@ -49,7 +49,8 @@ https://engagementhub.ukri.org/epsrc-events/4daf6868 If you have any questions o
 
 #### Blogs/podcasts
 
-- Blog post: [HPCRSE@RSECon24: 3rd annual meeting of the HPC RSE community](https://excalibur.ac.uk/hpcrsersecon24-3rd-annual-meeting-of-the-hpc-rse-community/)
+- Blog posts:
+  - [HPCRSE@RSECon24: 3rd annual meeting of the HPC RSE community](https://excalibur.ac.uk/hpcrsersecon24-3rd-annual-meeting-of-the-hpc-rse-community/)
 - Podcast: [Meet The Meetup: SheffieldR Users Group \- Interview with Grace Accad from the University of Sheffield](https://player.captivate.fm/episode/2414bcf1-4248-426d-8ef9-dc3f30b0e659/) Grace Accad was interviewed for the Sheffield Digital Podcast back in October talking about the [Sheffield R User Group](https://sheffieldr.github.io/).
 - Podcast: [Code for Thought](https://codeforthought.buzzsprout.com/):
   - [ByteSized RSE: Fun with Containers \- Simon Li](https://codeforthought.buzzsprout.com/1326658/episodes/16133479-en-bytesized-rse-fun-with-containers-simon-li) We're kickstarting a round of new ByteSized RSE online classes and podcast episodes with an episode on containers. Focusing on Podman (used in the online class) and Docker.
