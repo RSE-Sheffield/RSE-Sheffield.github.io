@@ -3,7 +3,7 @@ layout: post
 title: December 2024 Newsletter
 editor: Daniele Tartarini
 slug: 2025-01-09-newsletter
-date: 2024-12-06T12:00:00Z+0100
+date: 2025-01-09T12:00:00Z+0100
 tags:
 category:
 link:
