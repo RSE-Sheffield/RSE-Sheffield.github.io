@@ -2,7 +2,7 @@
 layout: post
 title: December 2024 Newsletter
 editor: Tamora James
-slug: 2024-12-06-newsletter
+slug: 2025-01-09-newsletter
 date: 2024-12-06T12:00:00Z+0100
 tags:
 category:
