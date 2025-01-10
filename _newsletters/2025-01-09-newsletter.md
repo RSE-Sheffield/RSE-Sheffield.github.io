@@ -17,7 +17,6 @@ Welcome to the January 2025 newsletter for the research software community at Th
 
 
 
--
 
 ### Events
 
