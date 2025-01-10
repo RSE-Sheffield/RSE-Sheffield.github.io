@@ -16,7 +16,6 @@ type: text
 Welcome to the January 2025 newsletter for the research software community at The University of Sheffield, featuring news, opportunities, events and training for you.
 
 
-### News
 
 -
 
