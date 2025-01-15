@@ -1,5 +1,8 @@
 ---
+include: true
 title: Is there life on Mars? 
+pi_name: David Jones
+dept:
 rses: [David Bowie, Ziggy Stardust]
 collaborators: [Ken Scott (Trident), RCA]
 completed: true 
@@ -7,13 +10,12 @@ start_date: 06-08-1971
 end_date: 22-06-1973
 image: life_on_mars.png
 keywords: []
-dept:
-pi_name: David Jones
 testimonial:
   author:
   quote:
 funding_sources: []
-short_summary: "Lorem ipsum odor amet, consectetuer adipiscing elit. 
+short_summary:
+  "Lorem ipsum odor amet, consectetuer adipiscing elit. 
   Tempus fusce magnis cursus vitae aliquet mattis arcu.
   Eu conubia diam habitant aliquam platea sollicitudin.
   Viverra auctor vivamus blandit volutpat taciti ex quam nunc.
@@ -27,7 +29,6 @@ publication_links:
     url: http://www.google.com
   - description: Publication example 2
     url: http://www.microsoft.com
-include: true
 ---
 Lorem ipsum odor amet, consectetuer adipiscing elit.
 Porta neque sit facilisis curabitur maecenas interdum natoque donec vitae.

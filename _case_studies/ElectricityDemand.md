@@ -1,19 +1,21 @@
 ---
+include: true
 title: Trustworthy Machine Learning Approaches to Electricity Demand Modelling
+pi_name: Prof Alastair Buckley
+dept: School of Mathematical and Physical Sciences
 rses: [Edwin Brown, Chris Wild, Tamora James]
 collaborators: []
 completed: false
 start_date: 01-02-2024
 end_date: 01-02-2025
-image: Deliverables_Images.png
+image: 
 keywords: [machine-learning, modelling]
-dept: School of Mathematical and Physical Sciences
-pi_name: Prof Alastair Buckley
 testimonial:
   author: Charles Dickens
   quote: It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way—in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only.
 funding_sources: [Innovate UK]
-short_summary: "Modelling the UKs Electricity Demand is challenging due to inconsistent data coverage across the country.
+short_summary:
+  "Modelling the UKs Electricity Demand is challenging due to inconsistent data coverage across the country.
   This project collaborates with industry partners to deliver modelled electricity demand profiles across the country and evaluates the trustworthiness of these machine learning predictions."
 software_link: 
   name: Electricity demand
@@ -21,7 +23,6 @@ software_link:
 publication_links:
   - description: Publication example 1
     url: http://www.google.com
-include: true
 ---
 The energy system of Great Britain is decarbonising towards net-zero largely through increases in low carbon electricity generation. This trend is set to continue rapidly over the next decade. One key barrier that still needs to be overcome to enable effective planning and operations is automatic visibility of electricity demand at high spatial and temporal resolution (half hourly).
 

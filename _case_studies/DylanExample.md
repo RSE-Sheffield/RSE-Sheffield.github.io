@@ -1,5 +1,8 @@
 ---
+include: true
 title: Blowin' in the Wind
+pi_name: Robert Zimmerman
+dept:
 rses: [Bob Dylan]
 collaborators: [John Hammond, Tom Wilson]
 completed: true 
@@ -7,13 +10,12 @@ start_date: 29-10-2023
 end_date: 29-10-2024
 image: The_Freewheelin_Bob_Dylan.jpg
 keywords: []
-dept:
-pi_name: Robert Zimmerman
 testimonial:
   author: Jane Austen
   quote: It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.
 funding_sources: []
-short_summary: "Lorem ipsum odor amet, consectetuer adipiscing elit. 
+short_summary:
+  "Lorem ipsum odor amet, consectetuer adipiscing elit. 
   Tempus fusce magnis cursus vitae aliquet mattis arcu.
   Eu conubia diam habitant aliquam platea sollicitudin.
   Viverra auctor vivamus blandit volutpat taciti ex quam nunc.
@@ -23,7 +25,6 @@ software_link:
   name: 
   url: 
 publication_links: 
-include: true
 ---
 Lorem ipsum odor amet, consectetuer adipiscing elit.
 Porta neque sit facilisis curabitur maecenas interdum natoque donec vitae.
