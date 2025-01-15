@@ -7,23 +7,35 @@ type: text
 
 <style>
     .project {
-        color: #656565;
-        background-color: WhiteSmoke;
-        padding: 10px;
-        border: 1px solid gray;
-        margin: 10px;
+      color: #656565;
+      background-color: WhiteSmoke;
+      padding: 10px;
+      border: 1px solid gray;
+      margin: 10px;
     }
 
     .project > .proj-content {
-        display: grid;
-        grid-template-columns: 1fr 2fr;
-        margin-top: 1rem;
-        column-gap: 25px;
-        justify-items: center;
+      display: grid;
+      grid-template-columns: 1fr 2fr;
+      margin-top: 1rem;
+      column-gap: 25px;
+      justify-items: center;
+      grid-template-areas: "image content"; /* Named areas */
     }
 
     .proj-content > img {
-        max-height: 250px;
+      max-height: 250px;
+      grid-area: image; /* Place image in the 'image' area */
+    }
+
+    .proj-content > div { /* Target the content div */
+      grid-area: content; /* Place content in the 'content' area */
+    }
+
+    .proj-content.no-image {
+      grid-template-columns: 1fr; /* Single column when no image */
+      grid-template-areas: "content"; /* Content takes full width */
+      justify-items: start; /* Align content to the left when full width */
     }
 
     .proj-testimonial {
@@ -71,11 +83,13 @@ The Research Software Engineering team at Sheffield has worked on projects invol
       {%- if project.collaborators.size > 0 -%}
       Collaborator(s): <em>{{ project.collaborators | join: ", " }}</em>
       {%- endif -%}
-      <div class = "proj-content">
-          <img src="/assets/images/project_images/{{ project.image }}">
-          <div>
-            {{ project.content}}
-          </div>
+      <div class="proj-content {% if project.image == blank %}no-image{% endif %}">
+        {% if project.image %}
+        <img src="/assets/images/project_images/{{ project.image }}">
+        {% endif %}
+        <div>
+          {{ project.content }}
+        </div>
       </div>
       <hr/>
       {%- if project.testimonial['quote'] -%}
