@@ -1,0 +1,10 @@
+---
+layout: default
+---
+<meta http-equiv="refresh" content="0; url={{ page.target }}">
+<script type="text/javascript">
+    window.location.href = "{{ page.target }}"
+</script>
+{% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
+<!-- Note: don't tell people to `click` the link, just tell them that it is a link. -->
+If you are not redirected automatically, follow this <a href='{{ page.target }}'>link</a>.
