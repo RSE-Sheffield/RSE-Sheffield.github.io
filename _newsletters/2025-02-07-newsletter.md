@@ -28,14 +28,14 @@ Please complete the survey before the 1/3/2025: [https://rse.shef.ac.uk/survey](
 #### Upcoming Local Events
 
 - 2025-02-12 - [TUoS Data Stewards Network Launch event](https://www.sheffield.ac.uk/library/research-data-management/data-steward-network). Book via [myDevelopment](https://mydevelopment.csod.com/samldefault.aspx?returnurl=%252fDeepLink%252fProcessRedirect.aspx%253fmodule%253dlodetails%2526lo%253d94676f2d-6958-4ce0-ad3f-2a0046d896ff)
-- [Open Research Conversations: Spring 2025](https://www.sheffield.ac.uk/openresearch/events/open-research-conversations)
+- [Open Research Conversations: Spring 2025](https://www.sheffield.ac.uk/openresearch/events/open-research-conversations). Booking required.
   - 2025-02-12: Spotlight on Data Journals
   - 2025-03-05: Open research across different epistemic cultures: principles, practices, dis/junctions
   - 2025-04-23: Early career researchers and open research
   - 2025-05-28: Developing open research indicators - the UKRN Open Research Indicators Project
   - 2025-06-11: Open data, indigenous data sovereignty and the CARE principles
 - 2025-03-03 12:30-13:30: [ReproducibiliTea Journal Club - Discussion of "The replication crisis has led to positive structural, procedural, and community changes &#124; Communications Psychology"](https://reproducibilitea-sheffield.github.io/posts/2025-03-03/)
-- 2025-05-19 \- 2025-05-21: Pint of Science Sheffield - [applications for speakers closes 2025-02-14](Pint of Science 2025)
+- 2025-05-19 \- 2025-05-21: Pint of Science Sheffield - [applications for speakers closes 2025-02-14](https://docs.google.com/forms/d/e/1FAIpQLSc02vK0KpC_NFmLJFKv4HpGSnovr4fUuO1D6_wwmU4fYvZC3A/viewform)
 
 #### Upcoming External Events
 
@@ -105,7 +105,7 @@ The Research and Innovation IT team in IT Services and the Research Software Eng
 
 #### [Call for DISKAH Fellowship Scheme 2025-2026](https://culturedigitalskills.org/diskah-call-25/)
 
-The DISKAH one-year long fellowships provide an opportunity to broaden engagement with large-scale computational methods via state-of-the-art national digital research infrastructure to support A&H research. DISKAH Fellows will gain access to resources and networks to develop their projects, build capacity, co-design training for A&H, as well as contributing to the DISKAH network.
+The DISKAH one-year long fellowships provide an opportunity to broaden engagement with large-scale computational methods via state-of-the-art national digital research infrastructure to support Arts and Humanities (A&H) research. DISKAH Fellows will gain access to resources and networks to develop their projects, build capacity, co-design training for A&H, as well as contributing to the DISKAH network.
 
 Application deadline 2025-03-03
 
