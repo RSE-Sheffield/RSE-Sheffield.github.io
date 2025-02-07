@@ -15,6 +15,14 @@ type: text
 
 Welcome to the February 2025 newsletter for the research software community at The University of Sheffield, featuring news, opportunities, events and training for you.
 
+### University of Sheffield Research Software Survey
+
+Software is increasingly a vital part of research. Both the Research Software Engineering (RSE) and Research IT teams provide services at the university to support researchers in using and developing software. We are investigating how to improve our combined service offerings.
+
+The first step is to understand how software is being used by researchers, and their understanding of available technologies via **a short (e.g. 5 minute) survey**. We want to hear from everyone, not just those who use our existing services regularly! Everyone who completes the survey will have the option to take part in a **prize draw for one of three £50 Amazon vouchers**.
+
+Please complete the survey before the 1/3/2025: [https://rse.shef.ac.uk/survey](https://rse.shef.ac.uk/survey)
+
 ### Events
 
 #### Upcoming Local Events
