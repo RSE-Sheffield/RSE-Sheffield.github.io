@@ -78,7 +78,7 @@ Please complete the survey before the 1/3/2025: [https://rse.shef.ac.uk/survey](
 #### Papers
 
 - Diehl, P., Soneson, C., Kurchin, R. C., Mounce, R. & Katz, D. S., (2025) “The Journal of Open Source Software (JOSS): Bringing Open-Source Software Practices to the Scholarly Publishing Community for Authors, Reviewers, Editors, and Publishers”, Journal of Librarianship and Scholarly Communication 12(2). [doi.org/10.31274/jlsc.18285](https://doi.org/10.31274/jlsc.18285)
-- Brand, C., Brady, D., & Stafford, T. (Lotty) ., Brady, D., & Stafford, T.  (2023, June 27). The Ideological Turing Test: a behavioural measure of open-mindedness and perspective-taking. [https://doi.org/10.31234/osf.io/2e9wn](https://doi.org/10.31234/osf.io/2e9wn)
+- Brand, C., Brady, D., & Stafford, T. (Lotty) ., Brady, D., & Stafford, T.  (2023, June 27). The Ideological Turing Test: a behavioural measure of open-mindedness and perspective-taking. [doi.org/10.31234/osf.io/2e9wn](https://doi.org/10.31234/osf.io/2e9wn)
 - Markowetz, F. Five selfish reasons to work reproducibly. Genome Biol 16, 274 (2015). [https://doi.org/10.1186/s13059-015-0850-7](https://doi.org/10.1186/s13059-015-0850-7)
 - Scarfe P, Watcham K, Clarke A, Roesch E (2024) A real-world test of artificial intelligence infiltration of a university examinations system: A “Turing Test” case study. PLoS ONE 19(6): e0305354. [https://doi.org/10.1371/journal.pone.0305354](https://doi.org/10.1371/journal.pone.0305354)
 
