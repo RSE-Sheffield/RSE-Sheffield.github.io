@@ -41,7 +41,7 @@ Please complete the survey before the 1/3/2025: [https://rse.shef.ac.uk/survey](
 
 - 2025-02-18: [EVERSE Network of Research Software Quality - Launch event (online)](https://indico.cern.ch/event/1501988/)
 - Software Sustainability Institute: [Research Software Practices in the Social Sciences: February & March Schedule](https://www.software.ac.uk/news/research-software-practices-social-sciences-february-march-schedule)
-  - 2025-02-25: WORKSHOP | Reproducible Analysis: Python for Social Scientists
+  - 2025-02-24 \- 2025-02-25: WORKSHOP | [Reproducible Analysis: Python for Social Scientists](https://www.eventbrite.co.uk/e/reproducible-analysis-python-for-social-scientists-tickets-1207809283079?aff=oddtdtcreator)
   - 2025-03-05: TALK | Unfinished Tales of academictwitteR
   - 2025-03-12: TALK | Software, Supporting Staff, and Research: Enhancing Collaboration
   - 2025-03-13: TALK | Managing Environments for Scientists Who Code
