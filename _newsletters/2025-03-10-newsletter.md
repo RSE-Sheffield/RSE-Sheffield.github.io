@@ -38,7 +38,7 @@ Welcome to the March 2025 newsletter for the research software community at The 
 - 2025-03-31 \- 2025-04-01: [NTMPI Workshop](https://www.royce.ac.uk/events/big-data-handling-for-rtps-31mar1apr25/): Big Data Handling for Research Technical Professionals. Deadline to register: 2025-03-21
 - 2025-05-05 \- 2025-05-08: [Sustainable Scientific Software Conference (S3C) [Denver, Colorado, USA]](https://s3c.sandia.gov/)
 - 2025-05-13 \- 2025-05-15: [Collaborations Workshop 2025 at the University of Stirling](https://www.software.ac.uk/workshop/collaborations-workshop-2025-cw25). Registration opens 2025-02-10.
-- 2025-05-14: [Peer Review in the Age of Large Language Models workshop (The University of Bath)](https://cdt-art-ai.ac.uk/news/events/peer-review-in-the-age-of-large-language-models-call-for-abstracts/). Call for abstracts open until 2025-02-14
+- 2025-05-14: [Peer Review in the Age of Large Language Models workshop (The University of Bath)](https://cdt-art-ai.ac.uk/news/events/peer-review-in-the-age-of-large-language-models-call-for-abstracts/).
 - 2025-05-20 \- 2025-05-21: [Nordic RSE](https://nordic-rse.org/nrse2025/)
 - 2025-06-09 \- 2025-06-10: [Open Research Conference University of Manchester](https://www.openresearch.manchester.ac.uk/conference/)
 - 2025-09-08 \- 2025-09-10: [International Conference on AI in Healthcare](https://aiih.cc/mmgenaihealth/)
