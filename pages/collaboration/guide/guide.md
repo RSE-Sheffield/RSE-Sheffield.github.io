@@ -17,14 +17,10 @@ There’s no way we’ve got this right first time! This is a working document a
 
 ## What is a Research Software Engineer? {#What-is-a-RSE}
 
-A Research Software Engineer at the University of Sheffield is a person with a wide software engineering experience in the research context.
-Our team is composed of a variety of people with different backgrounds such as computer science, health, neuroscience, geophysics, environmental science, genetics, astronomy, etc… 
+A Research Software Engineer is a person with a wide software engineering experience in the research context. Our team is composed of a variety of people with different backgrounds such as computer science, health, neuroscience, geophysics, environmental science, genetics, astronomy, etc… 
 Some of our team members also have experience in the private sector developing software in the industrial context. 
 
-Each of our RSEs at TUOS holds a *Researcher* contract. This means that when embedding a member of our team in your project, it is equivalent to hiring a new researcher in your team for a given amount of time.
-Hence, when requesting RSE support at the University, you are starting a collaboration with a researcher specialised in software engineering and RSEs should be seen as valuable research collaborators and not only as software developers.
-As researchers, they follow the [academic career pathway](https://staff.sheffield.ac.uk/reward-recognition/academic-career-pathways) for career development and it is important to understand that they need to follow the same promotion criteria as more classical researchers at the University. 
-
+All RSEs in out team hold a *Researcher* contract, so integrating a RSE into your project is similar to adding another researcher to your team for a specific duration. Our RSEs have extensive experience across various technical domains as well as in research, and their expertise extends far beyond software development. They contribute as research collaborators rather than solely as software developers. Like other researchers at the University they follow the [academic career pathway](https://staff.sheffield.ac.uk/reward-recognition/academic-career-pathways) for career development and must meet the same promotion criteria as more traditional research staff. 
 
 Activities carried out by the members of the RSE team are not limited to collaborating with other researchers.
 Group activities and personal development are important aspects of the RSE team culture. These activities require time and the RSE management team will make sure that RSE can participate in these activities. 
