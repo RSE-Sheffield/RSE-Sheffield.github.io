@@ -24,7 +24,7 @@ Welcome to the March 2025 newsletter for the research software community at The 
   - 2025-05-28: Developing open research indicators - the UKRN Open Research Indicators Project
   - 2025-06-11: Open data, indigenous data sovereignty and the CARE principles
 - 2025-05-14 \- 2025-05-15: [Symposium on sustainable digital futures](https://digitalgood.net/call-for-papers-towards-sustainable-digital-futures-a-two-day-symposium/)
-- 2025-05-19 \- 2025-05-21: Pint of Science Sheffield - [applications for speakers closes 2025-02-14](https://docs.google.com/forms/d/e/1FAIpQLSc02vK0KpC_NFmLJFKv4HpGSnovr4fUuO1D6_wwmU4fYvZC3A/viewform)
+- 2025-05-19 \- 2025-05-21: [Pint of Science Sheffield](https://pintofscience.co.uk/events/sheffield)
 
 #### Upcoming External Events
 
