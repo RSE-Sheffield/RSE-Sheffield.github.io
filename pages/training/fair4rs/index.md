@@ -43,7 +43,7 @@ research software[^3].
 * [Documentation](#documentation), Thursday 6th March 2025
 * [Reproducible computational environments](#reproducible-computational-environments), Monday 24th March 2025
 * [Packaging](#packaging), Friday 11th April 2025
-* [Publishing a software paper in JOSS](#publishing-a-software-paper-in-joss), 2nd Semester, date to be confirmed
+* [Publishing a software paper in JOSS](#publishing-a-software-paper-in-joss), Tuesday 29th April 2025
 
 #### Better software for better research: Introduction to the FAIR training programme
 
@@ -151,13 +151,13 @@ standards exist to package Python projects and take you through each step of the
 
 <!-- (Romain Thomas & Arfon Smith) -->
 
-**Date to be confirmed**
+**Tuesday 29th April 2025, LunchBytes talk, 12.45pm, hybrid, , [Registration link for in-person participants](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/9fa9503c-81a1-4667-af7b-14d62a4b82bc).**
 
 Did you know that you can actually publish a paper about your software? This is an ideal way to get recognition (and
 citation) for the software you have spent countless hours creating. In this course we will walk you through an example
-of submission in the [Journal of open Source software](https://joss.theoj.org/). We will make an example software submission to
+of submission in the [Journal of Open Source Software](https://joss.theoj.org/). We will make an example software submission to
 the journal, and thanks to the collaboration of the Editor in Chief of JOSS (Arfon Smith), we will look at how the
-review process is done. **Date to be decided, it will be during second semester**
+review process is done.
 
 <!-- Summary session (Romain Thomas) -->
 
