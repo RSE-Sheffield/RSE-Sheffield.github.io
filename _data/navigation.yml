@@ -22,7 +22,7 @@
   subitems:
     - title: Training Courses
       url: /training/
-    - title: FAIR<sup>2</sup> for research software
+    - title: FAIR² for research software
       url: /training/fair4rs/
     - title: Researcher Programming Resources
       url: /training/programming
