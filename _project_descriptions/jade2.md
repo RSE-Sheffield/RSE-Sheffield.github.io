@@ -3,8 +3,7 @@ key: jade2
 ---
 
 JADE II was a GPU-based, deep Learning focused, Tier-2 HPC service associated with 19 academic partners including Sheffield.
-JADE II ceased to accept jobs on 2024-11-15 and
-will be decommissioned on 2025-01-06.
+JADE II was decommissioned on 2025-01-06.
 JADE II was the successor of the [JADE](http://www.jade.ac.uk/) system, which was decommissioned in 2021.
 
 RSES has been a local institutional contact and has been involved in
