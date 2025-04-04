@@ -11,7 +11,7 @@ description:
 type: text
 ---
 
-## The University of Sheffield Research Software Engineering Community Newsletter March 2025
+## The University of Sheffield Research Software Engineering Community Newsletter April 2025
 
 Welcome to the April 2025 newsletter for the research software community at The University of Sheffield, featuring news, opportunities, events and training for you.
 
@@ -161,7 +161,7 @@ board](https://society-rse.org/careers/vacancies/).
 The DRPS community is a group for people that support researchers in carrying out research in the digital age. Meetings
 are held monthly, with discussions around events, training and opportunities related to the field. You can join the
 [google group](https://groups.google.com/u/1/a/sheffield.ac.uk/g/digital-research-practice-support-community-group/about) to
-stay informed. Next meeting: Wednesday 26th March 2025 at 2pm.
+stay informed. Next meeting: Wednesday 23rd April 2025 at 2pm.
 
 #### LunchBytes
 
