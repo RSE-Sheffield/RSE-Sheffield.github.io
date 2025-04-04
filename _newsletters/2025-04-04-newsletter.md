@@ -64,6 +64,8 @@ Welcome to the April 2025 newsletter for the research software community at The 
 - [The Value of Open Source Software](https://www.hbs.edu/faculty/Pages/item.aspx?num=65230), Hoffmann, M. et al.
 - [(Pre-print) No Silver Bullets: Why Understanding Software Cycle Time is Messy, Not Magic](https://doi.org/10.48550/arXiv.2503.05040), John C. et al.
 - [(Pre-print) The Introduction of README and CONTRIBUTING Files in Open Source Software Development](https://doi.org/10.48550/arXiv.2502.18440), Gaughan M. et al.
+- [Evidencing the Impact of Research Software Engineers on Arts & Humanities Scholarship](https://zenodo.org/records/15083632) Beavan D. et al.
+- [Towards a National Research Software Engineering Capability in Arts and Humanities Research: a Roadmap](https://zenodo.org/records/15083396) Beavan D. et al.
 
 <!-- #### Research software practice -->
 
