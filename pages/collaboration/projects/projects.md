@@ -73,7 +73,7 @@ The Research Software Engineering team at Sheffield has worked on projects invol
     {% if project.include %}
     <div class="project">
       <h3>{{ project.title }}</h3>
-      <h4>{{ project.pi_name}}</h4>
+      <h4>{{ project.pi_name|join: ", " }}</h4>
       <h5>{{ project.dept}}</h5>
       <hr/>
       <b>{{ project.start_date | date_to_string }} - {{ project.end_date | date_to_string }}</b>
