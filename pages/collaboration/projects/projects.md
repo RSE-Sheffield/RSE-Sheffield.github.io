@@ -63,6 +63,10 @@ Filter: <a class="filter-link selected" href="">All</a> &middot; <a class="filte
             Technology and methods: <em>{{project.tech_methods}}</em>
             <br/>
             RSEs involved: <em>{{project.rses}}</em>
+            <br/>
+            All or part funded by an external partner: <em>{{project.commercial_partner_funding}}</em>
+            <br/>
+            Software licences used: <em>{{project.licences}}</em>
             <hr/>
             {% for project_description in project_descriptions %}
                 {% if project_description.key == project.key %}                    
