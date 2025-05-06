@@ -36,7 +36,7 @@ Welcome to the May 2025 newsletter for the research software community at The Un
 
 - [RSECon25: University of Warwick, Coventry](https://rsecon25.society-rse.org) - 9-11th September 2025
     - [Registration now open](https://rsecon25.society-rse.org/registration/)
-    - [Bursaries to attend are available](https://rsecon25.society-rse.org/bursaries/)
+    - [Applications for bursaries to attend are also open](https://rsecon25.society-rse.org/bursaries/) - Closes: 06 July 2025
 
 
 ### Articles, Blogs, Papers & Podcasts
@@ -45,7 +45,7 @@ Welcome to the May 2025 newsletter for the research software community at The Un
 
 - [HPC Training Landscape in Europe Survey](https://www.research.net/r/European_HPC_training)
 
-#### Blogs/podcasts
+#### Blogs/Podcasts
 
 - [Which programming language should I use? A guide for early-career researchers](https://www.nature.com/articles/d41586-025-01241-6)
 
@@ -62,7 +62,7 @@ Welcome to the May 2025 newsletter for the research software community at The Un
 
 - [Pre-Print: CODE beyond FAIR](https://inria.hal.science/hal-04930405)
 
-#### Research software practice
+#### Research Software Practice
 
 - [Univeristy of Sheffiled Library and Research, Partnerships and Innovation teams publish new guidance on using the Contributor Role Taxonomy (CRediT) to credit research-enabling staff for their contributions to research.](https://www.sheffield.ac.uk/openresearch/home/contributor-role-taxonomy-credit)
 
@@ -78,9 +78,6 @@ Welcome to the May 2025 newsletter for the research software community at The Un
 - [Call for Flexible Fund reviewers: Join our Opportunity Review Panel](https://edihubplus.ac.uk/edi-hub-call-for-reviewers/) - Closes: 6 June 2025
 
 - [Feedback being requested on the draft of the new UKRI data policy (including code and software) and webinar](https://engagementhub.ukri.org/ukri-openresearch/developing-ukris-research-data-policy/) - Closes: 9 July 2025
-
-- [Apply to observe a Wellcome funding advisory committee](https://wellcome.org/grant-funding/guidance/prepare-to-apply/apply-observe-Wellcome-funding-advisory-committee)
-
 
 ### Training
 
