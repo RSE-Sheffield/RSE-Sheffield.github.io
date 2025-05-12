@@ -3,19 +3,21 @@
     - title: Why work with us?
       url: /collaboration/
     - title: How to work with us
-      url: /collaboration/provision/ 
+      url: /collaboration/provision/
     - title: Collaboration Guide
-      url: /collaboration/guide/ 
+      url: /collaboration/guide/
     - title: What We Do
-      url: /collaboration/activities        
+      url: /collaboration/activities
     - title: Costing RSE time
       url: /collaboration/costing
     - title: Projects
       url: /collaboration/projects
     - title: CMI-RSE Projects
-      url: /collaboration/cmi-rse         
+      url: /collaboration/cmi-rse
+    # - title: Call for proposals 2025
+    #   url: /collaboration/RSEtime/2025
     - title: Call for proposals 2024
-      url: /collaboration/RSEtime_call2024
+      url: /collaboration/RSEtime/2024
     - title: Testimonials
       url: /collaboration/testimonials
 - title: "Training & Resources"
