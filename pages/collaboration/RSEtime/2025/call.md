@@ -23,7 +23,7 @@ development of impact case studies, consultancy, training and education delivery
 To support the *One University* vision and the University research community we are pleased to announce for the second
 consecutive year the **2025 RSE collaboration call for proposals**. This initiative aims to facilitate access to RSE
 expertise for researchers who require assistance with software development, optimization, or other computational
-challenges. The 2024 call was very popular and we received XX submissions.
+challenges. The 2024 call was very popular and we received 26 submissions.
 
 #### Objective
 
