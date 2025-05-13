@@ -9,7 +9,7 @@ type: text
 
 #### Introduction
 
-The University of Sheffield recognizes the critical role that Research Software Engineers (RSEs) play in advancing
+The University of Sheffield recognises the critical role that Research Software Engineers (RSEs) play in advancing
 scientific research. The University of Sheffield Research Software Engineering (RSE) team was founded in 2016 by two
 EPSRC RSE fellows to develop research software and collaborate with academics/researchers developing research
 software. The team has since grown to 11 members and has engaged with all faculties at the University.  We have worked
