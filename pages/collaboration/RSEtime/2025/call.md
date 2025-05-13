@@ -17,7 +17,7 @@ with research teams on small internally funded projects but also with large inte
 industry. Areas of expertise within the group include: code optimisation and performance, reproducibility and embedding
 good software engineering practice within a project or team, developing/maintaining infrastructure, data management,
 developing computational workflows, GPU computing and Deep Learning, data science/visualisation, High Performance
-Computing using local/national/international/cloud systems, general software development, software/hardware interface,
+Computing using cloud and local/national/international systems, general software development, software/hardware interface,
 development of impact case studies, consultancy, training and education delivery and support.
 
 To support the *One University* vision and the University research community we are pleased to announce for the second
