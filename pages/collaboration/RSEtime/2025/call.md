@@ -76,8 +76,8 @@ locked file so please make a copy and use it to draft your proposal. When you ar
 
 - **Preferred timeline:** what would be the ideal time distribution of the RSE.
 
-**The application shall be sent to the chair of the panel N. Shephard (see below for contact information) with subject
-'Application for RSE call 2025', as PDF no later than the 28th of June at 5pm.**
+**The application should be submitted via the [form](https://forms.gle/UGFz35xiXXx9GtEDA) no later than the 28th June
+17:00 BST.**
 
 ### Review and selection process
 
