@@ -12,18 +12,24 @@ type: text
 The University of Sheffield recognises the critical role that Research Software Engineers (RSEs) play in advancing
 scientific research. The University of Sheffield Research Software Engineering (RSE) team was founded in 2016 by two
 EPSRC RSE fellows to develop research software and collaborate with academics/researchers developing research
-software. The team has since grown to 11 members and has engaged with all faculties at the University.  We have worked
+software. The team has since grown to 13 members and has engaged with all faculties at the University.  We have worked
 with research teams on small internally funded projects but also with large international consortiums and
-industry. Areas of expertise within the group include: code optimisation and performance, reproducibility and embedding
-good software engineering practice within a project or team, developing/maintaining infrastructure, data management,
-developing computational workflows, GPU computing and Deep Learning, data science/visualisation, High Performance
-Computing using cloud and local/national/international systems, general software development, software/hardware interface,
-development of impact case studies, consultancy, training and education delivery and support.
+industry. Areas of expertise within the group include:
+
+- code optimisation and performance
+- reproducibility and embedding good software engineering practice within a project or team
+- developing computational workflows
+- GPU and High Performance Computing
+- Artificial intelligence/Machine Learning
+- data science/visualisation
+- general software development
+- software/hardware interface
 
 To support the *One University* vision and the University research community we are pleased to announce for the second
 consecutive year the **2025 RSE collaboration call for proposals**. This initiative aims to facilitate access to RSE
 expertise for researchers who require assistance with software development, optimization, or other computational
-challenges. The 2024 call was very popular and we received 26 submissions.
+challenges. The 2024 call was very popular and we received 26 submissions, you can read a summary of last years
+proposals on our [blog](https://rse.shef.ac.uk/blog/2024-09-24-funded-proposals/).
 
 #### Objective
 
