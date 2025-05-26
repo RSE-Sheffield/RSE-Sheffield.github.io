@@ -37,3 +37,7 @@ gem "jekyll-redirect-from"
 gem "jemoji"
 
 gem "webrick", "~> 1.7"
+
+# logger and csv (no longer part of standard library as of Ruby 3.4.0)
+gem "logger"
+gem "csv"
