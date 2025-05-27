@@ -86,7 +86,7 @@ please don't hesitate to get in touch by emailing [rse@sheffield.ac.uk](mailto:r
 [hybrid]: https://github.com/gnomeCreative/HYBIRD
 [ian]: https://www.sheffield.ac.uk/biosciences/academic-staff/people/ian-sudbery
 [neil]: https://rse.shef.ac.uk/contact/neil-shephard/
-[originalproposal]: originalproposal
+[originalproposal]: https://rse.shef.ac.uk/collaboration/RSEtime_call2024/
 [polychron]: https://github.com/bryonymoody/PolyChron
 [rob]: https://rse.shef.ac.uk/contact/robert-chisholm/
 [sudlab]: https://www.sudlab.co.uk/team-1/ian-sudbery

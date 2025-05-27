@@ -21,6 +21,11 @@
     font-style: monospace;
   }
 
+html {
+    /* Notify web browser of the static header, so anchors offset */
+    scroll-padding-top: 80px;
+}
+
 body {
     font-family: 'uos-sans', arial, sans-serif;   
     color: $text-color;

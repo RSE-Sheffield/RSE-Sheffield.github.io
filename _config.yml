@@ -30,6 +30,10 @@ twitter:
   card: summary
 logo: /assets/images/logo/rse-logoonly-stroke-blackborder.png
 
+# Adjust number of blog entries and events on home page
+blog_limit: 3
+event_limit: 4
+
 future: true # required for collections with a date field, where future events are desired.
 collections:
   events:
