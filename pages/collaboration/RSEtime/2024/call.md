@@ -1,6 +1,6 @@
 ---
-title: Call for Proposal - RSE collaboration [Closed]
-permalink: /collaboration/RSEtime_call2024/
+title: Call for Proposal - RSE collaboration 2024 [Closed]
+permalink: /collaboration/RSEtime/2024/
 slug: index
 type: text
 ---
@@ -10,13 +10,14 @@ type: text
 ### Rationale
 
 #### Introduction
-The University of Sheffield recognizes the critical role that Research Software Engineers (RSEs) play in advancing scientific research. The University of Sheffield Research Software Engineering (RSE) team was founded in 2016 by two EPSRC RSE fellows to develop research software and collaborate with academics/researchers developing research software. The team has since grown to 11 members and has engaged with all faculties at the University.  We have worked with research teams on small internally funded projects but also with large international consortiums and industry. Areas of expertise within the group include: code optimisation and performance, reproducibility and embedding good software engineering practice within a project or team, developing/maintaining infrastructure, data management, developing computational workflows, GPU computing and Deep Learning, data science/visualisation, High Performance Computing using local/national/international/cloud systems, general software development, software/hardware interface, development of impact case studies, consultancy, training and education delivery and support. 
+
+The University of Sheffield recognizes the critical role that Research Software Engineers (RSEs) play in advancing scientific research. The University of Sheffield Research Software Engineering (RSE) team was founded in 2016 by two EPSRC RSE fellows to develop research software and collaborate with academics/researchers developing research software. The team has since grown to 11 members and has engaged with all faculties at the University.  We have worked with research teams on small internally funded projects but also with large international consortiums and industry. Areas of expertise within the group include: code optimisation and performance, reproducibility and embedding good software engineering practice within a project or team, developing/maintaining infrastructure, data management, developing computational workflows, GPU computing and Deep Learning, data science/visualisation, High Performance Computing using local/national/international/cloud systems, general software development, software/hardware interface, development of impact case studies, consultancy, training and education delivery and support.
 
 To support the *One University* vision and the University research community we are pleased to announce the **2024 RSE collaboration call for proposals**. This initiative aims to facilitate access to RSE expertise for researchers who require assistance with software development, optimization, or other computational challenges.
 
 #### Objective
-The objective of this call is to offer dedicated RSE collaboration to researchers who may lack the resources or expertise to effectively develop and maintain research software. By providing free access to RSE expertise, we aim to enhance the quality, reliability, and impact of research projects across diverse disciplines.
 
+The objective of this call is to offer dedicated RSE collaboration to researchers who may lack the resources or expertise to effectively develop and maintain research software. By providing free access to RSE expertise, we aim to enhance the quality, reliability, and impact of research projects across diverse disciplines.
 
 #### Eligibility
 
@@ -25,12 +26,12 @@ The objective of this call is to offer dedicated RSE collaboration to researcher
 - Preference may be given to projects with potential high impact or those addressing pressing scientific challenges.
 
 #### Funding and support
+
 For this first call, the team will select two projects.**Selected proposals will receive 6 months @ 45-50% FTE of RSE support**. The start date will be decided by the RSE team based on the project timeline and RSEs availability. The duration of the project will not exceed 6 months but might be shortened with a higher FTE fraction (e.g. 3 months @ 100%). In addition, the collaboration will be continuous and can not be split into multiple shorter, disjointed periods of time.
 
-
 ### Application guidelines
-An application template for this call has been prepared and is available [here](https://docs.google.com/document/d/1yzqS8gS-iCQ4HgM3dBcYEfYsS9E1Zm28CguZrTMl22M/edit?usp=sharing). We kindly request applicants to use this template for the application. This is a locked file so please make a copy to be able to complete it. We give more details about each section below.
 
+An application template for this call has been prepared and is available [here](https://docs.google.com/document/d/1yzqS8gS-iCQ4HgM3dBcYEfYsS9E1Zm28CguZrTMl22M/edit?usp=sharing). We kindly request applicants to use this template for the application. This is a locked file so please make a copy to be able to complete it. We give more details about each section below.
 
 - **Abstract [max 600 words]:** Provide a brief description of the research project, its objectives and the role of software or computation methods in achieving these objectives. As reviewers might not be expert in your field, please make sure that your abstract is accessible to the panel.
 
@@ -63,6 +64,7 @@ The criteria for the selection will be the following:
 Selected projects will be advertised on our website (displaying a short abstract of the project).
 
 ### Important dates
+
 - Deadline for proposal submission: June 28th
 - Notification of Decision: July 22th
 - Earliest start of project: September 1st
@@ -70,6 +72,6 @@ Selected projects will be advertised on our website (displaying a short abstract
 
 **Important Note:** While the P.I. is requested to provide an ideal starting date, the final starting date might be different. Availability of team members depends on other projects and we will make our best to accommodate the requested starting date. We will therefore ask the P.I.s to understand that if their project is selected, the starting date might be different from what they have requested.
 
-
 ### Contact information
+
 For inquiries or assistance with the proposal submission process, please contact Neil Shephard ([n.shephard@sheffield.ac.uk](mailto:n.shephard@sheffield.ac.uk), Chair of the selection Panel) and/or Romain Thomas, ([romain.thomas@sheffield.ac.uk](mailto:romain.thomas@sheffield.ac.uk), Head of the RSE group).
