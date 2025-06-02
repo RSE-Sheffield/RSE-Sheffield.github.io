@@ -20,7 +20,7 @@ Welcome to the June 2025 newsletter for the research software community at The U
 
 - [RSE Call for Proposals 2025](https://rse.shef.ac.uk/collaboration/RSEtime/2025/) is now open.
     - To support the One University vision and the University research community we are pleased to announce for the second consecutive year the 2025 RSE collaboration call for proposals. This initiative aims to facilitate access to RSE expertise for researchers who require assistance with software development, optimization, or other computational challenges.
-    - For this first round we will select two projects that will receive 6 months @ 50% FTE of free RSE collaboration.
+    - For this round we will select two projects that will receive 6 months @ 50% FTE of free RSE collaboration.
     - We received 26 submissions to last year's call, [you can read a summary of the proposals on our blog](https://rse.shef.ac.uk/blog/2024-09-24-funded-proposals/).
     - Closing date for applications is **28th June 2025**.
 
@@ -32,7 +32,7 @@ Welcome to the June 2025 newsletter for the research software community at The U
     - This one-day course will cover essential data wrangling skills in R using the tidyverse (dplyr, tidyr, stringr, etc.).
     - [Find out more and register to attend here](https://docs.google.com/forms/d/e/1FAIpQLSckRcuVI4XYWAFeVmpYNOUkayLD89A7vHefc13X9noqwiJ_Cg/viewform)
 
-- [AI in Health Showcase](https://www.sheffield.ac.uk/machine-intelligence/events/cmi-insigneo-brc-ai-health-showcase-event) - 16 June 2025
+- [AI in Health Showcase](https://www.sheffield.ac.uk/machine-intelligence/events/cmi-insigneo-brc-ai-health-showcase-event) - 16th June 2025
     - A joint showcase event hosted by the [Centre for Machine Intelligence (CMI)](https://www.sheffield.ac.uk/machine-intelligence), [Insigneo](https://www.sheffield.ac.uk/insigneo), and the [NIHR Sheffield Biomedical Research Centre (BRC)](https://www.sheffieldbrc.nihr.ac.uk/).
     - [Find out more and register to attend here](https://docs.google.com/forms/d/e/1FAIpQLSfisLCzhRYAlEupJ51AirbY5QBdVu0ZfODxOnEGSRzlKWVdPw/viewform) - Closes: 11th June 2025
 
@@ -48,12 +48,12 @@ Welcome to the June 2025 newsletter for the research software community at The U
 - [N8CIR RSE Meet-Up: University of York](https://n8cir.org.uk/) - 10th July 2025
 
 - [RSECon25: University of Warwick, Coventry](https://rsecon25.society-rse.org) - 9-11th September 2025
-    - [Registration now open](https://rsecon25.society-rse.org/registration/) - Closes: 31 July 2025
-    - [Applications for bursaries to attend are also open](https://rsecon25.society-rse.org/bursaries/) - Closes: 06 July 2025
+    - [Registration now open](https://rsecon25.society-rse.org/registration/) - Closes: 31st July 2025
+    - [Applications for bursaries to attend are also open](https://rsecon25.society-rse.org/bursaries/) - Closes: 6th July 2025
 
 - [Research Software Asia Australia Conference (RSAA25): Online](https://rseaa.org/) - 17-19th September 2025
 
-- [Open Data Camp 10: University of Edinburgh Business School](https://www.odcamp.uk/) - 27-28 September 2025
+- [Open Data Camp 10: University of Edinburgh Business School](https://www.odcamp.uk/) - 27-28th September 2025
 
 - [The Festival of Hidden REF: Thinktank, Birmingham Science Museum](https://hidden-ref.org/the-festival-of-hidden-ref/) - 7-8th October 2025
     - [Tickets are now available](https://www.eventbrite.com/e/the-festival-of-hidden-ref-tickets-1316006052529?aff=oddtdtcreator)
@@ -69,7 +69,7 @@ Welcome to the June 2025 newsletter for the research software community at The U
 
 - [The Prospects of DAHRSEs in the Midlands for AHRC Doctoral Landscape Awards](https://www.software.ac.uk/blog/prospects-dahrses-midlands-ahrc-doctoral-landscape-awards)
 
-- [The Hidden REF has launched a podcast](https://www.software.ac.uk/news/what-ref-new-podcast-demystify-ref) - [Available on YouTube](https://www.youtube.com/@HiddenREFCampaign/podcasts) and other podcast platforms
+- [The Hidden REF has launched a podcast](https://www.software.ac.uk/news/what-ref-new-podcast-demystify-ref) - [Available on YouTube](https://www.youtube.com/@HiddenREFCampaign/podcasts), [RSS Feed](https://feeds.acast.com/public/shows/6821ead2182b2144af44e923) and other podcast platforms
 
 <!-- #### Papers -->
 
@@ -80,9 +80,9 @@ Welcome to the June 2025 newsletter for the research software community at The U
 ### Opportunities
 - [DARE UK next-generation trusted research environment capabilities](https://www.ukri.org/opportunity/dare-uk-next-generation-trusted-research-environment-capabilities/) - Closes: 5th June 2025
 
-- [Call for Flexible Fund reviewers: Join our Opportunity Review Panel](https://edihubplus.ac.uk/edi-hub-call-for-reviewers/) - Closes: 6 June 2025
+- [Call for Flexible Fund reviewers: Join our Opportunity Review Panel](https://edihubplus.ac.uk/edi-hub-call-for-reviewers/) - Closes: 6th June 2025
 
-- [Feedback being requested on the draft of the new UKRI data policy (including code and software) and webinar](https://engagementhub.ukri.org/ukri-openresearch/developing-ukris-research-data-policy/) - Closes: 9 July 2025
+- [Feedback being requested on the draft of the new UKRI data policy (including code and software) and webinar](https://engagementhub.ukri.org/ukri-openresearch/developing-ukris-research-data-policy/) - Closes: 9th July 2025
 
 - [Nominations for Trustees of the Society of Research Software Engineering are now open](https://society-rse.org/trustee-nominations-and-elections-2025/) - Closes: 24th June 2025
 
