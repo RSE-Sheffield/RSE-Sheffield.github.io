@@ -82,7 +82,7 @@ locked file so please make a copy and use it to draft your proposal. When you ar
 
 - **Preferred timeline:** what would be the ideal time distribution of the RSE.
 
-**The application should be submitted via the [form](https://forms.gle/UGFz35xiXXx9GtEDA) no later than the 28th June
+**The application should be submitted via the [form](https://forms.gle/UGFz35xiXXx9GtEDA) no later than the 27th June
 17:00 BST.**
 
 ### Review and selection process
@@ -113,7 +113,7 @@ attend a short interview with three members of staff from the RSE and DAS. The p
 ### Important dates
 
 - Call Opens: May 26th 2025
-- Deadline for proposal submission: June 28th 2025
+- Deadline for proposal submission: June 27th 2025
 - Shortlisting for interview: July 23rd 2025
 - Interview: July 27th 2025
 - Notification of Decision: July 30th 2025
