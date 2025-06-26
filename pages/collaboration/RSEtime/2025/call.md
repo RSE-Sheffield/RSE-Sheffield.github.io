@@ -5,6 +5,11 @@ slug: index
 type: text
 ---
 
+### Deadline Extended
+
+Mindful that this is a busy time of year for all we have extended the deadline for this call to 17:00 on Friday 4th July
+2025.
+
 ### Rationale
 
 #### Introduction
@@ -113,7 +118,7 @@ attend a short interview with three members of staff from the RSE and DAS. The p
 ### Important dates
 
 - Call Opens: May 26th 2025
-- Deadline for proposal submission: June 28th 2025
+- Deadline for proposal submission: ~~June 28th 2025~~ 17:00 4th July 2025
 - Shortlisting for interview: July 23rd 2025
 - Interview: July 27th 2025
 - Notification of Decision: July 30th 2025
