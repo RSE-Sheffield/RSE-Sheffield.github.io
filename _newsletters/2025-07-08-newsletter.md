@@ -95,7 +95,7 @@ list](https://groups.google.com/a/sheffield.ac.uk/g/rse-group) to hear about new
 
 ### Jobs
 
-- [The University of Glasgow are hiring](https://www.gla.ac.uk/explore/jobs/appointments/researchcomputingrecruitment/)
+- [The University of Glasgow are hiring](https://www.gla.ac.uk/explore/jobs/appointments/researchcomputingrecruitment/) - Deadline: 23rd July 2025
   - a Research Software Engineering Lead
   - 2 Research Computing Infrastructure Managers
   - a Research Data Technical Specialist
