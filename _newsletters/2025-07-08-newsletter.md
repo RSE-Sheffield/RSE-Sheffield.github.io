@@ -43,7 +43,6 @@ Welcome to the July 2025 newsletter for the research software community at The U
 
 - [RSECon25: University of Warwick, Coventry](https://rsecon25.society-rse.org) - 9-11th September 2025
     - [Registration now open](https://rsecon25.society-rse.org/registration/) - Closes: 31st July 2025
-    - [Applications for bursaries to attend are also open](https://rsecon25.society-rse.org/bursaries/) - Closes: 6th July 2025
 
 - [useR! 2025 Virtual conference](https://user2025.r-project.org/) - 1st August 2025
 
