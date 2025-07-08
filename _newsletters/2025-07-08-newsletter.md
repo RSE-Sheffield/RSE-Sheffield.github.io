@@ -78,8 +78,6 @@ Welcome to the July 2025 newsletter for the research software community at The U
 <!-- #### Open research -->
 
 ### Opportunities
-- [Feedback being requested on the draft of the new UKRI data policy (including code and software) and webinar](https://engagementhub.ukri.org/ukri-openresearch/developing-ukris-research-data-policy/) - Closes: 9th July 2025
-
 - [BioFAIR Fellowships](https://biofair.uk/biofair-fellowship-programme/) - Deadline: 25th July 2025
 
 - [HPC-RSE workshop at supercomputing 2025](https://us-rse.org/rse-hpc-2025/call/) - Deadline: 8th August 2025
