@@ -30,6 +30,7 @@ Welcome to the July 2025 newsletter for the research software community at The U
 ### Events
 
 #### Upcoming Local Events
+- [European Defense Tech Hackathon](European Defense Tech Hackathon) - 18th July in Sheffield
 - [DAFNI Annual Conference](https://www.dafni.ac.uk/annual-conference-2025/) - 11th September at The Edge
   - The theme of the 2025 conference is "Bridging the gap between Academia, Government and Industry", including the sub-themes _Climate Resilience_ and _Security and Trusted Research_.
 - Beyond the research article: understanding Sheffield’s non-traditional research outputs
