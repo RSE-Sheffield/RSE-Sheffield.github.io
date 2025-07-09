@@ -98,6 +98,7 @@ list](https://groups.google.com/a/sheffield.ac.uk/g/rse-group) to hear about new
   - 2 Research Computing Infrastructure Managers
   - a Research Data Technical Specialist
   - a Research Data Manager
+- [KCL is looking for a Computational Structural Biologist](https://www.kcl.ac.uk/jobs/118906-computational-structural-biologist) - Deadline 23rd July 2025
 
 
 Check for advertised RSE and RSE-adjacent roles at the [RSE society's vacancies board](https://society-rse.org/careers/vacancies/).
