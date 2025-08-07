@@ -40,10 +40,10 @@ Welcome to the August 2025 newsletter for the research software community at The
 - [Physical Sciences Data Infrastructure Showcase](https://www.psdi.ac.uk/event/psdi-showcase/) - Wednesday, 17th September 2025, The Library of Birmingham, Centenary Square, Birmingham B1 2ND.
 
 - [Research Software Camp: Careers and Skills in Research Software](https://www.software.ac.uk/Events/research-software-camp-careers-and-skills-research-software) - 10th November 2025 to 21st November 2025, Online.
-  - This year’s Research Software Camp, Careers and Skills in Research Software, will be delivered over the course of two weeks as a multi-session event tailored for early-career professionals, recent graduates, and anyone looking to transition into research software roles. Through a combination of hands-on workshops and engaging panel discussions, attendees will gain a strong foundation in both the technical and professional competencies in research software.
+  - This Research Software Camp with the theme of Careers and Skills in Research Software, will be delivered over the course of two weeks as a multi-session event tailored for early-career professionals, recent graduates, and anyone looking to transition into research software roles. Through a combination of hands-on workshops and engaging panel discussions, attendees will gain a strong foundation in both the technical and professional competencies in research software.
 
 - [Research Software Camp : Digital Skills for Research Technical Staff](https://www.software.ac.uk/Events/research-software-camp-digital-skills-research-technical-staff) - 18th November 2025 - 29th November 2025, Online.
-  - Our  Research Software Camp will take place from 18 to 29 November 2024 and the theme is "Research Software Camp: Digital Skills for Research Technical Staff". Over the course of these two weeks, we will delve into the role of technical staff at UK universities, career pathways, and recognition of technical staff contributions to research. 
+  - This Research Software Camp will take place from 18 to 29 November 2024 and the theme is "Research Software Camp: Digital Skills for Research Technical Staff". Over the course of these two weeks, we will delve into the role of technical staff at UK universities, career pathways, and recognition of technical staff contributions to research. 
 
 - [USRSE 2025 Conference](https://us-rse.org/usrse25/)
   - What : USRSE25
