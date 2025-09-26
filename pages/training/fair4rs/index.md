@@ -33,17 +33,17 @@ research software[^3].
 ## Outline of the programme
 
 * [Better software for better research: Introduction to the FAIR training
-  programme](#better-software-for-better-research-introduction-to-the-fair-training-programme)
-* [Software lifecycle planning](#software-lifecycle-planning), date TBC
+  programme](#better-software-for-better-research-introduction-to-the-fair-training-programme), available online
+* [Software lifecycle planning](#software-lifecycle-planning), Autumn semester, date TBC
 * [Version control](#version-control)
   * [Git, GitHub and GitKraken](#git-github-and-gitkraken---from-zero-to-hero), Tuesday 28th October & Tuesday 4th November 2025
-  * [Git With It](#git-with-it), dates TBC
+  * [Git With It](#git-with-it), Spring semester, dates TBC
 * [Software design](#software-design), Wednesday 26th November & Wednesday 3rd December 2025
-* [Testing and Continuous Integration](#testing-and-continuous-integration), date TBC
-* [Documentation](#documentation), date TBC
-* [Reproducible computational environments](#reproducible-computational-environments), date TBC
-* [Packaging](#packaging), date TBC
-* [Publishing a software paper in JOSS](#publishing-a-software-paper-in-joss), date TBC
+* [Testing and Continuous Integration](#testing-and-continuous-integration), Spring semester, date TBC
+* [Documentation](#documentation), Spring semester, date TBC
+* [Reproducible computational environments](#reproducible-computational-environments), Spring semester, date TBC
+* [Packaging](#packaging), Spring semester, date TBC
+* [Publishing a software paper in JOSS](#publishing-a-software-paper-in-joss), Spring semester, date TBC
 
 ## Prerequisites
 
