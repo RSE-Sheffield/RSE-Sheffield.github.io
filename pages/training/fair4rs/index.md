@@ -67,7 +67,7 @@ After completing this modular programme, participants should be able to:
 - Associate their research software with a unique and persistent identifier and use metadata to enhance its findability,
   accessibility and reusability
 - Identify repositories that provide long-term persistent storage for research software
-- Apply approaches such as packaging and containers to enhance the reusability and reproducibility of research software.
+- Apply approaches such as packaging and containers to enhance the reusability and reproducibility of research software
 
 ## Modules
 
