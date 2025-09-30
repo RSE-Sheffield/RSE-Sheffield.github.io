@@ -69,18 +69,6 @@ Python software package predict antineutrino emission spectrum from Spent Nuclea
 the RSE team to improve the open-source nature of the software, packaging, develop a Graphical User Interface (GUI)
 whilst improving compliance with the [FAIR4RS][fair4rs] standards.
 
-### Role of Sociality in Cooperation: Field-based study on the long-tailed tits
-
-[Dr Jennifer Morinay][jennifer] from the Universities School of Biosciences studies co-operative behaviour of
-long-tailed tits in the Rivelin Valley area to help understand the [social and evolutionary dynamics][long_tailed_tits]
-at play within the species. The field work involves the use of cameras at feeders as well as regular field research in
-the valley where ringed birds are observed and their behaviour recorded using GPS positioning. The capture and
-management of this data is crucial to allow spatial and temporal relationships to be identified and analysed but is
-challenging for field researchers who have to balance observing and recording at the same time and the current data
-capture methods are sub-optimal and often result in a significant proportion being removed as they are not considered
-accurate. This proposal seeks support in developing phone based apps to simplify the data capture process for field
-researchers and link the field observations to a database that stores interactions on an individual level.
-
 ## Conclusion
 
 The call for proposals in 2025 has again shown there is a diverse need for RSE support across all departments of the
@@ -95,7 +83,5 @@ please don't hesitate to get in touch by emailing [rse@sheffield.ac.uk](mailto:r
 [danielle]: https://sheffield.ac.uk/mac/people/civil-academic-staff/danielle-densley-tingley
 [elisabeth]: https://sheffield.ac.uk/mps/people/research-staff/liz-kneale
 [fair4rs]: https://rse.shef.ac.uk/training/fair4rs/
-[jennifer]: https://orcid.org/0000-0002-7905-9691
-[long_tailed_tits]: https://sheffield.ac.uk/news/family-first-scientists-reveal-long-tailed-tits-remarkable-family-bonds
 [vania]: https://sheffield.ac.uk/management/people/academic-staff/esib/vania-sena
 [yohda]: https://yhoda.sites.sheffield.ac.uk
