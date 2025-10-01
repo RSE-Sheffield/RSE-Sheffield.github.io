@@ -33,8 +33,8 @@ research software[^3].
 ## Outline of the programme
 
 * [Better software for better research: Introduction to the FAIR training
-  programme](#better-software-for-better-research-introduction-to-the-fair-training-programme), available online
-* [Software lifecycle planning](#software-lifecycle-planning), Autumn semester, date TBC
+  programme](#better-software-for-better-research-introduction-to-the-fair-training-programme), Thursday 16th October
+* [Software lifecycle planning](#software-lifecycle-planning), Thursday 11th December
 * [Version control](#version-control)
   * [Git, GitHub and GitKraken](#git-github-and-gitkraken---from-zero-to-hero), Tuesday 28th October & Tuesday 4th November 2025
   * [Git With It](#git-with-it), Spring semester, dates TBC
@@ -73,7 +73,7 @@ After completing this modular programme, participants should be able to:
 
 ### Better software for better research: Introduction to the FAIR training programme
 
-**Not scheduled (course materials available via links below)**
+**Thursday 16th October, 1-2pm, online**
 
 In this introductory session we will try to understand what the FAIR principles are and why they have emerged. We will
 then introduce some actions on how to apply them to software and present a global review of the training programme.
@@ -82,7 +82,7 @@ then introduce some actions on how to apply them to software and present a globa
 
 ### Software lifecycle planning
 
-**Date TBC, online, [Registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/2d69f5c5-f9e7-46c2-999a-ffb3ed1db028)**
+**Thursday 11th December, 2-5pm, online, [Registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/2d69f5c5-f9e7-46c2-999a-ffb3ed1db028)**
 
 When you start writing software it is often very useful to think about the development process and how you will make your
 software sustainable in the long term. In this module we will introduce important aspects of software development in
