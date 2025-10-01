@@ -34,12 +34,12 @@ research software[^3].
 ## Outline of the programme
 
 * [Better software for better research: Introduction to the FAIR training
-  programme](#better-software-for-better-research-introduction-to-the-fair-training-programme), Thursday 16th October
-* [Software lifecycle planning](#software-lifecycle-planning), Thursday 11th December
+  programme](#better-software-for-better-research-introduction-to-the-fair-training-programme), Thursday 16th October 2025
+* [Software lifecycle planning](#software-lifecycle-planning), Thursday 11th December 2025
 * [Version control](#version-control)
-  * [Git, GitHub and GitKraken](#git-github-and-gitkraken---from-zero-to-hero), Tuesday 28th October & Tuesday 4th November 2025
+  * [Git, GitHub and GitKraken](#git-github-and-gitkraken---from-zero-to-hero), Tuesday 28th October 2025 & Tuesday 4th November 2025
   * [Git With It](#git-with-it), Spring semester, dates TBC
-* [Software design](#software-design), Wednesday 26th November & Wednesday 3rd December 2025
+* [Software design](#software-design), Wednesday 26th November 2025 & Wednesday 3rd December 2025
 * [Testing and Continuous Integration](#testing-and-continuous-integration), Spring semester, date TBC
 * [Documentation](#documentation), Spring semester, date TBC
 * [Reproducible computational environments](#reproducible-computational-environments), Spring semester, date TBC
@@ -74,7 +74,7 @@ After completing this modular programme, participants should be able to:
 
 ### Better software for better research: Introduction to the FAIR training programme
 
-**Thursday 16th October, 1-2pm, online**
+**Thursday 16th October 2025, 1-2pm, online**
 
 In this introductory session we will try to understand what the FAIR principles are and why they have emerged. We will
 then introduce some actions on how to apply them to software and present a global review of the training programme.
@@ -83,7 +83,7 @@ then introduce some actions on how to apply them to software and present a globa
 
 ### Software lifecycle planning
 
-**Thursday 11th December, 2-5pm, online, [Registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/2d69f5c5-f9e7-46c2-999a-ffb3ed1db028)**
+**Thursday 11th December 2025, 2-5pm, online, [Registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/2d69f5c5-f9e7-46c2-999a-ffb3ed1db028)**
 
 When you start writing software it is often very useful to think about the development process and how you will make your
 software sustainable in the long term. In this module we will introduce important aspects of software development in
@@ -98,7 +98,7 @@ The version control module has two distinct training sessions: one for beginners
 
 #### Git, GitHub and GitKraken - From Zero to Hero
 
-**Tuesday 28th October & Tuesday 4th November 2025 (mornings only), in person, [Registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/d4d09f67-097b-4451-8ddb-86cb90636c06)**
+**Tuesday 28th October 2025 & Tuesday 4th November 2025 (mornings only), in person, [Registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/d4d09f67-097b-4451-8ddb-86cb90636c06)**
 
 If you’ve never heard of or used version control and Git before this is the course for you. We start by introducing
 version control and exploring how it can be beneficial to researchers, then we introduce some useful tools and get
@@ -122,7 +122,7 @@ future self!).
 
 ### Software design
 
-**Wednesday 26th November & Wednesday 3rd December 2025 (afternoons only), in person, [Registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/d3c2cca5-d894-44b6-a79b-e93dea7a7c94)**
+**Wednesday 26th November 2025 & Wednesday 3rd December 2025 (afternoons only), in person, [Registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/d3c2cca5-d894-44b6-a79b-e93dea7a7c94)**
 
 The way you write your code will have a massive impact on how easy it is to maintain. During this course we will learn
 how to create maintainable, readable and reusable code. Using examples and exercises, we will see that
