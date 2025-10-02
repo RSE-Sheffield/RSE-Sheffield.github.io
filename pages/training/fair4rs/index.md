@@ -74,7 +74,7 @@ After completing this modular programme, participants should be able to:
 
 ### Better software for better research: Introduction to the FAIR training programme
 
-**Thursday 16th October 2025, 1-2pm, online**
+**Thursday 16th October 2025, 1-2pm, online, [Registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/60f213bd-340d-4035-8754-a15c9567d620)**
 
 In this introductory session we will try to understand what the FAIR principles are and why they have emerged. We will
 then introduce some actions on how to apply them to software and present a global review of the training programme.
