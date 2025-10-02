@@ -31,7 +31,7 @@ convened to assess the applications and decide which should receive support. The
 applications and had a challenging decisions to make as to which projects to support as the quality of applications was
 again high.
 
-![Distribution of applications by faculty](/assets/images/g2025-09-30-funded-proposals-faculty.png "Bar chart showing the distribution
+![Distribution of applications by faculty](/assets/images/2025-09-30-funded-proposals-faculty.png "Bar chart showing the distribution
 of applications by faculty. Engineering had 14 applications, Science 10, Social Sciences 4, Health 6 and 1 applicaiton
 from AMRC")
 
