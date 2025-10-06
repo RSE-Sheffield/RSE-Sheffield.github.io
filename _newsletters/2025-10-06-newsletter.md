@@ -11,20 +11,16 @@ description:
 type: text
 ---
 
-## The University of Sheffield Research Software Engineering Community Newsletter September 2025
+## The University of Sheffield Research Software Engineering Community Newsletter October 2025
 
-Welcome to the September 2025 newsletter for the research software community at The University of Sheffield, featuring
+Welcome to the October 2025 newsletter for the research software community at The University of Sheffield, featuring
 news, opportunities, events and training for you.
-
-# Sheffield Research Software Newsletter — September 2025
-
-Welcome to the September edition of the Sheffield Research Software Newsletter. Below you'll find updates on news, events, opportunities, and more from across the research software community.
 
 ---
 
 ## News
 
-**[Open Science boosts citation rates in France](https://www.ouvrirlascience.fr/for-the-first-time-on-a-scale-of-a-country-france-a-study-demonstrates-that-open-science-could-increase-the-chances-for-researchers-to-be-cited)**
+- **[Open Science boosts citation rates in France](https://www.ouvrirlascience.fr/for-the-first-time-on-a-scale-of-a-country-france-a-study-demonstrates-that-open-science-could-increase-the-chances-for-researchers-to-be-cited)**
 *Ouvrir la Science* released a national-scale study showing that Open Science practices (like sharing preprints, data, and software) are positively correlated with citation counts.
 
 - **[Policy Principles for Using GenAI in Research and Innovation](https://students.sheffield.ac.uk/research-ethics/ethics-integrity/grip/principles-using-genai-research-and-innovation)**
