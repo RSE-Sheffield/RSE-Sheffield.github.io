@@ -75,37 +75,45 @@ Welcome to the September edition of the Sheffield Research Software Newsletter. 
 
 - **RSE Sheffield Blog Updates:**
   - **[Funded RSE Projects 2025](https://rse.shef.ac.uk/blog/2025-09-30-funded-proposals/)**
+    Following the success of the 2024 call for proposals the RSE team in Sheffield put a call out a second call for proposals earlier this year. The call was open to all researchers across the university and successful applicants would receive dedicated support from an RSE Team member for upto 50% FTE for a period of six months.
   - **[RSECon25 Conference Recap](https://rse.shef.ac.uk/blog/2025-09-29-rsecon25/)**
+  A few weeks ago, the Research Software Engineering (RSE) community gathered at the University of Warwick for RSECon25 (9–11 September 2025). The conference brought together hundreds of RSEs, researchers, and collaborators to share their work on software, best practices, exchange ideas, and build the future of research software.
 
 - **[Telling Our Success Stories: Recognising Contributions in Research Software - Software Sunstainability Institute](https://www.software.ac.uk/blog/telling-our-success-stories-recognising-contributions-research-software)**
+Recognising and supporting contributions to research software is an ongoing challenge across disciplines.
 
-- **[Code That Works Isn’t Always Code That Lasts](https://www.software.ac.uk/blog/code-works-isnt-always-code-lasts)**
+- **[Code That Works Isn’t Always Code That Lasts - Software Sunstainability Institute](https://www.software.ac.uk/blog/code-works-isnt-always-code-lasts)**
   A reflection on sustainable software practices from SSI’s CW team.
 
-- **[N8 CIR Summer 2025 Internships](https://n8cir.org.uk/news/summer-2025-internships/)**
+- **[N8 CIR Summer 2025 Internships](https://n8cir.org.uk/news/summer-2025-internships/)** On Friday 12 September, many of our summer interns came together at The National Centre for Early Music in York to showcase their work.
 
 - **[Migrating to Positron from VS Code](https://positron.posit.co/migrate-vscode.html)**
-
+This document outlines how to migrate from VS Code to Positron, a data science-focused editor built on Code OSS.
 - **[How to Write Docstrings in Python – Real Python](https://realpython.com/documenting-python-code/)**
-
+Welcome to your complete guide to documenting Python code. Whether you’re documenting a small script or a large project, whether you’re a beginner or a seasoned Pythonista, this guide will cover everything you need to know.
 ### Papers
 
 - **[IEEE CiSE Special Issue: *Research Software Engineering: Discovering and Bridging Knowledge Gaps*](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=11119471&punumber=5992)**
+Special issue of IEEE journal Computing in Science & Engineering - Research Software Engineering: Discovering and Bridging Knowledge Gaps
 
-- **[White Paper: *The Challenges and Prospects of the Intersection of Humanities and Data Science*](https://www.turing.ac.uk/sites/default/files/2020-08/humanities_and_data_science_white_paper_-_updated.pdf)**
+- **[White Paper: *The Challenges and Prospects of the Intersection of Humanities and Data Science*](https://www.turing.ac.uk/sites/default/files/2020-08/humanities_and_data_science_white_paper_-_updated.pdf)** Exploring interdisciplinary collaboration between humanities and data science to advance research and best practices.
 
 - **[How Scientists Use Large Language Models to Program](https://doi.org/10.1145/3706598.3713668)**
+Examining how scientists use code-generating AI models and their impact on research software practices.
 
 - **[METR Study: *Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity*](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/)**
+We conduct a randomized controlled trial (RCT) to understand how early-2025 AI tools affect the productivity of experienced open-source developers working on their own repositories. Surprisingly, we find that when developers use AI tools, they take 19% longer than without—AI makes them slower.
 
 - **[Pre-print: *Hamster: A Large-Scale Study and Characterization of Developer-Written Tests*](https://arxiv.org/abs/2509.26204)**
+A large-scale study revealing gaps between developer-written tests and automated test generation capabilities.
 
 ### Podcasts
 
 - **[Bring Your Own Classroom – with The Code Refinery](https://codeforthought.buzzsprout.com/1326658/episodes/17679373-en-bring-your-own-classroom-with-the-code-refinery)**
+The Code Refinery has been training researchers on how to write better software since 2016. In this episode Samantha Wittke, Richard Darst and Radovan Bast tell us how it all started, how CodeRefinery is run and what's in store for the future.
 
 - **[Meet the 2025 SSI Fellows](https://codeforthought.buzzsprout.com/1326658/episodes/17708943-en-meet-the-2025-ssi-fellows-with-mike-simpson-esther-plomp-niko-sirmpilatze)**
-
+Better Software - Better Research! This is the mission of the Software Sustainability Institute (SSI) since 2010. To support this, the SSI has been running a fellowship programme. In this episode you'll hear from 3 different fellows from the 2025 cohort about their motivation and plans for their fellowship.
 ---
 
 ## Opportunities
@@ -132,12 +140,13 @@ Welcome to the September edition of the Sheffield Research Software Newsletter. 
 
 ## Jobs
 
-- **[Open Research Manager – University of Sheffield](https://jobsite.sheffield.ac.uk/job/Open-Research-Manager)**
+- **[Open Research Manager – University of Sheffield](https://jobsite.sheffield.ac.uk/job/Open-Research-Manager/1223-en_GB)** Working across the University and nationally with the UK Reproducibility Network (UKRN), you will support projects to accelerate open research practices, embed an open research culture, and enhance research transparency, reliability, and reproducibility.
 
 - **[AI Research Engineer / Senior AI Research Engineer – CMI, Sheffield](https://jobsite.sheffield.ac.uk/job/AI-Research-Engineer-Senior-AI-Research-Engineer/1615-en_GB)**
+You will join the AI Research Engineering team within the University of Sheffield’s Centre for Machine Intelligence, supporting the UKRI-EPSRC funded UK Open Multimodal AI Network’s flagship Open Multimodal AI Benchmark (OMAIB) initiative. OMAIB develops open, community-driven datasets, evaluation protocols, baseline models, and deployment-centric tasks to accelerate multimodal AI solutions for Tomorrow’s Engineering Research Challenges.
 
 - **[Research Software Engineer Assistant – Durham University](https://durham.taleo.net/careersection/du_ext/jobdetail.ftl?job=25001274)**
-  *Grade 6 (£31,236–£37,694), fixed term 2.5 years*
+
 
 
 ### Community
