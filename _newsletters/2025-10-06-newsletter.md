@@ -144,7 +144,7 @@ Better Software - Better Research! This is the mission of the Software Sustainab
 
 - **[Open Research Manager – University of Sheffield](https://jobsite.sheffield.ac.uk/job/Open-Research-Manager/1223-en_GB)** Working across the University and nationally with the UK Reproducibility Network (UKRN), you will support projects to accelerate open research practices, embed an open research culture, and enhance research transparency, reliability, and reproducibility.
 
-- **[AI Research Engineer / Senior AI Research Engineer – CMI, Sheffield](https://jobsite.sheffield.ac.uk/job/AI-Research-Engineer-Senior-AI-Research-Engineer/1615-en_GB)**
+- **[AI Research Engineer / Senior AI Research Engineer – CMI, Sheffield](https://jobsite.sheffield.ac.uk/job/AI-Research-Engineer-Senior-AI-Research-Engineer/1615-en_GB)** (Closes 22nd October)
 You will join the AI Research Engineering team within the University of Sheffield’s Centre for Machine Intelligence, supporting the UKRI-EPSRC funded UK Open Multimodal AI Network’s flagship Open Multimodal AI Benchmark (OMAIB) initiative. OMAIB develops open, community-driven datasets, evaluation protocols, baseline models, and deployment-centric tasks to accelerate multimodal AI solutions for Tomorrow’s Engineering Research Challenges.
 
 - **[Research Software Engineer Assistant – Durham University](https://durham.taleo.net/careersection/du_ext/jobdetail.ftl?job=25001274)**
