@@ -45,7 +45,7 @@ news, opportunities, events and training for you.
 
 - **[Collaborations Workshop 2026 (CW26)](https://www.software.ac.uk/news/registration-now-open-collaborations-workshop-2026)**
   *28–30 April 2026, ICC Belfast*
-  Hybrid event on “Strengthening the Research Software Community.” Registration opens 15 September.
+  Hybrid event on “Strengthening the Research Software Community.”
 
 - **[ReproducibiliTea Webinars](https://docs.google.com/document/d/1xuFoCPYjMzKZ2kpBVBgXHVTPXl8stghAA9e6sVWdaEA)**
   *15–16 October 2025*
