@@ -92,6 +92,7 @@ Recognising and supporting contributions to research software is an ongoing chal
 This document outlines how to migrate from VS Code to Positron, a data science-focused editor built on Code OSS.
 - **[How to Write Docstrings in Python – Real Python](https://realpython.com/documenting-python-code/)**
 Welcome to your complete guide to documenting Python code. Whether you’re documenting a small script or a large project, whether you’re a beginner or a seasoned Pythonista, this guide will cover everything you need to know.
+
 ### Papers
 
 - **[IEEE CiSE Special Issue: *Research Software Engineering: Discovering and Bridging Knowledge Gaps*](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=11119471&punumber=5992)**
