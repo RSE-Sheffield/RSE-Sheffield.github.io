@@ -172,7 +172,7 @@ software, data, and infrastructure.
 
 More information on future LunchBytes will be coming out over the coming months, so sign up to the [RSE mailing
 list](https://groups.google.com/a/sheffield.ac.uk/g/RSE-group) if you'd like to learn more about research software and
-associated practices, or get in contact with [Farhad](mailto:farhad.allian@sheffield.ac.uk) if you would like to share
+associated practices, or get in contact with [Norbert](mailto:n.g.gyenge@sheffield.ac.uk) if you would like to share
 what you know at an upcoming session!
 
 
