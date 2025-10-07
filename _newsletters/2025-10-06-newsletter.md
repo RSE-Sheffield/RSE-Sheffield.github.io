@@ -58,7 +58,7 @@ news, opportunities, events and training for you.
 - **[7th Annual UK HPC & AI Conference](https://dirac.ac.uk/hpc-ai-advisory-council-7th-annual-uk-conference/)**
   *14–15 October 2025, Leicester*
   Focused on “Trustworthy Compute,” featuring talks on AI safety, sustainable infrastructure, and more.
-  
+
 - **[ReproducibiliTea Webinars](https://docs.google.com/document/d/1xuFoCPYjMzKZ2kpBVBgXHVTPXl8stghAA9e6sVWdaEA)**
   *15–16 October 2025*
   Two sessions exploring peer review and its diversification.
@@ -97,7 +97,7 @@ Welcome to your complete guide to documenting Python code. Whether you’re docu
 
 - **[IEEE CiSE Special Issue: *Research Software Engineering: Discovering and Bridging Knowledge Gaps*](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=11119471&punumber=5992)**
 Special issue of IEEE journal Computing in Science & Engineering - Research Software Engineering: Discovering and Bridging Knowledge Gaps
-  - Including "[Better Architecture, Better Software, Better Research](https://ieeexplore.ieee.org/document/11017520/)" (Co-authored by Robert from Sheffield RSE)
+  - Including "[Better Architecture, Better Software, Better Research](https://ieeexplore.ieee.org/document/11017520/)" (Co-authored by Robert Chisholm from the Sheffield RSE team).
 
 - **[White Paper: *The Challenges and Prospects of the Intersection of Humanities and Data Science*](https://www.turing.ac.uk/sites/default/files/2020-08/humanities_and_data_science_white_paper_-_updated.pdf)** Exploring interdisciplinary collaboration between humanities and data science to advance research and best practices.
 
@@ -143,7 +143,7 @@ Better Software - Better Research! This is the mission of the Software Sustainab
 ## Jobs
 
 - **[Open Research Manager – University of Sheffield](https://jobsite.sheffield.ac.uk/job/Open-Research-Manager/1223-en_GB)** (Closes 22nd October)
-  Working across the University and nationally with the UK Reproducibility Network (UKRN), you will support projects to accelerate open research practices, embed an open research culture, and enhance research transparency, reliability, and reproducibility. 
+  Working across the University and nationally with the UK Reproducibility Network (UKRN), you will support projects to accelerate open research practices, embed an open research culture, and enhance research transparency, reliability, and reproducibility.
 
 - **[AI Research Engineer / Senior AI Research Engineer – CMI, Sheffield](https://jobsite.sheffield.ac.uk/job/AI-Research-Engineer-Senior-AI-Research-Engineer/1615-en_GB)** (Closes 22nd October)
 You will join the AI Research Engineering team within the University of Sheffield’s Centre for Machine Intelligence, supporting the UKRI-EPSRC funded UK Open Multimodal AI Network’s flagship Open Multimodal AI Benchmark (OMAIB) initiative. OMAIB develops open, community-driven datasets, evaluation protocols, baseline models, and deployment-centric tasks to accelerate multimodal AI solutions for Tomorrow’s Engineering Research Challenges.
