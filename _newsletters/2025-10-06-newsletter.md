@@ -124,7 +124,7 @@ Better Software - Better Research! This is the mission of the Software Sustainab
 - **[DisCouRSE Flexible Fund (Round 1)](https://discourse-network.github.io/funding/round-1)** (Closes 14th November)
   Funding for community-led projects to build leadership and connections across digital research technical roles. Volunteer to review applications [here](https://forms.office.com/pages/responsepage.aspx?id=_oivH5ipW0yTySEKEdmlwpofFxJMT1lCmEeJoickqdhURTFLUjE5NVc5WVdVSjI0OEk0NlY4RldFUSQlQCN0PWcu).
 
-- **[dRTP Skills Funding Opportunities](https://drtp-skills.ac.uk/funds/)**
+- **[dRTP Skills Funding Opportunities](https://drtp-skills.ac.uk/funds/)** (Opens *soon*)
   Support for Research Technical Professionals developing digital research skills.
 
 - **[Access to High Performance Computing Facilities (Autumn 2025)](https://www.ukri.org/opportunity/access-to-high-performance-computing-facilities-autumn-2025/)**
