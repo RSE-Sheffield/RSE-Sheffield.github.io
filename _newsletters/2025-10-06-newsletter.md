@@ -133,7 +133,6 @@ Better Software - Better Research! This is the mission of the Software Sustainab
 - **[AI for Environmental Science Phase One](https://www.ukri.org/opportunity/artificial-intelligence-ai-for-environmental-science-phase-one)**
   UKRI funding call for innovative uses of AI and data science in environmental research.
 
-- **[SSI Call for Writers and Reviewers](https://www.software.ac.uk/news/call-writers-and-reviewers-news-guides-ai-green-computing-and-edi)**
   Paid opportunities to contribute to guides on AI, Green Computing, and EDI (£600 for writing, £210 for reviewing).
 
 - **[SSI DisCouRSE Network+ £10k Fund](https://www.software.ac.uk/news/discourse-network-launches-ps10k-fund)**
