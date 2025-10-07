@@ -97,6 +97,7 @@ Welcome to your complete guide to documenting Python code. Whether you’re docu
 
 - **[IEEE CiSE Special Issue: *Research Software Engineering: Discovering and Bridging Knowledge Gaps*](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=11119471&punumber=5992)**
 Special issue of IEEE journal Computing in Science & Engineering - Research Software Engineering: Discovering and Bridging Knowledge Gaps
+  - Including "[Better Architecture, Better Software, Better Research](https://ieeexplore.ieee.org/document/11017520/)" (Co-authored by Robert from Sheffield RSE)
 
 - **[White Paper: *The Challenges and Prospects of the Intersection of Humanities and Data Science*](https://www.turing.ac.uk/sites/default/files/2020-08/humanities_and_data_science_white_paper_-_updated.pdf)** Exploring interdisciplinary collaboration between humanities and data science to advance research and best practices.
 
