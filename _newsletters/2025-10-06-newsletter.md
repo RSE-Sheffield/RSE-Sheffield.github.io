@@ -130,19 +130,20 @@ Better Software - Better Research! This is the mission of the Software Sustainab
 - **[Access to High Performance Computing Facilities (Autumn 2025)](https://www.ukri.org/opportunity/access-to-high-performance-computing-facilities-autumn-2025/)** (Closes 6th November)
   Apply for computational support across the UKRI remit.
 
-- **[AI for Environmental Science Phase One](https://www.ukri.org/opportunity/artificial-intelligence-ai-for-environmental-science-phase-one)**
+- **[AI for Environmental Science Phase One](https://www.ukri.org/opportunity/artificial-intelligence-ai-for-environmental-science-phase-one)** (Closes 11th December)
   UKRI funding call for innovative uses of AI and data science in environmental research.
 
   Paid opportunities to contribute to guides on AI, Green Computing, and EDI (£600 for writing, £210 for reviewing).
 
-- **[SSI DisCouRSE Network+ £10k Fund](https://www.software.ac.uk/news/discourse-network-launches-ps10k-fund)**
+- **[SSI DisCouRSE Network+ £10k Fund](https://www.software.ac.uk/news/discourse-network-launches-ps10k-fund)** (Closes 14th November)
   Funding for projects fostering leadership and collaboration among digital research professionals.
 
 ---
 
 ## Jobs
 
-- **[Open Research Manager – University of Sheffield](https://jobsite.sheffield.ac.uk/job/Open-Research-Manager/1223-en_GB)** Working across the University and nationally with the UK Reproducibility Network (UKRN), you will support projects to accelerate open research practices, embed an open research culture, and enhance research transparency, reliability, and reproducibility.
+- **[Open Research Manager – University of Sheffield](https://jobsite.sheffield.ac.uk/job/Open-Research-Manager/1223-en_GB)** (Closes 22nd October)
+  Working across the University and nationally with the UK Reproducibility Network (UKRN), you will support projects to accelerate open research practices, embed an open research culture, and enhance research transparency, reliability, and reproducibility. 
 
 - **[AI Research Engineer / Senior AI Research Engineer – CMI, Sheffield](https://jobsite.sheffield.ac.uk/job/AI-Research-Engineer-Senior-AI-Research-Engineer/1615-en_GB)** (Closes 22nd October)
 You will join the AI Research Engineering team within the University of Sheffield’s Centre for Machine Intelligence, supporting the UKRI-EPSRC funded UK Open Multimodal AI Network’s flagship Open Multimodal AI Benchmark (OMAIB) initiative. OMAIB develops open, community-driven datasets, evaluation protocols, baseline models, and deployment-centric tasks to accelerate multimodal AI solutions for Tomorrow’s Engineering Research Challenges.
@@ -162,7 +163,7 @@ You can join the google group
 [here](https://groups.google.com/u/1/a/sheffield.ac.uk/g/digital-research-practice-support-community-group/about) to
 stay informed.
 
-The next meeting is scheduled for 2pm on Wednesday 2025-09-17.
+The next meeting is scheduled for 2pm on Wednesday 2025-10-15.
 
 #### LunchBytes
 
@@ -174,12 +175,6 @@ list](https://groups.google.com/a/sheffield.ac.uk/g/RSE-group) if you'd like to 
 associated practices, or get in contact with [Farhad](mailto:farhad.allian@sheffield.ac.uk) if you would like to share
 what you know at an upcoming session!
 
-##### LunchBytes needs YOU
-
-LunchBytes are organised by and for the research software community at The University of Sheffield. If you'd like to
-curate a session on a topic or present something, get in touch by emailing
-[lunchbytes-organisers-group@sheffield.ac.uk](mailto:lunchbytes-organisers-group@sheffield.ac.uk) or suggest topics
-[on the jamboard](https://jamboard.google.com/d/1-51cRf0pwZl8O10CnLeJGAqKcnbww-QGaYjszFK-H38/).
 
 ### Support
 
