@@ -127,7 +127,7 @@ Better Software - Better Research! This is the mission of the Software Sustainab
 - **[dRTP Skills Funding Opportunities](https://drtp-skills.ac.uk/funds/)** (Opens *soon*)
   Support for Research Technical Professionals developing digital research skills.
 
-- **[Access to High Performance Computing Facilities (Autumn 2025)](https://www.ukri.org/opportunity/access-to-high-performance-computing-facilities-autumn-2025/)**
+- **[Access to High Performance Computing Facilities (Autumn 2025)](https://www.ukri.org/opportunity/access-to-high-performance-computing-facilities-autumn-2025/)** (Closes 6th November)
   Apply for computational support across the UKRI remit.
 
 - **[AI for Environmental Science Phase One](https://www.ukri.org/opportunity/artificial-intelligence-ai-for-environmental-science-phase-one)**
