@@ -47,17 +47,22 @@ news, opportunities, events and training for you.
   *28–30 April 2026, ICC Belfast*
   Hybrid event on “Strengthening the Research Software Community.”
 
-- **[ReproducibiliTea Webinars](https://docs.google.com/document/d/1xuFoCPYjMzKZ2kpBVBgXHVTPXl8stghAA9e6sVWdaEA)**
-  *15–16 October 2025*
-  Two sessions exploring peer review and its diversification.
+- **[Cambridge RSE Seminar Series](https://talks.cam.ac.uk/show/index/69831)**
+  *Starts 9 October 2025 (online)*
+  A diverse series of talks covering various research software topics.
+      - 9th October - [Chunked file formats for massive imaging datasets](https://talks.cam.ac.uk/talk/index/234385)
+      - 16th October - [SerialKVM - the cheapest Software KVM](https://talks.cam.ac.uk/talk/index/234388)
+      - 23rd October - [Building Reproducible Machine Learning Pipelines for inference of Galaxy Properties at Scale](https://talks.cam.ac.uk/talk/index/234391)
+      - 30th October - [Portable AI software with PyTorch and Lightning](https://talks.cam.ac.uk/talk/index/234394)
 
 - **[7th Annual UK HPC & AI Conference](https://dirac.ac.uk/hpc-ai-advisory-council-7th-annual-uk-conference/)**
   *14–15 October 2025, Leicester*
   Focused on “Trustworthy Compute,” featuring talks on AI safety, sustainable infrastructure, and more.
+  
+- **[ReproducibiliTea Webinars](https://docs.google.com/document/d/1xuFoCPYjMzKZ2kpBVBgXHVTPXl8stghAA9e6sVWdaEA)**
+  *15–16 October 2025*
+  Two sessions exploring peer review and its diversification.
 
-- **[Cambridge RSE Seminar Series](https://talks.cam.ac.uk/show/index/69831)**
-  *Starts 9 October 2025 (online)*
-  A diverse series of talks covering various research software topics.
 
 - **[Bennett Institute Medicines Symposium](https://www.bennett.ox.ac.uk/events/2025-bennett-institute-medicines-symposium/)**
   *10–11 December 2025, Oxford*
