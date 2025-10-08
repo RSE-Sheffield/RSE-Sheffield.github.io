@@ -63,7 +63,7 @@ type: text
 
 </style>
 
-The Research Software Engineering team at Sheffield has worked on projects involving a variety of methods and technologies, below are some of the projects we have either worked on are are currently working on:
+The Research Software Engineering team at Sheffield has worked on projects involving a variety of methods and technologies, below are some of the projects we have either worked on or are currently working on:
 
 {% assign today_date = 'now' | date: '%s' %}
 {% assign projects = site.case_studies %}
@@ -99,8 +99,20 @@ The Research Software Engineering team at Sheffield has worked on projects invol
       </blockquote>
       <hr/>
       {%- endif -%}
-      <b>Funding source(s): </b> {{ project.funding_sources | join: ", " }}
-      <br/>
+
+      <b>Funding source(s): </b> 
+      <ul>
+      {% for source in project.funding_sources %}
+      <li> 
+      {%- if source['url'] -%}
+      <a href = "{{ link['url'] }}">{{ source['name'] }}</a>
+      {%- else -%}
+      {{ source['name'] }}
+      {%- endif -%}
+      </li>
+      {% endfor %}
+      </ul>
+
       <b>Software: </b><a href = "{{ project.software_link['url']}}">{{ project.software_link['name'] }}</a>
       <br/>
       <b>Publication(s):</b>
