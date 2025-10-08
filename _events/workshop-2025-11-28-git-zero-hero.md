@@ -16,7 +16,7 @@ speaker: "RSE Team"
 **This is an introductory course, teaching the git and GitHub skills required to manage research code over its
 development lifecycle. These skills are essential for collaborative research teams.**
 
-*This event is for University of Sheffield researchers and research students only.
+*This event is for University of Sheffield researchers and research students only.*
 
 **Prerequisite skills:** Some programming experience.
 
