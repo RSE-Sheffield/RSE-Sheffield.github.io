@@ -13,7 +13,10 @@ keywords: [python, geoscience, volcano, imaging]        # Array of keywords for 
 testimonial:              # Testimonal quote from project. Not required.
   author: Tom Pering
   quote: "Having a RSE work on a project means that we can focus and concentrate on the scientific goals knowing that we have an expert in coding (software) to deal with that side of things ... we have certainly learnt more about the best practice of developing software and how to do so rigorously so there is a bit of a long lived legacy too. In short, in terms of software provision, we wouldn't have got to this level of technology readiness as quickly."
-funding_sources: [Knowledge Exchange call, KE HEIF, ISPF institutional support grant]       # Array of funding sources. Not required.
+funding_sources:          # Array of funding sources. Not required.
+  - name: Knowledge Exchange call
+  - name: KE HEIF
+  - name: ISPF institutional support grant
 short_summary:            # Single paragraph summary of project. Not required.
 software_link: 
   name: PyCamPermanent
