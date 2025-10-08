@@ -120,7 +120,7 @@ attend a short interview with three members of staff from the RSE and DAS. The p
 - Call Opens: May 26th 2025
 - Deadline for proposal submission: ~~June 28th 2025~~ 17:00 4th July 2025
 - Shortlisting for interview: July 23rd 2025
-- Interview: July 27th 2025
+- Interview: July 28th 2025
 - Notification of Decision: July 30th 2025
 - Earliest start of project: September 1st 2025
 - Latest start of project: February 3rd 2026
