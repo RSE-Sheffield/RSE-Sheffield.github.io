@@ -3,7 +3,7 @@ layout: post
 title: October 2025 Newsletter
 editor: Edwin Brown
 slug: 2025-10-06-newsletter
-date: 2025-10-01T12:00:00Z+0100
+date: 2025-10-06T12:00:00Z+0100
 tags:
 category:
 link:
@@ -39,13 +39,17 @@ news, opportunities, events and training for you.
   *8 October, The Wave*
   Open to anyone with an interest in AI and data, featuring discussions on AI bias and updates from the CMI. Application for attending has now closed.
 
+- **[Sheffield ReproducibiliTea Journal Club](https://reproducibilitea-sheffield.github.io/posts/2025-10-21/)**
+  *21st October, Room 12.1.01 (Level 1) of the Charles Street Building (Sheffield Hallam University*
+  Dr Ester Ehiyazaryan-White, Senior Lecturer in Childhood Studies will go through the paper [The Conundrum of Sharing Research Data](https://onlinelibrary.wiley.com/doi/abs/10.1002/asi.22634) and lead discussion.
+
 ---
 
 ### Upcoming External Events
 
 - **[Collaborations Workshop 2026 (CW26)](https://www.software.ac.uk/news/registration-now-open-collaborations-workshop-2026)**
   *28–30 April 2026, ICC Belfast*
-  Hybrid event on “Strengthening the Research Software Community.”
+  Hybrid event on "_Strengthening the Research Software Community_" run by the Software Sustainability Institute.
 
 - **[Cambridge RSE Seminar Series](https://talks.cam.ac.uk/show/index/69831)**
   *Starts 9 October 2025 (online)*
@@ -57,7 +61,7 @@ news, opportunities, events and training for you.
 
 - **[7th Annual UK HPC & AI Conference](https://dirac.ac.uk/hpc-ai-advisory-council-7th-annual-uk-conference/)**
   *14–15 October 2025, Leicester*
-  Focused on “Trustworthy Compute,” featuring talks on AI safety, sustainable infrastructure, and more.
+  Focused on “_Trustworthy Compute_”, featuring talks on AI safety, sustainable infrastructure, and more.
 
 - **[ReproducibiliTea Webinars](https://docs.google.com/document/d/1xuFoCPYjMzKZ2kpBVBgXHVTPXl8stghAA9e6sVWdaEA)**
   *15–16 October 2025*
@@ -76,7 +80,7 @@ news, opportunities, events and training for you.
 
 - **RSE Sheffield Blog Updates:**
   - **[Funded RSE Projects 2025](https://rse.shef.ac.uk/blog/2025-09-30-funded-proposals/)**
-    Following the success of the 2024 call for proposals the RSE team in Sheffield put a call out a second call for proposals earlier this year. The call was open to all researchers across the university and successful applicants would receive dedicated support from an RSE Team member for upto 50% FTE for a period of six months.
+    Following the success of the 2024 call for proposals the RSE team in Sheffield put a second call for proposals earlier this year. This was open to all researchers across the university and successful applicants would receive dedicated support from an RSE Team member for upto 50% FTE for a period of six months.
   - **[RSECon25 Conference Recap](https://rse.shef.ac.uk/blog/2025-09-29-rsecon25/)**
   A few weeks ago, the Research Software Engineering (RSE) community gathered at the University of Warwick for RSECon25 (9–11 September 2025). The conference brought together hundreds of RSEs, researchers, and collaborators to share their work on software, best practices, exchange ideas, and build the future of research software.
 
