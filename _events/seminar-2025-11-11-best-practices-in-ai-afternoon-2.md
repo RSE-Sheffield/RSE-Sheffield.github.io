@@ -24,7 +24,7 @@ We are excited to present the second Best Practices in AI Afternoon which will b
 Design Studio 01 (D05), Pam Liversidge Building, Broad Lane, S1 3JD**. 
 
 The afternoon will consist of talks and walkthroughs on best practices for research, design, development, 
-and deployment of AI. A focus on practical aspects such as tooling, optimisation, profiling, tips and tricks to 
+and deployment of AI. It will focus on practical aspects such as tooling, optimisation, profiling, tips and tricks to 
 supercharge AI in your research!
 
 **Buffet lunch and coffee will be provided.**
