@@ -36,7 +36,7 @@ news, opportunities, events and training for you.
 ### Upcoming Events in Sheffield
 
 - **[Sheffield ReproducibiliTea Journal Club](https://reproducibilitea-sheffield.github.io/posts/2025-10-21/)**
-  *21st October, Room 12.1.01 (Level 1) of the Charles Street Building (Sheffield Hallam University*
+  *21st October, Room 12.1.01 (Level 1) of the Charles Street Building (Sheffield Hallam University).*
   Dr Ester Ehiyazaryan-White, Senior Lecturer in Childhood Studies will go through the paper [The Conundrum of Sharing Research Data](https://onlinelibrary.wiley.com/doi/abs/10.1002/asi.22634) and lead discussion.
 
 ---
@@ -50,7 +50,6 @@ news, opportunities, events and training for you.
 - **[Cambridge RSE Seminar Series](https://talks.cam.ac.uk/show/index/69831)**
   *Starts 9 October 2025 (online)*
   A diverse series of talks covering various research software topics.
-      - 9th October - [Chunked file formats for massive imaging datasets](https://talks.cam.ac.uk/talk/index/234385)
       - 16th October - [SerialKVM - the cheapest Software KVM](https://talks.cam.ac.uk/talk/index/234388)
       - 23rd October - [Building Reproducible Machine Learning Pipelines for inference of Galaxy Properties at Scale](https://talks.cam.ac.uk/talk/index/234391)
       - 30th October - [Portable AI software with PyTorch and Lightning](https://talks.cam.ac.uk/talk/index/234394)
