@@ -35,10 +35,6 @@ news, opportunities, events and training for you.
 
 ### Upcoming Events in Sheffield
 
-- **[Centre for Machine Intelligence (CMI) Town Hall](https://sheffield.ac.uk/machine-intelligence/events/cmi-town-hall)**
-  *8 October, The Wave*
-  Open to anyone with an interest in AI and data, featuring discussions on AI bias and updates from the CMI. Application for attending has now closed.
-
 - **[Sheffield ReproducibiliTea Journal Club](https://reproducibilitea-sheffield.github.io/posts/2025-10-21/)**
   *21st October, Room 12.1.01 (Level 1) of the Charles Street Building (Sheffield Hallam University*
   Dr Ester Ehiyazaryan-White, Senior Lecturer in Childhood Studies will go through the paper [The Conundrum of Sharing Research Data](https://onlinelibrary.wiley.com/doi/abs/10.1002/asi.22634) and lead discussion.
