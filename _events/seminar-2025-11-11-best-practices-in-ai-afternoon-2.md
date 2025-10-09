@@ -20,7 +20,7 @@ slides_url:
 
 
 ## Overview
-We are excited to present the second Best Practices in AI Afternoon which will be held on the **11th of November, 12-5pm at
+We are excited to present the Best Practices in AI Afternoon 2 which will be held on the **11th of November, 12-5pm at
 Design Studio 01 (D05), Pam Liversidge Building, Broad Lane, S1 3JD**. 
 
 The afternoon will consist of talks and walkthroughs on best practices for research, design, development, 
