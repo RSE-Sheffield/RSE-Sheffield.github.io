@@ -39,7 +39,7 @@ news, opportunities, events and training for you.
   *21st October, Room 12.1.01 (Level 1) of the Charles Street Building (Sheffield Hallam University).*
   Dr Ester Ehiyazaryan-White, Senior Lecturer in Childhood Studies will go through the paper [The Conundrum of Sharing Research Data](https://onlinelibrary.wiley.com/doi/abs/10.1002/asi.22634) and lead discussion.
 
-- **[The 2nd Best Practices in AI event is confirmed on the 11th November 12:00-17:00](https://rse.shef.ac.uk/events/seminar-2025-11-11-best-practices-in-ai-afternoon-2.html) The afternoon will consist of talks and walkthroughs on best practices for research, design, development, and deployment of AI. It will focus on practical aspects such as tooling, optimisation, profiling, tips and tricks to supercharge AI in your research!
+- [**The 2nd Best Practices in AI event is confirmed on the 11th November 12:00-17:00**](https://rse.shef.ac.uk/events/seminar-2025-11-11-best-practices-in-ai-afternoon-2.html) The afternoon will consist of talks and walkthroughs on best practices for research, design, development, and deployment of AI. It will focus on practical aspects such as tooling, optimisation, profiling, tips and tricks to supercharge AI in your research!
 
 ---
 
@@ -52,9 +52,9 @@ news, opportunities, events and training for you.
 - **[Cambridge RSE Seminar Series](https://talks.cam.ac.uk/show/index/69831)**
   *Starts 9 October 2025 (online)*
   A diverse series of talks covering various research software topics.
-      - 16th October - [SerialKVM - the cheapest Software KVM](https://talks.cam.ac.uk/talk/index/234388)
-      - 23rd October - [Building Reproducible Machine Learning Pipelines for inference of Galaxy Properties at Scale](https://talks.cam.ac.uk/talk/index/234391)
-      - 30th October - [Portable AI software with PyTorch and Lightning](https://talks.cam.ac.uk/talk/index/234394)
+    - 16th October - [SerialKVM - the cheapest Software KVM](https://talks.cam.ac.uk/talk/index/234388)
+    - 23rd October - [Building Reproducible Machine Learning Pipelines for inference of Galaxy Properties at Scale](https://talks.cam.ac.uk/talk/index/234391)
+    - 30th October - [Portable AI software with PyTorch and Lightning](https://talks.cam.ac.uk/talk/index/234394)
 
 - **[7th Annual UK HPC & AI Conference](https://dirac.ac.uk/hpc-ai-advisory-council-7th-annual-uk-conference/)**
   *14–15 October 2025, Leicester*
