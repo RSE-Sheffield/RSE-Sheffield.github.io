@@ -39,6 +39,8 @@ news, opportunities, events and training for you.
   *21st October, Room 12.1.01 (Level 1) of the Charles Street Building (Sheffield Hallam University).*
   Dr Ester Ehiyazaryan-White, Senior Lecturer in Childhood Studies will go through the paper [The Conundrum of Sharing Research Data](https://onlinelibrary.wiley.com/doi/abs/10.1002/asi.22634) and lead discussion.
 
+- **[The 2nd Best Practices in AI event is confirmed on the 11th November 12:00-17:00](https://rse.shef.ac.uk/events/seminar-2025-11-11-best-practices-in-ai-afternoon-2.html) The afternoon will consist of talks and walkthroughs on best practices for research, design, development, and deployment of AI. It will focus on practical aspects such as tooling, optimisation, profiling, tips and tricks to supercharge AI in your research!
+
 ---
 
 ### Upcoming External Events
