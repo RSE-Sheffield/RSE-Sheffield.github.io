@@ -67,7 +67,6 @@ news, opportunities, events and training for you.
   *15–16 October 2025*
   Two sessions exploring peer review and its diversification.
 
-
 - **[Bennett Institute Medicines Symposium](https://www.bennett.ox.ac.uk/events/2025-bennett-institute-medicines-symposium/)**
   *10–11 December 2025, Oxford*
   Annual symposium hosted by the Bennett Institute for Applied Data Science.
@@ -94,6 +93,7 @@ Recognising and supporting contributions to research software is an ongoing chal
 
 - **[Migrating to Positron from VS Code](https://positron.posit.co/migrate-vscode.html)**
 This document outlines how to migrate from VS Code to Positron, a data science-focused editor built on Code OSS.
+
 - **[How to Write Docstrings in Python – Real Python](https://realpython.com/documenting-python-code/)**
 Welcome to your complete guide to documenting Python code. Whether you’re documenting a small script or a large project, whether you’re a beginner or a seasoned Pythonista, this guide will cover everything you need to know.
 
