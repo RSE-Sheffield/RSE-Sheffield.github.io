@@ -2,7 +2,7 @@
 layout: post
 title: October 2025 Newsletter
 editor: Edwin Brown
-slug: 2025-10-01-newsletter
+slug: 2025-10-06-newsletter
 date: 2025-10-01T12:00:00Z+0100
 tags:
 category:
