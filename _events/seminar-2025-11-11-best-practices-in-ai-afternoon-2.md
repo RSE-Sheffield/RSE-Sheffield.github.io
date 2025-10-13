@@ -30,7 +30,7 @@ supercharge AI in your research!
 **Buffet lunch and coffee will be provided.**
 
 This event is held in collaboration between the **[Research Software Engineering (RSE)](https://rse.shef.ac.uk/)** group 
-and the [**Centre for Machine Intelligence (CMI)**](https://www.sheffield.ac.uk/machine-intelligence) in the University of Sheffield.
+and the [**Centre for Machine Intelligence (CMI)**](https://www.sheffield.ac.uk/machine-intelligence) in the University of Sheffield, and the [N8 CIR](https://n8cir.org.uk/).
 
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSffLAlb0TlLsyj4u6dbtSAlI7NbsUUVgu_cI9BQim2Rlgnt3g/viewform?usp=header" class="btn btn-primary"><strong>Register for the event</strong></a>
