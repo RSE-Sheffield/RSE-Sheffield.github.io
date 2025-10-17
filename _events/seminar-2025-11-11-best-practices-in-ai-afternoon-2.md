@@ -50,7 +50,7 @@ Register to attend in-person or remotely</strong></a>
 <div class="row">
     <div class="col-2 event-time">12:05-13:00</div> 
     <div class="col">
-      <div class="title">Community Lightening talk & Networking Lunch</div>
+      <div class="title">Community lightning talk & Networking Lunch</div>
       <div class="speaker">Speakers from the community</div>
       <div class="description">Lightning talks from members of the community followed by buffet lunch, soft drinks and coffee.</div>
     </div>
