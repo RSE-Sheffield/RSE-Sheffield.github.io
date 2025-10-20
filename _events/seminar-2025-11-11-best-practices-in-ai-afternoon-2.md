@@ -79,9 +79,11 @@ and international research systems.</div>
 <div class="row">
     <div class="col-2 event-time">14:30-15:00</div> 
     <div class="col">
-      <div class="title">Agentic AI (Provisional Title)</div>
+      <div class="title">Creating your own agent with LangChain</div>
       <div class="speaker">Shaun Donnelly</div>
-      <div class="description">Description TBC</div>
+      <div class="description">A walkthrough covering how to create an agent, equip it with tools, and demonstrate 
+their use, including multiple tool interactions. The session also explains how the agent decides which tools 
+to use and when, illustrating the decision-making process behind effective tool-driven agents.</div>
     </div>
   </div>
 <div class="row">
@@ -129,6 +131,7 @@ and international research systems.</div>
 ## Speaker Profiles
 
 ### Denis Newman-Griffis, Senior Lecturer, University of Sheffield
+
 Denis Newman-Griffis (they/them) is a Senior Lecturer in the School of Computer Science and Theme Lead for AI-Enabled
 Research in the University of Sheffield's Centre for Machine Intelligence. Their award-winning work investigates the
 responsible use of AI for human flourishing, including pioneering work on responsible AI in research funding and
@@ -137,9 +140,15 @@ disability. Denis is a British Academy Innovation Fellow and a former Research F
 Institute.
 
 ### Shaun Donnelly, Research Software Engineer, University of Sheffield
-Profile coming soon.
+
+Shaun is a research software engineer at the University of Sheffield with a background in astrochemistry and 
+AI-driven computational chemistry. Since joining the RSE team in December 2024, he's been exploring 
+how large language models can transform research workflows, from Retrieval Augmented Generation to tool-driven 
+Agentic AI. He's particularly interested in exploring how to make research software more accessible by the use of 
+natural language as an interface between researchers, their software and their research workflows.
 
 ## Registration
+
 **In-person spaces are limited, please register to attend!**
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSffLAlb0TlLsyj4u6dbtSAlI7NbsUUVgu_cI9BQim2Rlgnt3g/viewform?usp=header" class="btn btn-primary"><strong>
