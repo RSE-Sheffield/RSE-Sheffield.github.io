@@ -12,40 +12,28 @@
     xl @media (min-width:1200px)
 */
 
-:root {
-    --uos-deep-violet: #440099;
-    --uos-deep-violet-90: #541aa4;
-    --uos-deep-violet-80: #6431ac;
-    --uos-deep-violet-70: #784bb6;
-    --uos-powder-blue: #9ADBE8;
-    --uos-powder-blue-90: #9fddea;
-    --uos-powder-blue-80: #ade0eb;
-    --uos-powder-blue-70: #b6e6ee;
-    --uos-midnight-black: #131E29;
-    --uos-midnight-black-90: #2c3841;
-    --uos-midnight-black-80: #424a54;
-    --uos-midnight-black-70: #57636b;
-    --uos-teal: #005A8F;
-    --uos-aqua: #00BBCC;
-    --uos-mint-green: #00CE7C;
-    --uos-coral: #E7004C;
-    --uos-peach: #FF9664;
-}
-
 body {
-    color: var(--uos-midnight-black-90)
+    color: var(--uos-midnight-black)
 }
 
 .header{
-    background-color: var(--white);
+    background-color: var(--uos-wave-white);
 }
 
 .promo{
     background: var(--uos-midnight-black);
 }
 
+.promo h1,
+.promo h2,
+.promo h3,
+.promo h4,
+.promo h5 {
+    color: var(--uos-wave-white);
+}
+
 .footer{
-    background: var(--uos-midnight-black);
+    background: var(--uos-brand-violet);
 }
 
 /* Sizes for h1 to h6, overriding bootstrap css */
@@ -57,11 +45,11 @@ h5, .h5 { font-size: 1.25rem; }
 h6, .h6 { font-size: 1rem; }
 
 h1, h2, h3, h4, h5, h6  {
-    color: var(--uos-deep-violet);
+    color: var(--uos-brand-violet);
 }
 
 a {
-    color: var(--uos-deep-violet);
+    color: var(--uos-brand-violet);
 }
 
 .nav-link{
@@ -78,11 +66,11 @@ a {
 }
 
 .contact-inner a:hover {
-    color: var(--uos-deep-violet-70);
+    color: var(--uos-brand-violet-70);
 }
 
 .contact-inner h2 {
-    color: var(--white) !important;
+    color: var(--uos-wave-white) !important;
 }
 
 .seminar-section {
@@ -91,8 +79,8 @@ a {
     border-bottom: 1px solid #ddd;
 }
 
-/* Make all images behave fluidly by default. I.e. not wider than their parent with a maintained aspect ratio. */
-img {
+/* Make all images behave fluidly by default, unless they have a width or height attribute. I.e. not wider than their parent with a maintained aspect ratio. */
+img:not([width]):not([height]) {
     max-width: 100%;
     height: auto;
 }
@@ -105,7 +93,7 @@ img {
 
 /* Visually distinguish past events.*/
 .event-item-previous a {
-    color: var(--uos-deep-violet-70);
+    color: var(--uos-brand-violet-70);
 }
 .event-item-previous > div >img {
     opacity: 0.40;
@@ -124,7 +112,7 @@ figcaption {
     margin-left: -2px;
     margin-right: -2px;
     margin-bottom: 0px;
-    background-color: var(--white)fff;
+    background-color: var(--uos-wave-white);
     display: inline-block;
 }
 .pagination a:hover {
@@ -219,37 +207,44 @@ blockquote {
 }
 
 .btn-primary:hover {
-    background-color: var(--uos-deep-violet);
-    border-color: var(--uos-deep-violet);
-    color: var(--white);
+    background-color: var(--uos-brand-violet);
+    border-color: var(--uos-brand-violet);
+    color: var(--uos-wave-white);
 }
 
 .btn-success {
-    background-color: var(--uos-mint-green);
-    border-color: var(--uos-mint-green);
+    background-color: var(--uos-spearmint);
+    border-color: var(--uos-spearmint);
     color: var(--uos-midnight-black);
 }
 
 .btn-success:hover {
-    background-color: var(--uos-deep-violet);
-    border-color: var(--uos-deep-violet);
-    color: var(--white);
+    background-color: var(--uos-brand-violet);
+    border-color: var(--uos-brand-violet);
+    color: var(--uos-wave-white);
 }
 
 .sm-a {
-    color: var(--uos-powder-blue);
+    color: var(--uos-pale-violet);
     text-decoration: underline;
+}
+
+a:hover {
+    color: var(--uos-brand-violet);
 }
 
 .sm-a:hover{
     color: var(--uos-powder-blue);
 }
 
-a:hover {
-    color: var(--uos-deep-violet);
-}
-
 /* project page tag cloud */
 a.tag-link.selected, a.filter-link.selected{
     font-weight: bold;
+}
+
+
+/* square images  */
+.img-square-crop {
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
 }
