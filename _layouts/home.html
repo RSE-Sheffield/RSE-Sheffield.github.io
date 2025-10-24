@@ -10,94 +10,438 @@ layout: default
 {{ site.event_limit | default: 10 }}
 {% endcapture %}
 
+{% assign newsletters = site.newsletters | sort: 'date' | reverse %}
+{% assign newsletter_0 = newsletters[0] %}
+{% assign blog_post_0 = site.posts[0] %}
+{% assign blog_post_1 = site.posts[1] %}
+
 <!-- ******PROMO****** -->
 <section id="promo" class="promo section offset-header">
-    <div class="container text-center">
-        <div class="row">
-            <div class="col-sm-4 text-center">
-                <img src="/assets/images/logo/rse-logoonly-stroke.png" height="150px" width="150px" alt="RSE hero element"/>
-            </div>
-            <div class="col-sm-8 justify-content-center align-self-center">
-                <h1 style="color: white">
-                    University of Sheffield <br>Research Software Engineering
-                </h1>
-		<p>Supported by the <a class="sm-a" href="https://www.sheffield.ac.uk/cs">School of Computer Science</a>, <a class="sm-a" href="https://www.sheffield.ac.uk/departments/it-services">IT Services</a> and the <a class="sm-a" href="https://www.sheffield.ac.uk/mps">School of Mathematical and Physical Sciences</a>.</p>
-            </div>
-        </div>
-    </div>
-    <!--//container-->
     <div class="container">
-        <div class="row mt-3 mb-3 justify-content-center align-self-center">
-            <div class="w-100 text-center">
-                <p>
+        <div class="row">
+            <div class="col-12 col-lg-8 justify-content-center align-self-center">
+                <h2>
+                    University of Sheffield <br>Research Software Engineering
+                </h2>
+                
+                <!-- <p>
                     The Research Software Engineering Team collaborates with researchers over all areas of University of Sheffield research, and is a hub for the RSE community.
+                </p> -->
+                <p class="lead">
+                    Through comprehensive programmes and collaborations, the RSE team’s objective is to lead, support and guide the research community in leveraging software and data engineering to produce excellent research.
+                </p>
+                <p class="lead">
+                    As data and research methods are becoming more complex and more computationally demanding, our mission is to ensure that all researchers and aspiring researchers have access to the necessary expertise to be proficient in developing and maintaining advanced research software tools
+                </p>
+                <hr class="bg-uos-powder-violet"/>
+                <p class="">
+                    The RSE team is supported by the <a href="https://www.sheffield.ac.uk/cs">School of Computer Science</a>, <a href="https://www.sheffield.ac.uk/departments/it-services">IT Services</a> and the <a href="https://www.sheffield.ac.uk/mps">School of Mathematical and Physical Sciences</a>.
                 </p>
             </div>
-        </div>
-        <div class="row mt-3 mb-3">
-           <div class="col-md text-center">
-                <h2 style="color: white">Projects</h2>
-                <p><a class="sm-a" href="mailto:rse@sheffield.ac.uk">Add fractional RSE time from the team to your funding application <br> (email rse@sheffield.ac.uk).</a></p>
-            </div>
-            <div class="col-md text-center">
-                <h2 style="color: white">FAIR² for research software</h2>
-                <p><a class="sm-a" href="/training/fair4rs">Dedicated training on how to apply FAIR principles to research software, enabling you to make your research more open.</a></p>
-            </div>
-
-	    <div class="col-md text-center">
-		<h2 style="color: white">Code Clinics</h2>
-		<p><a class="sm-a" href="/support/code-clinic">Work with an expert for 30 mins on your code.</a></p>
-	    </div>
-
-        </div>
-        <div class="row mt-3 mb-3">
-            <div class="col-md text-center">
-                <h2 style="color: white">Community</h2>
-                <p>Connect with us and researchers who code on <a class="sm-a" href="https://fosstodon.org/@RSE_Sheffield" rel="me">Mastodon</a>,
-                    <a class="sm-a" href="https://twitter.com/intent/follow?original_referer=http%3A%2F%2F127.0.0.1%3A4000%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5ERSE_Sheffield&region=follow_link&screen_name=RSE_Sheffield">Twitter</a>,
-                    <a class="sm-a" href="/community/slack">Slack</a>,
-                    <a class="sm-a" href="https://github.com/orgs/RSE-Sheffield">GitHub</a> or the RSE Community
-                    <a class="sm-a" href="https://groups.google.com/a/sheffield.ac.uk/g/rse-group">mailing list</a>.</p>
+            <div class="d-none d-lg-flex col-lg-4 mb-lg-2 text-center align-items-center justify-content-center">
+                <img src="/assets/images/logo/rse-logoonly-stroke.png" height="200px" width="200px" alt="RSE hero element"/>
             </div>
         </div>
     </div>
 </section>
-<!--//promo-->
+
+<!-- <section class="section">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <style type="text/css">
+                    /* Move this. */
+                    /* Make all slides the same fixed height. Probably better to just have a fixed image size for this if using images */
+                    #home-carousel .carousel-item {
+                        height: 400px;
+                        width: 100%;
+                        background: var(--uos-lavender-50);
+                    }
+                    #home-carousel .carousel-item > img {
+                        height: 400px;
+                        width: 100%;
+                        object-fit: cover;
+                    }
+                    #home-carousel .carousel-item .carousel-caption {
+                        color: #000;
+                        background-color: var(--uos-lavender-50);
+                    }
+                    button.carousel-control-prev,
+                    button.carousel-control-next {
+                        border: 0;
+                        background: transparent;
+                    }
+                    .carousel-control-next,
+                    .carousel-control-prev,
+                    .carousel-indicators {
+                        filter: invert(100%);
+                    }
+                </style>
+                <div id="home-carousel" class="carousel slide" data-ride="carousel" data-interval="10000" data-pause="false">
+                    <ol class="carousel-indicators">
+                        <li data-target="#home-carousel" data-slide-to="0" class="active"></li>
+                        <li data-target="#home-carousel" data-slide-to="1"></li>
+                        <li data-target="#home-carousel" data-slide-to="2"></li>
+                        <li data-target="#home-carousel" data-slide-to="3"></li>
+                        <li data-target="#home-carousel" data-slide-to="4"></li>
+                    </ol>
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <img src="/assets/images/2025-09-29-RSECon25.png" class="d-block" alt="...">
+                            <div class="carousel-caption d-block">
+                                <h5>Foo</h5>
+                                <p>Some representative placeholder content for the first slide.</p><a href="#" class="btn btn-uos-electric-violet">Click me</a>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="carousel-caption d-block">
+                                <h5>Events</h5>
+                                <p>We do events...</p>
+                                <p>Hard to include the next upcoming event in a slide here on a static site. Probably should just have generic text and then could use js to insert an event if there are any in the future?</p>
+                                
+                                <a href="/events/" class="btn btn-dark">All Events</a>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="carousel-caption d-block">
+                                <h5>Blog: {{ blog_post_0.title }}</h5>
+                                <p>
+                                    {% if blog_post_0.author %}
+                                    <span>
+                                        <img class="align-self-center mr-2" src="/assets/images/icons/icons8-person-50.png" width="20" alt="Posted By"/>
+                                        <span class="media-body"><strong>{{ blog_post_0.author }}</strong></span>
+                                    </span>
+                                    {% endif %}
+                                    {% if blog_post_0.date %}
+                                    <br />
+                                    <span>
+                                        <img class="align-self-center mr-2" src="/assets/images/icons/icons8-watch-50.png" width="20" alt="Date"/>
+                                        <span class="media-body"><strong>{{ blog_post_0.date | date: "%-d %B %Y" }}</strong></span>
+                                    </span>
+                                    {% endif %}
+                                </p>
+
+                                <p>{{blog_post_0.excerpt }}</p>
+
+                                <a href="{{ blog_post_0.url | relative_url }}"" class="btn btn-uos-electric-violet">Read More</a>
+                                <a href="/newsletters/" class="btn btn-dark">All Blog articles</a>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <img src="/assets/images/2025-09-29-RSECon25.png" class="d-block" alt="...">
+                            <div class="carousel-caption d-block">
+                                <h5>Blog: {{ blog_post_1.title }}</h5>
+                                <p>
+                                    {% if blog_post_1.author %}
+                                    <span>
+                                        <img class="align-self-center mr-2" src="/assets/images/icons/icons8-person-50.png" width="20" alt="Posted By"/>
+                                        <span class="media-body"><strong>{{ blog_post_1.author }}</strong></span>
+                                    </span>
+                                    {% endif %}
+                                    {% if blog_post_1.date %}
+                                    <br />
+                                    <span>
+                                        <img class="align-self-center mr-2" src="/assets/images/icons/icons8-watch-50.png" width="20" alt="Date"/>
+                                        <span class="media-body"><strong>{{ blog_post_1.date | date: "%-d %B %Y" }}</strong></span>
+                                    </span>
+                                    {% endif %}
+                                </p>
+
+                                <p>{{blog_post_1.excerpt }}</p>
+
+                                <a href="{{ blog_post_1.url | relative_url }}"" class="btn btn-uos-electric-violet">Read More</a>
+                                <a href="/newsletters/" class="btn btn-dark">All Blog articles</a>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="carousel-caption d-block">
+                                <h5>{{newsletter_0.date | date: "%B %Y"}} newsletter</h5>
+                                <p>Read the latest University of Sheffield Research Software Engineering Community Newsletter</p>
+                                <p>
+                                    {% if newsletter_0.editor %}
+                                    <span>
+                                        <img class="align-self-center mr-2" src="/assets/images/icons/icons8-person-50.png" width="20" alt="Posted By"/>
+                                        <span class="media-body"><strong>{{ newsletter_0.editor }}</strong></span>
+                                    </span>
+                                    {% endif %}
+                                    {% if newsletter_0.date %}
+                                    <br />
+                                    <span>
+                                        <img class="align-self-center mr-2" src="/assets/images/icons/icons8-watch-50.png" width="20" alt="Date"/>
+                                        <span class="media-body"><strong>{{ newsletter_0.date | date: "%-d %B %Y" }}</strong></span>
+                                    </span>
+                                    {% endif %}
+                                </p>
+                                <a href="{{ newsletter_0.url }}" class="btn btn-uos-electric-violet">Read more</a>
+                                <a href="/newsletters/" class="btn btn-dark">All Newsletters</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <button class="carousel-control-prev" type="button" data-target="#home-carousel" data-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-target="#home-carousel" data-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</section> -->
 
 <section class="section">
     <div class="container">
-        <br />
-        <div class="row">
-            <div class="col-md-6">
-                <h2><a href="/newsletters/">Newsletters</a></h2>
-                <br />
-                {% include newsletters_latest.html %}
-                <p>
-                    <a href="/newsletters/">Previous newsletters >></a>
-                </p>
-                <hr />
+        <div class="row my-4">
+            <div class="col-sm-12">
+                <div class="jumbotron bg-uos- text-uos-">
+                    <h4 class="h1">Featured Blog: {{ blog_post_0.title }}</h4>
+                    <p class="lead">
+                        {% if blog_post_0.author %}
+                        <span>
+                            <i class="fas fa-user"></i>
+                            <span class="media-body"><strong>{{ blog_post_0.author }}</strong></span>
+                        </span>
+                        {% endif %}
+                        {% if blog_post_0.date %}
+                        <br />
+                        <span>
+                            <i class="far fa-clock"></i>
+                            <span class="media-body"><strong>{{ blog_post_0.date | date: "%-d %B %Y" }}</strong></span>
+                        </span>
+                        {% endif %}
+                    </p>
+                    
+                    <hr />
 
-                <h2><a href="/blog/">Blog</a></h2>
-                <br />
-                {% include post_list_prev10.html post_limit=blog_post_limit %}
-
-                <p>
-                    <a href="/blog/">All blog articles >></a>
-                </p>
-
+                    <p>{{blog_post_0.excerpt }}</p>
+                    <p class="lead">
+                        <a href="{{ blog_post_0.url | relative_url }}"" class="btn btn-uos-electric-violet">Read More</a>
+                        <a href="/newsletters/" class="btn btn-dark">All Blog articles</a>
+                    </p>
+                </div>
             </div>
+            <!-- <div class="col-sm-12">
+                <div class="jumbotron">
+                    <h4 class="h1">Featured Blog: {{ blog_post_1.title }}</h4>
+                    <p class="lead">
+                        {% if blog_post_1.author %}
+                        <span>
+                            <img class="align-self-center mr-2" src="/assets/images/icons/icons8-person-50.png" width="20" alt="Posted By"/>
+                            <span class="media-body"><strong>{{ blog_post_1.author }}</strong></span>
+                        </span>
+                        {% endif %}
+                        {% if blog_post_1.date %}
+                        <br />
+                        <span>
+                            <img class="align-self-center mr-2" src="/assets/images/icons/icons8-watch-50.png" width="20" alt="Date"/>
+                            <span class="media-body"><strong>{{ blog_post_1.date | date: "%-d %B %Y" }}</strong></span>
+                        </span>
+                        {% endif %}
+                    </p>
 
-            <div class="col-md-6">
-                {% include events_list_top10.html post_limit=event_limit %}
+                    <hr />
 
+                    <p>{{blog_post_1.excerpt }}</p>
+
+                    <p class="lead">
+                        <a href="{{ blog_post_1.url | relative_url }}"" class="btn btn-uos-electric-violet">Read More</a>
+                        <a href="/newsletters/" class="btn btn-dark">All Blog articles</a>
+                    </p>
+                </div>
+            </div> -->
+        </div>
+    </div>
+</section>
+
+<section class="section">
+    <div class="container">
+        <div class="row my-2">
+            <div class="col-12 col-md-6 col-lg-8">
+                <h2>Work with us</h2>
                 <p>
-                    <a href="/events/">All of our upcoming and previous events >></a>
+                    The RSE team can collaborate with you to help improve your research software.
+                    We have a pool of <a href="/contact/team">expert staff</a> to ensure that you can deliver excellent research software engineering on your research projects (see <a href="/collaboration/projects/">example projects</a> and <a href="/collaboration/testimonials/">testimonials</a>).
+                </p>
+                <p>
+                    Supporting the entire University, we have collaborators in every faculty and have supported researchers in a range of subject areas including engineering, mathematics, computer science, biology, linguistics, physics, chemistry and geography. 
+
+                    <!-- Please contact us (<rse@sheffield.ac.uk>) to arrange a [scoping meeting](/collaboration/provision). -->
                 </p>
             </div>
+            <div class="col-12 col-md-6 col-lg-4 d-flex align-items-stretch">
+                <div class="card w-100 text-white bg-uos-powder-violet text-center">
+                    <h3 class="card-title mt-4">Projects</h3>
+                    <p class="mt-auto">Add fractional RSE time from the team to your funding application</p>
+                    <a href="mailto:rse@sheffield.ac.uk" class="btn btn-dark mt-auto">Email rse@sheffield.ac.uk</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
+<section class="section">
+    <div class="container">
+        
+        <div class="row my-2">
+            <div class="col-12 col-md-6 col-lg-8 d-flex flex-column align-items-stretch">
+                <h2>Training</h2>
+                <p>
+                    People working with code for research, whether they are writing their first script to managing a complex software project need skills that academic training might not provide.
+                </p>
+                <p>
+                    The RSE Team's aspiration is that all researchers who need these skills should be given the opportunity to learn them, either from the RSE Team, our University of Sheffield colleagues or other sources.
+                </p>
+                <p class="mt-auto mb-0">
+                    <a href="/training" class="btn btn-primary">Find out more about our Training provision</a>
+                </p>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4 order-md-first d-flex align-items-stretch">
+                <div class="card w-100 text-white bg-uos-brand-violet text-center">
+                    <h3 class="card-title mt-4 text-white">FAIR² for research software</h3>
+                    <p class="mt-auto">Dedicated training on how to apply FAIR principles to research software, enabling you to make your research more open.</p>
+                    <a href="/training/fair4rs" class="btn btn-dark mt-auto">FAIR² 4 RS</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="section">
+    <div class="container">
+        <div class="row my-2">
+            <div class="col-12 col-md-6 col-lg-8">
+                <h2>Support</h2>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean accumsan tellus posuere arcu efficitur pretium. Sed consectetur sem vitae enim suscipit, non faucibus ante malesuada. Aliquam erat volutpat. Phasellus vel varius dui. Maecenas sodales rutrum dapibus. Praesent maximus risus orci, quis posuere purus tincidunt ac. Proin nec est sapien. Donec eleifend hendrerit nibh. Maecenas ut semper tortor, quis faucibus tellus.
+                </p>
+                <p>
+                    @todo - code clinics /support/code-clinic/
+                </p>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4 d-flex align-items-stretch">
+                <div class="card w-100 text-white bg-uos-dark-violet text-center">
+                    <h3 class="card-title mt-4 text-white">Code Clinics</h3>
+                    <p class="mt-auto">Work with an expert for 30 mins on your code.</p>
+                    <a href="/support/code-clinic" class="btn btn-dark mt-auto">Book a code clinic</a>
+                </div>
+            </div>
         </div>
     </div>
 </section>
 
 
-{% include contact.html %}
+
+<section class="section">
+    <div class="container">
+        <div class="row my-2">
+            <div class="col-12 col-md-6 col-lg-8">
+                <h2>Community</h2>
+                <p>                    
+                    The RSE group supports research software developers (any researcher who develops software) and research software engineers
+                    across the university through our community activities.
+                </p>
+                <p>
+                    Connect with us and researchers who code on <a href="https://fosstodon.org/@RSE_Sheffield" rel="me">Mastodon</a>,
+                    <a href="https://twitter.com/intent/follow?original_referer=http%3A%2F%2F127.0.0.1%3A4000%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5ERSE_Sheffield&region=follow_link&screen_name=RSE_Sheffield">Twitter</a>,
+                    <a href="/community/slack">Slack</a>,
+                    <a href="https://github.com/orgs/RSE-Sheffield">GitHub</a> or the RSE Community
+                    <a href="https://groups.google.com/a/sheffield.ac.uk/g/rse-group">mailing list</a>.
+                </p>
+
+
+                <p>
+                    @todo - <a href="/blog">Blog</a>
+                </p>
+
+                <p>
+                    @todo - <a href="/newsletter">Newsletter</a>
+                </p>
+
+                <p>
+                    @todo - <a href="/events">Events</a>
+                </p>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4 order-md-first d-flex align-items-stretch">
+                <div class="card w-100 text-white bg-uos-peak-green text-center">
+                    <h3 class="card-title mt-4 text-white">{{newsletter_0.date | date: "%B %Y"}} Newsletter</h3>
+                    <div class="mt-auto">
+                        <p>Read the latest University of Sheffield Research Software Engineering Community Newsletter</p>
+                        <p">
+                            {% if newsletter_0.editor %}
+                            <span>
+                                <i class="fas fa-user"></i>
+                                <span class="media-body"><strong>{{ newsletter_0.editor }}</strong></span>
+                            </span>
+                            {% endif %}
+                            {% if newsletter_0.date %}
+                            <br />
+                            <span>
+                                <i class="far fa-clock"></i>
+                                <span class="media-body"><strong>{{ newsletter_0.date | date: "%-d %B %Y" }}</strong></span>
+                            </span>
+                            {% endif %}
+                        </p>
+                    </div>
+
+                    <div class="btn-group btn-group-justified mt-auto" role="group">
+                        <a href="{{ newsletter_0.url }}" class="btn btn-uos-electric-violet col-12 col-md-6">Read more</a>
+                        <a href="/newsletters/" class="btn btn-dark col-12 col-md-6">All Newsletters</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="row my-4">
+            <div class="col-sm-12">
+                <div class="jumbotron">
+                    <h4 class="h1">Events</h4>
+                    <p class="lead">We do events...</p>
+                    <hr class="my-4">
+                    <p>Hard to include the next upcoming event in a slide here on a static site. Probably should just have generic text and then could use js to insert an event if there are any in the future?</p>
+                    <p class="lead">
+                        <a class="btn btn-primary btn-lg" href="/events/" role="button">All Events</a>
+                    </p>
+                </div>
+            </div>
+            <!-- <div class="col-sm-12">
+                <div class="jumbotron">
+                    <h4 class="h1">{{newsletter_0.date | date: "%B %Y"}} newsletter</h4>
+                    <p class="lead">Read the latest University of Sheffield Research Software Engineering Community Newsletter</p>
+                    <p>
+                        {% if newsletter_0.editor %}
+                        <span>
+                            <img class="align-self-center mr-2" src="/assets/images/icons/icons8-person-50.png" width="20" alt="Posted By"/>
+                            <span class="media-body"><strong>{{ newsletter_0.editor }}</strong></span>
+                        </span>
+                        {% endif %}
+                        {% if newsletter_0.date %}
+                        <br />
+                        <span>
+                            <img class="align-self-center mr-2" src="/assets/images/icons/icons8-watch-50.png" width="20" alt="Date"/>
+                            <span class="media-body"><strong>{{ newsletter_0.date | date: "%-d %B %Y" }}</strong></span>
+                        </span>
+                        {% endif %}
+                    </p>
+
+                    <hr / >
+
+                    <p class="lead">
+                        <a href="{{ newsletter_0.url }}" class="btn btn-uos-electric-violet">Read more</a>
+                        <a href="/newsletters/" class="btn btn-dark">All Newsletters</a>
+                    </p>
+                </div>
+            </div> -->
+        </div>
+
+        <div class="row my-2">
+            <div class="col-12">
+                <div style="height: 400px; overflow: hidden;">
+                    <img src="/assets/images/2025-09-29-RSECon25.png" class="d-block" alt="..." style="height: 400px; width:100%; object-fit: cover;">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
