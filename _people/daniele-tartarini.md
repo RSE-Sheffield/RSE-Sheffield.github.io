@@ -6,7 +6,34 @@ published: true
 othernames: Daniele
 surname: Tartarini
 role: Senior Research Software Engineer
-
+image:
+links:
+    - url: mailto:d.tartarini@sheffield.ac.uk
+      icon: 
+        class: "fas fa-envelope"
+        a11y: "Email"
+      label: d.tartarini@sheffield.ac.uk
+    - url: https://github.com/tartarini
+      icon:
+        class: "fab fa-github"
+        a11y: "GitHub"
+      label: "@tartarini"
+    - url: "https://orcid.org/0000-0002-8913-0156"
+      image:
+        src: "/assets/images/ORCID-iD_icon_vector.svg"
+        a11y: "ORCID iD"
+      label: 0000-0002-8913-0156
+extra_links:
+    - url: https://twitter.com/dany_tartarini
+      icon:
+        class: "fab fa-twitter"
+        a11y: "Twitter"
+      label: "@dany_tartarini"
+    - url: https://www.linkedin.com/in/danieletartarini/
+      icon:
+        class: "fas fa-link"
+        a11y: "Link"
+      label: "LinkedIn"
 ---
 Daniele joined the RSE team in 2020. He mainly supports:
 
@@ -25,12 +52,3 @@ Before joining the RSE team, he worked as Research Associate on a range of multi
   - EPSRC, Automatic finite element code generation for GPU/parallel architectures. Dept. of Engineering, University of Cambridge.
   - Italian Ministry of Education, Development of a distributed virtual laboratory of bioinformatics in a Grid infrastructure. University of Salento in Lecce, Italy.
   - He has also provided consultancy for public administration and private companies.
-
-
-
-Contacts:
-
-- Email: d.tartarini (at) sheffield.ac.uk
-- [Linkedin](https://www.linkedin.com/in/danieletartarini/)
-- Twitter: [@dany_tartarini](https://twitter.com/dany_tartarini)
-
