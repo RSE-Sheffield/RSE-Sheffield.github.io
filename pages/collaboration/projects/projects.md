@@ -40,7 +40,7 @@ type: text
 
     .proj-testimonial {
       padding:1.2em 15px 1.2em 15px;
-      border-left:8px solid var(--uos-deep-violet-70);
+      border-left:8px solid var(--uos-powder-violet);
       font-style: italic;
     }
 
