@@ -6,7 +6,34 @@ published: true
 othernames: Michael   
 surname: Foster
 role: Research Software Engineer
-
+image:
+links:
+    - url: mailto:m.foster@sheffield.ac.uk
+      icon: 
+        class: "fas fa-envelope"
+        a11y: "Email"
+      label: m.foster@sheffield.ac.uk
+    - url: https://github.com/jmafoster1
+      icon:
+        class: "fab fa-github"
+        a11y: "GitHub"
+      label: "@jmafoster1"
+    - url: "https://orcid.org/0000-0001-8233-9873"
+      image:
+        src: "/assets/images/ORCID-iD_icon_vector.svg"
+        a11y: "ORCID iD"
+      label: 0000-0001-8233-9873
+extra_links:
+    - url: "https://scholar.google.com/citations?user=4fTJseoAAAAJ"
+      icon:
+        class: "fas fa-link"
+        a11y: "Link"
+      label: "Google Scholar"
+    - url: "https://jmafoster1.github.io"
+      icon:
+        class: "fas fa-link"
+        a11y: "Link"
+      label: "Personal Webpage"
 ---
 
 Michael joined the RSE team in October 2024.
@@ -17,9 +44,3 @@ During this time, he has been an active member of the software engineering resea
 Michael's main expertise is in black-box testing of traditionally "hard to test" software through the analysis of software logs and time series data.
 He is experienced in Python, and has worked with data science libraries such as Numpy, Pandas, and Statsmodels.
 He also has experience in functional programming, formal methods, code optimisation, and parallelisation.
-
-* Email: m.foster (at) sheffield.ac.uk
-* GitHub: [@jmafoster1](https://github.com/jmafoster1)
-* ORCID [0000-0001-8233-9873](https://orcid.org/0000-0001-8233-9873)
-* [Google Scholar](https://scholar.google.com/citations?user=4fTJseoAAAAJ)
-* [Personal Webpage](https://jmafoster1.github.io)
