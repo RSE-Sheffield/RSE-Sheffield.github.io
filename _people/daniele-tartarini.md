@@ -5,7 +5,7 @@ published: true
 
 othernames: Daniele
 surname: Tartarini
-role: Research Software Engineer
+role: Senior Research Software Engineer
 
 ---
 Daniele joined the RSE team in 2020. He mainly supports:
