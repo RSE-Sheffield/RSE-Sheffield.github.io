@@ -7,7 +7,7 @@ from: "12:00"
 to: "17:00"
 location: "Design Studio 01 (D05), Pam Liversidge Building, Broad Lane, S1 3JD"
 speaker: "Various"
-institute: "RSE, CMI"
+institute: "RSE, CMI, N8"
 title: "Best Practices in AI Afternoon 2"
 
 image:
@@ -105,9 +105,11 @@ to use and when, illustrating the decision-making process behind effective tool-
 <div class="row">
     <div class="col-2 event-time">15:45-16:15</div> 
     <div class="col">
-      <div class="title">Talk 3 (TBC)</div>
-      <div class="speaker"></div>
-      <div class="description"></div>
+      <div class="title">Evaluating AI tools for finding research studies for evidence synthesis</div>
+      <div class="speaker">Su Golder</div>
+      <div class="description">We will present the results of an evaluation on the use of the AI tool Elicit to identify 
+      relevant research studies for systematic reviews. We pay particular attention to the methods used and challenges 
+along the way, using four real world case study reviews.</div>
     </div>
   </div>
 <div class="row">
@@ -141,11 +143,23 @@ Institute.
 
 ### Shaun Donnelly, Research Software Engineer, University of Sheffield
 
-Shaun is a research software engineer at the University of Sheffield with a background in astrochemistry and 
-AI-driven computational chemistry. Since joining the RSE team in December 2024, he's been exploring 
-how large language models can transform research workflows, from Retrieval Augmented Generation to tool-driven 
-Agentic AI. He's particularly interested in exploring how to make research software more accessible by the use of 
+Shaun is a research software engineer at the University of Sheffield with a background in astrochemistry and
+AI-driven computational chemistry. Since joining the RSE team in December 2024, he's been exploring
+how large language models can transform research workflows, from Retrieval Augmented Generation to tool-driven
+Agentic AI. He's particularly interested in exploring how to make research software more accessible by the use of
 natural language as an interface between researchers, their software and their research workflows.
+
+### Su Golder, Associate Professor, University of York
+
+Su is a an Associate Professor in the Department of Health Sciences. She has a background as an information specialist
+with over 25 years' experience in literature searching. She has specialist expertise in systematic review
+methodology - including automation and AI, systematic reviews of adverse effects, and using social media as a
+data source. During her post-doctoral NIHR (National Institute for Health Research) fellowship she has expanded on
+her work in her PhD by investigating the use of unpublished data, text mining and social media in the retrieval of
+adverse effects data. In her current research she continues to undertake systematic reviews, develop systematic
+review methodology, conduct network analyses and to use social media to gain wider information as well as
+healthcare user and provider perspectives. She is currently an elective member of the Cochrane Methods Executive
+and one of the founders and co-convenors of the Cochrane Adverse Effects Methods Group.
 
 ## Registration
 
