@@ -11,9 +11,9 @@ description:
 type: text
 ---
 
-## The University of Sheffield Research Software Engineering Community Newsletter October 2025
+## The University of Sheffield Research Software Engineering Community Newsletter November 2025
 
-Welcome to the October 2025 newsletter for the research software community at The University of Sheffield, featuring
+Welcome to the November 2025 newsletter for the research software community at The University of Sheffield, featuring
 news, opportunities, events and training for you.
 
 <!-- --- -->
@@ -122,7 +122,7 @@ news, opportunities, events and training for you.
 
 ## Opportunities
 
-- [Nuvolos Fellowship Programme](https://nuvolos.com/fellowship-programme) Nuvolous provide a lab-as-a service platform
+- [Nuvolos Fellowship Programme](https://nuvolos.com/fellowship-programme) Nuvolos provide a lab-as-a-service platform
   to ease handling of data and computation of any size and type. They are running a fellowship programme to support the
   next generation of scientists, PhD candidates, postdocs and **research software engineers** who champion
   reproducibility and research practices. Receive complimentary platform access and cloud credits worth up to $50000.
@@ -168,7 +168,7 @@ You can join the google group
 [here](https://groups.google.com/u/1/a/sheffield.ac.uk/g/digital-research-practice-support-community-group/about) to
 stay informed.
 
-The next meeting is scheduled for 2pm on Wednesday 2025-10-15.
+The next meeting is scheduled for 2pm on Wednesday 2025-11-05.
 
 #### LunchBytes
 
