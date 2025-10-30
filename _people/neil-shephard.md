@@ -6,10 +6,10 @@ published: true
 othernames: Neil
 surname: Shephard
 role: Research Software Engineer
-image:
+image: https://cdn.sheffield.ac.uk/sites/default/files/styles/profile_modal/public/2023-07/CS_Headshots_013.jpg?h=4a8cf41e&itok=OH3mXgtg
 links:
     - url: mailto:n.shephard@sheffield.ac.uk
-      icon: 
+      icon:
         class: "fas fa-envelope"
         a11y: "Email"
       label: n.shephard@sheffield.ac.uk
@@ -29,11 +29,6 @@ extra_links:
         class: "fas fa-link"
         a11y: "Link"
       label: "Blog"
-    - url: "https://wiki.nshephard.dev/"
-      icon:
-        class: "fas fa-link"
-        a11y: "Link"
-      label: "Web"
     - url: "https://fosstodon.org/@nshephard"
       icon:
         class: "fas fa-link"
