@@ -1,0 +1,63 @@
+
+<div class="card w-100">
+    <a href="{{include.person.url}}" class="d-block w-100">
+    {% if include.person.image %}
+        <img src="{{include.person.image}}" alt="Picture of {{include.person.othernames}} {{include.person.surname}}" class="card-img-top img-square-crop" />
+    {% else %}
+        {% assign initials = "" %}
+        {% for word in include.person.othernames %}
+            {% assign first_letter = word | slice: 0 %}
+            {% assign initials = initials | append: first_letter %}
+        {% endfor %}
+        {% for word in include.person.surname %}
+            {% assign first_letter = word | slice: 0 %}
+            {% assign initials = initials | append: first_letter %}
+        {% endfor %}
+        <svg width="100" height="100" viewbox="0 0 100 100" class=" card-img-top img-fluid" style="color: {{ include.placeholder_color }}; background: {{ include.placeholder_background }}">
+            <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="currentColor" font-size="1.5em">{{ initials }}</text>
+        </svg>
+    {% endif %}
+
+    </a>
+    {% if include.show_name or include.show_role or include.person.links %}
+        <div class="card-body p-2">
+            {% if include.show_name and include.person.othernames and include.person.surname%}
+                <h3><a href="{{include.person.url}}">{{include.person.othernames}} {{include.person.surname}}</a></h3>
+            {% endif %}
+            {% if include.show_role and include.person.role%}
+                <p><strong>{{include.person.role}}</strong></p>
+            {% endif %}
+            <!-- liquid if statements don't support brackets. -->
+            {% if include.person.links or include.person.extra_links and include.show_extra_links %}
+                <ul class="list-unstyled mb-0">
+                    {% for link in include.person.links %}
+                        {% if link.label and link.url %}
+                            <li><a href="{{ link.url }}">
+                                {% if link.icon %}
+                                    <i class="{{ link.icon.class }}" aria-label="{{ link.icon.a11y }}"></i>
+                                {% elsif link.image %}
+                                    <img src="{{ link.image.src }}" alt="{{ link.image.a11y}}" width="16px" />
+                                {% endif %}
+                                {{ link.label }}
+                            </a></li>
+                        {% endif %}
+                    {% endfor %}
+                    {% if include.person.extra_links and include.show_extra_links %}
+                        {% for link in include.person.extra_links %}
+                            {% if link.label and link.url %}
+                                <li><a href="{{ link.url }}">
+                                    {% if link.icon %}
+                                        <i class="{{ link.icon.class }}" aria-label="{{ link.icon.a11y }}"></i>
+                                    {% elsif link.image %}
+                                        <img src="{{ link.image.src }}" alt="{{ link.image.a11y}}" width="16px" />
+                                    {% endif %}
+                                    {{ link.label }}
+                                </a></li>
+                            {% endif %}
+                        {% endfor %}
+                    {% endif %}
+                </ul>
+            {% endif %}
+        </div>
+    {% endif %}
+</div>

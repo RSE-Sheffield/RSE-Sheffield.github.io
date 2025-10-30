@@ -4,7 +4,7 @@ layout: default
 <section class="section offset-header flex-fill" >
     <div class="container">
         <div class="row">
-            <div class="col-12" markdown=1>
+            <div class="col-12 col-md-8" markdown=1>
 
                 {% if page.othernames and page.surname %}
                     <h2><a href="{{page.url}}">{{page.othernames}} {{page.surname}}</a></h2>
@@ -16,6 +16,10 @@ layout: default
 
                 {{ content }}
 
+            </div>
+            <div class="col-12 col-md-4">
+                {% assign colours = placeholder_colours %}
+                {% include team_member_card.html person=page placeholder_color="var(--uos-wave-white)" placeholder_background="var(--uos-dark-violet)" show_name=false show_role=false show_extra_links=true %}
             </div>
         </div>
     </div>
