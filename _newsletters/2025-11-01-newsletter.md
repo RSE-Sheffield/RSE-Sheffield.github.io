@@ -16,11 +16,22 @@ type: text
 Welcome to the November 2025 newsletter for the research software community at The University of Sheffield, featuring
 news, opportunities, events and training for you.
 
-<!-- --- -->
+---
 
-<!-- ## News -->
+## News
 
-<!-- - -->
+- The full applications to the [Research Software Maintenance Fund - Round
+  1](https://www.software.ac.uk/research-software-maintenance-fund/round-1) have been reviewed and the [Software
+  Sustainability Institute](https://software.ac.uk) have written a summary of reviewing the 143 proposals submitted. Its
+  worth [reading in
+  full](https://www.software.ac.uk/blog/research-software-maintenance-fund-full-application-funding-panels-completed),
+  but of particular note is this observation...
+
+  > Finally, despite encouraging RTPs to apply as leads, most of the applications recommended for funding were led by
+  > academic researchers. In one of the three awards led by an RTP in practice, the application had to be submitted with
+  > an academic as the lead (but with no resources requested, and with a clear indication in the application that the real
+  > lead was the RTP). This exemplifies the difficulties and inequalities that can be faced by RTPs in leading
+  > applications.
 
 ---
 
@@ -58,6 +69,9 @@ news, opportunities, events and training for you.
 - [NHS R and Python Community Conference – RPySOC 2025](https://nhsrcommunity.com/conference.html) There is still time
   to register for RPySOC 2025 (Thursday 13th November 2025 and Friday 14th November 2025)! You can attend this event
   virtually or in-person at the Wellcome Trust (215 Euston Road, London).
+- [Computing Insight UK 2025](https://www.sc.stfc.ac.uk/computing-insight-uk/) 2025-12-04 to 2025-12-05 Manchester sees
+  the return of the Uk's premier conference for High Performance Computing and associated research. Poster submissions
+  are open until **2025-11-14**.
 - [Open Science Retreat (Global) 2026](https://open.science-retreat.org/OSR26UK/) The Open Science Retreat is something
   between an unconference, a hackathon, a networking event, and a retreat. It’s a chance for the open research community
   to come together and collectively work out what we need to do next, while also taking a moment to rest and
@@ -73,6 +87,11 @@ news, opportunities, events and training for you.
   dRTP recruitment within our community. Expect rich conversations, practical takeaways, and a shared articulation of
   needs that reflects the values and priorities of the N8 research network. Come along to connect, contribute, and
   co-create the future of dRTPs.
+- [Software Sustainability Institute Collaboration Workshop 2026 Proposal
+  Submission](https://www.software.ac.uk/news/take-stage-cw26-submit-your-proposals-now) This hybrid event which takes
+  place [2026-04-28 to 2026-04-30](https://www.software.ac.uk/workshop/collaborations-workshop-2026-cw26) in Belfast is
+  now taking submissions for Mini-workshops, demonstrations and lightning talks. Deadline for applications **2026-01-16
+  23:59**.
 
 ---
 
