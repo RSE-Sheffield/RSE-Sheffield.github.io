@@ -34,7 +34,7 @@ This event is held in collaboration between the **[Research Software Engineering
 and the [**Centre for Machine Intelligence (CMI)**](https://www.sheffield.ac.uk/machine-intelligence) in the University of Sheffield.
 
 <div class="row" style="margin: 1em 0">
-  <div class="col text-center"><a class="btn btn-primary" href="/blog/2024-07-24-best-practices-in-ai-afternoon-event-summary">Videos, Slides and Resources from the event</a></div>
+  <div class="col text-center"><a class="btn btn-primary" href="/blog/2024-07-31-best-practices-in-ai-afternoon-event-summary">Videos, Slides and Resources from the event</a></div>
 </div>
 
 
@@ -238,7 +238,7 @@ explore how to use AI/HPC in your project. Example discussion topics include:
 ## Event summary
 
 <div class="row" style="margin: 1em 0">
-  <div class="col text-center"><a class="btn btn-primary" href="/blog/2024-07-24-best-practices-in-ai-afternoon-event-summary">Videos, Slides and Resources from the event</a></div>
+  <div class="col text-center"><a class="btn btn-primary" href="/blog/2024-07-31-best-practices-in-ai-afternoon-event-summary">Videos, Slides and Resources from the event</a></div>
 </div>
 
 
