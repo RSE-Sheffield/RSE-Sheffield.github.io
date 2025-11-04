@@ -114,7 +114,7 @@ and international research systems.</div>
     <div class="col-2 event-time">15:45-16:15</div> 
     <div class="col">
       <div class="title">Demo: Introduction to NVIDIA NIM™ Microservices</div>
-      <div class="speaker"><img class="align-self-center mr-2" src="/assets/images/icons/icons8-communication-skill-50.png" width="20" alt="Speaker"> Mozhgan Kabiri Chimeh</div>
+      <div class="speaker"><img class="align-self-center mr-2" src="/assets/images/icons/icons8-communication-skill-50.png" width="20" alt="Speaker"> Mozhgan Kabiri Chimeh, Nvidia</div>
       <div class="description">A live walkthrough of NVIDIA NIM™ microservices, showing how they streamline AI model deployment and scaling. The demo builds a simple RAG assistant for online documentation using LangChain and NVIDIA AI Endpoints.</div>
     </div>
   </div>
@@ -231,9 +231,12 @@ in conversational AI, particularly speech technology, LLMs, data curation and re
 She has several years experience working in engineering and automation across aerospace, manufacturing and defence, and
 received her PhD in End-to-End Automatic Speech Recognition (ASR) from the University of Sheffield.
 
-### Mozhgan Kabiri Chimeh
+### Mozhgan Kabiri Chimeh, Nvidia
 
-Coming soon.
+Mozhgan Kabiri chimeh is a Developer Relations Manager at NVIDIA, focused on growing the AI and accelerated computing
+ecosystem across the UK and Ireland. In this role, she works with researchers, startups, and industry partners to
+support the adoption of NVIDIA’s AI software platforms and GPU technologies, helping them accelerate innovation and
+scale solutions.
 
 ### Roy Ruddle, University of Leeds
 
