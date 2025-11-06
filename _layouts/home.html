@@ -357,7 +357,7 @@ layout: default
                 </p>
 
                 <p>
-                    @todo - <a href="/newsletter">Newsletter</a>
+                    The team curates a <a href="/newsletter">monthly RSE community Newsletter</a>
                 </p>
 
                 <p>
@@ -394,18 +394,128 @@ layout: default
             </div>
         </div>
         
-        <div class="row my-4">
-            <div class="col-sm-12">
-                <div class="jumbotron">
-                    <h4 class="h1">Events</h4>
-                    <p class="lead">We do events...</p>
-                    <hr class="my-4">
-                    <p>Hard to include the next upcoming event in a slide here on a static site. Probably should just have generic text and then could use js to insert an event if there are any in the future?</p>
-                    <p class="lead">
-                        <a class="btn btn-primary btn-lg" href="/events/" role="button">All Events</a>
-                    </p>
+        {% comment %}
+            <!-- Add a script which will insert a jumbotron containing the next-most event if there are any in the future still. Multi-day events will only be the next event until they start -->
+        {% endcomment %}
+        {% assign events = site.events | sort: 'date' | reverse %}
+        {% assign start_of_today = "now" | date: "%Y-%m-%d 00:00:00" %}
+        {% assign start_of_today_timestamp = start_of_today | date: "%s" %}
+        {% if events and events.size > 0 %}
+        <div id="next-event-placeholder"></div>
+        <script type="text/javascript">
+            var future_events = [
+            {% for event in events %}
+                {% assign event_date_timestamp = event.date | date: "%s" %}
+                {"a": {{event_date_timestamp}} , "b": {{start_of_today_timestamp}},  "title": "{{event.title | escape}}" },
+                {% if event_date_timestamp < start_of_today_timestamp %}
+                    {% break %}
+                {% endif %}
+                {% if event.published %}
+                    {
+                        "url": "{{event.url}}",
+                        "date": "{{event.date | escape}}",
+                        "date_dby": "{{event.date | date: '%-d %B %Y' | escape}}",
+                        "end_date": "{{event.end-date | escape}}",
+                        "end_date_dby": "{{event.end-date | date: '%-d %B %Y' | escape}}",
+                        "title": "{{event.title | escape}}",
+                        "from": "{{event.from | escape}}",
+                        "to": "{{event.to | escape}}",
+                        "category": "{{event.category | escape}}",
+                        "location": "{{event.location | escape}}",
+                        "speaker": "{{event.speaker | escape}}",
+                        "institute": "{{event.institute | escape}}"
+                    }, 
+                {% endif %}
+            {% endfor %}
+            ]
+            // When the document is ready, Get the current (JS) date
+            document.addEventListener('DOMContentLoaded', function() {
+                if (future_events.length == 0) {
+                    return;
+                }
+                // Get the current local date, all date stuff will be done in UTC?
+                const now_uk = new Date();
+                // Set the time to the start of the current day
+                now_uk.setHours(0, 0, 0, 0);
+                // Iterate json list of events, in chronologocial order (i.e the reverse that they were emitted)
+                next_event = null;
+                future_events.reverse()
+                for (const event of future_events){
+                    // Skip the event if the date is missing
+                    if (event.date == null || event.date.length == 0){
+                        continue;
+                    }
+                    // Get the date as an object
+                    event_date = new Date(event.date);
+                    // If the date is today or in the future, it is the next event so break the loop
+                    if (event_date >= now_uk) {
+                        next_event = event;
+                        break;
+                    }
+                }
+                if (next_event == null) {
+                    // If no event, no event html to insert
+                    return;
+                }
+                // Get the placeholder event
+                const placeholder_element = document.getElementById("next-event-placeholder");
+                if (placeholder_element == null) {
+                    return;
+                }
+                // Prepare the event date/time - this is complicated and only sortof works for multi-day events (matching other behaviour)
+                next_event_date_text = next_event.date_dby
+                if (next_event.end_date_dby.length != 0) {
+                    next_event_date_text += " to " + next_event.end_date_dby;
+                }
+                if (next_event.from.length != 0) {
+                    next_event_date_text += " - " + next_event.from;
+                }
+                if (next_event.to.length != 0) {
+                    next_event_date_text += "-" + next_event.to;
+                }
+                next_event_speaker_text = next_event.speaker
+                if (next_event.institute.length != 0) {
+                    next_event_speaker_text += "-" + next_event.institute;
+                }
+                // HTML to insert
+                html = `
+                <div class="row my-4">
+                    <div class="col-sm-12">
+                        <div class="jumbotron">
+                            <h4 class="h3">Upcoming Event</h4>
+                            <h5 class="h4">${next_event.title}</h5>
+                            <p class="lead">
+                                <span>
+                                    <i class="far fa-clock" style="width: 20px;"></i>
+                                    <span class="media-body"><strong>${next_event_date_text}</strong></span>
+                                </span>
+                                <br />
+                                <span>
+                                    <i class="fas fa-map-marker-alt" style="width: 20px;"></i>
+                                    <span class="media-body"><strong>${next_event.location}</strong></span>
+                                </span>
+                                <br />
+                                <span>
+                                    <i class="fas fa-user" style="width: 20px;"></i>
+                                    <span class="media-body"><strong>${next_event_speaker_text}</strong></span>
+                                </span>
+                            </p>
+                            <hr class="my-4">
+                            <div class="btn-group btn-group-justified mt-auto" role="group">
+                                <a class="btn btn-uos-electric-violet btn-lg" href="${next_event.url}" role="button">More Details</a>
+                                <a class="btn btn-dark btn-lg" href="/events/" role="button">All Events</a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-            </div>
+                `;
+                // Insert the HTML
+                placeholder_element.insertAdjacentHTML("beforeend", html);
+            });
+        {% endif %}
+        </script>
+
+
             <!-- <div class="col-sm-12">
                 <div class="jumbotron">
                     <h4 class="h1">{{newsletter_0.date | date: "%B %Y"}} newsletter</h4>
@@ -434,7 +544,6 @@ layout: default
                     </p>
                 </div>
             </div> -->
-        </div>
 
         <div class="row my-2">
             <div class="col-12">
