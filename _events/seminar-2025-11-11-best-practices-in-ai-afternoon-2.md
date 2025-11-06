@@ -58,9 +58,9 @@ Register to attend in-person or remotely</strong></a>
 <div class="row">
     <div class="col-2 event-time">13:00-13:30</div> 
     <div class="col">
-      <div class="title">Talk 1 (TBC)</div>
-      <div class="speaker"></div>
-      <div class="description"></div>
+      <div class="title">Best Practices in AI for Robotic Manipulation: Perception, Planning, and Control</div>
+      <div class="speaker"><img class="align-self-center mr-2" src="/assets/images/icons/icons8-communication-skill-50.png" width="20" alt="Speaker"> Amir Ghalamzan, University of Sheffield</div>
+      <div class="description">This talk will explore how artificial intelligence is transforming robotic manipulation, highlighting best practices in perception, planning, and robot control. Through a practical lens, it will explain how AI enables robots to sense and interpret their environment, plan complex tasks, and robustly execute actions. Drawing on recent advances, key research resources, and demonstrative videos, the session offers insights for researchers and practitioners seeking to apply AI methods in real-world robotic systems, aiming to foster innovation and responsible deployment across diverse applications.</div>
     </div>
   </div>
 <div class="row">
@@ -215,6 +215,15 @@ I will also show you how to avoid being misled by visualizations and some common
 
 ## Speaker Profiles
 
+### Amir Ghalamzan, University of Sheffield
+
+Dr Amir Ghalamzan is an Associate Professor at the University of Sheffield and Theme Lead for Robotics and Autonomous
+Systems at the Centre for Machine Intelligence. He leads the Intelligent Manipulation Lab, where his research focuses on
+robotic grasping and manipulation, teleoperation, agri-food robotics, robot learning, and haptic and tactile sensors.
+Amir holds a PhD in Robotics and Automation Engineering from Politecnico di Milano and is committed to advancing
+data-driven control and planning for real-world robotic challenges, especially in agricultural robotics and tactile
+perception.
+
 ### Shaun Donnelly, University of Sheffield
 
 Shaun is a research software engineer at the University of Sheffield with a background in astrochemistry and
@@ -241,7 +250,7 @@ received her PhD in End-to-End Automatic Speech Recognition (ASR) from the Unive
 
 ### Mozhgan Kabiri Chimeh, Nvidia
 
-Mozhgan Kabiri chimeh is a Developer Relations Manager at NVIDIA, focused on growing the AI and accelerated computing
+Mozhgan Kabiri Chimeh is a Developer Relations Manager at NVIDIA, focused on growing the AI and accelerated computing
 ecosystem across the UK and Ireland. In this role, she works with researchers, startups, and industry partners to
 support the adoption of NVIDIA’s AI software platforms and GPU technologies, helping them accelerate innovation and
 scale solutions.
