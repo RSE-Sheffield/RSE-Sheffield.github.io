@@ -158,11 +158,12 @@ I will also show you how to avoid being misled by visualizations and some common
 <div class="row">
     <div class="col-2 event-time">Talk 2</div> 
     <div class="col">
-      <div class="title">AI best practice in the High Value Manufacturing world</div>
-      <div class="speaker"><img class="align-self-center mr-2" src="/assets/images/icons/icons8-communication-skill-50.png" width="20" alt="Speaker"> Jon Stammers, AMRC, University of Sheffield</div>
+      <div class="title">Using workflow engines to automate the training of Gaussian Process emulators</div>
+      <div class="speaker"><img class="align-self-center mr-2" src="/assets/images/icons/icons8-communication-skill-50.png" width="20" alt="Speaker"> William Smith, University of Manchester</div>
       <div class="description"></div>
     </div>
   </div>
+</div>
 <div class="row">
     <div class="col-2 event-time">Talk 3</div> 
     <div class="col">
@@ -174,21 +175,13 @@ I will also show you how to avoid being misled by visualizations and some common
 <div class="row">
     <div class="col-2 event-time">Talk 4</div> 
     <div class="col">
-      <div class="title">Machine Learning for Modeling of Molecule-Surface Interactions</div>
-      <div class="speaker"><img class="align-self-center mr-2" src="/assets/images/icons/icons8-communication-skill-50.png" width="20" alt="Speaker"> Ernst Matthias Sachs, MARS, Lancaster University</div>
+      <div class="title">AI best practice in the High Value Manufacturing world</div>
+      <div class="speaker"><img class="align-self-center mr-2" src="/assets/images/icons/icons8-communication-skill-50.png" width="20" alt="Speaker"> Jon Stammers, AMRC, University of Sheffield</div>
       <div class="description"></div>
     </div>
   </div>
 <div class="row">
     <div class="col-2 event-time">Talk 5</div> 
-    <div class="col">
-      <div class="title">Virtual Machines: The unsung heroes in the management of  an ML workload. </div>
-      <div class="speaker"><img class="align-self-center mr-2" src="/assets/images/icons/icons8-communication-skill-50.png" width="20" alt="Speaker"> Micheal Abaho, University of Liverpool</div>
-      <div class="description"></div>
-    </div>
-  </div>
-<div class="row">
-    <div class="col-2 event-time">Talk 6</div> 
     <div class="col">
       <div class="title">Importance of Metadata management</div>
       <div class="speaker"><img class="align-self-center mr-2" src="/assets/images/icons/icons8-communication-skill-50.png" width="20" alt="Speaker"> Shereen Zafar, University of Leeds</div>
@@ -196,14 +189,29 @@ I will also show you how to avoid being misled by visualizations and some common
     </div>
   </div>
 <div class="row">
-    <div class="col-2 event-time">Talk 7</div> 
+    <div class="col-2 event-time">Talk 6</div> 
     <div class="col">
-      <div class="title">Using workflow engines to automate the training of Gaussian Process emulators</div>
-      <div class="speaker"><img class="align-self-center mr-2" src="/assets/images/icons/icons8-communication-skill-50.png" width="20" alt="Speaker"> William Smith, University of Manchester</div>
+      <div class="title">Virtual Machines: The unsung heroes in the management of  an ML workload. </div>
+      <div class="speaker"><img class="align-self-center mr-2" src="/assets/images/icons/icons8-communication-skill-50.png" width="20" alt="Speaker"> Micheal Abaho, University of Liverpool</div>
       <div class="description"></div>
     </div>
   </div>
-</div>
+<div class="row">
+    <div class="col-2 event-time">Talk 7</div> 
+    <div class="col">
+      <div class="title">Machine Learning for Modeling of Molecule-Surface Interactions</div>
+      <div class="speaker"><img class="align-self-center mr-2" src="/assets/images/icons/icons8-communication-skill-50.png" width="20" alt="Speaker"> Ernst Matthias Sachs, MARS, Lancaster University</div>
+      <div class="description"></div>
+    </div>
+  </div>
+<div class="row">
+    <div class="col-2 event-time">Talk 8</div> 
+    <div class="col">
+      <div class="title">AI Assisted Coding in R Studio </div>
+      <div class="speaker"><img class="align-self-center mr-2" src="/assets/images/icons/icons8-communication-skill-50.png" width="20" alt="Speaker"> Anthony Evans, University of Manchester</div>
+      <div class="description"></div>
+    </div>
+  </div>
 
 ## Speaker Profiles
 
