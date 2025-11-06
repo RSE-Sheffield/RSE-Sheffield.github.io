@@ -163,7 +163,7 @@ I will also show you how to avoid being misled by visualizations and some common
       <div class="description"></div>
     </div>
   </div>
-</div>
+
 <div class="row">
     <div class="col-2 event-time">Talk 3</div> 
     <div class="col">
@@ -212,6 +212,7 @@ I will also show you how to avoid being misled by visualizations and some common
       <div class="description"></div>
     </div>
   </div>
+</div>
 
 ## Speaker Profiles
 
