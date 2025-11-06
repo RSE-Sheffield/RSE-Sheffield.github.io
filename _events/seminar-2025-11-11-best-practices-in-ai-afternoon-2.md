@@ -89,7 +89,7 @@ and international research systems.</div>
 <div class="row">
     <div class="col-2 event-time">14:30-15:00</div> 
     <div class="col">
-      <div class="title">Table talks (topic TBC)</div>
+      <div class="title">Table talks</div>
       <div class="speaker"></div>
       <div class="description"></div>
     </div>
@@ -163,7 +163,7 @@ I will also show you how to avoid being misled by visualizations and some common
       <div class="description"></div>
     </div>
   </div>
-</div>
+
 <div class="row">
     <div class="col-2 event-time">Talk 3</div> 
     <div class="col">
@@ -212,6 +212,7 @@ I will also show you how to avoid being misled by visualizations and some common
       <div class="description"></div>
     </div>
   </div>
+</div>
 
 ## Speaker Profiles
 
