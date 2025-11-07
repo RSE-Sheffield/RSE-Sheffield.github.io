@@ -248,3 +248,24 @@ a.tag-link.selected, a.filter-link.selected{
     aspect-ratio: 1 / 1;
     object-fit: cover;
 }
+
+/* Team member card image styling, including the a fallback svg. Some styling is still applied per element in the html for per-card colours */
+.fallback-image-container {
+    width: 100%;
+    aspect-ratio: 1/1;
+    position:relative;
+}
+
+.fallback-image-container > img,
+.fallback-image-container > svg {
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height: 100%;
+    object-fit:cover;
+}
+
+.fallback-image-container > img {
+    z-index:10;
+}
