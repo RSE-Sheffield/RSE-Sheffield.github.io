@@ -6,7 +6,7 @@ published: true
 othernames: Daniele
 surname: Tartarini
 role: Senior Research Software Engineer
-image:
+image: https://cdn.sheffield.ac.uk/sites/default/files/styles/profile_modal/public/2023-07/CS_Headshots_062.jpg?h=30da0ebc&itok=Gw7VLInF
 links:
     - url: mailto:d.tartarini@sheffield.ac.uk
       icon: 

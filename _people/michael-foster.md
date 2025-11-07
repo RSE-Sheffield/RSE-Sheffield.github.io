@@ -6,7 +6,7 @@ published: true
 othernames: Michael   
 surname: Foster
 role: Research Software Engineer
-image:
+image: https://cdn.sheffield.ac.uk/sites/default/files/styles/profile_modal/public/2025-04/Michael%20Foster%20COM.jpg?h=cacc9ad0&itok=FzOBkoZw
 links:
     - url: mailto:m.foster@sheffield.ac.uk
       icon: 
