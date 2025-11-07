@@ -6,7 +6,7 @@ published: true
 othernames: Robert
 surname: Chisholm
 role: Research Software Engineer
-image:
+image: https://cdn.sheffield.ac.uk/sites/default/files/styles/profile_modal/public/2024-12/Rob-Chisholm2b.jpg?h=c1ff16af&itok=Yo8UZrEw
 links:
     - url: mailto:r.chisholm@sheffield.ac.uk
       icon: 
