@@ -21,6 +21,38 @@
     font-style: monospace;
   }
 
+:root {
+    /* UoS Core colour palette */
+    --uos-brand-violet: #440099;
+    --uos-dark-violet: #24125E;
+    --uos-electric-violet: #7000FF;
+    --uos-powder-violet: #A78CFA;
+    --uos-pale-violet: #C6BBFF;
+    --uos-wave-white: #F8F8F9;
+    --uos-midnight-black: #131E29;
+    /* unofficial shades */
+    --uos-brand-violet-70: #784bb6;
+    --uos-midnight-black-90: #2c3841;
+    --uos-midnight-black-80: #262f3b;
+
+    /* UoS Wider colour palette */
+    --uos-coral: #E7004C;
+    --uos-purple: #981F92;
+    --uos-teal: #005A8F;
+    --uos-peak-green: #005750;
+    --uos-flamingo: #FF6371;
+    --uos-pink: #FF79E1;
+    --uos-aqua: #00BBCC;
+    --uos-spearmint: #3BD4AE;
+    --uos-peach: #FF9664;
+    --uos-lavender: #DAA8E2;
+    --uos-powder-blue: #9ADBE8; /* no longer a core colour */
+    --uos-pastel-green: #A1DED2;
+
+    /* custom shades in scss, as not possible to mix hex codes and numeric alpha in pure css */ 
+    --uos-lavender-50: #DAA8E299;
+}
+
 html {
     /* Notify web browser of the static header, so anchors offset */
     scroll-padding-top: 80px;
@@ -32,7 +64,8 @@ body {
     font-size: 16px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    min-height: 100vh
+    min-height: 100vh;
+    background: var(--uos-wave-white);
 }
 
 h1, h2, h3, h4, h5, h6  {
@@ -60,33 +93,33 @@ a {
     }
 
     &:focus {
-        color: #fff;
+        color: var(--uos-wave-white);
     }
 }
 
 a.btn-cta-primary, .btn-cta-primary { 
     background: darken($color, 30%);
     border: 1px solid darken($color, 30%);
-    color: #fff;
+    color: var(--uos-wave-white);
     font-weight:600;
     text-transform: uppercase;
     &:hover {
         background: darken($color, 35%);
         border: 1px solid darken($color, 35%);
-        color: #fff;
+        color: var(--uos-wave-white);
     }
 }
 
 a.btn-cta-secondary,  .btn-cta-secondary { 
     background: $color-2;
     border: 1px solid $color-2;
-    color: #fff;
+    color: var(--uos-wave-white);
     font-weight:600;
     text-transform: uppercase;
     &:hover {
         background: darken($color-2, 5%);
         border: 1px solid darken($color-2, 5%);
-        color: #fff;
+        color: var(--uos-wave-white);
     }
 }
 
@@ -107,12 +140,12 @@ pre code {
 .header {
     padding: 10px 0;
     background: $color;
-    color: #fff;
+    color: var(--uos-wave-white);
     position: fixed;
     width: 100%;
     
     &.navbar-fixed-top {
-        background: #fff;
+        background: var(--uos-wave-white);
         z-index: 9999;
         @include box-shadow (0 0 4px rgba(0,0,0,0.4));
         .logo {
@@ -128,7 +161,7 @@ pre code {
         font-size: 26px;
         padding-top: 10px;
         a {
-            color:#fff;
+            color: var(--uos-wave-white);
             &:hover {
                 text-decoration: none;
             }
@@ -156,7 +189,7 @@ pre code {
 	        }
 	        .icon-bar {
 		        display: block;
-	            background-color: #fff;
+	            background-color: var(--uos-wave-white);
 	            height: 2px;
 	            width: 22px;
 	            @include border-radius(1px);
@@ -167,7 +200,7 @@ pre code {
 	        }
 	        &:hover {
 	            .icon-bar {
-	                background-color: #fff;
+	                background-color: var(--uos-wave-white);
 	            }
 	        }
 	    }
@@ -213,7 +246,7 @@ pre code {
 /* ======= Promo Section ======= */
 .promo {
     background: $color;
-    color: #fff;
+    color: var(--uos-wave-white);
     padding-top: 150px;
     .title {
         font-size: 98px;
@@ -313,7 +346,7 @@ pre code {
 .features {
     padding: 80px 0;
     background: $color;
-    color: #fff;
+    color: var(--uos-wave-white);
     .title {
         color: darken($color, 30%);
         margin-top: 0;
@@ -331,7 +364,7 @@ pre code {
             color: darken($color, 30%);
             .svg-inline--fa {
                 margin-right: 5px;
-                color: #fff;
+                color: var(--uos-wave-white);
             }
         }
     }
@@ -349,7 +382,7 @@ pre code {
     }
     .docs-inner {
         max-width: 800px;
-        background: #fff;
+        background: var(--uos-wave-white);
         padding: 30px;
         @include border-radius(4px);
         margin: 0 auto;
@@ -377,7 +410,7 @@ pre code {
     }
     .license-inner {
         max-width: 800px;
-        background: #fff;
+        background: var(--uos-wave-white);
         padding: 30px;
         @include border-radius(4px);
         margin: 0 auto;
@@ -435,7 +468,7 @@ pre code {
 .contact {
     padding: 80px 0;
     background: $color;
-    color: #fff;
+    color: var(--uos-wave-white);
     .contact-inner {
         max-width: 760px;
         margin: 0 auto;
@@ -482,7 +515,7 @@ pre code {
             }
             
             a {
-                color: #fff;
+                color: var(--uos-wave-white);
             }
             
             &:after {
@@ -548,7 +581,7 @@ pre code {
             }
             
             .svg-inline--fa {
-                color: #fff;
+                color: var(--uos-wave-white);
                 
                 text-align: center;
                 margin-top: 8px;
@@ -563,7 +596,7 @@ pre code {
 .footer {
     padding: 15px 0;   
     background: darken($color, 40%);
-    color: #fff;
+    color: var(--uos-wave-white);
     .copyright {
         @include opacity(0.8);
     }
@@ -572,3 +605,84 @@ pre code {
     } 
 }
 
+// Overwrite and extend some boostrap core css. If we were using scss/sass bootstrap we could make this changes with much less effort.
+
+.text-white{color:var(--uos-wave-white) !important;}
+// .text-white h1,.text-white h2,.text-white h3,.text-white h4,.text-white h5{color:var(--uos-wave-white)}
+.text-dark{color:var(--uos-midnight-black)!important}
+// .text-dark h1,.text-dark h2,.text-dark h3,.text-dark h4,.text-dark h5{color:var(--uos-midnight-black)}
+a.text-dark:focus,a.text-dark:hover{color:ar(--uos-midnight-black)!important}
+.text-body{color:var(--uos-midnight-black)!important}
+// .text-body h1,.text-body h2,.text-body h3,.text-body h4,.text-body h5{color:var(--uos-midnight-black)}
+// .text-muted{color:#6c757d!important}
+// .text-black-50{color:rgba(0,0,0,.5)!important}
+// .text-white-50{color:rgba(255,255,255,.5)!important}
+
+
+.text-uos-brand-violet{color:var(--uos-brand-violet)!important}a.text-uos-brand-violet:focus,a.text-uos-brand-violet:hover{color:#0062cc!important}
+// .text-uos-brand-violet h1,.text-uos-brand-violet h2,.text-uos-brand-violet h3,.text-uos-brand-violet h4,.text-uos-brand-violet h5{color:var(--uos-brand-violet)}
+.bg-uos-brand-violet{background-color:var(--uos-brand-violet)!important}a.bg-uos-brand-violet:focus,a.bg-uos-brand-violet:hover,button.bg-uos-brand-violet:focus,button.bg-uos-brand-violet:hover{background-color:#0062cc!important}
+.text-uos-dark-violet{color:var(--uos-dark-violet)!important}a.text-uos-dark-violet:focus,a.text-uos-dark-violet:hover{color:#0062cc!important}
+// .text-uos-dark-violet h1,.text-uos-dark-violet h2,.text-uos-dark-violet h3,.text-uos-dark-violet h4,.text-uos-dark-violet h5{color:var(--uos-dark-violet)}
+.bg-uos-dark-violet{background-color:var(--uos-dark-violet)!important}a.bg-uos-dark-violet:focus,a.bg-uos-dark-violet:hover,button.bg-uos-dark-violet:focus,button.bg-uos-dark-violet:hover{background-color:#0062cc!important}
+.text-uos-electric-violet{color:var(--uos-electric-violet)!important}a.text-uos-electric-violet:focus,a.text-uos-electric-violet:hover{color:#0062cc!important}
+// .text-uos-electric-violet h1,.text-uos-electric-violet h2,.text-uos-electric-violet h3,.text-uos-electric-violet h4,.text-uos-electric-violet h5{color:var(--uos-electric-violet)}
+.bg-uos-electric-violet{background-color:var(--uos-electric-violet)!important}a.bg-uos-electric-violet:focus,a.bg-uos-electric-violet:hover,button.bg-uos-electric-violet:focus,button.bg-uos-electric-violet:hover{background-color:#0062cc!important}
+.text-uos-powder-violet{color:var(--uos-powder-violet)!important}a.text-uos-powder-violet:focus,a.text-uos-powder-violet:hover{color:#0062cc!important}
+// .text-uos-powder-violet h1,.text-uos-powder-violet h2,.text-uos-powder-violet h3,.text-uos-powder-violet h4,.text-uos-powder-violet h5{color:var(--uos-powder-violet)}
+.bg-uos-powder-violet{background-color:var(--uos-powder-violet)!important}a.bg-uos-powder-violet:focus,a.bg-uos-powder-violet:hover,button.bg-uos-powder-violet:focus,button.bg-uos-powder-violet:hover{background-color:#0062cc!important}
+.text-uos-pale-violet{color:var(--uos-pale-violet)!important}a.text-uos-pale-violet:focus,a.text-uos-pale-violet:hover{color:#0062cc!important}
+// .text-uos-pale-violet h1,.text-uos-pale-violet h2,.text-uos-pale-violet h3,.text-uos-pale-violet h4,.text-uos-pale-violet h5{color:var(--uos-pale-violet)}
+.bg-uos-pale-violet{background-color:var(--uos-pale-violet)!important}a.bg-uos-pale-violet:focus,a.bg-uos-pale-violet:hover,button.bg-uos-pale-violet:focus,button.bg-uos-pale-violet:hover{background-color:#0062cc!important}
+.text-uos-wave-white{color:var(--uos-wave-white)!important}a.text-uos-wave-white:focus,a.text-uos-wave-white:hover{color:#0062cc!important}
+// .text-uos-wave-white h1,.text-uos-wave-white h2,.text-uos-wave-white h3,.text-uos-wave-white h4,.text-uos-wave-white h5{color:var(--uos-wave-white)}
+.bg-uos-wave-white{background-color:var(--uos-wave-white)!important}a.bg-uos-wave-white:focus,a.bg-uos-wave-white:hover,button.bg-uos-wave-white:focus,button.bg-uos-wave-white:hover{background-color:#0062cc!important}
+.text-uos-midnight-black{color:var(--uos-midnight-black)!important}a.text-uos-midnight-black:focus,a.text-uos-midnight-black:hover{color:#0062cc!important}
+// .text-uos-midnight-black h1,.text-uos-midnight-black h2,.text-uos-midnight-black h3,.text-uos-midnight-black h4,.text-uos-midnight-black h5{color:var(--uos-midnight-black)}
+.bg-uos-midnight-black{background-color:var(--uos-midnight-black)!important}a.bg-uos-midnight-black:focus,a.bg-uos-midnight-black:hover,button.bg-uos-midnight-black:focus,button.bg-uos-midnight-black:hover{background-color:#0062cc!important}
+
+
+.text-uos-coral{color:var(--uos-coral)!important}a.text-uos-coral:focus,a.text-uos-coral:hover{color:#0062cc!important}
+// .text-uos-coral h1,.text-uos-coral h2,.text-uos-coral h3,.text-uos-coral h4,.text-uos-coral h5{color:var(--uos-coral)}
+.bg-uos-coral{background-color:var(--uos-coral)!important}a.bg-uos-coral:focus,a.bg-uos-coral:hover,button.bg-uos-coral:focus,button.bg-uos-coral:hover{background-color:#0062cc!important}
+.text-uos-purple{color:var(--uos-purple)!important}a.text-uos-purple:focus,a.text-uos-purple:hover{color:#0062cc!important}
+// .text-uos-purple h1,.text-uos-purple h2,.text-uos-purple h3,.text-uos-purple h4,.text-uos-purple h5{color:var(--uos-purple)}
+.bg-uos-purple{background-color:var(--uos-purple)!important}a.bg-uos-purple:focus,a.bg-uos-purple:hover,button.bg-uos-purple:focus,button.bg-uos-purple:hover{background-color:#0062cc!important}
+.text-uos-teal{color:var(--uos-teal)!important}a.text-uos-teal.bg-uos-lavender,a.text-uos-teal.bg-uos-lavender:hover{color:#0062cc!important}
+// .text-uos-teal h1,.text-uos-teal h2,.text-uos-teal h3,.text-uos-teal h4,.text-uos-teal h5{color:var(--uos-teal)}
+.bg-uos-teal{background-color:var(--uos-teal)!important}a.bg-uos-teal:focus,a.bg-uos-teal:hover,button.bg-uos-teal:focus,button.bg-uos-teal:hover{background-color:#0062cc!important}
+.text-uos-peak-green{color:var(--uos-peak-green)!important}a.text-uos-peak-green:focus,a.text-uos-peak-green:hover{color:#0062cc!important}
+// .text-uos-peak-green h1,.text-uos-peak-green h2,.text-uos-peak-green h3,.text-uos-peak-green h4,.text-uos-peak-green h5{color:var(--uos-peak-green)}
+.bg-uos-peak-green{background-color:var(--uos-peak-green)!important}a.bg-uos-peak-green:focus,a.bg-uos-peak-green:hover,button.bg-uos-peak-green:focus,button.bg-uos-peak-green:hover{background-color:#0062cc!important}
+.text-uos-flamingo{color:var(--uos-flamingo)!important}a.text-uos-flamingo:focus,a.text-uos-flamingo:hover{color:#0062cc!important}
+// .text-uos-flamingo h1,.text-uos-flamingo h2,.text-uos-flamingo h3,.text-uos-flamingo h4,.text-uos-flamingo h5{color:var(--uos-flamingo)}
+.bg-uos-flamingo{background-color:var(--uos-flamingo)!important}a.bg-uos-flamingo:focus,a.bg-uos-flamingo:hover,button.bg-uos-flamingo:focus,button.bg-uos-flamingo:hover{background-color:#0062cc!important}
+.text-uos-pink{color:var(--uos-pink)!important}a.text-uos-pink:focus,a.text-uos-pink:hover{color:#0062cc!important}
+// .text-uos-pink h1,.text-uos-pink h2,.text-uos-pink h3,.text-uos-pink h4,.text-uos-pink h5{color:var(--uos-pink)}
+.bg-uos-pink{background-color:var(--uos-pink)!important}a.bg-uos-pink:focus,a.bg-uos-pink:hover,button.bg-uos-pink:focus,button.bg-uos-pink:hover{background-color:#0062cc!important}
+.text-uos-aqua{color:var(--uos-aqua)!important}a.text-uos-aqua:focus,a.text-uos-aqua:hover{color:#0062cc!important}
+// .text-uos-aqua h1,.text-uos-aqua h2,.text-uos-aqua h3,.text-uos-aqua h4,.text-uos-aqua h5{color:var(--uos-aqua)}
+.bg-uos-aqua{background-color:var(--uos-aqua)!important}a.bg-uos-aqua:focus,a.bg-uos-aqua:hover,button.bg-uos-aqua:focus,button.bg-uos-aqua:hover{background-color:#0062cc!important}
+.text-uos-spearmint{color:var(--uos-spearmint)!important}a.text-uos-spearmint:focus,a.text-uos-spearmint:hover{color:#0062cc!important}
+// .text-uos-spearmint h1,.text-uos-spearmint h2,.text-uos-spearmint h3,.text-uos-spearmint h4,.text-uos-spearmint h5{color:var(--uos-spearmint)}
+.bg-uos-spearmint{background-color:var(--uos-spearmint)!important}a.bg-uos-spearmint:focus,a.bg-uos-spearmint:hover,button.bg-uos-spearmint:focus,button.bg-uos-spearmint:hover{background-color:#0062cc!important}
+.text-uos-peach{color:var(--uos-peach)!important}a.text-uos-peach:focus,a.text-uos-peach:hover{color:#0062cc!important}
+// .text-uos-peach h1,.text-uos-peach h2,.text-uos-peach h3,.text-uos-peach h4,.text-uos-peach h5{color:var(--uos-peach)}
+.bg-uos-peach{background-color:var(--uos-peach)!important}a.bg-uos-peach:focus,a.bg-uos-peach:hover,button.bg-uos-peach:focus,button.bg-uos-peach:hover{background-color:#0062cc!important}
+.text-uos-lavender{color:var(--uos-lavender)!important}a.text-uos-lavendar:focus,a.text-uos-lavendar:hover{color:#0062cc!important}
+// .text-uos-lavender h1,.text-uos-lavender h2,.text-uos-lavender h3,.text-uos-lavender h4,.text-uos-lavender h5{color:var(--uos-lavender)}
+.bg-uos-lavender{background-color:var(--uos-lavender)!important}a.bg-uos-lavendar:focus,a.bg-uos-lavendar:hover,button.bg-uos-lavendar:focus,button.bg-uos-lavendar:hover{background-color:#0062cc!important}
+.text-uos-powder-blue{color:var(--uos-powder-blue)!important}a.text-uos-powder-blue:focus,a.text-uos-powder-blue:hover{color:#0062cc!important}
+// .text-uos-powder-blue h1,.text-uos-powder-blue h2,.text-uos-powder-blue h3,.text-uos-powder-blue h4,.text-uos-powder-blue h5{color:var(--uos-powder-blue)}
+.bg-uos-powder-blue{background-color:var(--uos-powder-blue)!important}a.bg-uos-powder-blue:focus,a.bg-uos-powder-blue:hover,button.bg-uos-powder-blue:focus,button.bg-uos-powder-blue:hover{background-color:#0062cc!important}
+.text-uos-pastel-green{color:var(--uos-pastel-green)!important}a.text-uos-pastel-green:focus,a.text-uos-pastel-green:hover{color:#0062cc!important}
+// .text-uos-pastel-green h1,.text-uos-pastel-green h2,.text-uos-pastel-green h3,.text-uos-pastel-green h4,.text-uos-pastel-green h5{color:var(--uos-pastel-green)}
+.bg-uos-pastel-green{background-color:var(--uos-pastel-green)!important}a.bg-uos-pastel-green:focus,a.bg-uos-pastel-green:hover,button.bg-uos-pastel-green:focus,button.bg-uos-pastel-green:hover{background-color:#0062cc!important}
+
+
+.btn-uos-electric-violet{color:var(--uos-wave-white);background-color:var(--uos-electric-violet);border-color:var(--uos-electric-violet)}
+.btn-uos-electric-violet:hover{color:var(--uos-wave-white);background-color:var(--uos-brand-violet);border-color:var(--uos-dark-violet)}
+.btn-uos-electric-violet.focus,.btn-uos-electric-violet:focus{box-shadow:0 0 0 .2rem rgba(52,58,64,.5)}
+.btn-uos-electric-violet.disabled,.btn-uos-electric-violet:disabled{color:var(--uos-wave-white);background-color:var(--uos-electric-violet);border-color:var(--uos-electric-violet)}
+.btn-uos-electric-violet:not(:disabled):not(.disabled).active,.btn-uos-electric-violet:not(:disabled):not(.disabled):active,.show>.btn-uos-electric-violet.dropdown-toggle{color:var(--uos-wave-white);background-color:var(--uos-brand-violet);border-color:var(--uos-dark-violet)}
+.btn-uos-electric-violet:not(:disabled):not(.disabled).active:focus,.btn-uos-electric-violet:not(:disabled):not(.disabled):active:focus,.show>.btn-uos-electric-violet.dropdown-toggle:focus{box-shadow:0 0 0 .2rem rgba(52,58,64,.5)}
