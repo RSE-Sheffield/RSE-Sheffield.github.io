@@ -2,7 +2,7 @@
 title: "Software Management Plans, Open Licences and Dissemination"
 category: workshop
 tags: fair4rs, fair, software, lifecycle
-permalink: /training/fair4rs/software-lifecycle
+permalink: /training/fair4rs/2025-12-11-software-lifecycle
 date: 2025-12-11
 from: "14:00"
 to: "17:00"

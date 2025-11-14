@@ -2,7 +2,7 @@
 title: "Design your code... (and write less of it)"
 category: workshop
 tags: fair4rs, fair, software, design
-permalink: /training/fair4rs/software-design
+permalink: /training/fair4rs/2025-11-26-software-design
 date: 2025-11-26
 end-date: 2025-12-03
 from: "13:00"
