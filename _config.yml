@@ -47,6 +47,8 @@ collections:
     output: true
   project_descriptions:
     output: true
+  case_studies:
+    output: true
 
 # Build settings
 markdown: kramdown
