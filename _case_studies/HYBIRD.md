@@ -21,7 +21,7 @@ Beyond the technical improvements, the collaboration helped raise the standard o
 funding_sources: 
   - name: Sheffield RSE Call for Proposals 2024
     url: https://rse.shef.ac.uk/collaboration/RSEtime/2024/
-short_summary: HYBIRD is a software packages which combines the Discrete Element Method (DEM) and the Lattice Boltzmann Method (LBM) to simulate complex particle-fluid interactions. This project optimised the performance of the existing C++/OpenMP code and produced a prototype GPU (CUDA) parallel implementation.
+short_summary: HYBRID is a research software package that couples the Discrete Element Method (DEM) with the Lattice Boltzmann Method (LBM) to model particle–fluid interactions. This project optimised the existing C++/OpenMP implementation and delivered a prototype GPU (CUDA) version, achieving substantial performance improvements across both CPU and GPU platforms.
 software_link: 
   name: HYBIRD
   url: https://github.com/gnomeCreative/HYBIRD
