@@ -78,7 +78,17 @@ The Research Software Engineering team at Sheffield has worked on projects invol
       <hr/>
       <b>{{ project.start_date | date_to_string }} - {{ project.end_date | date_to_string }}</b>
       <br/>
-      RSE{% if project.rses.size > 1 %}(s){% endif %}: <em> {{ project.rses | join: ", " }} </em>
+      RSE{% if project.rses.size > 1 %}(s){% endif %}: <em> 
+      {%- if project.rses.size > 2 %}
+      {% assign last_item = project.rses | last %}
+      {% assign new_last = "and "| append: last_item %}
+      {{ project.rses | join: ", " | replace: last_item, new_last}}
+      {%- elsif project.rses.size == 2 -%}
+      {{ project.rses | join: " and "}}
+      {%- elsif project.rses.size == 1 -%}
+      {{ project.rses}}
+      {%- endif -%}
+      </em>
       <br/>
       {%- if project.collaborators.size > 0 -%}
       Collaborator(s): <em>{{ project.collaborators | join: ", " }}</em>
