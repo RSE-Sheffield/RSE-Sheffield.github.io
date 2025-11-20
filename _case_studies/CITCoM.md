@@ -40,7 +40,7 @@ Should be 2-3 paragraphs ideally outlining broad details of project.
 Scientific models possess several properties that make them notoriously difficult to test, including a complex input space, long execution times, and stochastic behaviour.
 Furthermore, the experimental nature of many models can make it difficult to precisely specify their expected behaviour in advance.
 This makes them impractical to test effectively using existing techniques.
+The CITCoM solution is to specify tests in terms of the expected relationships between the variables within the model, for example increasing the infectiousness of a disease should lead to there being more observed cases and employ a statistical methodology known as Causal Inference to validate these relationships using pre-existing runtime data.
 
-Our approach is to specify tests in terms of the expected relationships between the variables within the model, for example increasing the infectiousness of a disease should lead to there being more observed cases.
-We then employ a statistical methodology known as Causal Inference to validate these relationships using pre-existing runtime data, rather than requiring specially curated test data.
-Our Causal Testing Framework provides a suite of automated tools to assist with this process.
+The RSEs have integrated the techniques developed during this project into the Causal Testing Framework, which provides a suite of automated tools to assist with the process of causal testing alongside comprehensive documentation and tutorials.
+This ensures high-quality reproducible research outputs while also providing a production-ready software tool that can be used by practitioners to test their models.
