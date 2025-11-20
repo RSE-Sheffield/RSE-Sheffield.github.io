@@ -24,6 +24,7 @@ software_link:            # Link to software generated from project. DOI preferr
   name: 
   url: 
 publication_links:        # Links to published material associated with project. DOI preferred.
+# Delete placeholders to hide publications section
   - description: 
     url: 
   - description: 
