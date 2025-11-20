@@ -1,7 +1,7 @@
 ---
 # Required
 include: true
-title: CITCoM: Causal Inference for Testing Computational Models
+title: CITCoM - Causal Inference for Testing Computational Models
 pi_name: Neil Walkinshaw
 rses: [Michael Foster, Farhad Alian, Chris Wild, Bob Turner]
 start_date: 01-01-2021
@@ -19,15 +19,14 @@ testimonial:              # Testimonal quote from project
 funding_sources:          # Funding sources for project. URL for funding source optional
   - name: EPSRC
     url: https://gtr.ukri.org/projects?ref=EP%2FT030526%2F1
-short_summary: Scientific models possess several properties that make them notoriously difficult to test, including a complex input space, long execution times, and non-determinism.
-This project employs the statistical framework of Causal Inference to address these challenges.
+short_summary: Scientific models possess several properties that make them notoriously difficult to test, including a complex input space, long execution times, and non-determinism. This project employs the statistical framework of Causal Inference to address these challenges.
 software_link:            # Link to software generated from project. DOI preferred.
   name: The Causal Testing Framework
   url: https://doi.org/10.21105/joss.07739
 publication_links:        # Links to published material associated with project. DOI preferred.
   - description: Evolving Estimation Models for Causal Testing
     url: https://doi.org/10.1145/3696630.3731613
-  - description: Using Causal Inference to Test Systems with Hidden and Interacting Variables: An Evaluative Case Study
+  - description: Using Causal Inference to Test Systems with Hidden and Interacting Variables - An Evaluative Case Study
     url:
   - description: Causal Test Adequacy
     url: https://doi.org/10.1109/ICST60714.2024.00023
