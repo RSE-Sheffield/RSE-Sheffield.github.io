@@ -105,7 +105,7 @@ The Research Software Engineering team at Sheffield has worked on projects invol
       {% for source in project.funding_sources %}
       <li> 
       {%- if source['url'] -%}
-      <a href = "{{ link['url'] }}">{{ source['name'] }}</a>
+      <a href = "{{ source['url'] }}">{{ source['name'] }}</a>
       {%- else -%}
       {{ source['name'] }}
       {%- endif -%}
