@@ -104,7 +104,7 @@ The Research Software Engineering team at Sheffield has worked on projects invol
       <hr/>
       {%- if project.testimonial['quote'] -%}
       <blockquote class = "proj-testimonial">
-        {{ project.testimonial['quote'] }}
+        {{ project.testimonial['quote'] | markdownify }}
         <span>{{ project.testimonial['author'] }}</span>
       </blockquote>
       <hr/>

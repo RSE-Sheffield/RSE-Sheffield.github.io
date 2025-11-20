@@ -15,7 +15,7 @@ completed:                # Boolean indicating if the project has finished
 image:                    # Image filename to represent project. Accomanying image should be placed in assets/images/project_images.
 testimonial:              # Testimonal quote from project
   author:
-  quote:
+  quote:                  # Quote should use a literal style for proper markdown redering (i.e. | followed by newline and then quote, see https://michaelcurrin.github.io/dev-cheatsheets/cheatsheets/data/yaml/strings.html#block-scalars)
 funding_sources:          # Funding sources for project. URL for funding source optional
   - name: 
     url: 
