@@ -13,9 +13,11 @@ dept: Mechanical, Aerospace and Civil Engineering
 collaborators: [Andrea Pasqua]
 completed: true
 image: hybird-paraview.png
-testimonial:              # Testimonial quote from project
-  author:
-  quote: 
+testimonial: 
+  author: Alessandro Leonardi
+  quote:  "Collaborating with the Research Software Engineering (RSE) team has been a highly constructive experience that has made a tangible difference on how my research group works. I am a civil engineering researcher, and I often rely on numerical methods, but the challenges we face with our in-house software, particularly around performance and usability, require a level of software engineering expertise that goes well beyond what is typically available within our research group.
+The RSE team brought in-depth technical knowledge that helped us identify and address several key bottlenecks in the code. In particular, they supported the development of a GPU-enabled version of our fluid solver and contributed to improving the memory management routines. These changes led to a noticeable reduction in simulation times and improved the stability of our models. I was lucky to work with a Software Engineer who is an expert in this type of implementation, which made the process very smooth.
+Beyond the technical improvements, the collaboration helped raise the standard of software development within our group. Working with the RSE team encouraged us to adopt more systematic development practices, improve our documentation, and consider long-term maintainability. This has directly benefited our PhD students and research staff, who now engage with the codebase more confidently and productively."
 funding_sources:          # Funding sources for project. URL for funding source optional
   - name: Sheffield RSE Call for Proposals 2024
     url: https://rse.shef.ac.uk/collaboration/RSEtime/2024/
