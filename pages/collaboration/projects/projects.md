@@ -78,7 +78,7 @@ The Research Software Engineering team at Sheffield has worked on projects invol
       <hr/>
       <b>{{ project.start_date | date_to_string }} - {{ project.end_date | date_to_string }}</b>
       <br/>
-      RSE(s): <em> {{ project.rses | join: ", " }} </em>
+      RSE{% if project.rses.size > 1 %}(s){% endif %}: <em> {{ project.rses | join: ", " }} </em>
       <br/>
       {%- if project.collaborators.size > 0 -%}
       Collaborator(s): <em>{{ project.collaborators | join: ", " }}</em>
