@@ -115,7 +115,7 @@ The Research Software Engineering team at Sheffield has worked on projects invol
 
       <b>Software: </b><a href = "{{ project.software_link['url']}}">{{ project.software_link['name'] }}</a>
       <br/>
-      <b>Publication(s):</b>
+      <b>Publication{% if project.publication_links.size > 1 %}(s){% endif %}:</b>
       <ul>
       {% for link in project.publication_links %}
       <li> <a href = "{{ link['url'] }}">{{ link['description'] }}</a> </li>
