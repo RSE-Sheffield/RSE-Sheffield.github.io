@@ -1,7 +1,7 @@
 ---
 include: true
 title: GridLive - API access to the UKs Smart Meter Data 
-pi_name: Prof Alastair Buckley and Edwin Brown
+pi_name: [Prof Alastair Buckley, Dr Jamie Taylor, Edwin Brown]
 dept: School of Mathematical and Physical Sciences
 rses: [Edwin Brown, Fred Sonnerwald, Chris Wild, Tamora James]
 collaborators: [Advanced Infrastructure Technology Ltd]
