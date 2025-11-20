@@ -1,28 +1,30 @@
 ---
 include: true
-title: Trustworthy Machine Learning Approaches to Electricity Demand Modelling
-pi_name: Prof Alastair Buckley
+title: GridLive - API access to the UKs Smart Meter Data 
+pi_name: [Prof Alastair Buckley, Dr Jamie Taylor, Edwin Brown]
 dept: School of Mathematical and Physical Sciences
-rses: [Edwin Brown, Chris Wild, Tamora James]
-collaborators: []
-completed: false
-start_date: 01-02-2024
-end_date: 01-02-2025
-image: 
-keywords: [machine-learning, modelling]
+rses: [Edwin Brown, Fred Sonnerwald, Chris Wild, Tamora James]
+collaborators: [Advanced Infrastructure Technology Ltd]
+completed: true
+start_date: 01-10-2024
+end_date: 01-10-2025
+image: gridlive-dashboard.png
+keywords: [database, smart meters]
 testimonial:
   author:
-  quote: 
-funding_sources: 
+  quote:
+funding_sources:
   - name: Innovate UK
 short_summary:
-  "Modelling the UKs Electricity Demand is challenging due to inconsistent data coverage across the country.
-  This project collaborates with industry partners to deliver modelled electricity demand profiles across the country and evaluates the trustworthiness of these machine learning predictions."
-software_link: 
-  name: Electricity demand
-  url: http://www.example.com
+  "GridLive is an Database and API that provides centralised access to aggregated smart meter electricity demand data for the UK. This enables researchers, network operators and energy system planners to easily access and analyse large scale electricity demand data to support the development of digital twins and AI models for the UK electricity grid."
+software_link:
+  name: GridLive API Documentation
+  url: https://api.gridlive.shef.ac.uk/docs
 publication_links:
----
-The energy system of Great Britain is decarbonising towards net-zero largely through increases in low carbon electricity generation. This trend is set to continue rapidly over the next decade. One key barrier that still needs to be overcome to enable effective planning and operations is automatic visibility of electricity demand at high spatial and temporal resolution (half hourly).
+  - description: GridLive Documentation
+    url: https://sites.google.com/sheffield.ac.uk/gridlive/home
 
-Our approach is to use a wide range of available electricity system monitoring data (small groups of smart meters up to network monitoring at substations and supply points) along with information about the occupancy demographics and building stock of different regions of Great Britain. Using these data we are building a sophisticated machine learning model that allows the estimation of electricity demand of any arbitrary building or group of buildings. Such a model could be used in energy system design, planning or operational forecasting for distribution network operators or national system operators.
+---
+In 2024, the energy regulator; Ofgem, mandated that all the Distribution Network Operators (DNOs) publish aggregated smart meter data publicly. GridLive is a central database and restful API for all the DNOs smart meter data that is optimized for large scale data retreival and analysis. The user can extract smart meter data based on date ranges, license area, DNO and grid reference. All the metadata from the electrical substations are also available. 
+
+The RSEs were responsible for building the full data pipeline and designed the database structure for optmised data retrieval. The software is written so the database is automatically updated every month from the DNOs data portals. The RSEs also ensured the process of building the database and API is heavily documented so the research group can edit and maintain the software. 
