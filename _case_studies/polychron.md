@@ -15,7 +15,7 @@ completed: true
 image: polychron-dating-results-screenshot.png
 testimonial:
   author: Bryony Moody
-  quote: > 
+  quote: |
     Having access to funded RSE time was instrumental in pushing my PhD research forward following the completion of my PhD.
     As a teaching-only academic, I have very limited time to commit to furthering the work I started during my PhD.
     Also, despite being a fairly capable programmer, my codebase required extensive refactoring before I could hope to publish the software to the user community.
