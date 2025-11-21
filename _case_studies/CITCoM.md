@@ -42,5 +42,6 @@ Furthermore, the experimental nature of many models can make it difficult to pre
 This makes them impractical to test effectively using existing techniques.
 The CITCoM solution is to specify tests in terms of the expected relationships between the variables within the model, for example increasing the infectiousness of a disease should lead to there being more observed cases and employ a statistical methodology known as Causal Inference to validate these relationships using pre-existing runtime data.
 
-The RSEs have integrated the techniques developed during this project into the Causal Testing Framework, which provides a suite of automated tools to assist with the process of causal testing alongside comprehensive documentation and tutorials.
-This ensures high-quality reproducible research outputs while also providing a production-ready software tool that can be used by practitioners to test their models.
+RSEs played a key role in the project from the outset by transforming the techniques developed by the researchers into a suite of production-ready tools to help real developers test their models.
+The Causal Testing Framework has automated release pipelines for both [PyPI](https://pypi.org/project/causal-testing-framework/) and [Conda Forge](https://anaconda.org/conda-forge/causal-testing-framework), and is supported by online [documentation](https://causal-testing-framework.readthedocs.io/en/latest/) and [tutorials](https://causal-testing-framework.readthedocs.io/en/latest/tutorials.html) developed by the RSEs.
+This has ensured high-quality, reproducible research outputs and has led to a broader uptake of the tool by the modelling community that would not have been possible without RSE involvement.
