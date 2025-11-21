@@ -73,25 +73,15 @@ The Research Software Engineering team at Sheffield has worked on projects invol
     {% if project.include %}
     <div class="project">
       <h3>{{ project.title }}</h3>
-      <h4>{{ project.pi_name|join: ", " }}</h4>
+      <h4>{% include join_list_commas_and.html list=project.pi_name %}</h4>
       <h5>{{ project.dept}}</h5>
       <hr/>
       <b>{{ project.start_date | date_to_string }} - {{ project.end_date | date_to_string }}</b>
       <br/>
-      RSE{% if project.rses.size > 1 %}(s){% endif %}: <em> 
-      {%- if project.rses.size > 2 %}
-      {% assign last_item = project.rses | last %}
-      {% assign new_last = "and "| append: last_item %}
-      {{ project.rses | join: ", " | replace: last_item, new_last}}
-      {%- elsif project.rses.size == 2 -%}
-      {{ project.rses | join: " and "}}
-      {%- elsif project.rses.size == 1 -%}
-      {{ project.rses}}
-      {%- endif -%}
-      </em>
+      RSE{% if project.rses.size > 1 %}(s){% endif %}: <em>{% include join_list_commas_and.html list=project.rses %}</em>
       <br/>
       {%- if project.collaborators.size > 0 -%}
-      Collaborator(s): <em>{{ project.collaborators | join: ", " }}</em>
+      Collaborator(s): <em>{% include join_list_commas_and.html list=project.collaborators %}</em>
       {%- endif -%}
       <div class="proj-content {% if project.image == blank %}no-image{% endif %}">
         {% if project.image %}
