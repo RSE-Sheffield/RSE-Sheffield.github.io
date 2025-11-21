@@ -27,7 +27,7 @@ publication_links:        # Links to published material associated with project.
   - description: Evolving Estimation Models for Causal Testing
     url: https://doi.org/10.1145/3696630.3731613
   - description: Using Causal Inference to Test Systems with Hidden and Interacting Variables - An Evaluative Case Study
-    url:
+    url: https://arxiv.org/abs/2504.16526v1
   - description: Causal Test Adequacy
     url: https://doi.org/10.1109/ICST60714.2024.00023
   - description: Testing Causality Scientific Modelling Software
