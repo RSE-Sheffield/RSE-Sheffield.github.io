@@ -6,7 +6,7 @@ published: true
 othernames: Peter
 surname: Heywood
 role: Research Software Engineer
-image:
+image: https://avatars.githubusercontent.com/u/628937?v=4
 links:
     - url: "mailto:p.heywood@sheffield.ac.uk"
       icon: 
