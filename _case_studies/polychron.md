@@ -10,7 +10,7 @@ keywords: [chronology, statistics, python, GUI]
 
 # Optional
 dept: School of Mathematical and Physical Sciences
-collaborators: []
+collaborators: [Shreyan Ghosh (N8CIR intern)]
 completed: true
 image: polychron-dating-results-screenshot.png
 testimonial:
