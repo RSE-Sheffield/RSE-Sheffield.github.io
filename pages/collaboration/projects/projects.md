@@ -78,10 +78,10 @@ The Research Software Engineering team at Sheffield has worked on projects invol
       <hr/>
       <b>{{ project.start_date | date_to_string }} - {{ project.end_date | date_to_string }}</b>
       <br/>
-      RSE{% if project.rses.size > 1 %}(s){% endif %}: <em>{% include join_list_commas_and.html list=project.rses %}</em>
+      RSE{% if project.rses.size > 1 %}s{% endif %}: <em>{% include join_list_commas_and.html list=project.rses %}</em>
       <br/>
       {%- if project.collaborators.size > 0 -%}
-      Collaborator(s): <em>{% include join_list_commas_and.html list=project.collaborators %}</em>
+      Collaborator{% if project.collaborators.size > 1 %}s{% endif %}: <em>{% include join_list_commas_and.html list=project.collaborators %}</em>
       {%- endif -%}
       <div class="proj-content {% if project.image == blank %}no-image{% endif %}">
         {% if project.image %}
@@ -100,7 +100,7 @@ The Research Software Engineering team at Sheffield has worked on projects invol
       <hr/>
       {%- endif -%}
 
-      <b>Funding source(s): </b> 
+      <b>Funding source{% if project.funding_sources.size > 1 %}s{% endif %}: </b> 
       <ul>
       {% for source in project.funding_sources %}
       <li> 
@@ -115,7 +115,7 @@ The Research Software Engineering team at Sheffield has worked on projects invol
 
       <b>Software: </b><a href = "{{ project.software_link['url']}}">{{ project.software_link['name'] }}</a>
       <br/>
-      <b>Publication{% if project.publication_links.size > 1 %}(s){% endif %}:</b>
+      <b>Publication{% if project.publication_links.size > 1 %}s{% endif %}:</b>
       <ul>
       {% for link in project.publication_links %}
       <li> <a href = "{{ link['url'] }}">{{ link['description'] }}</a> </li>
