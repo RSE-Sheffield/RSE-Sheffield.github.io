@@ -11,7 +11,7 @@ layout: default
                 {% endif %}
 
                 {% if page.role %}
-                    <h4>{{page.role}}</h4>
+                    <h4>{% if page.alumnum %}<span class="badge badge-pill badge-uos-powder-violet mr-2">alumni</span>{% endif %}{{page.role}}</h4>
                 {% endif %}
 
                 {{ content }}
@@ -19,7 +19,7 @@ layout: default
             </div>
             <div class="col-12 col-md-4">
                 {% assign colours = placeholder_colours %}
-                {% include team_member_card.html person=page placeholder_color="var(--uos-wave-white)" placeholder_background="var(--uos-dark-violet)" show_name=false show_role=false show_extra_links=true %}
+                {% include team_member_card.html person=page placeholder_color="var(--uos-wave-white)" placeholder_background="var(--uos-dark-violet)" show_name=false show_role=false show_extra_links=true show_badges=false %}
             </div>
         </div>
     </div>

@@ -19,17 +19,24 @@
             </svg>
         </div>
     </a>
-    {% if include.show_name or include.show_role or include.person.links %}
+    {% if include.show_name or include.show_role or include.person.links or include.show_badges %}
         <div class="card-body p-2">
             {% if include.show_name and include.person.othernames and include.person.surname%}
-                <h3><a href="{{include.person.url}}">{{include.person.othernames}} {{include.person.surname}}</a></h3>
+                <h3 class="mb-0"><a href="{{include.person.url}}">{{include.person.othernames}} {{include.person.surname}}</a></h3>
             {% endif %}
             {% if include.show_role and include.person.role%}
-                <p><strong>{{include.person.role}}</strong></p>
+                <p class="mb-0"><strong>{{include.person.role}}</strong></p>
+            {% endif %}
+            {% if include.show_badges %}
+                <p class="mb-0">
+                {% if include.person.alumnum %}
+                    <span class="badge badge-pill badge-uos-powder-violet">alumni</span> 
+                {% endif %}
+                </p>
             {% endif %}
             <!-- liquid if statements don't support brackets. -->
             {% if include.person.links or include.person.extra_links and include.show_extra_links %}
-                <ul class="list-unstyled mb-0">
+                <ul class="list-unstyled mt-1 mb-0">
                     {% for link in include.person.links %}
                         {% if link.label and link.url %}
                             <li><a href="{{ link.url }}">
