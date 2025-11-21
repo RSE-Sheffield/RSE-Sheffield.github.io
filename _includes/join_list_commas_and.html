@@ -1,0 +1,23 @@
+{% comment %}
+include as a function, which given a parameter `list`, will return the list joined with `,` but (also) using `and` between the last 2 elements.
+
+Uses include.list[0] to determine if the input is a list (should be falsey for a string or empty list) allowing individual strings to be passed in too.
+
+usage (without the extra spaces): 
+
+{ % include join_list_commas_and.html list=foo % }
+
+{% endcomment %}
+{% if include.list[0] %}
+    {% if include.list.size > 2 %}
+        {% assign last_item = include.list | last %}
+        {% assign new_last = "and " | append: last_item %}
+        {{ include.list | join: ", " | replace: last_item, new_last}}
+    {% elsif include.list.size == 2 %}
+        {{ include.list | join: " and "}}
+    {% elsif include.list.size == 1 %}
+        {{ include.list }}
+    {% endif %}
+{% else %}
+    {{ include.list }}
+{% endif %}
