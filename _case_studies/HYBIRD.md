@@ -27,10 +27,6 @@ software_link:
   name: HYBIRD
   url: https://github.com/gnomeCreative/HYBIRD
 publication_links:        # Links to published material associated with project. DOI preferred.
-  - description: 
-    url: 
-  - description: 
-    url: 
 ---
 HYBRID is research software developed by Dr Alessandro Leonardi and his team which form part of the Geotechnical Engineering group. Written in C++ with OpenMP, the software couples the Discrete Element Method (DEM) with the Lattice Boltzmann Method (LBM) to simulate complex interactions between particles and fluids. These simulations help researchers study how granular fronts form in free-surface flows, improving understanding of particle-laden flow behaviour in environmental and geotechnical engineering.
 
