@@ -37,14 +37,14 @@ research software[^3].
   programme](#better-software-for-better-research-introduction-to-the-fair-training-programme), Thursday 16th October 2025
 * [Software lifecycle planning](#software-lifecycle-planning), Thursday 11th December 2025
 * [Version control](#version-control)
-  * [Git, GitHub and GitKraken](#git-github-and-gitkraken---from-zero-to-hero), Tuesday 28th October 2025 & Tuesday 4th November 2025
-  * [Git With It](#git-with-it), Spring semester, dates TBC
+  * [Git, GitHub and GitKraken](#git-github-and-gitkraken---from-zero-to-hero), Wednesday 4th Februrary 2026 & Thursday 5th February 2026
+  * [Git With It](#git-with-it), Spring semester, Monday 2nd March 2026 & Tuesday 3rd March 2026
 * [Software design](#software-design), Wednesday 26th November 2025 & Wednesday 3rd December 2025
-* [Testing and Continuous Integration](#testing-and-continuous-integration), Spring semester, date TBC
-* [Documentation](#documentation), Spring semester, date TBC
-* [Reproducible computational environments](#reproducible-computational-environments), Spring semester, date TBC
-* [Packaging](#packaging), Spring semester, date TBC
-* [Publishing a software paper in JOSS](#publishing-a-software-paper-in-joss), Spring semester, date TBC
+* [Testing and Continuous Integration](#testing-and-continuous-integration), Monday 9th March 2026
+* [Documentation](#documentation), Wednesday 19th April 2026
+* [Reproducible computational environments](#reproducible-computational-environments), Wednesday 18th February 2026
+* [Packaging](#packaging), Thursday 19th March 2026
+* [Publishing a software paper in JOSS](#publishing-a-software-paper-in-joss), Monday 11th May 2026
 
 ## Prerequisites
 
@@ -87,7 +87,7 @@ then introduce some actions on how to apply them to software and present a globa
 
 When you start writing software it is often very useful to think about the development process and how you will make your
 software sustainable in the long term. In this module we will introduce important aspects of software development in
-research: software lifecyle, management plan, licences and dissemination. This module should allow you to ask yourself
+research: software lifecycle, management plan, licences and dissemination. This module should allow you to ask yourself
 the right questions when starting a research software project.
 
 **Course materials:** [Recording](https://orda.shef.ac.uk/articles/media/FAIR2_for_Research_Software_training_programme_Software_Management_plan_licences_and_dissemination/27652128) and [website](https://fair2-for-research-software.github.io/Software_Lifecycle_Planning/)
@@ -98,7 +98,7 @@ The version control module has two distinct training sessions: one for beginners
 
 #### Git, GitHub and GitKraken - From Zero to Hero
 
-**Tuesday 28th October 2025 & Tuesday 4th November 2025 (mornings only), in person, [Registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/d4d09f67-097b-4451-8ddb-86cb90636c06)**
+**Wednesday 4th February 2026 & Thursday 5th February 2026 (mornings only), in person, [Registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/d4d09f67-097b-4451-8ddb-86cb90636c06)**
 
 If you’ve never heard of or used version control and Git before this is the course for you. We start by introducing
 version control and exploring how it can be beneficial to researchers, then we introduce some useful tools and get
@@ -110,7 +110,7 @@ with using version control in a research setting.
 
 #### Git With It
 
-**Dates TBC, in person, [Registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/6197989b-bef2-4352-a14b-02c4f45bbca6)**
+**Monday 2nd March 2026 & Tuesday 3rd March 2026 (mornings only), in person, [Registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/6197989b-bef2-4352-a14b-02c4f45bbca6)**
 
 This course aims to help you develop a deeper understanding of how Git works to facilitate collaboration. It builds on
 the foundations laid by the Git beginners course. The core idea around the course is that by improving your
@@ -133,7 +133,7 @@ to make your life easier.
 
 ### Testing and Continuous Integration
 
-**Date TBC, in person, [Registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/460c53c5-40e4-4c97-ab4f-144213544026)**
+**Monday 9th March 2026, in person, [Registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/460c53c5-40e4-4c97-ab4f-144213544026)**
 
 This course aims to equip researchers with the skills to write effective tests and ensure the quality and reliability of
 their research software. No prior testing experience is required! We'll guide you through the fundamentals of software
@@ -145,7 +145,7 @@ automatically running tests with every code change, catching bugs early and savi
 
 ### Documentation
 
-**Date TBC, in person, [Registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/7c81f9fd-656f-4ae9-ba48-bc83afe81cc2)**
+**Wednesday 19th April 2026, in person, [Registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/7c81f9fd-656f-4ae9-ba48-bc83afe81cc2)**
 
 Well-documented software promotes reproducibility, maintainability, and increased research impact through wider adoption
 and citation. This course teaches researchers how to document their software effectively, making it accessible and
@@ -155,7 +155,7 @@ understandable to others. It covers topics such as writing readable code and usa
 
 ### Reproducible computational environments
 
-**Date TBC, in person, [Registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/e30c407d-c97d-44a0-b3fd-4e87f95c4789)**
+**Wednesday 18th February 2026, in person, [Registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/e30c407d-c97d-44a0-b3fd-4e87f95c4789)**
 
 Ensuring that others are able to take your code, run it, and are able to produce the same (or equivalent) results is one
 of the key tenets of FAIR and reproducible research software. This course will provide you with an overview of different
@@ -166,7 +166,7 @@ reproducibility.
 
 ### Packaging
 
-**Date TBC, in person, [Registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/0cbafddd-4c31-4e8a-bce6-a12e895a4acf)**
+**Thursday 19th March 2026, in person, [Registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/0cbafddd-4c31-4e8a-bce6-a12e895a4acf)**
 
 Packaging your software is one of the important steps in a software project to make it both findable and
 accessible. This course will provide you with an understanding of why and when packaging is useful, what different
@@ -176,7 +176,7 @@ standards exist to package Python projects and take you through each step of the
 
 ### Publishing a software paper in JOSS
 
-**Date TBC, [Registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/9fa9503c-81a1-4667-af7b-14d62a4b82bc)**
+**Monday 11th May 2026, [Registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/9fa9503c-81a1-4667-af7b-14d62a4b82bc)**
 
 Did you know that you can actually publish a paper about your software? This is an ideal way to get recognition (and
 citation) for the software you have spent countless hours creating. In this course we will walk you through an example
