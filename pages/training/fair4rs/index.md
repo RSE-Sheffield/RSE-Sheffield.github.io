@@ -41,7 +41,7 @@ research software[^3].
   * [Git With It](#git-with-it), Spring semester, Monday 2nd March 2026 & Tuesday 3rd March 2026
 * [Software design](#software-design), Wednesday 26th November 2025 & Wednesday 3rd December 2025
 * [Testing and Continuous Integration](#testing-and-continuous-integration), Monday 9th March 2026
-* [Documentation](#documentation), Wednesday 19th April 2026
+* [Documentation](#documentation), Wednesday 29th April 2026
 * [Reproducible computational environments](#reproducible-computational-environments), Wednesday 18th February 2026
 * [Packaging](#packaging), Thursday 19th March 2026
 * [Publishing a software paper in JOSS](#publishing-a-software-paper-in-joss), Monday 11th May 2026
@@ -145,7 +145,7 @@ automatically running tests with every code change, catching bugs early and savi
 
 ### Documentation
 
-**Wednesday 19th April 2026, in person, [Registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/7c81f9fd-656f-4ae9-ba48-bc83afe81cc2)**
+**Wednesday 29th April 2026, in person, [Registration link](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/7c81f9fd-656f-4ae9-ba48-bc83afe81cc2)**
 
 Well-documented software promotes reproducibility, maintainability, and increased research impact through wider adoption
 and citation. This course teaches researchers how to document their software effectively, making it accessible and
