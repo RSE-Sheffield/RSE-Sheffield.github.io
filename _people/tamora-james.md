@@ -6,7 +6,7 @@ published: true
 othernames: Tamora
 surname: James
 role: Research Software Engineer
-image:
+image: /assets/images/team/tamora-james.jpg
 links:
     - url: mailto:t.d.james@sheffield.ac.uk
       icon: 
