@@ -6,6 +6,9 @@ published: true
 othernames: Paul
 surname: Richmond
 role: Former Group Director
+image:
+links:
+extra_links:
 
 ---
 

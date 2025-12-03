@@ -6,6 +6,9 @@ published: true
 othernames: Bob
 surname: Turner
 role: Research Software Engineer
+image:
+links:
+extra_links:
 
 ---
 

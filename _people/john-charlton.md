@@ -6,6 +6,9 @@ published: true
 othernames: John
 surname: Charlton
 role: Research Software Engineer
+image:
+links:
+extra_links:
 
 ---
 

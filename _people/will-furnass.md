@@ -6,6 +6,9 @@ published: true
 othernames: Will
 surname: Furnass
 role: Research Software Engineer
+image:
+links:
+extra_links:
 
 ---
 Will was a Research Software Engineer who was previously:

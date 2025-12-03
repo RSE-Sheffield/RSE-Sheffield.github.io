@@ -5,6 +5,9 @@ published: true
 
 othernames: Tania
 surname: Allard
+image:
+links:
+extra_links:
 
 ---
 
