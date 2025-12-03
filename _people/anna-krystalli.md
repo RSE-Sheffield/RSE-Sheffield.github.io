@@ -6,6 +6,9 @@ published: true
 surname: Krystalli
 othernames: Anna
 role: Research Software Engineer
+image:
+links:
+extra_links:
 
 ---
 

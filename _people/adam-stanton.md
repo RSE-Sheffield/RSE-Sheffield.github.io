@@ -6,6 +6,9 @@ published: true
 othernames: Adam
 surname: Stanton
 role: Senior Research Software Engineer
+image:
+links:
+extra_links:
 
 ---
 

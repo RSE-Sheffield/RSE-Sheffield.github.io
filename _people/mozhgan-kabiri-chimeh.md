@@ -6,6 +6,9 @@ published: true
 othernames: Mozhgan
 surname: Kabiri Chimeh
 role: Research Associate/Research Software Engineer
+image:
+links:
+extra_links:
 
 ---
 
