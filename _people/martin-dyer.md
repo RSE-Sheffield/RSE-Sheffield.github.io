@@ -6,7 +6,7 @@ published: true
 othernames: Martin
 surname: Dyer
 role: Research Software Engineer
-image:
+image: https://avatars.githubusercontent.com/u/15014527
 links:
     - url: mailto:martin.dyer@sheffield.ac.uk
       icon: 
