@@ -5,6 +5,7 @@ published: true
 
 othernames: Tania
 surname: Allard
+role: Research Software Engineer
 image:
 links:
 extra_links:
