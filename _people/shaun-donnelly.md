@@ -6,7 +6,7 @@ published: true
 othernames: Shaun
 surname: Donnelly
 role: Research Software Engineer
-image:
+image: /assets/images/team/shaun-donnelly.jpg
 links:
     - url: mailto:s.t.donnelly@sheffield.ac.uk
       icon: 

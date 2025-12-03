@@ -6,7 +6,7 @@ published: true
 surname: Karmakharm
 othernames: Twin
 role: Senior Research Software Engineer
-iamge:
+image: /assets/images/team/twin-karmakharm.jpg
 links:
     - url: mailto:t.karmakharm@sheffield.ac.uk
       icon: 
