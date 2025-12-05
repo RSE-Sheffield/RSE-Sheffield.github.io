@@ -20,7 +20,7 @@ news, opportunities, events and training for you.
 
 ## News
 
-- Society RSE has began their consultation process for updating their ethical sponsorship policy. The first survey has closed, but the second is scheduled for release on the 8th December. More information can be found on [Society RSE's website](https://society-rse.org/about/policies/avoidance-criteria-for-ethical-sponsorship-policy/).
+- Society RSE has began their consultation process for updating their ethical sponsorship policy. The first survey has closed, and the second for [arguments against each of the proposed areas to be submit](https://docs.google.com/forms/d/e/1FAIpQLSfXcIoUTJnEtA53rgVJOIQ-BbhEIHu6zulCVR1RS6JMfhAQ5g/viewform?usp=publish-editor), closes 29th December. More information can be found on [Society RSE's website](https://society-rse.org/about/policies/avoidance-criteria-for-ethical-sponsorship-policy/).
 - Version 1.3.0 of the [Research Software Quality Toolkit ({RSQ}Kit)](https://everse.software/RSQKit/) has released.
 
 ---
