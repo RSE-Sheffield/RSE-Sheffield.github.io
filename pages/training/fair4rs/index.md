@@ -37,7 +37,7 @@ research software[^3].
   programme](#better-software-for-better-research-introduction-to-the-fair-training-programme), Thursday 16th October 2025
 * [Software lifecycle planning](#software-lifecycle-planning), Thursday 11th December 2025
 * [Version control](#version-control)
-  * [Git, GitHub and GitKraken](#git-github-and-gitkraken---from-zero-to-hero), Wednesday 4th Februrary 2026 & Thursday 5th February 2026
+  * [Git, GitHub and GitKraken](#git-github-and-gitkraken---from-zero-to-hero), Wednesday 4th February 2026 & Thursday 5th February 2026
   * [Git With It](#git-with-it), Spring semester, Monday 2nd March 2026 & Tuesday 3rd March 2026
 * [Software design](#software-design), Wednesday 26th November 2025 & Wednesday 3rd December 2025
 * [Testing and Continuous Integration](#testing-and-continuous-integration), Monday 9th March 2026
