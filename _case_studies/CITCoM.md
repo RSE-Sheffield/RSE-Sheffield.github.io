@@ -3,7 +3,7 @@
 include: true
 title: CITCoM - Causal Inference for Testing Computational Models
 pi_name: Neil Walkinshaw
-rses: [Michael Foster, Farhad Alian, Chris Wild, Bob Turner]
+rses: [Michael Foster, Farhad Allian, Chris Wild, Bob Turner]
 start_date: 01-01-2021
 end_date: 31-12-2025
 keywords: [software testing, computational models, causal reasoning, python]
