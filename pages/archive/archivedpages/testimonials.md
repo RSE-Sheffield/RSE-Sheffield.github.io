@@ -1,6 +1,6 @@
 ---
 title: Testimonials
-permalink: /archive/testimonials/
+permalink: /collaboration/testimonials/
 slug: index
 type: text
 ---

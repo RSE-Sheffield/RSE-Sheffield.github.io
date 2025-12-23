@@ -1,6 +1,6 @@
 ---
 title: LunchBytes talks
-permalink: /archive/lunch-bytes/
+permalink: /community/lunch-bytes/
 slug: lunch-bytes
 type: text
 ---

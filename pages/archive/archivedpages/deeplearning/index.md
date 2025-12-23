@@ -1,6 +1,6 @@
 ---
 title: Deep Learning
-permalink: /archive/deeplearning/
+permalink: /training/deeplearning/
 slug: index
 type: text
 ---

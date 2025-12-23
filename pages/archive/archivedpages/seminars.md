@@ -1,6 +1,6 @@
 ---
 title: Seminar Series
-permalink: /archive/seminars/
+permalink: /community/seminars/
 slug: seminars
 type: text
 ---

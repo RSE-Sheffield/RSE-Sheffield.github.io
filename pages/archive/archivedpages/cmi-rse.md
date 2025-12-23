@@ -1,6 +1,6 @@
 ---
 title: CMI-RSE Support
-permalink: /archive/cmi-rse/
+permalink: /collaboration/cmi-rse/
 slug: index
 type: text
 ---
