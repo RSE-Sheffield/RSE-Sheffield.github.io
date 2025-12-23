@@ -12,6 +12,8 @@
       url: /collaboration/costing
     - title: Projects
       url: /collaboration/projects
+    - title: RSE Call for proposals 2025
+      url: /collaboration/RSEtime/2025
 
 - title: "Training & Resources"
   subitems:
@@ -53,17 +55,3 @@
       url: /contact/team
     - title: Alumni
       url: /contact/alumni
-- title: "Archive"
-  subitems:
-    - title: RSE Call for proposals 2025
-      url: /collaboration/RSEtime/2025
-    - title: CMI-RSE Projects
-      url: /collaboration/cmi-rse
-    - title: Testimonials
-      url: /collaboration/testimonials
-    - title: Seminar Series
-      url: /community/seminars
-    - title: Lunch Bytes talks
-      url: /community/lunch-bytes
-    - title: Researcher AI and ML Resources
-      url: /training/deeplearning
