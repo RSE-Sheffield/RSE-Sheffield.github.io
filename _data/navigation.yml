@@ -12,10 +12,7 @@
       url: /collaboration/costing
     - title: Projects
       url: /collaboration/projects
-    - title: CMI-RSE Projects
-      url: /collaboration/cmi-rse
-    - title: Testimonials
-      url: /collaboration/testimonials
+
 - title: "Training & Resources"
   subitems:
     - title: Training Courses
@@ -24,8 +21,6 @@
       url: /training/fair4rs/
     - title: Researcher Programming Resources
       url: /training/programming
-    - title: Researcher Artificial Intelligence and Machine Learning Resources
-      url: /training/deeplearning
     - title: Code Clinic
       url: /support/code-clinic
     - title: "COM4521/COM6521: Parallel Computing with GPUs"
@@ -40,10 +35,6 @@
       url: /community/code_of_conduct
     - title: Slack
       url: /community/slack
-    - title: Lunch Bytes talks
-      url: /community/lunch-bytes
-    - title: Seminar Series
-      url: /community/seminars
     - title: Resources and Equipment
       url: /community/resources-and-equipment
     - title: RSE Job Descriptions
@@ -62,3 +53,17 @@
       url: /contact/team
     - title: Alumni
       url: /contact/alumni
+- title: "Archive"
+  subitems:
+    - title: RSE Call for proposals 2025
+      url: /collaboration/RSEtime/2025
+    - title: CMI-RSE Projects
+      url: /collaboration/cmi-rse
+    - title: Testimonials
+      url: /collaboration/testimonials
+    - title: Seminar Series
+      url: /community/seminars
+    - title: Lunch Bytes talks
+      url: /community/lunch-bytes
+    - title: Researcher AI and ML Resources
+      url: /training/deeplearning
