@@ -1,9 +1,12 @@
 ---
-title: Call for Proposal - RSE collaboration 2025
+title: Call for Proposal - RSE collaboration 2025 [Closed]
 permalink: /collaboration/RSEtime/2025/
 slug: index
 type: text
 ---
+
+<div class="alert alert-danger" role="alert">This call closed on 4<sup>th</sup> July, 2025. Notifications of decision
+were sent on September 2025.</div>
 
 ### Deadline Extended
 

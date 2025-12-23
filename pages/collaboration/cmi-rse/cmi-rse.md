@@ -5,7 +5,8 @@ slug: index
 type: text
 ---
 
-<div class="alert alert-danger" role="alert">Due to the amount of projects received, this call is on hold until November 2024.</div>
+<div class="alert alert-danger" role="alert">This call is no longer open to submissions. If you are interested in RSE
+support please <a href="/contact">get in touch</a>.</div>
 
 ### RSE support via the Centre for Machine Intelligence (CMI-RSE)
 
@@ -46,5 +47,3 @@ Please express your interest in accessing CMI-RSE provision by completing the Go
 <a href="https://forms.gle/yvx8vy4YHd6UD9WE6" class="btn btn-primary">Application form</a>
 
 This is an **open call** and applications will be reviewed on a first-come-first-served basis.
-
-

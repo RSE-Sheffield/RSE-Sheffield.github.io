@@ -5,8 +5,11 @@ slug: seminars
 type: text
 ---
 
-The RSE group organises seminars and promotes seminars from other groups which are of interest to the community. 
-If you have an interesting seminar then announce it on the [mailing-list](/community). 
+<div class="alert alert-danger" role="alert">This page has been archived, for up-coming events please go to the
+<a href="/events">events</a> page.</div>
+
+The RSE group organises seminars and promotes seminars from other groups which are of interest to the community.
+If you have an interesting seminar then announce it on the [mailing-list](/community).
 Below are a number of seminars which are scheduled or have taken place.
 
 
@@ -29,7 +32,7 @@ If you would like to recommend a speaker or would like to give a talk then pleas
 {% endif %}
 
 <script type="text/javascript">
-    // Get the current date 
+    // Get the current date
     var now = new Date();
     // Select all seminar elements
     var elements = document.getElementsByClassName("seminar-section");
@@ -61,4 +64,3 @@ If you would like to recommend a speaker or would like to give a talk then pleas
         seminars_heading.textContent = "Previous Seminars";
     }
 </script>
-

@@ -5,6 +5,10 @@ slug: lunch-bytes
 type: text
 ---
 
+<div class="alert alert-danger" role="alert">Lunch-bytes are on sabbatical keep an eye on the <a
+href="/events">events</a> page for their return. If you would like to contribute to Lunch-bytes please <a
+href="/contact">get in touch</a>.</div>
+
 **A monthly series of short talks from the research community on research software, data and infrastructure.**
 
 The University has many talks/seminar series centered around research domains

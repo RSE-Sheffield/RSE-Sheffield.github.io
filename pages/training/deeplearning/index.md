@@ -5,11 +5,12 @@ slug: index
 type: text
 ---
 
-*This is intended to be a living document and will be added to and corrected over time.*
+<div class="alert alert-danger" role="alert">This page is no longer maintained, some of the links may no longer resolve
+to valid pages.</div>
 
 ## Sheffield Data Science and AI Community
 
-The [Sheffield Data Science and AI Community](https://sheffieldai.github.io/) connects researchers with an interest inData Science and Artificial Intelligence across the University of Sheffield. 
+The [Sheffield Data Science and AI Community](https://sheffieldai.github.io/) connects researchers with an interest inData Science and Artificial Intelligence across the University of Sheffield.
 
 ## Artificial Intelligence and Machine Learning Training
 
