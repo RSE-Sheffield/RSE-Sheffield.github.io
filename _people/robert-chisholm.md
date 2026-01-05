@@ -31,7 +31,7 @@ extra_links:
       label: "@robadob"
 ---
 
-Robert is a senior Research Software Engineer that previously completed his PhD at the University of Sheffield.
+Robert is a senior Research Software Engineer who previously completed his PhD at the University of Sheffield.
 He specialises in performance optimisation and GPU parallelisation, following his PhD's focus on improving the performance of spatial communication in GPU accelerated algorithms.
 
 As a developer of the [FLAMEGPU](http://www.flamegpu.com/) software framework, which facilitates wider access to complex systems modelling on GPUs, he has supported projects ranging from EU funded biological modelling to industrially funded transport modelling.
