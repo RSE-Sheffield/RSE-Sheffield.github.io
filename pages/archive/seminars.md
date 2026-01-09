@@ -5,6 +5,8 @@ slug: seminars
 type: text
 ---
 
+<div class="alert alert-danger" role="alert"> This page has been archived and is retained solely for reference purposes.</div>
+
 The RSE group organises seminars and promotes seminars from other groups which are of interest to the community. 
 If you have an interesting seminar then announce it on the [mailing-list](/community). 
 Below are a number of seminars which are scheduled or have taken place.

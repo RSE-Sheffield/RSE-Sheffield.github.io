@@ -5,7 +5,7 @@ slug: index
 type: text
 ---
 
-*This is intended to be a living document and will be added to and corrected over time.*
+<div class="alert alert-danger" role="alert"> This page has been archived and is retained solely for reference purposes.</div>
 
 ## Sheffield Data Science and AI Community
 
