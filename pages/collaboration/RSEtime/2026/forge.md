@@ -3,7 +3,7 @@ title: RSE FORGE Calls
 type: text
 ---
 
-Focused Optimisation and Research software Guidance Engagement
+Focused announcement for Research software proGrammE
 
 ### Introduction
 
@@ -49,6 +49,17 @@ The call for FORGE projects will remain **open throughout the year**, with three
 
 ### How to Apply
 
+To submit a FORGE project please submit an application via [this Google Form](PLACEHOLDER LINK). Further details about the sections are given below:
+
+<!-- **Code Details:**
+- Is the code currently publicly accessible, if not please provide a short explaination as to why.
+- How can we access the code: Please provide a link to a Git repository or instructions on how to access the code.
+- Brief description of what the software does (1-2 paragraphs)
+- A brief description of the codebase structure (Modular, individual scripts, etc.)
+- The programming language(s) used.
+
+**Project Objectives:**
+- What are the specific outcomes for the project -->
 
 ### Contact
 
