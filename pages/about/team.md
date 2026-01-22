@@ -21,7 +21,7 @@ placeholder_colours:
 
 Current members of the Research Software Engineering team are listed below.
 
-{% assign people = site.people | sort: 'othernames' | sort: 'surname' | sort: 'level'  %}
+{% assign people = site.people | sort: 'othernames' | sort: 'surname' %}
 {% assign placeholder_idx = 0 %}
 <div class="people-list row">
 {% for person in people %}
