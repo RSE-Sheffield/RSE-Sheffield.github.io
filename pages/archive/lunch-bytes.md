@@ -5,6 +5,8 @@ slug: lunch-bytes
 type: text
 ---
 
+<div class="alert alert-danger" role="alert"> This page has been archived and is retained solely for reference purposes.</div>
+
 **A monthly series of short talks from the research community on research software, data and infrastructure.**
 
 The University has many talks/seminar series centered around research domains
