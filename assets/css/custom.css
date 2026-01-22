@@ -21,7 +21,7 @@ body {
 }
 
 .promo{
-    background: var(--uos-midnight-black);
+    background: var(--uos-brand-violet);
 }
 
 .promo h1,
@@ -52,8 +52,16 @@ a {
     color: var(--uos-brand-violet);
 }
 
+.navbar-brand {
+    margin-right: 0;
+}
+
 .nav-link{
     color: var(--uos-midnight-black) !important;
+}
+
+.header .main-nav .nav .nav-item {
+    margin-right: 18px;
 }
 
 .contact {
@@ -224,7 +232,9 @@ blockquote {
     color: var(--uos-wave-white);
 }
 
-.sm-a {
+.promo a,
+.contact a,
+.footer a {
     color: var(--uos-pale-violet);
     text-decoration: underline;
 }
@@ -233,9 +243,12 @@ a:hover {
     color: var(--uos-brand-violet);
 }
 
-.sm-a:hover{
+.promo a:hover,
+.contact a:hover,
+.footer a:hover{
     color: var(--uos-powder-blue);
 }
+
 
 /* project page tag cloud */
 a.tag-link.selected, a.filter-link.selected{
