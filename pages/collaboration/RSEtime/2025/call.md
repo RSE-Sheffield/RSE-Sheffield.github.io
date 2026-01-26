@@ -1,14 +1,11 @@
 ---
-title: Call for Proposal - RSE collaboration 2025
+title: Call for Proposal - RSE collaboration 2025 [Closed]
 permalink: /collaboration/RSEtime/2025/
 slug: index
 type: text
 ---
 
-### Deadline Extended
-
-Mindful that this is a busy time of year for all we have extended the deadline for this call to 17:00 on Friday 4th July
-2025.
+<div class="alert alert-danger" role="alert"> This call concluded in July 2025. A new call is expected to open in June 2026.</div>
 
 ### Rationale
 

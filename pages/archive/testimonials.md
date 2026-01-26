@@ -5,6 +5,9 @@ slug: index
 type: text
 ---
 
+<div class="alert alert-danger" role="alert"> This page has been archived and is retained solely for reference purposes.</div>
+
+
 Once you've seen [What we do](/collaboration/activities/), you might wonder how well we do it. Here is a selection of testimonials from academics we have collaborated with
 
 GPU Computing
