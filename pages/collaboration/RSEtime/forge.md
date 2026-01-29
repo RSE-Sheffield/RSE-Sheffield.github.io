@@ -52,7 +52,7 @@ Once your application is accepted, here's what the two day collaboration will lo
 
 #### How to Apply
 
-Applications are reviewed after each deadline, with successful applicants notified within four weeks. The form takes approximately 10-15 minutes to complete. You'll need to provide a brief description of your code, your objectives, and a link to your repository (if publicly available). If your code isn't publically available or on a repository please upload it to your Google Drive where possible as this may be required to work on your proposal.
+Applications are reviewed after each deadline, with successful applicants notified within four weeks. The form takes approximately 5-10 minutes to complete. You'll need to provide a brief description of your code, your objectives, and a link to your repository (if publicly available). If your code isn't publically available or on a repository please upload it to your Google Drive where possible as this may be required to work on your proposal.
 
 <a href="https://forms.gle/R1djFehQ9xxCBwgX9" class="btn btn-uos-electric-violet btn-xl">Apply Now</a>
 
