@@ -24,7 +24,6 @@ Applicants should **select one area of focus** for their project.
 
 To be eligible for a FORGE project, applicants must:
 
-- RSE Team has 
 - Be an active member of research staff affiliated to the University of Sheffield.
 - Have existing code that is functional and produces research outputs.
 - Ensure the code is (or will be made) publicly accessible and freely downloadable, closed code will be considered on a case by case basis.
