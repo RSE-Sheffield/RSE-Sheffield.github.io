@@ -1,11 +1,11 @@
 ---
 title: RSE FORGE Calls
-permalink: /collaboration/RSEtime/2026/forge
+permalink: /collaboration/RSEtime/forge
 slug: index
 type: text
 ---
 
-The RSE FORGE (FOcused Research software Guidance and Enhancement) programme delivers targeted improvements to research software through intensive two day projects. Each project provides two RSEs working full time alongside one another for two days on your research software. FORGE is designed for researchers with functional code who want to tackle/identify performance issues, improve code structure, package their software for publication, or get an expert review. Projects are free and available to all active research staff at the University of Sheffield.
+The RSE FORGE (FOcused Research software Guidance and Enhancement) programme delivers targeted improvements to research software through intensive two day projects. Each project pairs two RSEs who work full time for two days on your research software. FORGE is designed for researchers with functional code who want to tackle/identify performance issues, improve code structure, package their software for publication, or get an expert review. Projects are free and available to all active research staff at the University of Sheffield.
 
 #### Project Scope
 
@@ -13,7 +13,8 @@ FORGE projects are intended to be short, self-contained pieces of work. Suitable
 
 - **Optimisation:** Improving the performance or efficiency of existing code. Examples include improved data processing, reduced memory usage in large scale simulations, or identifying bottlenecks.
 - **Refactoring:** Restructuring code for improved maintainability and readability. This might involve modularising code, improving code organisation, or implementing design patterns appropriate to your research domain.
-- **Packaging and publication:** Preparing code for distribution on package repositories like PyPI, CRAN, or preparing code for public release on GitHub with appropriate licensing and contribution guidelines.
+- **Packaging and publication:** Preparing code for distribution on package repositories like [PyPI](https://pypi.org/), [CRAN](https://cran.r-project.org/), or preparing code for public release on GitHub with appropriate licensing and contribution guidelines.
+- **Open Sourcing Code:** Preparing a codebase for open sourcing, this includes preparing contribution guides, licensing, and upload to a publicly accessible repository.
 - **Code review and general feedback:** Assessment of code quality, structure, and best practices. We can review your codebase and provide actionable recommendations for improvements in testing, documentation, or architecture.
 - **ML/AI workflows:** Guidance on implementing or improving machine learning pipelines, model deployment, hyperparameter optimisation, or integrating modern ML frameworks into your research workflow.
 
@@ -23,9 +24,10 @@ Applicants should **select one area of focus** for their project.
 
 To be eligible for a FORGE project, applicants must:
 
+- RSE Team has 
 - Be an active member of research staff affiliated to the University of Sheffield.
 - Have existing code that is functional and produces research outputs.
-- Ensure the code is (or will be made) publicly accessible and freely downloadable. 
+- Ensure the code is (or will be made) publicly accessible and freely downloadable, closed code will be considered on a case by case basis.
 - Provide clear instructions or objectives for what they want to achieve.
 
 ### Application and Selection
@@ -38,36 +40,7 @@ FORGE projects will take place in three windows throughout the year. After the a
 
 Successful projects will be notified within four weeks of the application deadline closing. 
 
-<table class="schedule-table">
-  <thead>
-    <tr>
-      <th>Review Window</th>
-      <th>Application Deadline</th>
-      <th>Outcome Notification</th>
-      <th>Project Window</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Autumn</td>
-      <td>October</td>
-      <td>November</td>
-      <td>November – December</td>
-    </tr>
-    <tr>
-      <td>Spring</td>
-      <td>February</td>
-      <td>March</td>
-      <td>March – April</td>
-    </tr>
-    <tr>
-      <td>Summer</td>
-      <td>May</td>
-      <td>June</td>
-      <td>June – July</td>
-    </tr>
-  </tbody>
-</table>
+<img src="/assets/images/forge/FORGE_Timeline.png" alt="FORGE programme timeline showing three application deadlines: October (Autumn), February (Spring), and May (Summer). The call remains open all year. After each deadline, applications go through a one-month Review and Selection process by the RSE and DAS Panel. Successful applicants receive notification and pre-project preparation before the 2-day project execution phase. Project execution windows are November-December, March-April, and June-July. The process concludes with a post-project handover." />
 
 ### What to Expect
 
@@ -79,55 +52,16 @@ Once your application is accepted, here's what the two day collaboration will lo
 
 #### How to Apply
 
-You can submit an application for a FORGE project via [this Google Form](https://forms.gle/R1djFehQ9xxCBwgX9).
+Applications are reviewed after each deadline, with successful applicants notified within four weeks. The form takes approximately 10-15 minutes to complete. You'll need to provide a brief description of your code, your objectives, and a link to your repository (if publicly available). If your code isn't publically available or on a repository please upload it to your Google Drive where possible as this may be required to work on your proposal.
+
+<a href="https://forms.gle/R1djFehQ9xxCBwgX9" class="btn btn-uos-electric-violet btn-xl">Apply Now</a>
 
 ### Attribution and Acknowledgments
 
-RSE contributions to your research software should be appropriately acknowledged. This helps demonstrate the value of RSE support and ensures proper credit for collaborative work. We expect:
-
-- **Acknowledgment in publications:** if FORGE work contributes to research outputs, please acknowledge the RSE team in your papers.
-- **Software citation:** if you publish or share software that incorporates FORGE contributions, appropriate citation or acknowledgment should be included in documentation.
-
-These expectations will be clarified during the initial project meeting with guidance on attribution provided by us.
+We encourage acknowledging RSE contributions in any publications or outputs resulting from FORGE projects. This helps us demonstrate the impact of RSE support and recognises the collaborative nature of our work together.
 
 ### Contact
 
 If you have any questions or inquiries about the FORGE programme, please contact: <br/>
 Shaun Donnelly ([s.t.donnelly@sheffield.ac.uk](mailto:s.t.donnelly@sheffield.ac.uk)) or <br/>
 Romain Thomas, Head of the RSE team ([romain.thomas@sheffield.ac.uk](mailto:romain.thomas@sheffield.ac.uk)).
-
-<style>
-  table.schedule-table {
-    border-collapse: collapse;
-    width: 100%;
-    margin-top: 1rem;
-    margin-bottom: 2rem;
-  }
-
-  .schedule-table th,
-  .schedule-table td {
-    padding: 1rem 1.25rem;
-    text-align: left;
-    vertical-align: middle;
-    border-left: 1px solid #ccc;
-    border-right: 1px solid #ccc;
-  }
-
-  .schedule-table thead th {
-    font-weight: 600;
-    border-bottom: 3px solid #000;
-  }
-
-  .schedule-table tbody tr {
-    border-bottom: 1px solid #ddd;
-  }
-
-  .schedule-table tbody tr:last-child {
-    border-bottom: none;
-  }
-
-  .schedule-table {
-    border-top: 1px solid #ccc;
-    border-bottom: 1px solid #ccc;
-  }
-</style>
