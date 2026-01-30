@@ -1,12 +1,15 @@
 - title: Collaboration
   subitems:
      - title: Who we are?
-     - title: How to collaborate?
+       url: /collaboration/whoweare
+     - title: Collaborate with us
+       url: /collaboration/collab_guide
      - title: Past projects
        url: /collaboration/projects
      - title: RSE contributions
-     - title: Code of Conduct
-       url: /community/code_of_conduct
+       url: /collaboration/evidence
+     - title: Code of conduct
+       url: /collaboration/code_of_conduct
 
 - title: "Learning"
   subitems:

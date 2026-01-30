@@ -30,7 +30,7 @@ Join on Google meet at: <!-- FILL ME IN -->
 
 By joining with a University of Sheffield google account you will be admitted automatically.
 
-External attendees are welcome but please read our [Code of Conduct](/community/code_of_conduct) and contact the
+External attendees are welcome but please read our [Code of Conduct](/collaboration/code_of_conduct) and contact the
 organiser first at [romain.thomas@sheffield.ac.uk](mailto:romain.thomas@sheffield.ac.uk).
 
 ### Questions
