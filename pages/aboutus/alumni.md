@@ -1,6 +1,6 @@
 ---
 title: Alumni
-permalink: /contact/alumni/
+permalink: /aboutus/alumni/
 slug: alumni
 type: text
 

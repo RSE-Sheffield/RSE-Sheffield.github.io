@@ -1,6 +1,6 @@
 ---
 title: RSE Job Descriptions
-permalink: /community/job-descriptions/
+permalink: /aboutus/job-descriptions/
 slug: job-descriptions
 type: text
 ---
