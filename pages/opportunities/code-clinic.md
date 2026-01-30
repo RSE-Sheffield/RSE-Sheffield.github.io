@@ -1,6 +1,6 @@
 ---
 layout: codeclinic
-permalink: /support/code-clinic/
+permalink: /opportunities/code-clinic/
 title: Code Clinic
 slug: code-clinic
 type: text
