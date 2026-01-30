@@ -190,7 +190,7 @@ TUoS researchers have access to a host of excellent training courses via [Linked
 Learning](https://www.sheffield.ac.uk/nap/service/redirect/lilearning), covering an enormous base of different
 technologies. A good example is the ['*code clinic*'
 series](https://www.linkedin.com/learning/search?keywords=code%20clinic) (no relation to [RSE Code
-Clinics](/support/code-clinic)) in which a similar set of problems are tackled in different languages, a good way to
+Clinics](/opportunities/code-clinic)) in which a similar set of problems are tackled in different languages, a good way to
 transfer your knowledge of one language to another:
 
 * [R](https://www.linkedin.com/learning/code-clinic-r-2)
@@ -232,7 +232,7 @@ backing up your work and enabling you to access it from anywhere in the world. S
 github](/blog/2020-03-29-git-github-remote/) guide for more details.
 
 Needing to get help on a particular piece of your code? It's easy to share your on-line repository's access with helpers
-e.g. [Code Clinic](/support/code-clinic/).
+e.g. [Code Clinic](/opportunities/code-clinic/).
 
 #### Getting and installing Git
 
