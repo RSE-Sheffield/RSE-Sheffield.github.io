@@ -4,19 +4,9 @@
      - title: How to collaborate?
      - title: Past projects
        url: /collaboration/projects
-     - title: RSE team outputs bank
+     - title: RSE contributions
      - title: Code of Conduct
        url: /community/code_of_conduct
-#    - title: Why work with us?
-#      url: /collaboration/
-#    - title: How to work with us
-#      url: /collaboration/provision/
-#    - title: Collaboration Guide
-#      url: /collaboration/guide/
-#    - title: What We Do
-#      url: /collaboration/activities
-#    - title: Costing RSE time
-#      url: /collaboration/costing
 
 - title: "Learning"
   subitems:
@@ -30,16 +20,6 @@
        url: /training/
      - title: Introduction to Deep Learning [Training]
        url: /training/
-#    - title: Training Courses
-#      url: /training/
-#    - title: FAIR² for research software
-#      url: /training/fair4rs/
-#    - title: Researcher Programming Resources
-#      url: /training/programming
-#    - title: "COM4521/COM6521: Parallel Computing with GPUs"
-#      url: /training/com4521
-#    - title: "Github Enterprise Early Access Program"
-#      url: /training/github-enterprise
 
 
 - title: "Opportunities"
@@ -51,16 +31,6 @@
     - title: Call for proposals 2025 (Closed)
       url: /opportunities/cfp
     - title: RSE Sheffield events
-#    - title: Slack
-#      url: /community/slack
-#    - title: Resources and Equipment
-#      url: /community/resources-and-equipment
-#    - title: Events
-#      url: /events/
-#    - title: Newsletter
-#      url: /newsletters/
-#    - title: Blog
-#      url: /blog/
 
 - title: About Us
   subitems:
