@@ -1,6 +1,6 @@
 ---
 title: Github Enterprise Early Access Program
-permalink: /training/github-enterprise/
+permalink: /opportunities/github-enterprise/
 slug: github-enterprise
 type: text
 ---
