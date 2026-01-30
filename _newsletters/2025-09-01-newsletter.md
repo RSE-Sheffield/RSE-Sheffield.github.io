@@ -191,7 +191,7 @@ advice on everything from statistics to ML to data pipelines and training for bo
 
 Working with academics, our staff are embedded within research groups on both long and short term engagements.
 
-[CCs]: https://rse.shef.ac.uk/support/code-clinic/
+[CCs]: https://rse.shef.ac.uk/opportunities/code-clinic/
 [hpc-mailing]: https://groups.google.com/u/1/a/sheffield.ac.uk/g/hpc
 [its-res-it]: https://www.sheffield.ac.uk/it-services/research/
 [lunchbytes]: https://rse.shef.ac.uk/community/lunch-bytes/
