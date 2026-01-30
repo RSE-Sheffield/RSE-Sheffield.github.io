@@ -1,6 +1,6 @@
 ---
 title: Code of Conduct
-permalink: /community/code_of_conduct
+permalink: /collaboration/code_of_conduct
 type: text
 ---
 
