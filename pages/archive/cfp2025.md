@@ -1,6 +1,6 @@
 ---
 title: Call for Proposal - RSE collaboration 2025 [Closed]
-permalink: /collaboration/RSEtime/2025/
+permalink: /opportunities/cfp/
 slug: index
 type: text
 ---
