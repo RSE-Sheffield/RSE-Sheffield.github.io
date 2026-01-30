@@ -35,12 +35,12 @@
 - title: About Us
   subitems:
     - title: Meet the RSE Team
-      url: /contact/team
+      url: /aboutus/team
     - title: News
-      url: /contact/team
+      url: /aboutus/rsenews
     - title: Contact us
-      url: /contact/
+      url: /aboutus/contact
     - title: Job Descriptions
-      url: /community/job-descriptions
+      url: /aboutus/job-descriptions
     - title: Alumni
-      url: /contact/alumni
+      url: /aboutus/alumni
