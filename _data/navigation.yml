@@ -13,16 +13,16 @@
 
 - title: "Learning"
   subitems:
-     - title: GPU  [Academic teaching]
-       url: /training/
-     - title: Data Science and Software engineering [Academic teaching]
-       url: /training/
-     - title: FAIR24RS programme [Training]
-       url: /training/
+     - title: Parallel computing with GPU  
+       url: /learning/parallelgpu/
+     - title: Resarch Software engineering for CDT
+       url: /learning/rse_cdt
+     - title: FAIR24RS programme
+       url: /learning/fair4rs
      - title: Profiling and Optimisation [Training]
-       url: /training/
+       url: /learning/profile_optimise
      - title: Introduction to Deep Learning [Training]
-       url: /training/
+       url: /learning/deep_learning
 
 
 - title: "Opportunities"
@@ -35,6 +35,8 @@
       url: /opportunities/cfp
     - title: RSE Sheffield events
       url: /opportunities/events
+    - title: Github Enterprise
+      url: /opportunities/github-enterprise
 
 - title: About Us
   subitems:

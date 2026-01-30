@@ -2,7 +2,7 @@
 title: FAIR² for research software
 layout: page
 type: text
-permalink: /training/fair4rs/
+permalink: /learning/fair4rs/
 ---
 
 ## Introduction and target audience
