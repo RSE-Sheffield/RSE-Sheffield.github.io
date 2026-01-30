@@ -7,7 +7,7 @@ type: text
 
 The RSE FORGE (FOcused Research software Guidance and Enhancement) programme delivers targeted improvements to research software through intensive two day projects. Each project pairs two RSEs who work full time for two days on your research software. FORGE is designed for researchers with functional code who want to tackle/identify performance issues, improve code structure, package their software for publication, or get an expert review. Projects are free and available to all active research staff at the University of Sheffield.
 
-#### Project Scope
+### Project Scope
 
 FORGE projects are intended to be short, self-contained pieces of work. Suitable project types include:
 
@@ -20,7 +20,7 @@ FORGE projects are intended to be short, self-contained pieces of work. Suitable
 
 Applicants should **select one area of focus** for their project.
 
-#### Eligibility Criteria
+### Eligibility Criteria
 
 To be eligible for a FORGE project, applicants must:
 
@@ -29,7 +29,7 @@ To be eligible for a FORGE project, applicants must:
 - Ensure the code is (or will be made) publicly accessible and freely downloadable, closed code will be considered on a case by case basis.
 - Provide clear instructions or objectives for what they want to achieve.
 
-### Application and Selection
+## Application and Selection
 
 FORGE projects will take place in three windows throughout the year. After the application deadline passes your application will be assessed by a panel consisting of members of the RSE team and the Data Analytics Service ([DAS](https://sheffield.ac.uk/it-services/about/who-we-are-and-what-we-do)). The criteria for a successful project is:
 
@@ -39,27 +39,27 @@ FORGE projects will take place in three windows throughout the year. After the a
 
 Successful projects will be notified within four weeks of the application deadline closing. 
 
-<img src="/assets/images/forge/FORGE_Timeline.png" alt="FORGE programme timeline showing three application deadlines: October (Autumn), February (Spring), and May (Summer). The call remains open all year. After each deadline, applications go through a one-month Review and Selection process by the RSE and DAS Panel. Successful applicants receive notification and pre-project preparation before the 2-day project execution phase. Project execution windows are November-December, March-April, and June-July. The process concludes with a post-project handover." />
+<img src="/assets/images/forge/FORGE_Timeline.svg" alt="FORGE programme timeline showing three application deadlines: October (Autumn), February (Spring), and May (Summer). The call remains open all year. After each deadline, applications go through a one-month Review and Selection process by the RSE and DAS Panel. Successful applicants receive notification and pre-project preparation before the 2-day project execution phase. Project execution windows are November-December, March-April, and June-July. The process concludes with a post-project handover." />
 
-### What to Expect
+## What to Expect
 
 Once your application is accepted, here's what the two day collaboration will look like:
 
-**Pre-project preparation:** Before the project begins, your assigned RSEs will review your codebase and organise a brief meeting with you to clarify objectives, technical requirements, and expected outcomes.
-**Two day project:** Both RSEs work full time on your project over two consecutive days. By the end of day two, you'll receive completed code changes, documentation of improvements, and clear guidance on next steps.
-**Post-project handover:** Shortly after the project, you'll have a final meeting to review all deliverables, ask questions, and discuss recommendations for future development.
+**Pre-project:** Before the project begins, your assigned RSEs will review your codebase and organise a brief meeting with you to clarify objectives, technical requirements, and expected outcomes.
+**Execution:** Both RSEs work full time on your project over two consecutive days. By the end of the project, you'll receive any changes, documentation, and guidance on any potential next steps.
+**Handover:** Shortly after the project, you'll have a final meeting to review all deliverables, ask questions, and discuss recommendations for future development.
 
-#### How to Apply
+### How to Apply
 
-Applications are reviewed after each deadline, with successful applicants notified within four weeks. The form takes approximately 5-10 minutes to complete. You'll need to provide a brief description of your code, your objectives, and a link to your repository (if publicly available). If your code isn't publically available or on a repository please upload it to your Google Drive where possible as this may be required to work on your proposal.
+Applications are reviewed after each deadline, with successful applicants notified within four weeks. The form takes approximately 5-10 minutes to complete. You'll need to provide a brief description of your code, your objectives, and a link to your repository (if publicly available). If your code isn't publicly available or on a repository please upload it to your Google Drive where possible as this may be required to work on your proposal.
 
-<a href="https://forms.gle/R1djFehQ9xxCBwgX9" class="btn btn-uos-electric-violet btn-xl">Apply Now</a>
+<a href="https://forms.gle/R1djFehQ9xxCBwgX9" class="btn btn-uos-electric-violet btn-lg">Apply Now</a>
 
-### Attribution and Acknowledgments
+## Attribution and Acknowledgments
 
-We encourage acknowledging RSE contributions in any publications or outputs resulting from FORGE projects. This helps us demonstrate the impact of RSE support and recognises the collaborative nature of our work together.
+We'd be grateful for acknowledgement of RSE contributions in any outputs resulting from FORGE projects or repositories we contribute to. This helps us demonstrate the impact of RSE support and recognises the collaborative nature of our work together.
 
-### Contact
+## Contact
 
 If you have any questions or inquiries about the FORGE programme, please contact: <br/>
 Shaun Donnelly ([s.t.donnelly@sheffield.ac.uk](mailto:s.t.donnelly@sheffield.ac.uk)) or <br/>
