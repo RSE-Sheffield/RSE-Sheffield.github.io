@@ -18,9 +18,6 @@
 #    - title: Costing RSE time
 #      url: /collaboration/costing
 
-#    - title: RSE Call for proposals 2025
-#      url: /collaboration/RSEtime/2025
-
 - title: "Learning"
   subitems:
      - title: GPU  [Academic teaching]
@@ -50,11 +47,10 @@
     - title: Code Clinics
       url: /opportunities/code-clinic
     - title: The FORGE (Open Call)
-      url: /collaboration/RSEtime/2025
+      url: /opportunities/forge
     - title: Call for proposals 2025 (Closed)
-      url: /collaboration/RSEtime/2025
+      url: /opportunities/cfp
     - title: RSE Sheffield events
-      url: /collaboration/RSEtime/2025
 #    - title: Slack
 #      url: /community/slack
 #    - title: Resources and Equipment
