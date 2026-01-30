@@ -1,57 +1,52 @@
-- title: Collaborate
+- title: Collaboration
   subitems:
-    - title: Why work with us?
-      url: /collaboration/
-    - title: How to work with us
-      url: /collaboration/provision/
-    - title: Collaboration Guide
-      url: /collaboration/guide/
-    - title: What We Do
-      url: /collaboration/activities
-    - title: Costing RSE time
-      url: /collaboration/costing
-    - title: Projects
-      url: /collaboration/projects
-    - title: RSE Call for proposals 2025
-      url: /collaboration/RSEtime/2025
+     - title: Who are we?
+       url: /collaboration/whoweare
+     - title: Collaborate with us
+       url: /collaboration/collab_guide
+     - title: Past projects
+       url: /collaboration/projects
+     - title: RSE contributions
+       url: /collaboration/evidence
+     - title: Code of conduct
+       url: /collaboration/code_of_conduct
 
-- title: "Training & Resources"
+- title: "Learning"
   subitems:
-    - title: Training Courses
-      url: /training/
-    - title: FAIR² for research software
-      url: /training/fair4rs/
-    - title: Researcher Programming Resources
-      url: /training/programming
-    - title: Code Clinic
-      url: /support/code-clinic
-    - title: "COM4521/COM6521: Parallel Computing with GPUs"
-      url: /training/com4521
-    - title: "Github Enterprise Early Access Program"
-      url: /training/github-enterprise
-- title: Our Community
+     - title: Parallel computing with GPU  
+       url: /learning/parallelgpu/
+     - title: Resarch Software engineering for CDT
+       url: /learning/rse_cdt
+     - title: FAIR24RS programme
+       url: /learning/fair4rs
+     - title: Profiling and Optimisation [Training]
+       url: /learning/profile_optimise
+     - title: Introduction to Deep Learning [Training]
+       url: /learning/deep_learning
+
+
+- title: "Opportunities"
   subitems:
-    - title: Overview
-      url: /community
-    - title: Code of Conduct
-      url: /community/code_of_conduct
-    - title: Slack
-      url: /community/slack
-    - title: Resources and Equipment
-      url: /community/resources-and-equipment
-    - title: RSE Job Descriptions
-      url: /community/job-descriptions
-    - title: Events
-      url: /events/
-    - title: Newsletter
-      url: /newsletters/
-    - title: Blog
-      url: /blog/
-- title: Contact
+    - title: Code Clinics
+      url: /opportunities/code-clinic
+    - title: The FORGE (Open Call)
+      url: /opportunities/forge
+    - title: Call for proposals 2025 (Closed)
+      url: /opportunities/cfp
+    - title: RSE Sheffield events
+      url: /opportunities/events
+    - title: Github Enterprise
+      url: /opportunities/github-enterprise
+
+- title: About Us
   subitems:
+    - title: Meet the RSE Team
+      url: /aboutus/team
+    - title: News
+      url: /aboutus/rsenews
     - title: Contact us
-      url: /contact/
-    - title: RSE Team
-      url: /contact/team
+      url: /aboutus/contact
+    - title: Job Descriptions
+      url: /aboutus/job-descriptions
     - title: Alumni
-      url: /contact/alumni
+      url: /aboutus/alumni

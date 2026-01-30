@@ -1,7 +1,7 @@
 ---
 title: Contact Us
 layout: contact
-permalink: /contact/
+permalink: /aboutus/contact/
 slug: index
 type: text
 ---

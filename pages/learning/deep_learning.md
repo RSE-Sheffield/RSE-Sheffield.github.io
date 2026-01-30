@@ -2,6 +2,7 @@
 title: Introduction to Deep Learning
 layout: page
 type: text
+permalink: /learning/deep_learning
 ---
 
 Can be delivered for **Python** or **R**.
