@@ -110,7 +110,7 @@ More information on future LunchBytes will be coming out over the coming months,
 
 #### Code Clinics
 
-Why not come to a [Code Clinic](https://rse.shef.ac.uk/support/code-clinic/)? We're keen to help you.
+Why not come to a [Code Clinic](https://rse.shef.ac.uk/opportunities/code-clinic/)? We're keen to help you.
 
 Code Clinics are fortnightly supported sessions run by the RSE team and IT Services’ [Research
 IT](https://www.sheffield.ac.uk/it-services/research) team. They are open to anyone at TUoS writing code for research to
