@@ -62,7 +62,7 @@ The [FAIR<sup>2</sup> for Research Software](https://fair2-for-research-software
 - [Fortran Index](https://github.com/fortran-index/fortran-index) is an initiative organising bi-monthly virtual hackathons to improve resources for Fortran users and developers **2026-03-05** [Register here](https://forms.gle/o2MDWaxDfDtUb8JD8)
 - [ARCHER2 Celebration of Science 2026](https://www.archer2.ac.uk/community/events/celebration-of-science-2026/) **2026-03-19**--**2026-03-20**
 - [N8 DRI Retreat 2026](https://n8cir.org.uk/training-and-events/dri-retreat-2026/), Manchester **2026-03-23**--**2026-03-27**. [Register your interest (waitlist)](https://www.qualtrics.manchester.ac.uk/jfe/form/SV_3wIjTxcyzObjiMm)
-- [Bristol Centre for Supercomputing (BriCS), Isambard Summit](https://www.eventbrite.co.uk/e/isambard-summit-2026-tickets-1975093827807) **2026-03-25**--**2026-03-26**
+- [Bristol Centre for Supercomputing (BriCS), Isambard Summit](https://www.eventbrite.co.uk/e/isambard-summit-2026-tickets-1975093827807), Bristol **2026-03-25**--**2026-03-26**
 - [RSE Midlands Annual Conference 2026](https://rse-midlands.github.io/docs/event-20th-april-2026/), Nottingham **2026-04-20**
 - [Durham HPC Days 2026](https://hpc-days.github.io/Durham-HPC-Days-2026/), Durham **2026-06-15**--**2026-06-19**
 - [UK Reproducibility Network (UKRN) Conference](https://www.ukrn.org/conference/), Manchester **2026-07-07**--**2026-07-09**
