@@ -108,7 +108,7 @@ The [FAIR<sup>2</sup> for Research Software](https://fair2-for-research-software
 
 ## Opportunities
 
-- Expressions of Interest for [Round 2 of the Research Software Maintenance Fund](https://www.ukri.org/opportunity/ssi-research-software-maintenance-fund-round-two/) are now open. This round will accept applications for grants up to £150k and a duration of up to 12 months. We expect to fund approximately 10 projects, subject to budget requests.
+- Expressions of Interest for [Round 2 of the Research Software Maintenance Fund](https://www.ukri.org/opportunity/ssi-research-software-maintenance-fund-round-two/) are now open. This round will accept applications for grants up to £150k and a duration of up to 12 months. They expect to fund approximately 10 projects, subject to budget requests.
 - [CHARTED flexible fund - Fund 4: Supporting Professional Development](https://drtp-skills.ac.uk/funds-prof-dev/) Funding for digital Research Technical Professionals to help support their career development, up to £5000, rolling applications.
 - [Digital Skills in Arts and Humanities Network fellowship call](https://www.diskah.org/fellowship-2026-call-and-faq) Individual awards: £6500, deadline: **2026-02-20**.
 - [Software Sustainability Institute 2026 International RSE Survey](https://www.software.ac.uk/news/2026-international-rse-survey) Help us better understand what RSEs need and how we can advocate for the community with policymakers and funders.
