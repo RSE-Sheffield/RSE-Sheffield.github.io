@@ -3,7 +3,7 @@ layout: post
 title: February 2026 Newsletter
 editor: Tamora James
 slug: 2026-02-06-newsletter
-date: 2026-02-06T12:00:00Z+0100
+date: 2026-02-06T17:00:00Z+0100
 tags:
 category:
 link:
