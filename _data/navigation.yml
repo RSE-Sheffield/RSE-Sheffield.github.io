@@ -1,7 +1,20 @@
-- title: Collaboration
+- title: "About Us"
   subitems:
-     - title: Who are we?
-       url: /collaboration/whoweare
+    - title: Who are we?
+      url: /about-us/who-are-we 
+    - title: Meet the RSE Team
+      url: /about-us/team
+    - title: News
+      url: /about-us/rsenews
+    - title: Contact us
+      url: /about-us/contact
+    - title: Job Descriptions
+      url: /about-us/job-descriptions
+    - title: Alumni
+      url: /about-us/alumni
+
+- title: "Collaborating"
+  subitems:
      - title: Collaborate with us
        url: /collaboration/collab_guide
      - title: Past projects
@@ -10,20 +23,6 @@
        url: /collaboration/evidence
      - title: Code of conduct
        url: /collaboration/code_of_conduct
-
-- title: "Learning"
-  subitems:
-     - title: Parallel computing with GPU  
-       url: /learning/parallelgpu/
-     - title: Resarch Software engineering for CDT
-       url: /learning/rse_cdt
-     - title: FAIR24RS programme
-       url: /learning/fair4rs
-     - title: Profiling and Optimisation [Training]
-       url: /learning/profile_optimise
-     - title: Introduction to Deep Learning [Training]
-       url: /learning/deep_learning
-
 
 - title: "Opportunities"
   subitems:
@@ -38,15 +37,15 @@
     - title: Github Enterprise
       url: /opportunities/github-enterprise
 
-- title: About Us
+- title: "Learning"
   subitems:
-    - title: Meet the RSE Team
-      url: /aboutus/team
-    - title: News
-      url: /aboutus/rsenews
-    - title: Contact us
-      url: /aboutus/contact
-    - title: Job Descriptions
-      url: /aboutus/job-descriptions
-    - title: Alumni
-      url: /aboutus/alumni
+     - title: Parallel computing with GPU  
+       url: /learning/parallelgpu/
+     - title: Resarch Software engineering for CDT
+       url: /learning/rse_cdt
+     - title: FAIR24RS programme
+       url: /learning/fair4rs
+     - title: Profiling and Optimisation [Training]
+       url: /learning/profile_optimise
+     - title: Introduction to Deep Learning [Training]
+       url: /learning/deep_learning
