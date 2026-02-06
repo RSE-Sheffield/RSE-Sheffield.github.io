@@ -1,6 +1,6 @@
 ---
 title: RSE news
-permalink: /aboutus/rsenews/
+permalink: /about-us/rsenews/
 slug: rse-news
 type: text
 ---
