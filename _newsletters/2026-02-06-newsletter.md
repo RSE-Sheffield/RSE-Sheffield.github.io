@@ -117,7 +117,7 @@ The [FAIR<sup>2</sup> for Research Software](https://fair2-for-research-software
 - [Open Science 101 - NASA Science](https://science.nasa.gov/open-science/training/) Self-paced course open to researchers, students, and professionals beyond NASA.
 - [ARIA Rolling Opportunity Seeds - Call for proposals](https://www.aria.org.uk/media/gsjkrshi/rolling-opportunity-seeds.pdf)
 - [National Federation of Compute Services Survey](https://www.software.ac.uk/news/national-federation-compute-services-survey): What benefits do national to institutional computing resources provide to researchers and service providers? Closes **2026-03-31**.
-- [CAKE DRI Knowledge Exchange Placements and Visits](https://www.cake.ac.uk/about/placements/) Apply for funding to build collaboration and share knowledge-exchange practices. This programme runs until **April 2028**, with applications processed on a monthly basis.peck](mailto:r.speck@fz-juelich.de).
+- [CAKE DRI Knowledge Exchange Placements and Visits](https://www.cake.ac.uk/about/placements/) Apply for funding to build collaboration and share knowledge-exchange practices. This programme runs until **April 2028**, with applications processed on a monthly basis.peck.
   - [What is a knowledge exchange placement, and could it help develop your career?](https://www.software.ac.uk/blog/what-knowledge-exchange-placement-and-could-it-help-develop-your-career)
 - The [NVIDIA academic grant program](https://www.nvidia.com/en-gb/industries/higher-education-research/academic-grant-program/) is still ongoing, with GPU time and hardware available to suitable research projects. Current calls focus on
   - Generative AI: Training and Model Development
