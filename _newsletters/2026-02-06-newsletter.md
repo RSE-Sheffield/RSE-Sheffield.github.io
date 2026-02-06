@@ -101,7 +101,7 @@ The [FAIR<sup>2</sup> for Research Software](https://fair2-for-research-software
 ### Podcasts & Videos
 
 - [Meet the 2025 SSI Fellows - Sangeeta Bathia, Jyoti Bhogal and Deborah Udoh - Code for Thought](https://codeforthought.buzzsprout.com/1326658/episodes/18308910-en-meet-the-2025-ssi-fellows-sangeeta-bathia-jyoti-bhogal-and-deborah-udoh)
-- [Research Software Engineering with Python (COMP233) - Performance - UCL for Code in Research](https://uclforcodeinresearch.buzzsprout.com/2430461/episodes/18015174-9-9-research-software-engineering-with-python-comp233-performance) In this episode I talk to Itamar Turner-Trauring who created the website PythonSpeed and spent a considerable time on finding ways to make Python code faster and more efficient.
+- [Research Software Engineering with Python (COMP233) - Performance - UCL for Code in Research](https://uclforcodeinresearch.buzzsprout.com/2430461/episodes/18015174-9-9-research-software-engineering-with-python-comp233-performance) In this episode Peter Schmidt talks to Itamar Turner-Trauring who created the website PythonSpeed and spent a considerable time on finding ways to make Python code faster and more efficient.
 - [Trusted by design: set up your research software for community adoption](https://fosdem.org/2026/schedule/event/VPJH8F-trusted-by-design/), one of many interesting talks from [FOSDEM 2026](https://fosdem.org/2026/).
 
 ---
