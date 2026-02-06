@@ -66,6 +66,8 @@ The [FAIR<sup>2</sup> for Research Software](https://fair2-for-research-software
 - [RSE Midlands Annual Conference 2026](https://rse-midlands.github.io/docs/event-20th-april-2026/), Nottingham **2026-04-20**
 - [Durham HPC Days 2026](https://hpc-days.github.io/Durham-HPC-Days-2026/), Durham **2026-06-15**--**2026-06-19**
 - [UK Reproducibility Network (UKRN) Conference](https://www.ukrn.org/conference/), Manchester **2026-07-07**--**2026-07-09**
+- [International Research Software Conference (IRSC)](https://www.researchsoft.org/irsc/), <ins>Sheffield</ins> **2026-09-07**--**2026-10-08**
+- [Research Software Engineering Conference (RSECon)](https://rsecon26.society-rse.org/), <ins>Sheffield</ins> **2026-09-09**--**2026-09-11**
 - [US-RSE Conference 2026](https://us-rse.org/usrse26/), San Jose, California, USA **2026-10-19**--**2026-10-21**
 
 
