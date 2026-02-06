@@ -1,6 +1,6 @@
 ---
 title: Team
-permalink: /aboutus/team/
+permalink: /about-us/team/
 slug: team
 type: text
 
