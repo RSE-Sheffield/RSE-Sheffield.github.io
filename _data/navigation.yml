@@ -1,17 +1,17 @@
 - title: "About Us"
   subitems:
-    - title: Who are we?
-      url: /about-us/who-are-we 
-    - title: Meet the RSE Team
-      url: /about-us/team
+    - title: About the RSE team
+      url: /about-us/about-rse 
     - title: News
-      url: /about-us/rsenews
+      url: /about-us/rsenews 
     - title: Contact us
-      url: /about-us/contact
-    - title: Job Descriptions
-      url: /about-us/job-descriptions
+      url: /about-us/contact 
+    - title: Team members
+      url: /about-us/team
     - title: Alumni
       url: /about-us/alumni
+    - title: Job Descriptions
+      url: /about-us/job-descriptions
 
 - title: "Collaborating"
   subitems:
@@ -39,11 +39,11 @@
 
 - title: "Learning"
   subitems:
-     - title: Parallel computing with GPU  
+     - title: Parallel computing with GPU [Teaching]
        url: /learning/parallelgpu/
-     - title: Resarch Software engineering for CDT
+     - title: Resarch Software engineering for CDT [Teaching]
        url: /learning/rse_cdt
-     - title: FAIR24RS programme
+     - title: FAIR24RS programme [Training]
        url: /learning/fair4rs
      - title: Profiling and Optimisation [Training]
        url: /learning/profile_optimise
