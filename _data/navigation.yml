@@ -16,13 +16,13 @@
 - title: "Collaborating"
   subitems:
      - title: Collaborate with us
-       url: /collaboration/collab_guide
+       url: /collaboration/collab-guide
      - title: Past projects
        url: /collaboration/projects
      - title: RSE contributions
        url: /collaboration/evidence
      - title: Code of conduct
-       url: /collaboration/code_of_conduct
+       url: /collaboration/code-of-conduct
 
 - title: "Opportunities"
   subitems:
@@ -42,10 +42,10 @@
      - title: Parallel computing with GPU [Teaching]
        url: /learning/parallelgpu/
      - title: Resarch Software engineering for CDT [Teaching]
-       url: /learning/rse_cdt
+       url: /learning/rse-cdt
      - title: FAIR24RS programme [Training]
        url: /learning/fair4rs
      - title: Profiling and Optimisation [Training]
-       url: /learning/profile_optimise
+       url: /learning/profile-optimise
      - title: Introduction to Deep Learning [Training]
-       url: /learning/deep_learning
+       url: /learning/deep-learning
