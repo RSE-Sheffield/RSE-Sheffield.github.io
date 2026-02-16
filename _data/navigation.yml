@@ -47,11 +47,17 @@
       url: /newsletters/
     - title: Blog
       url: /blog/
-- title: Contact
+- title: About us
   subitems:
+    - title: About the RSE Team
+      url: /about/
+    - title: News
+      url: /about/news/
     - title: Contact us
       url: /contact/
-    - title: RSE Team
+    - title: Team Members
       url: /contact/team
     - title: Alumni
       url: /contact/alumni
+    - title: Job Descriptions
+      url: /community/job-descriptions
