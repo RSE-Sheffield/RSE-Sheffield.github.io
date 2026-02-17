@@ -50,7 +50,19 @@ hundreds of possible hierarchical IPC classifications. To build out our classifi
 [PATSTAT](https://www.epo.org/en/searching-for-patents/business/patstat), a global database containing over 130 million patent documents. By sampling 177,000 relevant patents for this
 research, we curated a comprehensive training dataset mapping technical abstracts to verified multi-label IPC codes (at
 the broader "Section" and "Class" levels). This allowed our model to learn the complex linguistic patterns associated
-with diverse technological domains.
+with diverse technological domains. Figure 1 provides an overview of the corpus statistics used in our sampled training
+dataset, including the label distributions for the two IPC labels used in our study, and the mean word count per
+abstract.
+
+As with all text classification problems, one major hurdle in patent data is the severe class imbalance. The label space
+is highly skewed toward dominant fields like electronics or chemistry, while niche or emerging domains remain sparsely
+represented. One approach is to process the data by upsampling the frequency of low-occurring labels before training the
+model. However, to ensure the model accurately reflects this real-world distribution, we intentionally avoided any
+artificially upsampling of rare labels in our approach. Instead, we relied on strict stratified sampling across our
+training, validation, and test splits that mimics the raw dataset's proportions and reduces the model's bias. This
+guarantees that rare technological domains are preserved and adequately represented across all phases of model
+development. A summary of the data splits is shown in Table 1.
+
 
 | Splits | Total labels (Section) | Total labels (Class) | Average labels per patent (Section) | Average labels per patent (Class) |
 |:-------|-----------------------:|---------------------:|------------------------------------:|----------------------------------:|
@@ -62,15 +74,6 @@ with diverse technological domains.
 ***Table 1**: Train-val-test statistics following the stratified sampling. Note that there exists more than one label per
 patent on average.*
 {: style="text-align: center;"}
-
-As with all text classification problems, one major hurdle in patent data is the severe class imbalance. The label space
-is highly skewed toward dominant fields like electronics or chemistry, while niche or emerging domains remain sparsely
-represented. One approach is to process the data by upsampling the frequency of low-occurring labels before training the
-model. However, to ensure the model accurately reflects this real-world distribution, we intentionally avoided any
-artificially upsampling of rare labels in our approach. Instead, we relied on strict stratified sampling across our
-training, validation, and test splits that mimics the raw dataset's proportions and reduces the model's bias. This
-guarantees that rare technological domains are preserved and adequately represented across all phases of model
-development.
 
 ## Our Approach: Fine-tuning and Hierarchical Masking
 
@@ -97,7 +100,7 @@ IPC "Section" (the parent level) and one for the IPC "Class" (the child level).
 mask invalid parent-child combinations during predictions. For instance, if the model confidently predicts that a text
 belongs to Section "A", the subsequent class predictions are constrained to only output classes that begin with "A" (
 e.g., A01). This masking approach drastically reduces the effective label space (from 124 possible classes down to just
-the relevant ones for that section), cutting through the noise and improving the signal-to-noise ratio.
+the relevant ones for that section), cutting through the noise and improving the signal-to-noise ratio. The end-to-end workflow is demonstrated in Figure 2.
 
 The model was fine-tuned to minimise a weighted combination of binary cross-entropy losses across the two hierarchical
 levels with respect to the frequency of IPC labels. To handle the computational load of the 110-million parameter model,
