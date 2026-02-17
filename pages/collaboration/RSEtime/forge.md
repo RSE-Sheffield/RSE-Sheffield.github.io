@@ -39,7 +39,7 @@ FORGE projects will take place in three windows throughout the year. After the a
 
 Successful projects will be notified within four weeks of the application deadline closing. 
 
-<img src="/assets/images/forge/FORGE_Timeline.svg" alt="FORGE programme timeline showing three application deadlines: October (Autumn), February (Spring), and May (Summer). The call remains open all year. After each deadline, applications go through a one-month Review and Selection process by the RSE and DAS Panel. Successful applicants receive notification and pre-project preparation before the 2-day project execution phase. Project execution windows are November-December, March-April, and June-July. The process concludes with a post-project handover." />
+<img src="/assets/images/forge/forge_Timeline.svg" alt="FORGE programme timeline showing three application deadlines: October (Autumn), February (Spring), and May (Summer). The call remains open all year. After each deadline, applications go through a one-month Review and Selection process by the RSE and DAS Panel. Successful applicants receive notification and pre-project preparation before the 2-day project execution phase. Project execution windows are November-December, March-April, and June-July. The process concludes with a post-project handover." />
 
 ## What to Expect
 
