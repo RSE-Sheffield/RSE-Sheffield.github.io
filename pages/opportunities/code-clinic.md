@@ -14,7 +14,9 @@ They are open to **anyone at TUOS writing code for research** to get help with p
 At each session, **members of the RSE and/or Research IT and support teams will be available to review code, advise, troubleshoot and
 suggest ways to improve your computational workflows**.
 
-### Who: Are you...
+### Who?
+
+Are you...
 
   - Thinking of ways to improve your code?
   - Want to automate a task (e.g: series of scripts)?
@@ -25,7 +27,6 @@ suggest ways to improve your computational workflows**.
   - Want to re-write your code written in one language (e.g: Excel) in another language such as Python?
   - Need help with version control?
   - Want to know more about making your code open and/or citable?
-  - Struggling with Bioinformatics analysis?
 
 **We can help!**
 
@@ -35,7 +36,7 @@ The clinic will be held on Google Meet by default.
 A link will be provided in the Google Calendar invite issued when you book a clinic.
 If you would rather have an in person meeting, please contact us at [`code-clinic-helpers-group@sheffield.ac.uk`](mailto:)
 
-### When
+### When?
 
 Every second Wednesday (13:30 - 15:30).
 
@@ -49,10 +50,10 @@ Clinic sessions are split into 3 half-hourly slots, bookable for consultation.
 
 ### Preparing for your session
 
-- When you book a code clinic you will receive a link to a Google Doc where you can provide more information about your issue.  
+- When you book a code clinic you will receive a link to a Google Doc where you can provide more information about your issue.
 - Please provide examples of the code you are working on, if possible. Often the best way to do this is via a “Minimal, Reproducible Example” (<https://stackoverflow.com/help/minimal-reproducible-example>) but sometimes this isn’t possible. It is good software engineering practice to share code using collaborative version control (e.g. GitHub) and it is good open research practice to do this publicly, although these practices are not always possible.
-- Please provide any information you can on the hardware, operating system, packages you are using.  
-- Sometimes helping with the problem requires us to understand your data. Sharing data is not always possible. A readme or data dictionary is particularly useful in these situations.  
+- Please provide any information you can on the hardware, operating system, packages you are using.
+- Sometimes helping with the problem requires us to understand your data. Sharing data is not always possible. A readme or data dictionary is particularly useful in these situations.
 
 ### On the day
 
@@ -66,7 +67,7 @@ relevant upcoming training sessions, etc.
 
 ### Cancelling your session
 
-If you cannot attend the session, please give a **No** response on the calendar invite and email the code clinic helpers at 
+If you cannot attend the session, please give a **No** response on the calendar invite and email the code clinic helpers at
 [`code-clinic-helpers-group@sheffield.ac.uk`](mailto:) so we can proceed to remove your booking from the system to cancel your session
 and free it up for someone else.
 
