@@ -1,7 +1,7 @@
 ---
-title: Alumni
-permalink: /contact/alumni/
-slug: alumni
+title: Team
+permalink: /about-us/team/
+slug: team
 type: text
 
 placeholder_colours:
@@ -16,17 +16,17 @@ placeholder_colours:
 
 ---
 
-Previous members of the RSE Sheffield team:
+Current members of the Research Software Engineering team are listed below. Previous members of the team can be found on our [Alumni](../alumni) page.
 
 {% assign people = site.people | sort: 'othernames' | sort: 'surname' | sort: 'level'  %}
 {% assign placeholder_idx = 0 %}
 <div class="people-list row">
 {% for person in people %}
-  {% if person.alumnum == true %}
+  {% if person.alumnum == false %}
     <div class="col-12 col-sm-6 col-lg-4 mb-4 d-flex">
       {% assign colour_idx = placeholder_idx | modulo: page.placeholder_colours.size %}
       {% assign colours = page.placeholder_colours[colour_idx] %}
-      {% include team_member_card.html person=person placeholder_color=colours.color placeholder_background=colours.background show_name=true show_role=true show_extra_links=false show_badges=true%}
+      {% include team_member_card.html person=person placeholder_color=colours.color placeholder_background=colours.background show_name=true show_role=true show_extra_links=false show_badges=true %}
     </div>
     {% assign placeholder_idx = placeholder_idx | plus: 1 %}
   {% endif %}
