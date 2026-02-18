@@ -8,10 +8,10 @@ type: text
 
 ### Stop wasting valuable time trying to fix issues on your own.
 
-Code Clinics are **fortnightly support sessions** run by the [RSE team](https://rse.shef.ac.uk) (which is supported by the [School of Computer Science](https://www.sheffield.ac.uk/dcs), [IT Services](https://www.sheffield.ac.uk/departments/it-services) and the [School of Mathematical and Physical Sciences](https://www.sheffield.ac.uk/mps)), IT Services' [Research IT and support](https://www.sheffield.ac.uk/it-services/research) team and [Sheffield Bioinformatics Core](https://sbc.shef.ac.uk) team.
+Code Clinics are **fortnightly support sessions** run by the [RSE team](https://rse.shef.ac.uk) (which is supported by the [School of Computer Science](https://www.sheffield.ac.uk/dcs), [IT Services](https://www.sheffield.ac.uk/departments/it-services) and the [School of Mathematical and Physical Sciences](https://www.sheffield.ac.uk/mps)) and IT Services' [Research IT and support](https://www.sheffield.ac.uk/it-services/research) team.
 They are open to **anyone at TUOS writing code for research** to get help with programming problems and general advice on best practice.
 
-At each session, **members of the RSE, Bioinformatics Core and/or Research IT and support teams will be available to review code, advise, troubleshoot and
+At each session, **members of the RSE and/or Research IT and support teams will be available to review code, advise, troubleshoot and
 suggest ways to improve your computational workflows**.
 
 ### Who: Are you...
