@@ -141,12 +141,14 @@ Beyond organisation-wide settings, your most important repositories deserve addi
 This guide covers the essentials, but GitHub offers more for making research software FAIR (Findable, Accessible, Interoperable, Reusable):
 
 * **Citation files**: Add academic citations using the [Citation File Format](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files) so others can credit your work properly  
-* **DOIs via ORDA**: Archive snapshots of your code in the University's [research data repository](https://sheffield.ac.uk/library/research-data-management/orda) with a permanent DOI  
+* **Archiving with ORDA**: Archive snapshots of your code in the University's [research data repository](https://sheffield.ac.uk/library/research-data-management/orda) with a permanent DOI  
 * **Automated testing**: Use [GitHub Actions](https://docs.github.com/en/actions) to run tests automatically when code changes
 
-Why use [ORDA](https://sheffield.ac.uk/library/research-data-management/orda) instead of just leaving code on GitHub? While GitHub is excellent for active development, it does not guarantee long-term preservation. To meet most funder requirements, you should archive “frozen” versions of your code in ORDA.
+Why use [ORDA](https://sheffield.ac.uk/library/research-data-management/orda) instead of just leaving code on GitHub? While GitHub is excellent for active development, it does not guarantee long-term preservation. To meet most funder requirements, you should archive "frozen" versions of your code in ORDA.
 
 Unlike GitHub, ORDA provides a persistent [Digital Object Identifier (DOI)](https://www.doi.org/the-identifier/what-is-a-doi/). This ensures that when you cite your code in a paper, the link will never break, and other researchers can access the exact version of the software used to produce your results.
+
+For more information on integrating GitHub with ORDA (which is based on the FigShare platform,) please read [How to connect Figshare with your GitHub account](https://info.figshare.com/user-guide/how-to-connect-figshare-with-your-github-account/) on the FigShare documentation.
 
 # Summary checklist
 
@@ -157,7 +159,6 @@ If you are starting a new research organisation today, follow these six steps:
 3. Restrict Creation: Set "Repository Creation" to Owners Only to prevent sprawl.  
 4. Enforce 2FA: Check that "Require two-factor authentication" is active for all members.  
 5. Protect Branches: Enable "Branch Protection" for your main or master branches.  
-6. Plan for Output: Use the GitHub-to-ORDA integration to generate a DOI for your final release.
 
 # Getting help
 
