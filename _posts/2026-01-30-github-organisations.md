@@ -115,9 +115,18 @@ Beyond organisation-wide settings, your most important repositories deserve addi
 
 **Where:** Repository Settings → Branches → Add branch protection rule
 
-**What to do:** Target your main branch, then tick "Require a pull request before merging" and "Require approvals"
+**What to do:** Target your main branch and enable "Require a pull request before merging" and "Require approvals". While you're there, also turn on:
 
-**Why:** This prevents anyone—including you—from pushing changes directly to the main branch. Instead, changes go through a pull request that someone else must review. It's peer review for code: a second pair of eyes catches mistakes before they become permanent.
+* **Dismiss stale pull request approvals when new commits are pushed**
+* **Require approval of the most recent reviewable push**
+
+**Why:** Without branch protection, anyone on the team—including you—can push changes directly to your main branch. Requiring a pull request means every change has to be reviewed before it lands: the code equivalent of asking a colleague to read over your work before you send it.
+
+<details>
+<summary>Why those two extra settings matter</summary>
+<p>There is a gap in the default pull request setup that is easy to overlook. Once a PR is approved, any team member can still push new commits to the same branch. The approval stays in place even though the code has changed, so those unreviewed commits can be merged straight through—quietly bypassing the review process.</p>
+<p>"Dismiss stale approvals" clears existing sign-offs the moment new commits arrive, forcing another review. "Require approval of the most recent push" goes further: it ensures the reviewer explicitly signed off on exactly what gets merged, not an earlier version of it. Without both settings, the approval requirement is straightforward to circumvent, intentionally or not.</p>
+</details>
 
 # Common mistakes to avoid
 
@@ -137,7 +146,7 @@ This guide covers the essentials, but GitHub offers more for making research sof
 
 Why use [ORDA](https://sheffield.ac.uk/library/research-data-management/orda) instead of just leaving code on GitHub? While GitHub is excellent for active development, it does not guarantee long-term preservation. To meet most funder requirements, you should archive “frozen” versions of your code in ORDA.
 
-Unlike GitHub, ORDA provides a Persistent Identifier (DOI). This ensures that when you cite your code in a paper, the link will never break, and other researchers can access the exact version of the software used to produce your results.
+Unlike GitHub, ORDA provides a persistent [Digital Object Identifier (DOI)](https://www.doi.org/the-identifier/what-is-a-doi/). This ensures that when you cite your code in a paper, the link will never break, and other researchers can access the exact version of the software used to produce your results.
 
 # Summary checklist
 
