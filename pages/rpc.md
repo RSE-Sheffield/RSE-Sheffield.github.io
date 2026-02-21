@@ -17,7 +17,7 @@ Please note:
 - Software will not be identified in publications without explicit permission
 - Machine learning pipelines cannot be assessed at this time
 
-If you would like your software to be considered, please complete our short form, which takes less than three minutes, by **10 April 2026**: https://forms.gle/wc7RX2SsCoe8fJqs8
+If you would like your software to be considered, please complete our short form, which takes less than three minutes, by **10 April 2026**: [https://forms.gle/wc7RX2SsCoe8fJqs8](https://forms.gle/wc7RX2SsCoe8fJqs8)
 
 Spaces are limited as part of this pilot, so we encourage early responses.
 
