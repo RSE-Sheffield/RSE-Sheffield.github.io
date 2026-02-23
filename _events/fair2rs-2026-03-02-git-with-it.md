@@ -11,7 +11,7 @@ speaker: "RSE Team"
 ---
 
 This course aims to help you develop a deeper understanding of how Git works to facilitate collaboration. It builds on
-foundational Git courses such as Software Carpentry: Git Novice and Git and GitHub through GitKraken : From Zero to
+foundational Git courses such as [Software Carpentry: Git Novice](https://swcarpentry.github.io/git-novice/) and [Git and GitHub through GitKraken](https://srse-git-github-zero2hero.netlify.app/) : From Zero to
 Hero! (available in this training program too).
 
 The core idea around the course is that by improving your understanding of working with branches and how to make your
