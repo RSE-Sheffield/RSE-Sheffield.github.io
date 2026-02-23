@@ -24,7 +24,7 @@ software. The course is particularly relevant to people who would like to follow
 reliability & integrity of their research.
 
 **Prerequisite skills:** Attendees should have basic computer literacy (knowledge of files and folders), to be familiar
-with use of Github at a basic level (committing, pushing, repos). They should also be comfortable with the very basics
+with use of GitHub at a basic level (committing, pushing, repos). They should also be comfortable with the very basics
 of Python programming / scripting. Knowing how to write functions and do basic operations should be all that is required
 with respect to Python.
 
