@@ -56,7 +56,7 @@ The [FAIR<sup>2</sup> for Research Software](https://fair2-for-research-software
   provide an introduction to GPU programming with directives, aimed at scientific application programmers wishing to
   develop their own software. Online 10:00-12:00 **2026-03-09** to **2026-03-18**
 - [Grace Hopper Drop-in session](https://www.eventbrite.co.uk/e/grace-hopper-drop-in-session-tickets-1983250027219) an
-  open, interactive online event designed specifically for the academic high‑performance computing community intersted
+  open, interactive online event designed specifically for the academic high‑performance computing community interested
   in exploring the power of NVIDIA Grace Hopper architecture in computational workflows. **2026-03-11**
 - [BriCS x Turing - Isambard-AI workshop](https://www.turing.ac.uk/events/brics-x-turing-isambard-ai-workshop)
   **2026-03-12** **NB** - Registration has closed but you can joint the waiting list
