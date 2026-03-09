@@ -1,6 +1,6 @@
 ---
 title: Survey
-layout: default
+layout: page
 permalink: /survey/
 ---
 
