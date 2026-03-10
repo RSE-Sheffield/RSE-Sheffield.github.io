@@ -1,5 +1,5 @@
 ---
-title: Profiling and Optimisation(Python)
+title: Profiling and Optimisation (Python)
 permalink: /learning/pando-python/
 slug: pando-python
 type: redirect
