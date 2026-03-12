@@ -39,13 +39,13 @@
 
 - title: "Learning"
   subitems:
-     - title: Parallel computing with GPU [Teaching]
-       url: /learning/parallelgpu/
-     - title: Resarch Software engineering for CDT [Teaching]
+     - title: Parallel Computing with GPUs [Academic Module]
+       url: /learning/com4521
+     - title: Research Software Engineering for CDT [Teaching]
        url: /learning/rse-cdt
      - title: FAIR24RS programme [Training]
        url: /learning/fair4rs
-     - title: Profiling and Optimisation [Training]
-       url: /learning/profile-optimise
+     - title: Profiling and Optimisation (Python) [Training]
+       url: /learning/pando-python
      - title: Introduction to Deep Learning [Training]
        url: /learning/deep-learning
