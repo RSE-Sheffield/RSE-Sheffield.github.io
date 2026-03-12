@@ -40,7 +40,7 @@
 - title: "Learning"
   subitems:
      - title: Parallel Computing with GPUs [Academic Module]
-       url: /learning/com4521/
+       url: /learning/com4521
      - title: Research Software engineering for CDT [Teaching]
        url: /learning/rse-cdt
      - title: FAIR24RS programme [Training]
