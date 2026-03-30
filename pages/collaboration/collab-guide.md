@@ -5,11 +5,11 @@ slug: evidence
 type: text
 ---
 
-The RSE team is collaborating on more than 30 projects a year. Collaborations span various lengths, from a few days or a few weeks to longer term partnerships of multiple years. However, it is clear that we are much more efficient and impactful when we collaborate on long projects where our contribution to the research itself can be the most visible. 
+The RSE team collaborates on more than 30 projects a year. Collaborations span various lengths, from a few days or a few weeks to longer term partnerships of multiple years. However, it is clear that we are much more efficient and impactful when we collaborate on long projects where our contribution to the research itself can be the most visible. 
 
-To make sure that we can have a general overview on how all of them are going, it is important to have a project management process. The goal is not to micro-manage each of them. RSEs on projects are managing the overall RSE work. The objective is to keep track of project and be able to tackle potential blockers that may arise during the collaboration to make sure that all parties have an anjoyable experience.  
+To make sure that we can have a general overview on how all of them are going, it is important to have a project management process. The goal is not to micro-manage each of them. RSEs on projects are managing the overall RSE work. The objective is to keep track of project of the progress on the project and be able to tackle potential blockers that may arise during the collaboration to make sure that all parties have an enjoyable experience.  
 
-For this reason, we have created a fairly light process of project management, from scoping to impact inquiry. You can see it on the figure below.  
+For this reason, we have created a fairly light process of project management, from scoping to impact inquiry shown in the figure below.  
 
 <img src="/assets/images/2026_RSE_project_timeline.png" alt="Project timeline showing the different stages of a project with RSEs. "/>
 
@@ -244,10 +244,10 @@ To maintain their high level of expertise and expand their knowledge, RSEs parti
 </ul>
 
 
-Depending on their interest and availability, RSEs can also engage in other activitites such as scoping new collaborations, organizing workshops, delivering RSE training, and attending key conferences (such as RSECon).  <b>As you would expect any of your collaborators to also have other activities, you can expect the same from RSEs. However, we will make sure it does not take up more than 10% of their time along the year.</b><br><br>
+Depending on their interest and availability, RSEs can also engage in other activitites such as scoping new collaborations, organizing workshops, delivering RSE training, and attending key conferences (such as the Society of RSE annual conference).  <b>As you would expect any of your collaborators to also have other activities, you can expect the same from RSEs. However, we will make sure it does not take up more than 10% of their time along the year.</b><br><br>
 
 <b>Transition period:</b><br>
-Research rarely concludes abruptly at a contract’s end date. Often, essential tasks like finalizing a publication, releasing a software version, or polishing documentation extend slightly beyond the official project timeline. We allow RSEs a reasonable amount of time to finalize these high-impact tasks for previous projects. Equally, when an RSE begins a project with you, they may occasionally need brief windows of time to wrap up their previous collaboration. We appreciate your flexibility in recognizing this as a standard part of the research lifecycle.
+Research rarely concludes abruptly at a contract’s end date. Often, essential tasks like finalizing a publication, releasing a software version, or polishing documentation extend slightly beyond the official project timeline. We allow RSEs a reasonable amount of time to finalize these high-impact tasks for previous projects. Equally, when an RSE begins a project with you, they may occasionally need brief windows of time to wrap up their previous collaboration whilst familiarising themselves with your project. We appreciate your flexibility in recognizing this as a standard part of the research lifecycle.
 
 
 
@@ -276,9 +276,9 @@ Research rarely concludes abruptly at a contract’s end date. Often, essential 
 Collaborating with a Research Software Engineer (RSE) is fundamentally similar to working with any academic researcher. To ensure the success of our joint efforts, please keep the following operational principles in mind: <br><br> 
 
 <ul>
-<li> <b>Onboarding</b>: RSEs are versatile individuals who frequently transition between diverse fields, such as moving from particle physics to archaeology. While this cross-disciplinary expertise allows for the valuable transfer of techniques, it requires an good understanding of the project from the beginning. To ensure an efficient start, we require that the PI arrives at the kick-off meeting with all necessary onboarding materials (see below). This can include relevant publications, existing codebases, technical documentation, and domain-specific context.</li> 
+<li> <b>On-boarding</b>: RSEs are versatile individuals who frequently transition between diverse fields, such as moving from particle physics to archaeology. While this cross-disciplinary expertise allows for the valuable transfer of techniques, it requires a good understanding of the project from the beginning. To ensure an efficient start, we require that the PI arrives at the kick-off meeting with all necessary on-boarding materials (see below). This can include relevant publications, existing codebases, technical documentation, and domain-specific context.</li> 
 
-<li> <b>Teamwork and communication:</b> An RSE should be treated as a core member of your research team rather than an external service provider. We expect RSEs to be included in team meetings, relevant mails, and communication channels. Active engagement from the Principal Investigator is critical. Regular meeting regarding the software’s evolution are essential to keep the project on track and scientifically relevant.</li> 
+<li> <b>Teamwork and communication:</b> An RSE should be treated as a core member of your research team rather than an external service provider. We expect RSEs to be included in team meetings, relevant mails, and communication channels. Active engagement from the Principal Investigator is critical. Regular meetings regarding the software’s evolution are essential to keep the project on track and scientifically relevant.</li> 
 
 <li> <b>Outputs:</b> Like all research staffs, RSEs are evaluated based on their scholarly contributions. <b>As a general rule, If the software developed or maintained by the RSE has enabled the content of a publication co-authorship is expected</b>. We obviously do not request authorship on unrelated works; however, if the RSE’s contributions enabled the research, they should be credited as a collaborator. </li>
 </ul> 
