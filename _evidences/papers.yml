@@ -1,0 +1,26 @@
+---
+items:
+  - title: "The Ideological Turing Test: A Behavioral Measure of Open-Mindedness and Perspective-Taking"
+    authors: "C. O. Brand, <strong>D. Brady (RSE)</strong>, T. Stafford."
+    type: "journal"
+    venue: "Cognitive Science"
+    date: "2025"
+    url1: "https://doi.org/10.1111/cogs.70126"
+    url1_label: "View DOI"
+
+  - title: "Leveraging GitHub API Data to Evaluate Git and GitHub Training Outcomes"
+    authors: "<strong >D. Brady (RSE), A. Krystalli (RSE)</strong>."
+    type: "conference"
+    venue: "UK RSE Conference 2025 (RSECon25)"
+    date: "2025"
+    url1: "https://zenodo.org/records/17967458"
+    url1_label: "View DOI"
+
+  - title: "Understanding Project Management Tool Effectiveness in Diverse dRTP Contexts"
+    authors: "<strong>D. Brady (RSE, PI)</strong>"
+    type: "grant"
+    venue: "DiscouRSE fund round 1"
+    date: "2025"
+    url1: "https://discourse-network.github.io/funding/round-1"
+    url1_label: "DiscouRSE fund"
+---

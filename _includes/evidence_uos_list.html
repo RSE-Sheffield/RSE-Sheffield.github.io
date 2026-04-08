@@ -1,0 +1,59 @@
+<div class="p-3 bg-white rounded border">
+  <p class="text-muted mb-3">
+    This tabs lists the University of Sheffield activities led by members of the RSE team or where they have been involved. This can be workshops, committee roles, panels, training, etc.
+  </p>
+  
+  <hr class="mb-3">
+
+  {% assign uos_list = site.evidences | where: "relative_path", "_evidences/uos.yml" | first %}
+
+  {% for activity in uos_list.items %}
+      <div class="row no-gutters mb-3 pb-1 border-bottom">
+         <div class="col-12 col-lg-9 pr-lg-3">
+  
+             <h4 class="h5 text-primary mb-0 font-weight-bold mr-2">
+               {{ activity.title }}
+             </h4>
+
+
+           <div class="mb-3">
+
+             {% case activity.type %}
+                {% when "role" %}
+                  <span class="badge badge-light px-2 py-1 border small"><i class="fas fa-solid fa-user mr-1 text-success"></i>Role</span>
+                {% when "training" %}
+                  <span class="badge badge-light px-2 py-1 border small"><i class="fas fa-solid fa-stopwatch mr-1 text-primary"></i>Training</span>
+                {% when "workshop" %}
+                  <span class="badge badge-light px-2 py-1 border small"><i class="fas fa-solid fa-calendar-check mr-1 text-primary"></i>Workshop</span> 
+              {% endcase %}
+
+
+
+          <span class="mb-3 text-muted citation-authors">
+            {{ activity.member}}
+          </span>
+
+          {% if activity.date %} 
+            <span class="text-muted small">
+              <em>{{activity.date}}</em>
+            </span>
+          {% endif %}
+
+        </div>
+      </div>
+
+      <div class="col-12 col-lg-3 text-lg-right pt-2 pt-lg-0 citation-actions">
+
+        {% if activity.url1 %}
+          <a href="{{ activity.url1 }}" target="_blank" class="btn btn-outline-dark btn-sm mb-2" rel="noopener noreferrer">
+            <i class="fas fa-external-link-alt mr-1"></i>
+            {{activity.url1_label}}
+          </a>
+          <br>
+        {% endif %}
+      </div>
+
+      </div>
+  {% endfor %}
+
+</div>
