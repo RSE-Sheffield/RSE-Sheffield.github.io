@@ -1,0 +1,18 @@
+---
+items:
+  - software_title: "STON: SofTware for petrOgraphic visualisationN"
+    authors: "<strong>R. Thomas (RSE)</strong>, E. Dammer"
+    type: "release"
+    date: "2025"
+    url1: "https://github.com/Romain-Thomas-Shef/STON"
+    url1_label: "Repository"
+    url2: "https://zenodo.org/records/17604695"
+    url2_label: "Archive"
+
+  - software_title: "STON: SofTware for petrOgraphic visualisationN"
+    authors: "<strong>R. Thomas (RSE)</strong>, E. Dammer"
+    type: "repository"
+    date: "2025"
+    url1: "https://github.com/Romain-Thomas-Shef/STON"
+    url1_label: "Repository"
+---
