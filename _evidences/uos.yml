@@ -1,0 +1,33 @@
+---
+items:
+  - title: "School of Computer Science sustainability lead"
+    member: "R. Chisholm"
+    type: "role"
+    date: "2026-present"
+
+  - title: "Chair of the RSE call for proposal 2025"
+    member: "N. Shephard"
+    type: "role"
+    date: "2023-present"
+    url1: "https://rse.shef.ac.uk/collaboration/RSEtime/2025/"
+    url1_label: "Call for proposal 2025"
+
+  - title: "Chair of the FAIR24RS training Programme"
+    member: "T. James"
+    type: "role"
+    date: "2023-present"
+    url1: "https://rse.shef.ac.uk/training/fair4rs/"
+    url1_label: "Training programme"
+
+  - title: "Mathematical and Physical Sciences RSE workshop"
+    member: "M. Dyer, S. Donnelly & E. Brown"
+    type: "workshop"
+    date: "13 November 2025"
+    url:
+
+  - title: "Git/GitKraken training"
+    member: "M. Foster & D. Brady"
+    type: "training"
+    date: "13 November 2025"
+    url: 
+---
