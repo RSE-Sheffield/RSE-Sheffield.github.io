@@ -1,9 +1,47 @@
 ---
 items:
+
   - title: "School of Computer Science sustainability lead"
     member: "R. Chisholm"
     type: "role"
     date: "2026-present"
+
+  - title:
+    year: 2025
+
+
+  - title: "Mathematical and Physical Sciences RSE workshop"
+    member: "M. Dyer, S. Donnelly & E. Brown"
+    type: "workshop"
+    date: "2025"
+    url:
+
+  - title: "Git/GitKraken training (CDT)"
+    member: "N. Shephard & M. Foster"
+    type: "training"
+    date: "2025"
+    url1: "https://srse-git-github-zero2hero.netlify.app/"
+    url1_label: "Ressources"
+
+  - title: "Git/GitKraken training (Open)"
+    member: "M. Foster & D. Brady"
+    type: "training"
+    date: "2025"
+    url1: "https://srse-git-github-zero2hero.netlify.app/"
+    url1_label: "Ressources" 
+
+  - title: "Publish your software!"
+    member: "R. Thomas, A. Smith & E. Brown"
+    type: "training"
+    date: "2025"
+    url1: "https://orda.shef.ac.uk/articles/media/Publish_your_Software_An_introduction_to_the_Journal_of_Open_Source_Software_JOSS_/29179034/1?file=54917771"
+    url1_label: "Recording"
+
+  - title:
+    year: 2024
+
+  - title:
+    year: 2023
 
   - title: "Chair of the RSE call for proposal 2025"
     member: "N. Shephard"
@@ -19,15 +57,16 @@ items:
     url1: "https://rse.shef.ac.uk/training/fair4rs/"
     url1_label: "Training programme"
 
-  - title: "Mathematical and Physical Sciences RSE workshop"
-    member: "M. Dyer, S. Donnelly & E. Brown"
-    type: "workshop"
-    date: "13 November 2025"
-    url:
+  - title:
+    year: 2022
 
-  - title: "Git/GitKraken training"
-    member: "M. Foster & D. Brady"
-    type: "training"
-    date: "13 November 2025"
-    url: 
+  - title:
+    year: 2021
+
+  - title:
+    year: 2020
+
+  - title:
+    year: 2019
+
 ---

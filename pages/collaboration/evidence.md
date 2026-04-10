@@ -22,7 +22,7 @@ We are listing here all the contribution made be our team and we grouped them in
                     <nav>
                         <div class="nav nav-tabs nav-fill" id="nav-tab" role="tablist">
                             <a class="nav-item nav-link active" id="nav-software-tab" data-toggle="tab" href="#nav-software" role="tab" aria-controls="nav-software" aria-selected="false" style="background-color: rgba(82, 184, 108, 0.7)">Software releases & repositories</a>
-                            <a class="nav-item nav-link" id="nav-papers-tab" data-toggle="tab" href="#nav-papers" role="tab" aria-controls="nav-papers" aria-selected="true" style="background-color: rgba(68, 0, 153, 0.3)">Papers and grants</a>
+                            <a class="nav-item nav-link" id="nav-papers-tab" data-toggle="tab" href="#nav-papers" role="tab" aria-controls="nav-papers" aria-selected="true" style="background-color: rgba(68, 0, 153, 0.3)">Papers, grants and conference contributions</a>
                             <a class="nav-item nav-link" id="nav-uos-tab" data-toggle="tab" href="#nav-uos" role="tab" aria-controls="nav-uos" aria-selected="false" style="background-color: rgba(235, 201, 68, 0.7)"  >University of Sheffield activities</a>
                             <a class="nav-item nav-link" id="nav-external-tab" data-toggle="tab" href="#nav-external" role="tab" aria-controls="nav-external" aria-selected="false"  style="background-color: rgba(68, 0, 153, 0.3)">External activities</a>
                             <a class="nav-item nav-link" id="nav-others-tab" data-toggle="tab" href="#nav-others" role="tab" aria-controls="nav-others" aria-selected="false" style="background-color: rgba(18, 169, 212, 0.7)" >Others</a>

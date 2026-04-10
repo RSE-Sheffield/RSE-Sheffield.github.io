@@ -1,7 +1,29 @@
 ---
 items:
+
+  - title:
+    year: 2025
+
+  - software_title: "AutoEmulate"
+    authors: "Contribution from <strong>E. Brown (RSE)</strong>"
+    type: "repository"
+    date: "2025"
+    url1: "https://github.com/alan-turing-institute/autoemulate"
+    url1_label: "Repository"
+
+  - software_title: "Causal Testing Framework"
+    authors: "Contribution from <strong>M. Foster (RSE, lead), F. Allian (DAS), C. Wild (DAS) </strong>"
+    type: "release"
+    date: "2025"
+    url1: "https://github.com/CITCOM-project/CausalTestingFramework"
+    url1_label: "Repository"
+    url2: "https://orda.shef.ac.uk/articles/software/The_Causal_Testing_Framework/28539398/1?file=52804901"
+    url2_label: "Archive"
+
+
+
   - software_title: "STON: SofTware for petrOgraphic visualisationN"
-    authors: "<strong>R. Thomas (RSE)</strong>, E. Dammer"
+    authors: "Contribution from <strong>R. Thomas (RSE, lead)</strong>"
     type: "release"
     date: "2025"
     url1: "https://github.com/Romain-Thomas-Shef/STON"
@@ -9,10 +31,58 @@ items:
     url2: "https://zenodo.org/records/17604695"
     url2_label: "Archive"
 
-  - software_title: "STON: SofTware for petrOgraphic visualisationN"
-    authors: "<strong>R. Thomas (RSE)</strong>, E. Dammer"
+  - title:
+    year: 2024
+
+  - software_title: "PyCam Volcanoes software"
+    authors: "Contribution from <strong>D. Brady (RSE)</strong>, <strong>F. Sonnenwald (DAS), C. Wild (DAS)</strong>"
     type: "repository"
-    date: "2025"
-    url1: "https://github.com/Romain-Thomas-Shef/STON"
+    date: "2024"
+    url1: "https://github.com/volcanotech-sw/PyCamPermanent"
     url1_label: "Repository"
+    url2: "https://orda.shef.ac.uk/articles/software/PyCamPermanent/27925386?file=50862465"
+    url2_label: "Archive"
+
+  - software_title: "Prompto"
+    authors: "Contribution from <strong>E. Brown (RSE)</strong>"
+    type: "repository"
+    date: "2024"
+    url1: "https://github.com/alan-turing-institute/prompto"
+    url1_label: "Repository" 
+
+  - software_title: "DTBase"
+    authors: "Contribution from <strong>E. Brown (RSE)</strong>"
+    type: "repository"
+    date: "2024"
+    url1: "https://github.com/alan-turing-institute/DTBase"
+    url1_label: "Repository" 
+
+  - title:
+    year: 2023
+
+  - title:
+    year: 2022
+
+  - software_title: "PGfinder"
+    authors: "Contribution from <strong>N. Shephard (RSE), R. Turner (RSE)</strong>"
+    type: "repository"
+    date: "2022"
+    url1: "https://github.com/Mesnage-Org/pgfinder"
+    url1_label: "Repository" 
+
+  - software_title: "Clarity Challenge"
+    authors: "Contribution from <strong>N. Shephard (RSE)</strong>"
+    type: "repository"
+    date: "2022"
+    url1: "https://github.com/claritychallenge/clarity"
+    url1_label: "Repository" 
+
+  - title:
+    year: 2021
+
+  - title:
+    year: 2020
+
+  - title:
+    year: 2019
 ---

@@ -24,7 +24,7 @@ items:
     url: "https://rsecon26.society-rse.org/committee/"
     url_name: "Conference website"
 
-  - title: "Website team"
+  - title: "Website team member"
     member: "S. Donnelly"
     details: "Research Engineering Conference, RSECon26"
     type: "committee"
@@ -48,15 +48,97 @@ items:
     url: "https://rsecon26.society-rse.org/committee/"
     url_name: "Conference website"
 
+  - title:
+    year: 2025
+
+  - title: "Prostate cancer screening modelling study"
+    member: "Contribution from D. Brady"
+    details: "Report for UK National Screening Committee"
+    type: "report"
+    date: "2025"
+    url: "https://nationalscreening.blog.gov.uk/wp-content/uploads/sites/254/2025/11/SCHARR-Report-Phase-3-Prostate-Cancer-Modelling_FINAL.pdf"
+    url_name: "Report link"
+
+
+  - title: "Publicity chair"
+    member: "N. Shephard"
+    details: "Research Engineering Conference, RSECon25"
+    type: "committee"
+    date: "2025"
+    url: "https://rsecon25.society-rse.org/conference-committee/"
+    url_name: "Conference website"
+
+  - title: "Steering chair"
+    member: "T. Karmakharm"
+    details: "Research Engineering Conference, RSECon25"
+    type: "committee"
+    date: "2025"
+    url: "https://rsecon25.society-rse.org/conference-committee/"
+    url_name: "Conference website"
+
+  - title: "Logistic co-chair"
+    member: "R. Chisholm"
+    details: "Research Engineering Conference, RSECon25"
+    type: "committee"
+    date: "2025"
+    url: "https://rsecon25.society-rse.org/conference-committee/"
+    url_name: "Conference website"
+
+  - title: "Programme co-chair"
+    member: "R. Thomas"
+    details: "Research Engineering Conference, RSECon25"
+    type: "committee"
+    date: "2025"
+    url: "https://rsecon25.society-rse.org/conference-committee/"
+    url_name: "Conference website"
+
+  - title: "Discover STON: A practical tool to study petrographic images and beyond!"
+    member: "E. Dammer & <strong>R. Thomas (RSE)</strong>"
+    details: "Young Researchers in Archaeometry Webinar"
+    type: "seminar"
+    date: "2025"
+    url: "https://www.yra-ecr.org/abstracts/2025-S04_2.html"
+    url_name: "Abstract"
+
+
   - title: "Invited lecture"
     member: "N. Shephard"
     details: "Invited lecture on X to Y"
     type: "Invite"
     date: "2025"
 
+  - title:
+    year: 2024
+
+  - title: "RSECon24 Volunteering"
+    member: "P. Heywood"
+    details: "Selected as volunteer for the conference"
+    type: "role"
+    date: "2025"
+    url: "https://rsecon24.society-rse.org/about/conference-volunteers/"
+    url_name: "Volunteer webpage"   
+
+  - title:
+    year: 2023
+
   - title: "RSE Society trustee"
     member: "T. Karmakharm"
     details: "Details to add"
     type: "role"
     date: "2023-present"
+    url: "https://society-rse.org/about/governance/"
+    url_name: "RSE Society governance"
+
+  - title:
+    year: 2022
+
+  - title:
+    year: 2021
+
+  - title:
+    year: 2020
+
+  - title:
+    year: 2019
+
 ---
