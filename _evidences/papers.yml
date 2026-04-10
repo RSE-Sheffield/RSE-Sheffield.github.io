@@ -1,11 +1,105 @@
 ---
 items:
+  - title: "STON: a practical imaging tool for archaeological petrography and beyond"
+    authors: "E. Dammer, <strong> R. Thomas (RSE) </strong>"
+    type: "conference"
+    venue: "CAA conference, Vienna"
+    date: 2026
+    url1: "https://2026.caaconference.org/wp-content/uploads/sites/7/2026/03/Paper_complete-abstract-booklet.pdf"
+    url1_label: "Abstract booklet"
+    url2: "https://2026.caaconference.org/"
+    url2_label: "Conference website"
+
+
+  - title: "A Browser-based Open Source Assistant for Multimodal Content Verification"
+    authors: "<strong>R. Milner(DAS), M. Foster(RSE), T. Karmakharm(RSE)</strong>, Olesya Razuvayevskaya, Valentin Porcellini, et al"
+    type: "journal"
+    venue: "ACL Anthology"
+    date: "2026"
+    url1: "10.18653/v1/2026.eacl-demo.12"
+    url1_label: "View DOI"
+
+  - title: "Scientometrics sandpit"
+    authors: "<strong>M. Foster (RSE, PI)</strong>"
+    type: "grant"
+    venue: "UKRI"
+    date: "2026"
+    url1: "https://www.ukri.org/opportunity/metascience-sandpit-scientometrics-for-research-assessment/"
+    url1_label: "Call"
+
+  - title:
+    year: 2025
+
+  - title: "Developing the GOTO Telescope Control System"
+    authors: "<strong>M. Dyer (RSE)</strong> et al"
+    type: "conference"
+    venue: "UK RSE Conference 2025 (RSECon25)"
+    date: "2025"
+    url1: "https://doi.org/10.5281/zenodo.17968211"
+    url1_label: "View DOI"
+
+  - title: "FAIR2 for research software: developing a FAIR and reproducible research software training programme"
+    authors: "<strong>T. James (RSE), R. Thomas (RSE)</strong>"
+    type: "conference"
+    venue: "UK RSE Conference 2025 (RSECon25)"
+    date: "2025"
+    url1: "https://doi.org/10.5281/zenodo.17967512"
+    url1_label: "View DOI"
+
+  - title: "AutoEmulate:  Python library for automatically creating accurate and efficient emulators of complex simulations."
+    authors: "<strong>E. Brown (RSE)</strong> et al"
+    type: "conference"
+    venue: "UK RSE Conference 2025 (RSECon25)"
+    date: "2025"
+    url1: "https://doi.org/10.5281/zenodo.17967461"
+    url1_label: "View DOI"
+
+  - title: "Running a local RSE call for proposals"
+    authors: "<strong>R. Thomas (RSE) & N. Shephard (RSE)</strong>"
+    type: "conference"
+    venue: "UK RSE Conference 2025 (RSECon25)"
+    date: "2025"
+    url1: "https://doi.org/10.5281/zenodo.17968230"
+    url1_label: "View DOI"
+
+  - title: "AMD GPUs for Scientific Computing: Reviewing the Software Ecosystem & Developer Experience"
+    authors: "<strong>M. Leach (RSE)</strong>"
+    type: "conference"
+    venue: "UK RSE Conference 2025 (RSECon25)"
+    date: "2025"
+    url1: "https://doi.org/10.5281/zenodo.17967518"
+    url1_label: "View DOI"
+
+  - title: "How to talk to your documents: An introduction to using natural language to query documents with Retrieval Augmented Generation"
+    authors: "<strong>S. Donnelly (RSE), E. Brown (RSE)</strong>"
+    type: "conference"
+    venue: "UK RSE Conference 2025 (RSECon25)"
+    date: "2025"
+    url1: "https://virtual.oxfordabstracts.com/event/75166/submission/85"
+    url1_label: "Abstract"
+
+  - title: "Reasonable Performance Computing SIG (SIG-RPC): Help Identify and Document Performance Traps in Research Software"
+    authors: "<strong>R. Chisholm (RSE)</strong>, R. FitzJohn, <strong>P. Heywood (RSE)</strong>"
+    type: "conference"
+    venue: "UK RSE Conference 2025 (RSECon25)"
+    date: "2025"
+    url1: "https://virtual.oxfordabstracts.com/event/75166/submission/85"
+    url1_label: "Abstract"
+
   - title: "The Ideological Turing Test: A Behavioral Measure of Open-Mindedness and Perspective-Taking"
     authors: "C. O. Brand, <strong>D. Brady (RSE)</strong>, T. Stafford."
     type: "journal"
     venue: "Cognitive Science"
     date: "2025"
     url1: "https://doi.org/10.1111/cogs.70126"
+    url1_label: "View DOI"
+
+  - title: "The Causal Testing Framework"
+    authors: "<strong>M. Foster(RSE)</strong>, A. Clark, <strong>C. Wild(DAS), F. Allian (DAS), R. Turner (RSE)</strong>, et al "
+    type: "journal"
+    venue: "Journal of Open Source Software"
+    date: "2025"
+    url1: "https://doi.org/10.21105/joss.07739"
     url1_label: "View DOI"
 
   - title: "Leveraging GitHub API Data to Evaluate Git and GitHub Training Outcomes"
@@ -15,6 +109,16 @@ items:
     date: "2025"
     url1: "https://zenodo.org/records/17967458"
     url1_label: "View DOI"
+    url2: "https://virtual.oxfordabstracts.com/event/75166/submission/129"
+    url2_label: "Abstract"
+
+  - title: "STON: SofTware for petrOgraphic VisualisatioN"
+    authors: "<strong>R. Thomas(RSE)</strong>, E. Dammer"
+    type: "journal"
+    venue: "Journal of Open Source Software"
+    date: "2025"
+    url1: "https://doi.org/10.21105/joss.08144"
+    url1_label: "View DOI"
 
   - title: "Understanding Project Management Tool Effectiveness in Diverse dRTP Contexts"
     authors: "<strong>D. Brady (RSE, PI)</strong>"
@@ -23,4 +127,132 @@ items:
     date: "2025"
     url1: "https://discourse-network.github.io/funding/round-1"
     url1_label: "DiscouRSE fund"
+
+  - title: "Using Causal Inference to Test Systems with Hidden and Interacting Variables: An Evaluative Case Study"
+    authors: "<strong>M. Foster(RSE)</strong>, R. Hierons, D. Shin, N. Walkinshaw, <strong>C. Wild(DAS)</strong>"
+    type: "journal"
+    venue: "EASE '25: Proceedings of the 29th International Conference on Evaluation and Assessment in Software Engineering"
+    date: "2025"
+    url1: "https://doi.org/10.1145/3756681.3756"
+    url1_label: "View DOI"  
+
+  - title:
+    year: 2024
+
+  - title: "Overcoming Computational Complexity: A Scalable Agent-Based Model of Traffic Activity Using FLAME-GPU"
+    authors: "Maxim Smilovitskiy, Sedar Olmez, <strong>Paul Richmond (RSE), Robert Chisholm (RSE), Peter Heywood (RSE) </strong>, et al "
+    type: "journal"
+    venue: " Advances in Practical Applications of Agents, Multi-Agent Systems, and Digital Twins: The PAAMS Collection"
+    date: "2024"
+    url1: "http://doi.org/10.1007/978-3-031-70415-4_21"
+    url1_label: "View DOI"
+
+  - title: "Prompto: An open source library for asynchronous querying of LLM endpoints"
+    authors: "Ryan Sze-Yin Chan, Federico Nanni, Angus R. Williams, <strong> Edwin Brown (RSE)</strong>, et al"
+    type: "journal"
+    venue: "Arxiv"
+    date: "2024"
+    url1: "https://doi.org/10.48550/arXiv.2408.11847"
+    url1_label: "View DOI"
+
+  - title: "One hundred years of EEG for brain and behaviour research"
+    authors: "F. Mushtaq,...., <strong>D. Brady (RSE)</strong>, et al"
+    type: "journal"
+    venue: "nature human behaviour"
+    date: "2024"
+    url1: "https://doi.org/10.1038/s41562-024-01941-5"
+    url1_label: "View DOI"
+
+  - title: "Towards adoption of FAIR4RS: equipping researchers with FAIR research software skills"
+    authors: "<strong>T. James (RSE), R. Thomas (RSE)</strong>"
+    type: "conference"
+    venue: "UK RSE Conference 2024 (RSECon24)"
+    date: "2024"
+    url1: "https://zenodo.org/records/14290363"
+    url1_label: "View DOI"
+    url2: "https://virtual.oxfordabstracts.com/#/event/49081/submission/85"
+    url2_label: "Abstract"
+
+  - title: "Publish your software! A walkthrough of JOSS submission to publication"
+    authors: "<strong>R. Thomas (RSE)</strong>, A. Smith, <strong>T. James (RSE)</strong>"
+    type: "conference"
+    venue: "UK RSE Conference 2024 (RSECon24)"
+    date: "2024"
+    url1: "https://doi.org/10.5281/zenodo.14290378"
+    url1_label: "View DOI"
+    url2: "https://virtual.oxfordabstracts.com/#/event/49081/submission/69"
+    url2_label: "Abstract"
+
+  - title: "Performant Python Patterns: Small changes to speed up your Python code"
+    authors: "<strong>R. Chisholm (RSE)</strong>"
+    type: "conference"
+    venue: "UK RSE Conference 2024 (RSECon24)"
+    date: "2024"
+    url1: "https://zenodo.org/records/14290317"
+    url1_label: "View DOI"
+    url2: "https://virtual.oxfordabstracts.com/event/49081/submission/57"
+    url2_label: "Abstract"
+
+  - title: "Developing PyCam: Software for acquiring and processing volcanic UV SO2 camera data"
+    authors: "<strong>D. Brady (RSE)</strong>"
+    type: "conference"
+    venue: "UK RSE Conference 2024 (RSECon24)"
+    date: "2024"
+    url1: "https://zenodo.org/records/14290319"
+    url1_label: "View DOI"
+    url2: "https://virtual.oxfordabstracts.com/#/event/49081/poster-gallery/grid?fullScreen=false&current=114"
+    url2_label: "Poster"
+
+  - title: "Practical diversity and inclusion for Research Technical Professionals: How you can help to make an impact"
+    authors: "Jeremy Cohen,..., <strong>T. Karmakharm (RSE) et al</strong>"
+    type: "conference"
+    venue: "UK RSE Conference 2024 (RSECon24)"
+    date: "2024"
+    url1: "https://zenodo.org/records/14290383"
+    url1_label: "View DOI"
+    url2: "https://virtual.oxfordabstracts.com/event/49081/submission/143"
+    url2_label: "Abstract"
+
+  - title:
+    year: 2023
+
+  - title: "A multiscale orchestrated computational framework to reveal emergent phenomena in neuroblastoma"
+    authors: "C. Borau,....,<strong>R. Chisholm (RSE)</strong>, et al"
+    type: "journal"
+    venue: "Computer Methods and Programs in Biomedicine"
+    date: "2023"
+    url1: "https://doi.org/10.1016/j.cmpb.2023.107742"
+    url1_label: "View DOI"
+
+  - title: "FLAME GPU 2: A framework for flexible and performant agent based simulation on GPUs"
+    authors: "<strong>P. Richmond(RSE)</strong>, <strong>R. Chisholm(RSE)</strong>, <strong>P. Heywood(RSE)</strong>, <strong>M. K. Chimeh(RSE)</strong>, <strong>M. Leach(RSE)</strong>"
+    type: "journal"
+    venue: "Journal of: Software: Practice and Experience"
+    date: "2023"
+    url1: "https://onlinelibrary.wiley.com/doi/10.1002/spe.3207"
+    url1_label: "View DOI"
+
+  - title:
+    year: 2022
+
+  - title: "FAIR Principles for Research Software (FAIR4RS Principles)"
+    authors: "Chue Hong, Neil P., .... ,<strong>D. Tartarini (RSE)</strong>, et al"
+    type: "journal"
+    venue: "white paper"
+    date: "2022"
+    url1: "https://zenodo.org/records/6623556"
+    url1_label: "View DOI"   
+
+  - title:
+    year: 2021
+
+
+
+  - title:
+    year: 2020
+
+  - title:
+    year: 2019
+
+
 ---
