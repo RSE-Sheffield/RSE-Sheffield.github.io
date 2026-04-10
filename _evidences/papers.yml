@@ -3,12 +3,12 @@ items:
   - title: "STON: a practical imaging tool for archaeological petrography and beyond"
     authors: "E. Dammer, <strong> R. Thomas (RSE) </strong>"
     type: "conference"
-    venue: "CAA conference, Vienna"
+    venue: "Computer applications and quantitative methods in archaeology Conference, Vienna"
     date: 2026
     url1: "https://2026.caaconference.org/wp-content/uploads/sites/7/2026/03/Paper_complete-abstract-booklet.pdf"
     url1_label: "Abstract booklet"
     url2: "https://2026.caaconference.org/"
-    url2_label: "Conference website"
+    url2_label: "Conference"
 
 
   - title: "A Browser-based Open Source Assistant for Multimodal Content Verification"
@@ -16,7 +16,7 @@ items:
     type: "journal"
     venue: "ACL Anthology"
     date: "2026"
-    url1: "10.18653/v1/2026.eacl-demo.12"
+    url1: "https://doi.org/10.18653/v1/2026.eacl-demo.12"
     url1_label: "View DOI"
 
   - title: "Scientometrics sandpit"
