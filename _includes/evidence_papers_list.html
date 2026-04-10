@@ -1,47 +1,64 @@
-<div class="p-4 bg-white rounded border">
+<div class="p-3 bg-white rounded border">
   <p class="text-muted mb-3">
     This tabs groups the research articles, conference contributions, book chapters and sucessful grants where members of the University of Sheffield RSE team were involved. 
   </p>
   
-  <hr class="mb-3">
+  <hr class="my-3">
   
+  <div id="others-container">
+    {% assign publications_doc = site.evidences | where: "relative_path", "_evidences/papers.yml" | first %}
 
-  {% assign publications_doc = site.evidences | where: "relative_path", "_evidences/papers.yml" | first %}
+    {% for paper in publications_doc.items %}
+    <div class="row no-gutters mb-3 pb-2 border-bottom align-items-center paginated-papers">
+      <div class="col-12 col-lg-9 pr-lg-3">
+        <div class="d-flex align-items-center flex-wrap">
 
-  {% for paper in publications_doc.items %}
-    <div class="row no-gutters mb-3 pb-1 border-bottom">
-      <div class="col-12 col-lg-9 pr-lg-3">        
-        <h4 class="h5 text-primary mb-1 font-weight-bold mr-2">
-          {{ paper.title }}
-        </h4>
+          {% if paper.year and paper.member == nil %} 
+            <span class="text-danger">
+              --{{ paper.year }}--
+            </span>
+          {% endif %}   
 
-        <div class="mb-3">
+          <h4 class="h6 text-primary mb-1 font-weight-bold mr-2">
+            {{ paper.title }}
+          </h4>
                  
           {% case paper.type %}
             {% when "journal" %}
-              <span class="badge badge-light p-2 border mr-2"><i class="fas fa-paper-plane mr-1 text-success"></i>Journal</span>
+              <span class="badge badge-light p-2 border mr-2"><i class="fas fa-paper-plane mr-1 text-success"></i>Paper</span>
             {% when "conference" %}
               <span class="badge badge-light p-2 border mr-2"><i class="fas fa-users mr-1 text-danger"></i>Conference contribution</span>
             {% when "preprint" %}
               <span class="badge badge-light p-2 border mr-2"><i class="fas fa-sticky-note mr-1 text-secondary"></i>Preprint</span>
             {% when "book_chapter" %}
               <span class="badge badge-light p-2 border mr-2"><i class="fas fa-book mr-1 text-primary"></i>Book Chapter</span>
-            {% else %}
+            {% when "grant" %}
               <span class="badge badge-light p-2 border mr-2"><i class="fas fa-university mr-1 text-muted"></i>Grant</span>
           {% endcase %}
+        </div>
           
-          <span class="mb-2 text-muted citation-authors">
-            {{ paper.authors }}
-          </span>
-        <span class="text-muted small">
-          <em>{{ paper.venue }}</em>, {{ paper.date }}
-        </span>
- 
+        <div class="mt-1">
+          {% if paper.authors %}
+            <span class="small text-muted citation-authors">
+              {{ paper.authors }},
+            </span>
+          {% endif %}
+
+          {% if paper.date%} 
+            <span class="small text-success">
+              <em>{{ paper.date }},</em>
+            </span>
+          {% endif %}
+
+          {% if paper.venue %}
+            <span class="small text-muted">
+              {{ paper.venue }}
+            </span>
+          {% endif %}
+        </div>
 
         </div>
-        
-      </div>
-      
+              
       <div class="col-12 col-lg-3 text-lg-right pt-2 pt-lg-0 citation-actions">
         
         {% if paper.url1 %}
@@ -49,11 +66,40 @@
             <i class="fas fa-external-link-alt mr-1"></i>
             {{paper.url1_label}}
           </a>
-          <br>
+        {% endif %}
+
+        {% if paper.url2 %}
+          <span class="mb-2 text-muted citation-authors">
+          <a href="{{ paper.url2 }}" class="btn btn-outline-dark btn-sm mb-2" target="_blank">
+            <i class="fas fa-external-link-alt mr-1"></i>
+            {{paper.url2_label}}
+          </a>
+          </span>
+ 
+
         {% endif %}
       </div>
     </div>
     
   {% endfor %}
-  
+  </div>
+  <div class="d-flex justify-content-center mt-4">
+    <button id="prev-btn-papers" class="btn btn-sm btn-outline-primary mr-2">Previous</button>
+    <span id="page-info-papers" class="align-self-center small mx-2"></span>
+    <button id="next-btn-papers" class="btn btn-sm btn-outline-primary ml-2">Next</button>
+  </div>
+
+
 </div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    initPagination(
+      '.paginated-papers',    // itemClass
+      'prev-btn-papers',     // prevBtn
+      'next-btn-papers',     // nextBtn
+      'page-info-papers',    // pagetext
+      11                     // itemsPerPage
+    );
+  });
+</script>
