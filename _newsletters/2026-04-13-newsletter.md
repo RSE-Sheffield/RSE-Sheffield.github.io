@@ -127,7 +127,7 @@ The [FAIR<sup>2</sup> for Research Software](https://fair2-for-research-software
 
 ### Jobs
 
-- [Research Platforms Engineering Lead - The University of Sheffield](https://jobsite.sheffield.ac.uk/job/Research-Platforms-Engineering-Lead/2351-en_GB). Applications close 2026-04-21.
+- [Research Platforms Engineering Lead - The University of Sheffield](https://jobsite.sheffield.ac.uk/job/Research-Platforms-Engineering-Lead/2351-en_GB). Closes 2026-04-21.
 
 --- 
 
