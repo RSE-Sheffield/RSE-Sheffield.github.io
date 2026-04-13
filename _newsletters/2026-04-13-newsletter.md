@@ -86,20 +86,24 @@ The [FAIR<sup>2</sup> for Research Software](https://fair2-for-research-software
 
 ---
 
-### Articles, Blogs, Papers & Podcasts
+### Articles, Blogs, Papers, Pre-Prints, Podcasts/Videos & Books
 
-#### Articles & Blogs
+<!-- #### Articles -->
 
-- Blog: ["A Novel Deep Learning Architecture for Multi-label Text Classification of Patent Data" - Farhad Allian](https://rse.shef.ac.uk/blog/2026-02-18-innovation-project/)
-- Blog: ["19 Months of Reasonable Performance Computing (SIG)" - Robert Chisholm](https://www.software.ac.uk/blog/19-months-reasonable-performance-computing-sig)
-- Blog: ["Sloponomics and the coming storm" - Seb Bacon](https://bacon.boutique/sloponomics-and-the-coming-storm/)
-- Blog: ["Building realistic fake datasets with Pointblank" - Rich Iannone](https://posit.co/blog/building-realistic-fake-datasets-with-pointblank/)
+#### Blogs
 
-#### Papers
+- ["A Novel Deep Learning Architecture for Multi-label Text Classification of Patent Data" - Farhad Allian](https://rse.shef.ac.uk/blog/2026-02-18-innovation-project/)
+- ["19 Months of Reasonable Performance Computing (SIG)" - Robert Chisholm](https://www.software.ac.uk/blog/19-months-reasonable-performance-computing-sig)
+- ["Sloponomics and the coming storm" - Seb Bacon](https://bacon.boutique/sloponomics-and-the-coming-storm/)
+- ["Building realistic fake datasets with Pointblank" - Rich Iannone](https://posit.co/blog/building-realistic-fake-datasets-with-pointblank/)
 
-- Preprint: ["Credit, recognition, and reward for non-traditional research artefacts in the Life Sciences"](https://osf.io/preprints/metaarxiv/praxg_v1)
-- Preprint: ["The Nature of Technical Debt in Research Software"](https://arxiv.org/abs/2603.20415)
-- Preprint: ["Programming by Chat: A Large-Scale Behavioral Analysis of 11,579 Real-World AI-Assisted IDE Sessions"](https://arxiv.org/abs/2604.00436)
+<!-- #### Papers -->
+
+#### Pre-Prints
+
+- ["Credit, recognition, and reward for non-traditional research artefacts in the Life Sciences"](https://osf.io/preprints/metaarxiv/praxg_v1)
+- ["The Nature of Technical Debt in Research Software"](https://arxiv.org/abs/2603.20415)
+- ["Programming by Chat: A Large-Scale Behavioral Analysis of 11,579 Real-World AI-Assisted IDE Sessions"](https://arxiv.org/abs/2604.00436)
 
 <!-- #### Podcasts & Videos -->
 
