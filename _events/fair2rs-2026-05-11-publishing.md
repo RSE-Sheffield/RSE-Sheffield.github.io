@@ -19,9 +19,9 @@ academic journal dedicated to publishing research software papers. Since its lau
 papers across diverse scientific fields, supporting software for complex modeling, research experiments, scientific
 instruments, and more.
 
-🎤 Speakers:
-✅ Romain Thomas – Head of Research Software Engineering
-✅ Arfon Smith – JOSS Editor-in-Chief
+🎤 Speakers:  
+✅ Romain Thomas – Head of Research Software Engineering  
+✅ Arfon Smith – JOSS Editor-in-Chief  
 ✅ Edwin Brown – Senior Research Software Engineer
 
 Together, we’ll walk you through the JOSS submission process, from preparing your software and manuscript to peer review
