@@ -4,7 +4,6 @@ category: workshop
 tags: fair4rs, fair, software, documentation
 permalink: /training/fair4rs/2026-04-29-documentation
 date: 2026-04-29
-end-date: 2026-04-29
 from: "09:00"
 to: "12:00"
 location: "Portobello Centre, PC-C28 Pool IT Room (40)"
