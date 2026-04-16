@@ -1,20 +1,11 @@
 ---
 items:
 
+
   - title: "School of Computer Science sustainability lead"
     member: "R. Chisholm"
     type: "role"
     date: "2026-present"
-
-  - title:
-    year: 2025
-
-
-  - title: "Mathematical and Physical Sciences RSE workshop"
-    member: "M. Dyer, S. Donnelly & E. Brown"
-    type: "workshop"
-    date: "2025"
-    url:
 
   - title: "Git/GitKraken training (CDT)"
     member: "N. Shephard & M. Foster"
@@ -29,6 +20,21 @@ items:
     date: "2025"
     url1: "https://srse-git-github-zero2hero.netlify.app/"
     url1_label: "Ressources" 
+
+  - title:
+    year: 2025
+
+  - title: "Guest Lecture: COM1005 Machines and Intelligence on “Scientific Programming” for Emma Norling"
+    member: "M. Foster"
+    type: "event"
+    date: "2025"
+    url:
+
+  - title: "Mathematical and Physical Sciences RSE workshop"
+    member: "M. Dyer, S. Donnelly & E. Brown"
+    type: "workshop"
+    date: "2025"
+    url:
 
   - title: "Publish your software!"
     member: "R. Thomas, A. Smith & E. Brown"
