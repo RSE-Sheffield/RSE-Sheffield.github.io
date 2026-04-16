@@ -2,7 +2,7 @@
 items:
 
   - software_title: "golden, v0.0.3"
-    authors: "<strong>R. Chisholm (RSE)</strong>"
+    authors: "<strong>R. Chisholm</strong>"
     PI: "P. Dodd"
     Faculty: "Faculty of Health"
     type: "release"
@@ -13,7 +13,7 @@ items:
     url2_label: "Release"
 
   - software_title: "TopoStats, v2.4.0"
-    authors: "<strong>N. Shephard (RSE)</strong>"
+    authors: "<strong>N. Shephard</strong>"
     PI: "A. Pyne"
     Faculty: "Faculty of Engineering" 
     type: "release"
@@ -24,7 +24,7 @@ items:
     url2_label: "Release"
 
   - software_title: "AFM Reader, v0.0.7"
-    authors: "<strong>N. Shephard (RSE)</strong>"
+    authors: "<strong>N. Shephard</strong>"
     PI: "A. Pyne"
     Faculty: "Faculty of Engineering"  
     type: "release"
@@ -38,7 +38,7 @@ items:
     year: 2025
 
   - software_title: "AutoEmulate"
-    authors: "<strong>E. Brown (RSE)</strong>"
+    authors: "<strong>E. Brown</strong>"
     PI: "???"
     Faculty: "Alan Turing Institute"  
     type: "repository"
@@ -80,7 +80,7 @@ items:
     url2_label: "Archive"
 
   - software_title: "STON: SofTware for petrOgraphic visualisationN, v25.11.1"
-    authors: "<strong>R. Thomas (RSE, lead)</strong>"
+    authors: "<strong>R. Thomas (lead)</strong>"
     PI: "E. Dammer"
     Faculty: "Rathgen Research Laboratory, Berlin"  
     type: "release"
@@ -97,7 +97,7 @@ items:
     authors: "<strong>D. Brady (RSE)</strong>, <strong>F. Sonnenwald (DAS), C. Wild (DAS)</strong>"
     PI: "Tom Pering"
     Faculty: "Faculty of Social Sciences"   
-    type: "repository"
+    type: "release"
     date: "2024"
     url1: "https://github.com/volcanotech-sw/PyCamPermanent"
     url1_label: "Repository"
@@ -105,7 +105,7 @@ items:
     url2_label: "Archive"
 
   - software_title: "Prompto"
-    authors: "Contribution from <strong>E. Brown (RSE)</strong>"
+    authors: "<strong>E. Brown</strong>"
     PI: "???"
     Faculty: "Alan Turing Institute"   
     type: "repository"
@@ -114,13 +114,24 @@ items:
     url1_label: "Repository" 
 
   - software_title: "DTBase"
-    authors: "Contribution from <strong>E. Brown (RSE)</strong>"
+    authors: "<strong>E. Brown</strong>"
     PI: "???"
     Faculty: "Alan Turing Institute"    
     type: "repository"
     date: "2024"
     url1: "https://github.com/alan-turing-institute/DTBase"
     url1_label: "Repository" 
+
+  - software_title: "CHASTE"
+    authors: "<strong>M. Leach, P. Heywood, T. Karmakharm</strong>"
+    PI: "A. Fletcher"
+    Faculty: "Faculty of Science"    
+    type: "repository"
+    date: "2024"
+    url1: "https://github.com/Chaste/Chaste"
+    url1_label: "Repository" 
+
+
 
   - title:
     year: 2023
@@ -129,7 +140,7 @@ items:
     year: 2022
 
   - software_title: "PGfinder"
-    authors: "Contribution from <strong>N. Shephard (RSE), R. Turner (RSE)</strong>"
+    authors: "<strong>N. Shephard, R. Turner</strong>"
     PI: "S. Mesnage"
     Faculty: "Faculty of Science"   
     type: "repository"
@@ -138,7 +149,7 @@ items:
     url1_label: "Repository" 
 
   - software_title: "Clarity Challenge"
-    authors: "Contribution from <strong>N. Shephard (RSE)</strong>"
+    authors: "<strong>N. Shephard</strong>"
     PI: "???"
     Faculty: "???"   
     type: "repository"
