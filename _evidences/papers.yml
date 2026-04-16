@@ -1,5 +1,14 @@
 ---
 items:
+ 
+  - title: "Photometric masses for long period CVs: the case study of CSS131106 "
+    authors: "M. Das,...,<strong>M. J. Dyer (RSE)</strong> et al"
+    type: "journal"
+    venue: "Monthly Notices of the Royal Astronomical Society"
+    date: 2026
+    url1: "https://doi.org/10.1093/mnras/stag549"
+    url1_label: "View DOI"
+
   - title: "STON: a practical imaging tool for archaeological petrography and beyond"
     authors: "E. Dammer, <strong> R. Thomas (RSE) </strong>"
     type: "conference"
@@ -10,6 +19,15 @@ items:
     url2: "https://2026.caaconference.org/"
     url2_label: "Conference"
 
+  - title: "An Eclipsing 8.56 Minutes Orbital Period Mass-transferring Binary"
+    authors: "E. T. Chickles,...,<strong>M. J. Dyer (RSE)</strong> et al"
+    type: "journal"
+    venue: "The Astrophysical Journal"
+    date: 2026
+    url1: "https://doi.org/10.3847/1538-4357/ae4871"
+    url1_label: "View DOI"
+
+
 
   - title: "A Browser-based Open Source Assistant for Multimodal Content Verification"
     authors: "<strong>R. Milner(DAS), M. Foster(RSE), T. Karmakharm(RSE)</strong>, Olesya Razuvayevskaya, Valentin Porcellini, et al"
@@ -19,6 +37,15 @@ items:
     url1: "https://doi.org/10.18653/v1/2026.eacl-demo.12"
     url1_label: "View DOI"
 
+  - title: "ZTF J021804.16+071152.93: a dead cataclysmic variable and potential solution to the missing period bouncer cataclysmic variables"
+    authors: "S. G. Parsons,...,<strong>M. J. Dyer (RSE)</strong> et al"
+    type: "journal"
+    venue: "Monthly Notices of the Royal Astronomical Society"
+    date: 2026
+    url1: "https://doi.org/10.1093/mnras/stag521"
+    url1_label: "View DOI"
+
+
   - title: "Scientometrics sandpit"
     authors: "<strong>M. Foster (RSE, PI)</strong>"
     type: "grant"
@@ -27,11 +54,31 @@ items:
     url1: "https://www.ukri.org/opportunity/metascience-sandpit-scientometrics-for-research-assessment/"
     url1_label: "Call"
 
+  - title: "Long-term eclipse time variations in white dwarf binaries" 
+    authors: "A. Yates,...,<strong>M. J. Dyer (RSE)</strong> et al"
+    type: "journal"
+    venue: "Monthly Notices of the Royal Astronomical Society"
+    date: 2026
+    url1: "https://doi.org/10.1093/mnras/stag358"
+    url1_label: "View DOI"
+
+
+
+
+
   - title:
     year: 2025
 
+  - title: "SN 2024cld: unveiling the complex mass-loss histories of evolved supergiant progenitors to core collapse supernovae"
+    authors: "T. L. Killestein,...,<strong>M. J. Dyer (RSE)</strong> et al"
+    type: "journal"
+    venue: "Monthly Notices of the Royal Astronomical Society"
+    date: "2025"
+    url1: "https://doi.org/10.1093/mnras/staf2261"
+    url1_label: "View DOI"
+
   - title: "Developing the GOTO Telescope Control System"
-    authors: "<strong>M. Dyer (RSE)</strong> et al"
+    authors: "<strong>M. J. Dyer (RSE)</strong> et al"
     type: "conference"
     venue: "UK RSE Conference 2025 (RSECon25)"
     date: "2025"

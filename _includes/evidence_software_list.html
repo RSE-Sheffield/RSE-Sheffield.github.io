@@ -34,10 +34,15 @@
             <div class="mt-1">
               {% if software.authors %}
               <span class="small text-muted citation-authors">
-                {{ software.authors }},
+                RSE(s): {{ software.authors }};
               </span>
               {% endif %}
 
+              {% if software.PI and software.Faculty%}
+              <span class="small text-muted citation-authors">
+                PI: <b>{{ software.PI }}</b> ({{software.Faculty}}),
+              </span>
+              {% endif %}
 
               {% if software.date%} 
                 <span class="small text-success">
