@@ -1,0 +1,188 @@
+---
+items:
+
+  - software_title: "golden, v0.0.3"
+    authors: "<strong>R. Chisholm</strong>"
+    PI: "P. Dodd"
+    Faculty: "Faculty of Health"
+    type: "release"
+    date: "2026"
+    url1: "https://github.com/RSE-Sheffield/golden"
+    url1_label: "Repository"
+    url2: "https://github.com/RSE-Sheffield/golden/releases/tag/v0.0.3"
+    url2_label: "Release"
+
+  - software_title: "TopoStats, v2.4.0"
+    authors: "<strong>N. Shephard</strong>"
+    PI: "A. Pyne"
+    Faculty: "Faculty of Engineering" 
+    type: "release"
+    date: "2026"
+    url1: "https://github.com/AFM-SPM/TopoStats"
+    url1_label: "Repository"
+    url2: "https://github.com/AFM-SPM/TopoStats/releases/tag/v2.4.0"
+    url2_label: "Release"
+
+  - software_title: "AFM Reader, v0.0.7"
+    authors: "<strong>N. Shephard</strong>"
+    PI: "A. Pyne"
+    Faculty: "Faculty of Engineering"  
+    type: "release"
+    date: "2026"
+    url1: "https://github.com/AFM-SPM/AFMReader"
+    url1_label: "Repository"
+    url2: "https://github.com/AFM-SPM/AFMReader/releases/tag/v0.0.7"
+    url2_label: "Release"
+
+  - title:
+    year: 2025
+
+  - software_title: "AutoEmulate"
+    authors: "<strong>E. Brown</strong>"
+    PI: "???"
+    Faculty: "Alan Turing Institute"  
+    type: "repository"
+    date: "2025"
+    url1: "https://github.com/alan-turing-institute/autoemulate"
+    url1_label: "Repository"
+
+  - software_title: "Polychron, v0.2.1"
+    authors: "<strong>P. Heywood</strong>"
+    PI: "B. Moody"
+    Faculty: "Faculty of Science"  
+    type: "release"
+    date: "2025"
+    url1: "https://github.com/bryonymoody/PolyChron"
+    url1_label: "Repository"
+    url2: "https://github.com/bryonymoody/PolyChron/releases/tag/v0.2.1"
+    url2_label: "Release"
+
+  - software_title: "FLAMES GPU, v2.0.0-rc.4"
+    authors: "<strong> R. Chisholm, P. Heywood, M. Leach, M. Kabiri Chimeh</strong>"
+    PI: "P. Richmond (RSE)"
+    Faculty: "Faculty of Engineering"  
+    type: "release"
+    date: "2025"
+    url1: "https://github.com/FLAMEGPU/FLAMEGPU2"
+    url1_label: "Repository"
+    url2: "https://zenodo.org/records/17642112"
+    url2_label: "Archive"
+
+  - software_title: "SORT online"
+    authors: "<strong>T. Karmakharm (RSE), J. Heffer (DAS), F. Allian (DAS), R. Millner (DAS), Y. Weng (DAS)</strong>"
+    PI: "P. Ali"
+    Faculty: "Faculty of Health"    
+    type: "repository"
+    date: "2025"
+    url1: "https://github.com/RSE-Sheffield/SORT"
+    url1_label: "Repository" 
+
+  - software_title: "Causal Testing Framework, v10.0.1"
+    authors: "<strong>M. Foster (RSE, lead), F. Allian (DAS), C. Wild (DAS) </strong>"
+    PI: "N. Walkinshaw"
+    Faculty: "Faculty of Engineering"   
+    type: "release"
+    date: "2025"
+    url1: "https://github.com/CITCOM-project/CausalTestingFramework"
+    url1_label: "Repository"
+    url2: "https://orda.shef.ac.uk/articles/software/The_Causal_Testing_Framework/28539398/1?file=52804901"
+    url2_label: "Archive"
+
+  - software_title: "STON: SofTware for petrOgraphic visualisationN, v25.11.1"
+    authors: "<strong>R. Thomas (lead)</strong>"
+    PI: "E. Dammer"
+    Faculty: "Rathgen Research Laboratory, Berlin"  
+    type: "release"
+    date: "2025"
+    url1: "https://github.com/Romain-Thomas-Shef/STON"
+    url1_label: "Repository"
+    url2: "https://zenodo.org/records/17604695"
+    url2_label: "Archive"
+
+  - title:
+    year: 2024
+
+  - software_title: "PyCam Volcanoes software"
+    authors: "<strong>D. Brady (RSE)</strong>, <strong>F. Sonnenwald (DAS), C. Wild (DAS)</strong>"
+    PI: "Tom Pering"
+    Faculty: "Faculty of Social Sciences"   
+    type: "release"
+    date: "2024"
+    url1: "https://github.com/volcanotech-sw/PyCamPermanent"
+    url1_label: "Repository"
+    url2: "https://orda.shef.ac.uk/articles/software/PyCamPermanent/27925386?file=50862465"
+    url2_label: "Archive"
+
+  - software_title: "Prompto"
+    authors: "<strong>E. Brown</strong>"
+    PI: "???"
+    Faculty: "Alan Turing Institute"   
+    type: "repository"
+    date: "2024"
+    url1: "https://github.com/alan-turing-institute/prompto"
+    url1_label: "Repository" 
+
+  - software_title: "DTBase"
+    authors: "<strong>E. Brown</strong>"
+    PI: "???"
+    Faculty: "Alan Turing Institute"    
+    type: "repository"
+    date: "2024"
+    url1: "https://github.com/alan-turing-institute/DTBase"
+    url1_label: "Repository" 
+
+  - software_title: "CHASTE"
+    authors: "<strong>M. Leach, P. Heywood, T. Karmakharm</strong>"
+    PI: "A. Fletcher"
+    Faculty: "Faculty of Science"    
+    type: "repository"
+    date: "2024"
+    url1: "https://github.com/Chaste/Chaste"
+    url1_label: "Repository" 
+
+
+
+  - title:
+    year: 2023
+
+  - software_title: "gate-teamware"
+    authors: "<strong>T. Karmakharm, D. Wilby</strong>"
+    PI: "K. Bontcheva"
+    Faculty: "Faculty of Engineering"    
+    type: "repository"
+    date: "2024"
+    url1: "https://github.com/GateNLP/gate-teamware"
+    url1_label: "Repository" 
+
+
+
+  - title:
+    year: 2022
+
+  - software_title: "PGfinder"
+    authors: "<strong>N. Shephard, R. Turner</strong>"
+    PI: "S. Mesnage"
+    Faculty: "Faculty of Science"   
+    type: "repository"
+    date: "2022"
+    url1: "https://github.com/Mesnage-Org/pgfinder"
+    url1_label: "Repository" 
+
+  - software_title: "Clarity Challenge"
+    authors: "<strong>N. Shephard</strong>"
+    PI: "???"
+    Faculty: "???"   
+    type: "repository"
+    date: "2022"
+    url1: "https://github.com/claritychallenge/clarity"
+    url1_label: "Repository" 
+
+  - title:
+    year: 2021
+
+  - title:
+    year: 2020
+
+  - title:
+    year: 2019
+---

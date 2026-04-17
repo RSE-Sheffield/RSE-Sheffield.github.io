@@ -1,0 +1,95 @@
+<div class="p-3 bg-white rounded border">
+  <p class="text-muted mb-3">
+    This tab lists the contributions of the team that do not fit in any of the other tabs. This can include awards, blog posts, supervision of students, etc...
+  </p>
+  
+  <hr class="my-3">
+  
+  <div id="others-container">
+    {% assign others_list = site.evidences | where: "relative_path", "_evidences/others.yml" | first %}
+
+    {% for activity in others_list.items %}
+        <div class="row no-gutters mb-3 pb-2 border-bottom align-items-center paginated-other">
+           <div class="col-12 col-lg-9 pr-lg-3">
+             <div class="d-flex align-items-center flex-wrap">
+
+              {% if activity.year and activity.member == nil %} 
+                <span class="text-danger">
+                  --{{ activity.year }}--
+                </span>
+              {% endif %}
+
+               <h4 class="h6 text-primary mb-0 font-weight-bold mr-2">
+                 {{ activity.title }}
+               </h4>
+
+             {% case activity.type %}
+                {% when "award" %}
+                  <span class="badge badge-light p-2 border mr-2"><i class="fas fa-solid fa-award mr-1 text-success"></i>Award</span>
+                {% when "blog" %}
+                  <span class="badge badge-light p-2 border mr-2"><i class="fas fa-solid fa-rss mr-1 text-success"></i>Communication/blog</span>
+                {% when "other" %}
+                  <span class="badge badge-light p-2 border mr-2"><i class="fas fa-solid fa-chess-board mr-1 text-primary"></i>Other</span>
+              {% endcase %}
+             </div>
+
+            <div class="mt-1">
+              {% if activity.member %}
+              <span class="small text-muted citation-authors">
+                {{ activity.member }},
+              </span>
+              {% endif %}
+
+
+              {% if activity.date and activity.member != nil %} 
+                <span class="small text-success">
+                  <em>{{ activity.date }},</em>
+                </span>
+              {% endif %}
+
+              {% if activity.details %}
+                <span class="small text-muted">
+                {{ activity.details }}
+                </span>
+              {% endif %}
+            </div>
+
+           </div>
+
+           <div class="col-12 col-lg-3 text-lg-right pt-2 pt-lg-0">
+              {% if activity.url1 %}
+                <a href="{{ activity.url1}}" target="_blank" class="btn btn-outline-dark btn-sm mb-2" rel="noopener noreferrer">
+                  <i class="fas fa-external-link-alt mr-1"></i>
+                  {{activity.url1_label}}
+                </a>
+              {% endif %}
+
+              {% if activity.url2 %}
+              <a href="{{ activity.url2}}" target="_blank" class="btn btn-outline-dark btn-sm mb-2" rel="noopener noreferrer">
+                <i class="fas fa-external-link-alt mr-1"></i>
+                {{activity.url2_label}}
+              </a>
+              {% endif %}
+           </div>
+        </div>
+    {% endfor %}
+  </div>
+
+  <div class="d-flex justify-content-center mt-4">
+    <button id="prev-btn-others" class="btn btn-sm btn-outline-primary mr-2">Previous</button>
+    <span id="page-info-others" class="align-self-center small mx-2"></span>
+    <button id="next-btn-others" class="btn btn-sm btn-outline-primary ml-2">Next</button>
+  </div>
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    initPagination(
+      '.paginated-other',    // itemClass
+      'prev-btn-others',     // prevBtn
+      'next-btn-others',     // nextBtn
+      'page-info-others',    // pagetext
+      6                     // itemsPerPage
+    );
+  });
+</script>

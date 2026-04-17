@@ -1,0 +1,98 @@
+<div class="p-3 bg-white rounded border">
+  <p class="text-muted mb-3">
+    This tabs groups the software releases and software repositories that were led by the RSE team or where RSEs are contributors.
+  </p>
+
+  <hr class="my-3">
+
+  <div id="others-container">
+     {% assign software_list = site.evidences | where: "relative_path", "_evidences/software.yml" | first %} 
+
+    {% for software in software_list.items %} 
+        <div class="row no-gutters mb-3 pb-2 border-bottom align-items-center paginated-software">
+          <div class="col-12 col-lg-9 pr-lg-3">
+            <div class="d-flex align-items-center flex-wrap">
+
+              {% if software.year and software.member == nil %} 
+                <span class="text-danger">
+                  --{{ software.year }}--
+                </span>
+              {% endif %}
+
+              <h4 class="h6 text-primary mb-0 font-weight-bold mr-2">
+                 {{ software.software_title }}
+              </h4>
+
+              {% case software.type %}
+                {% when "release" %}
+                  <span class="badge badge-light p-2 border mr-2"><i class="fas fa-solid fa-box-open mr-1 text-success"></i>Software release</span>
+                {% when "repository" %}
+                  <span class="badge badge-light p-2 border mr-2"><i class="fas fa-solid fa-code mr-1 text-primary"></i>Repository</span>
+              {% endcase %}
+            </div>
+
+            <div class="mt-1">
+              {% if software.authors %}
+              <span class="small text-muted citation-authors">
+                RSE(s): {{ software.authors }};
+              </span>
+              {% endif %}
+
+              {% if software.PI and software.Faculty%}
+              <span class="small text-muted citation-authors">
+                PI: <b>{{ software.PI }}</b> ({{software.Faculty}}),
+              </span>
+              {% endif %}
+
+              {% if software.date%} 
+                <span class="small text-success">
+                  <em>{{ software.date }}</em>
+                </span>
+              {% endif %}
+
+            </div>
+        </div>
+
+     <div class="col-12 col-lg-3 text-lg-right pt-2 pt-lg-0 citation-actions">
+
+        {% if software.url1 %}
+          <a href="{{ software.url1 }}" target="_blank" class="btn btn-outline-dark btn-sm mb-2" rel="noopener noreferrer">
+            <i class="fas fa-external-link-alt mr-1"></i>
+            {{software.url1_label}}
+          </a>
+        {% endif %}
+
+        {% if software.url2 %}
+          <span class="mb-2 text-muted citation-authors">
+          <a href="{{ software.url2 }}" class="btn btn-outline-dark btn-sm mb-2" target="_blank">
+            <i class="fas fa-external-link-alt mr-1"></i>
+            {{software.url2_label}}
+          </a>
+          </span>
+ 
+
+        {% endif %}
+      </div>
+    </div>
+
+  {% endfor %}
+  </div>
+  <div class="d-flex justify-content-center mt-4">
+    <button id="prev-btn-software" class="btn btn-sm btn-outline-primary mr-2">Previous</button>
+    <span id="page-info-software" class="align-self-center small mx-2"></span>
+    <button id="next-btn-software" class="btn btn-sm btn-outline-primary ml-2">Next</button>
+  </div>
+
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    initPagination(
+      '.paginated-software',    // itemClass
+      'prev-btn-software',     // prevBtn
+      'next-btn-software',     // nextBtn
+      'page-info-software',    // pagetext
+      15                     // itemsPerPage
+    );
+  });
+</script>

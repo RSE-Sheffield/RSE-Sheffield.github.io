@@ -1,0 +1,93 @@
+<div class="p-3 bg-white rounded border">
+  <p class="text-muted mb-3">
+    This tabs lists the University of Sheffield activities led by members of the RSE team or where they have been involved. This can be workshops, committee roles, panels, training, etc.
+  </p>
+  
+  <hr class="my-3">
+
+  <div id="others-container">
+    {% assign uos_list = site.evidences | where: "relative_path", "_evidences/uos.yml" | first %}
+
+    {% for activity in uos_list.items %}
+        <div class="row no-gutters mb-3 pb-2 border-bottom align-items-center paginated-uos">
+           <div class="col-12 col-lg-9 pr-lg-3">
+             <div class="d-flex align-items-center flex-wrap">
+
+              {% if activity.year and activity.member == nil %} 
+                <span class="text-danger">
+                  --{{ activity.year }}--
+                </span>
+              {% endif %}
+
+              <h4 class="h6 text-primary mb-0 font-weight-bold mr-2">
+                {{ activity.title }}
+              </h4>
+
+             {% case activity.type %}
+                {% when "role" %}
+                  <span class="badge badge-light px-2 py-1 border small"><i class="fas fa-solid fa-user mr-1 text-success"></i>Role</span>
+                {% when "training" %}
+                  <span class="badge badge-light px-2 py-1 border small"><i class="fas fa-solid fa-stopwatch mr-1 text-primary"></i>Training</span>
+                {% when "teaching" %}
+                  <span class="badge badge-light px-2 py-1 border small"><i class="fas fa-solid fa-chalkboard mr-1 text-primary"></i>Teaching/Supervision</span>
+                {% when "workshop" %}
+                  <span class="badge badge-light px-2 py-1 border small"><i class="fas fa-solid fa-calendar-check mr-1 text-primary"></i>Workshop</span> 
+              {% endcase %}
+              </div>
+            <div class="mt-1">
+              {% if activity.member %}
+              <span class="small text-muted citation-authors">
+                {{ activity.member }},
+              </span>
+              {% endif %}
+
+
+              {% if activity.date and activity.member != nil %} 
+                <span class="small text-success">
+                  <em>{{ activity.date }},</em>
+                </span>
+              {% endif %}
+
+              {% if activity.details %}
+                <span class="small text-muted">
+                {{ activity.details }}
+                </span>
+              {% endif %}
+            </div>
+
+        </div>
+
+      <div class="col-12 col-lg-3 text-lg-right pt-2 pt-lg-0 citation-actions">
+
+        {% if activity.url1 %}
+          <a href="{{ activity.url1 }}" target="_blank" class="btn btn-outline-dark btn-sm mb-2" rel="noopener noreferrer">
+            <i class="fas fa-external-link-alt mr-1"></i>
+            {{activity.url1_label}}
+          </a>
+          <br>
+        {% endif %}
+      </div>
+
+      </div>
+  {% endfor %}
+  </div>
+  <div class="d-flex justify-content-center mt-4">
+    <button id="prev-btn-uos" class="btn btn-sm btn-outline-primary mr-2">Previous</button>
+    <span id="page-info-uos" class="align-self-center small mx-2"></span>
+    <button id="next-btn-uos" class="btn btn-sm btn-outline-primary ml-2">Next</button>
+  </div>
+
+
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    initPagination(
+      '.paginated-uos',    // itemClass
+      'prev-btn-uos',     // prevBtn
+      'next-btn-uos',     // nextBtn
+      'page-info-uos',    // pagetext
+      15                     // itemsPerPage
+    );
+  });
+</script>
