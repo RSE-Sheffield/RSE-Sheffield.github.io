@@ -7,11 +7,14 @@ type: text
 The RSE team at Sheffield contributed to multiple areas of the research eco-system along the years. This can take a form of research publication, software releases, committee membership, event organisations, etc. 
 We are listing here all the contribution made be our team and we grouped them in five categories:
 
-* **Software and repositories:** As RSE, this is what we work on daily. 
+* **Software and repositories:** As Research software engineers, this is our main work. This section mainly reports software repositories & releases of research software but might occasionaly highlights training development that we make open source on github.  
 * **Traditional outputs:** This includes refereed papers, conference contributions & grants.
-* **University activities:** We are taking part in multiple activites at the University of Sheffield and we list them all here. 
-* **External activities:** This is all the activities we are doing outside of the University in the RSE community.   
-* **Others activities:** Any other things that show our contributions.
+* **University activities:** We are taking part in multiple activites at the University of Sheffield and we list them all here. This can be committees, training organisation, workshops, etc. 
+* **External activities:** This is all the activities we are doing outside of the University in the RSE community. Activities include invited talks and lectures, conference committees, panels,etc.
+* **Others activities:** Any other things that show our contributions such as blog posts, awards or non-traditional bids.
+
+<em>Note: This is a dynamic page and we keep adding items.</em>
+
 
 <br>
 

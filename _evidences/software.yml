@@ -68,6 +68,15 @@ items:
     url2: "https://zenodo.org/records/17642112"
     url2_label: "Archive"
 
+  - software_title: "SORT online"
+    authors: "<strong>T. Karmakharm (RSE), J. Heffer (DAS), F. Allian (DAS), R. Millner (DAS), Y. Weng (DAS)</strong>"
+    PI: "P. Ali"
+    Faculty: "Faculty of Health"    
+    type: "repository"
+    date: "2025"
+    url1: "https://github.com/RSE-Sheffield/SORT"
+    url1_label: "Repository" 
+
   - software_title: "Causal Testing Framework, v10.0.1"
     authors: "<strong>M. Foster (RSE, lead), F. Allian (DAS), C. Wild (DAS) </strong>"
     PI: "N. Walkinshaw"
@@ -135,6 +144,17 @@ items:
 
   - title:
     year: 2023
+
+  - software_title: "gate-teamware"
+    authors: "<strong>T. Karmakharm, D. Wilby</strong>"
+    PI: "K. Bontcheva"
+    Faculty: "Faculty of Engineering"    
+    type: "repository"
+    date: "2024"
+    url1: "https://github.com/GateNLP/gate-teamware"
+    url1_label: "Repository" 
+
+
 
   - title:
     year: 2022

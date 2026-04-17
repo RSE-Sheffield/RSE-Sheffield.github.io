@@ -28,6 +28,8 @@
                   <span class="badge badge-light px-2 py-1 border small"><i class="fas fa-solid fa-user mr-1 text-success"></i>Role</span>
                 {% when "training" %}
                   <span class="badge badge-light px-2 py-1 border small"><i class="fas fa-solid fa-stopwatch mr-1 text-primary"></i>Training</span>
+                {% when "teaching" %}
+                  <span class="badge badge-light px-2 py-1 border small"><i class="fas fa-solid fa-chalkboard mr-1 text-primary"></i>Teaching/Supervision</span>
                 {% when "workshop" %}
                   <span class="badge badge-light px-2 py-1 border small"><i class="fas fa-solid fa-calendar-check mr-1 text-primary"></i>Workshop</span> 
               {% endcase %}
@@ -85,7 +87,7 @@
       'prev-btn-uos',     // prevBtn
       'next-btn-uos',     // nextBtn
       'page-info-uos',    // pagetext
-      6                     // itemsPerPage
+      15                     // itemsPerPage
     );
   });
 </script>
