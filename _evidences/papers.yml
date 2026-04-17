@@ -27,8 +27,6 @@ items:
     url1: "https://doi.org/10.3847/1538-4357/ae4871"
     url1_label: "View DOI"
 
-
-
   - title: "A Browser-based Open Source Assistant for Multimodal Content Verification"
     authors: "<strong>R. Milner(DAS), M. Foster(RSE), T. Karmakharm(RSE)</strong>, Olesya Razuvayevskaya, Valentin Porcellini, et al"
     type: "journal"
@@ -44,7 +42,6 @@ items:
     date: 2026
     url1: "https://doi.org/10.1093/mnras/stag521"
     url1_label: "View DOI"
-
 
   - title: "Scientometrics sandpit"
     authors: "<strong>M. Foster (RSE, PI)</strong>"
@@ -62,9 +59,11 @@ items:
     url1: "https://doi.org/10.1093/mnras/stag358"
     url1_label: "View DOI"
 
-
-
-
+  - title: "Galvanising line optimisation"
+    authors: "P. Longdon, <strong>T. Karmakharm (RSE, co-I)</strong>"
+    type: "grant"
+    venue: "EPSRC"
+    date: "2026"
 
   - title:
     year: 2025
@@ -141,6 +140,12 @@ items:
     url1: "https://doi.org/10.1111/cogs.70126"
     url1_label: "View DOI"
 
+  - title: "AI 4 Science"
+    authors: "????, <strong>E. Brown (RSE, co-I, Sheffield lead)</strong>"
+    type: "grant"
+    venue: "EPSRC"
+    date: "2025"
+
   - title: "The Causal Testing Framework"
     authors: "<strong>M. Foster(RSE)</strong>, A. Clark, <strong>C. Wild(DAS), F. Allian (DAS), R. Turner (RSE)</strong>, et al "
     type: "journal"
@@ -167,6 +172,7 @@ items:
     url1: "https://doi.org/10.21105/joss.08144"
     url1_label: "View DOI"
 
+
   - title: "Understanding Project Management Tool Effectiveness in Diverse dRTP Contexts"
     authors: "<strong>D. Brady (RSE, PI)</strong>"
     type: "grant"
@@ -183,11 +189,25 @@ items:
     url1: "https://doi.org/10.1145/3756681.3756"
     url1_label: "View DOI"  
 
+  - title: "ACIT Hub, Accelerated Computing Infrastructure Training Hub"
+    authors: "H. Cooper,...,<strong>T. Karmakharm (RSE, co-I)</strong>, et al"
+    type: "grant"
+    venue: "UKRI Network plus"
+    date: "2025"
+    url1: "https://acit.surrey.ac.uk/team.html"
+    url1_label: "ACIT Hub website"
+
   - title:
     year: 2024
 
+  - title: "Digital Twin Energy Grids - Interoperable electricity networks"
+    authors: "A. Buckley, <strong>E. Brown (RSE, co-I)</strong>"
+    type: "grant"
+    venue: "Private funding"
+    date: "2024"
+
   - title: "Overcoming Computational Complexity: A Scalable Agent-Based Model of Traffic Activity Using FLAME-GPU"
-    authors: "Maxim Smilovitskiy, Sedar Olmez, <strong>Paul Richmond (RSE), Robert Chisholm (RSE), Peter Heywood (RSE) </strong>, et al "
+    authors: "M. Smilovitskiy, S. Olmez, <strong>P. Richmond (RSE), R. Chisholm (RSE), P. Heywood (RSE) </strong>, et al "
     type: "journal"
     venue: " Advances in Practical Applications of Agents, Multi-Agent Systems, and Digital Twins: The PAAMS Collection"
     date: "2024"
@@ -195,7 +215,7 @@ items:
     url1_label: "View DOI"
 
   - title: "Prompto: An open source library for asynchronous querying of LLM endpoints"
-    authors: "Ryan Sze-Yin Chan, Federico Nanni, Angus R. Williams, <strong> Edwin Brown (RSE)</strong>, et al"
+    authors: "R. Sze-Yin Chan, F. Nanni, A. R. Williams, <strong> E. Brown (RSE)</strong>, et al"
     type: "journal"
     venue: "Arxiv"
     date: "2024"
@@ -209,6 +229,14 @@ items:
     date: "2024"
     url1: "https://doi.org/10.1038/s41562-024-01941-5"
     url1_label: "View DOI"
+
+  - title: "Bibliothèque britannique (1796-1815) GenAI Project: Using Digital Technology to Make Historical Content Accessible and Exciting'"
+    authors: "K. Zbinden (PI), A. Piette (co-I), E. Brown (co-I)"
+    type: "grant"
+    venue: "Knowledge Exchange"
+    date: "2024"
+    url1: "https://sheffield.ac.uk/arts-humanities/faculty/equality-diversity-and-inclusion/black-history-month/research/unlocking-hidden-history-how-digital"
+    url1_label: "Research page"
 
   - title: "Towards adoption of FAIR4RS: equipping researchers with FAIR research software skills"
     authors: "<strong>T. James (RSE), R. Thomas (RSE)</strong>"
@@ -250,8 +278,17 @@ items:
     url2: "https://virtual.oxfordabstracts.com/#/event/49081/poster-gallery/grid?fullScreen=false&current=114"
     url2_label: "Poster"
 
+  - title: "SORT online"
+    authors: "P. Ali,...,<strong>T. Karmakharm (RSE, co-I)</strong>, et al"
+    type: "grant"
+    venue: "Knowledge Exchange"
+    date: "2024"
+    url1: "https://www.sort-online.org/"
+    url1_label: "SORT website"
+
+
   - title: "Practical diversity and inclusion for Research Technical Professionals: How you can help to make an impact"
-    authors: "Jeremy Cohen,..., <strong>T. Karmakharm (RSE) et al</strong>"
+    authors: "J. Cohen,..., <strong>T. Karmakharm (RSE) et al</strong>"
     type: "conference"
     venue: "UK RSE Conference 2024 (RSECon24)"
     date: "2024"
@@ -262,6 +299,23 @@ items:
 
   - title:
     year: 2023
+
+  - title: "Pre-commit : protecting your future self"
+    authors: "<strong>N. Shepard (RSE)</strong>"
+    type: "conference"
+    venue: "RSE midlands conference 2023"
+    date: "2023"
+    url1: "https://blog.nshephard.dev/pre-commit/#/title-slide"
+    url1_label: "View slides"
+
+
+  - title: "GATE Teamware 2: An open-source tool for collaborative document classification annotation"
+    authors: "<strong>D. Wilby(RSE), T. Karmakharm (RSE)</strong>, I. Roberts, X. Song, K. Bontcheva"
+    type: "journal"
+    venue: "ACL Anthology"
+    date: "2023"
+    url1: "https://doi.org/10.18653/v1/2023.eacl-demo.17"
+    url1_label: "View DOI"
 
   - title: "A multiscale orchestrated computational framework to reveal emergent phenomena in neuroblastoma"
     authors: "C. Borau,....,<strong>R. Chisholm (RSE)</strong>, et al"
@@ -301,5 +355,23 @@ items:
   - title:
     year: 2019
 
+  - title: "Journalist-in-the-Loop: Continuous Learning as a Service for Rumour Analysis"
+    authors: "<strong>T. Karmakharm (RSE)</strong>, N. Aletra, K. Bontcheva"
+    type: "journal"
+    venue: "ACL Anthology"
+    date: "2019"
+    url1: "https://doi.org/10.18653/v1/D19-3020"
+    url1_label: "View DOI"
 
+
+  - title:
+    year: 2018
+
+  - title: "RateSetter: roadmap for faster, safer, and better platform train interface design and operation using evolutionary optimisation"
+    authors: "D. Fletcher, R. Harrison, <strong>T. Karmakharm (RSE)</strong>, S. Nallaperuma, <strong>P. Richmond (RSE)</strong>"
+    type: "journal"
+    venue: "Proceedings of the Genetic and Evolutionary Computation Conference. GECCO '18"
+    date: 2018
+    url1: "https://doi.org/10.1145/3205455.3205605"
+    url1_label: "View DOI"
 ---

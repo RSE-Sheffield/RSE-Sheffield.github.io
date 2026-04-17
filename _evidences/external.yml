@@ -1,5 +1,12 @@
 ---
 items:
+
+  - title: "Pre-commit : protecting your future self"
+    member: "N. Shephard"
+    details: "Invite talk to "
+    type: "Invite"
+    date: "2026"
+
   - title: "Awards chair"
     member: "T. James"
     details: "Research Engineering Conference, RSECon26"
@@ -100,15 +107,16 @@ items:
     url: "https://www.yra-ecr.org/abstracts/2025-S04_2.html"
     url_name: "Abstract"
 
-
-  - title: "Invited lecture"
-    member: "N. Shephard"
-    details: "Invited lecture on X to Y"
-    type: "Invite"
-    date: "2025"
-
   - title:
     year: 2024
+
+  - title: "UK Parliament POSTnote: Energy security and AI"
+    member: "E. Brown"
+    details: "This POSTnote summarises the current and emerging applications of AI and ML in the energy system, barriers to wider implementation, the challenges likely to be encountered, and policy considerations proposed by sector stakeholders."
+    type: "report"
+    date: "2024"
+    url: "https://post.parliament.uk/research-briefings/post-pn-0735/"
+    url_name: "Link to POSTnote"
 
   - title: "RSECon24 Volunteering"
     member: "P. Heywood"
@@ -117,6 +125,7 @@ items:
     date: "2025"
     url: "https://rsecon24.society-rse.org/about/conference-volunteers/"
     url_name: "Volunteer webpage"   
+
 
   - title:
     year: 2023
@@ -128,6 +137,17 @@ items:
     date: "2023-present"
     url: "https://society-rse.org/about/governance/"
     url_name: "RSE Society governance"
+
+
+  - title: "Pre-commit : protecting your future self"
+    member: "N. Shephard"
+    details: "ARC Leeds Tech Talk"
+    type: "Invite"
+    date: "2023"
+    url: "https://blog.nshephard.dev/pre-commit/#/title-slide"
+    url_name: "View slides"
+
+
 
   - title:
     year: 2022
