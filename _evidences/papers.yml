@@ -116,6 +116,16 @@ items:
     url1: "https://doi.org/10.5281/zenodo.17967518"
     url1_label: "View DOI"
 
+  - title: "Ensuring the viability of the HiPERCAM pipeline software"
+    authors: "S. Littlefair (PI), <strong>M. Dyer (RSE, co-I)</strong>"
+    type: "grant"
+    venue: "SSI"
+    date: "2025"
+    url1: "https://www.software.ac.uk/research-software-maintenance-fund/round-1"
+    url1_label: "SSI call"
+
+
+
   - title: "How to talk to your documents: An introduction to using natural language to query documents with Retrieval Augmented Generation"
     authors: "<strong>S. Donnelly (RSE), E. Brown (RSE)</strong>"
     type: "conference"
@@ -139,6 +149,7 @@ items:
     date: "2025"
     url1: "https://doi.org/10.1111/cogs.70126"
     url1_label: "View DOI"
+
 
   - title: "AI 4 Science"
     authors: "????, <strong>E. Brown (RSE, co-I, Sheffield lead)</strong>"
