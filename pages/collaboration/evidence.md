@@ -13,7 +13,7 @@ We are listing here all the contribution made be our team and we grouped them in
 * **External activities:** This is all the activities we are doing outside of the University in the RSE community. Activities include invited talks and lectures, conference committees, panels,etc.
 * **Others activities:** Any other things that show our contributions such as blog posts, awards or non-traditional bids.
 
-<em>Note: This is a dynamic page and we keep adding items.</em>
+<em>Note: This is a dynamically generated page and is continually updated.</em>
 
 
 <br>
