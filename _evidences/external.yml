@@ -1,12 +1,6 @@
 ---
 items:
 
-  - title: "Pre-commit : protecting your future self"
-    member: "N. Shephard"
-    details: "Invite talk to "
-    type: "Invite"
-    date: "2026"
-
   - title: "Awards chair"
     member: "T. James"
     details: "Research Engineering Conference, RSECon26"
@@ -129,6 +123,14 @@ items:
 
   - title:
     year: 2023
+
+  - title: "Pre-commit : protecting your future self"
+    member: "<strong>N. Shephard (RSE)</strong>"
+    type: "Invite"
+    details: "RSE Midlands Coding Club"
+    date: "2023"
+    url: "https://blog.nshephard.dev/pre-commit/#/title-slide"
+    url_name: "View slides"
 
   - title: "RSE Society trustee"
     member: "T. Karmakharm"
