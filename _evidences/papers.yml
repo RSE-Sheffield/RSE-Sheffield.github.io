@@ -300,14 +300,6 @@ items:
   - title:
     year: 2023
 
-  - title: "Pre-commit : protecting your future self"
-    authors: "<strong>N. Shepard (RSE)</strong>"
-    type: "conference"
-    venue: "RSE midlands conference 2023"
-    date: "2023"
-    url1: "https://blog.nshephard.dev/pre-commit/#/title-slide"
-    url1_label: "View slides"
-
 
   - title: "GATE Teamware 2: An open-source tool for collaborative document classification annotation"
     authors: "<strong>D. Wilby(RSE), T. Karmakharm (RSE)</strong>, I. Roberts, X. Song, K. Bontcheva"
