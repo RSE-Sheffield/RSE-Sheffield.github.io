@@ -24,8 +24,8 @@
               </h4>
 
               {% case software.type %}
-                {% when "release" %}
-                  <span class="badge badge-light p-2 border mr-2"><i class="fas fa-solid fa-box-open mr-1 text-success"></i>Software release</span>
+                {% when "archive" %}
+                  <span class="badge badge-light p-2 border mr-2"><i class="fas fa-solid fa-box-open mr-1 text-success"></i>Archived Software</span>
                 {% when "repository" %}
                   <span class="badge badge-light p-2 border mr-2"><i class="fas fa-solid fa-code mr-1 text-primary"></i>Repository</span>
               {% endcase %}
