@@ -40,6 +40,13 @@ items:
     date: "2025-2026"
     details: "Supervision of a group of 5 students from Computer Science"
 
+  - title: "Best practices in developing FAIR(R) research software and workflows"
+    member: 'T. James'
+    type: "Invite"
+    date: "2025"
+    details: "Invited talk to Open Research & FAIR Principles, School of Biosciences"
+    
+
   - title: "Supervision of BSc student dissertation"
     member: "E. Brown"
     type: "teaching"
