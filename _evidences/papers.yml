@@ -225,6 +225,15 @@ items:
     url1: "http://doi.org/10.1007/978-3-031-70415-4_21"
     url1_label: "View DOI"
 
+  - title: "AI-CARE: Digital twin platform for cancer research"
+    authors: "<strong>D. Tartarini (RSE)</strong>, J. M. Cummins"
+    type: "conference"
+    venue: "Virtual Physiological Human conference 2024"
+    date: "2024"
+    url1: "https://vph-conference.org/programme/"
+    url1_label: "Conference website"
+
+
   - title: "Prompto: An open source library for asynchronous querying of LLM endpoints"
     authors: "R. Sze-Yin Chan, F. Nanni, A. R. Williams, <strong> E. Brown (RSE)</strong>, et al"
     type: "journal"
@@ -339,6 +348,16 @@ items:
   - title:
     year: 2022
 
+  - title: "Design, Modeling and Manufacturing of Scaffolds to Control Cell-Biomaterial Interactions in Tissue Engineering"
+    authors: "E. Mele, <strong>D. Tartarini (RSE)</strong>, L. Moroni"
+    type: "journal"
+    venue: "Frontiers in Bioengineering and Biotechnology"
+    date: "2022"
+    url1: "https://doi.org/10.3389/fbioe.2022.868362"
+    url1_label: "View DOI" 
+
+
+
   - title: "FAIR Principles for Research Software (FAIR4RS Principles)"
     authors: "Chue Hong, Neil P., .... ,<strong>D. Tartarini (RSE)</strong>, et al"
     type: "journal"
@@ -350,10 +369,26 @@ items:
   - title:
     year: 2021
 
+  - title: "pFIRE: parallel Framework for Image REgistration"
+    authors: "<strong>D. Tartarini (RSE)</strong> et al"
+    type: "conference"
+    venue: "CompBiomed Conference 2021"
+    date: "2021"
 
 
   - title:
     year: 2020
+
+  - title: "ExaHyPE’s OpenMP GPGPU Port—Lessons Learned"
+    authors: "J. Frawley,...,<strong>D. Tartarini (RSE)</strong>, et al"
+    type: "journal"
+    venue: "white paper"
+    date: "2020"
+    url1: "https://web.archive.org/web/20200918132327/http://www.peano-framework.org/wp-content/uploads/2020/08/GPGPUs_Lessons_Learned.pdf"
+    url1_label: "View paper"   
+
+
+
 
   - title:
     year: 2019

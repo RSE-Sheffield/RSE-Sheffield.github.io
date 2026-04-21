@@ -104,6 +104,14 @@ items:
   - title:
     year: 2024
 
+  - title: "RSECon24 Poster chair"
+    member: "R. Chisholm"
+    details: "Research Engineering Conference, RSECon24"
+    type: "committee"
+    date: "2024"
+    url: "https://rsecon24.society-rse.org/about/conference-committee/"
+    url_name: "Conference website"
+
   - title: "UK Parliament POSTnote: Energy security and AI"
     member: "E. Brown"
     details: "This POSTnote summarises the current and emerging applications of AI and ML in the energy system, barriers to wider implementation, the challenges likely to be encountered, and policy considerations proposed by sector stakeholders."
