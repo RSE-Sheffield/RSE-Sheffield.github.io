@@ -71,8 +71,6 @@ items:
     date: "2025-2026"
     details: "Student working on the ElectroTools project"
 
-
-
   - title: "Guest Lecture: Machines and Intelligence on “Scientific Programming”"
     member: "M. Foster"
     type: "teaching"
@@ -94,6 +92,15 @@ items:
 
   - title:
     year: 2024
+
+  - title: "FAIR2 for research software, Developing a FAIR and Reproducible research software training programme"
+    member: "T. James"
+    type: "workshop"
+    details: "OpenFest 2024"
+    date: "2025"
+    url1: "https://sheffield.ac.uk/openresearch/events/openfest-2024-call-proposals"
+    url1_label: "Event webpage"
+
 
   - title: "Supervision of BioScience summer student (N8 RSE internships)"
     member: "T. James"
@@ -144,11 +151,23 @@ items:
   - title:
     year: 2022
 
+  - title: "Founder and coordinator of the Early Career Researchers Forum of the Faculty of Engineering"
+    member: "D. Tartatini"
+    type: "role"
+    date: "2022-present"
+
   - title:
     year: 2021
 
   - title:
     year: 2020
+
+  - title: "Senate Research and Innovation committee (ECR lead from Faculty of Engineering)"
+    member: "D. Tartatini"
+    type: "role"
+    date: "2020-present"
+    url1: "https://sheffield.ac.uk/govern/committees/senate-committees"
+    url1_label: "Senate webpage"
 
   - title:
     year: 2019
