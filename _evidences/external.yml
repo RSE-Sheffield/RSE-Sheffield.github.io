@@ -9,7 +9,7 @@ items:
     url: "https://rsecon26.society-rse.org/committee/"
     url_name: "Conference website"
 
-  - title: "Logistic co-chair"
+  - title: "Logistics co-chair"
     member: "R. Chisholm"
     details: "Research Engineering Conference, RSECon26"
     type: "committee"
@@ -70,6 +70,8 @@ items:
     url_name: "Report link"
 
 
+
+
   - title: "Publicity chair"
     member: "N. Shephard"
     details: "Research Engineering Conference, RSECon25"
@@ -86,7 +88,7 @@ items:
     url: "https://rsecon25.society-rse.org/conference-committee/"
     url_name: "Conference website"
 
-  - title: "Logistic co-chair"
+  - title: "Logistics co-chair"
     member: "R. Chisholm"
     details: "Research Engineering Conference, RSECon25"
     type: "committee"
@@ -102,6 +104,12 @@ items:
     url: "https://rsecon25.society-rse.org/conference-committee/"
     url_name: "Conference website"
 
+  - title: "Guest lecture: Pytorch Profiling "
+    member: "E. Brown"
+    type: "Invite"
+    details: "British Antarctic Survey"
+    date: "2025"
+
   - title: "Discover STON: A practical tool to study petrographic images and beyond!"
     member: "E. Dammer & <strong>R. Thomas (RSE)</strong>"
     details: "Young Researchers in Archaeometry Webinar"
@@ -109,6 +117,12 @@ items:
     date: "2025"
     url: "https://www.yra-ecr.org/abstracts/2025-S04_2.html"
     url_name: "Abstract"
+
+  - title: "RSECon25 Volunteering"
+    member: "D. Brady & M. Foster"
+    details: "Selected as volunteer for RSECon25 @ Warwick"
+    type: "role"
+    date: "2025"
 
   - title:
     year: 2024
@@ -122,7 +136,7 @@ items:
     url_name: "Conference website"
 
   - title: "UK Parliament POSTnote: Energy security and AI"
-    member: "E. Brown"
+    member: "Contribution from E. Brown"
     details: "This POSTnote summarises the current and emerging applications of AI and ML in the energy system, barriers to wider implementation, the challenges likely to be encountered, and policy considerations proposed by sector stakeholders."
     type: "report"
     date: "2024"
@@ -131,9 +145,9 @@ items:
 
   - title: "RSECon24 Volunteering"
     member: "P. Heywood"
-    details: "Selected as volunteer for the conference"
+    details: "Selected as volunteer for RSECon24 @ Newcastle"
     type: "role"
-    date: "2025"
+    date: "2024"
     url: "https://rsecon24.society-rse.org/about/conference-volunteers/"
     url_name: "Volunteer webpage"   
 
