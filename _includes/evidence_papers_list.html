@@ -40,19 +40,19 @@
         <div class="mt-1">
           {% if paper.authors %}
             <span class="small text-muted citation-authors">
-              {{ paper.authors }},
+              {{ paper.authors}},
             </span>
           {% endif %}
 
           {% if paper.date%} 
-            <span class="small text-success">
-              <em>{{ paper.date }},</em>
+            <span class="small text-muted">
+              {{ paper.date}},
             </span>
           {% endif %}
 
           {% if paper.venue %}
             <span class="small text-muted">
-              {{ paper.venue }}
+              {{paper.venue}}
             </span>
           {% endif %}
         </div>
