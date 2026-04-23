@@ -1,6 +1,14 @@
 ---
 items:
 
+  - title: "Reasonable performance computing"
+    member: "R. Chisholm"
+    type: "Invite"
+    details: "Responsible & Sustainable Computational Research Workshop, King's College London"
+    date: "2026"
+    url: "https://www.tickettailor.com/events/kingscollegelondon103/2046643"
+    url_name: "Event webpage"
+
   - title: "Awards chair"
     member: "T. James"
     details: "Research Engineering Conference, RSECon26"
