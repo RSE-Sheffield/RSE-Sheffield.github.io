@@ -52,6 +52,15 @@ items:
   - title:
     year: 2025
 
+  - title: "Roadmap for the European Virtual Human Twin"
+    member: "Contribution from D. Tartarini"
+    details: "The European Virtual Human Twins is an EU initiative that supports the emergence and adoption of the next generation of virtual human twins solutions in health and care"
+    type: "report"
+    date: "2025"
+    url: "https://zenodo.org/records/14769224"
+    url_name: "Report link"
+
+
   - title: "Prostate cancer screening modelling study"
     member: "Contribution from D. Brady"
     details: "Report for UK National Screening Committee"
