@@ -139,6 +139,22 @@ items:
     date: "2025-2026"
     details: "Supervision of a group of 5 students from Computer Science"
 
+  - title: "Creating your own agent with LangChain"
+    member: "S. Donnelly"
+    type: "Invite"
+    details: "Invited talk at the Best practice in AI afternoon II"
+    date: "2025"
+    url1: "https://rse.shef.ac.uk/events/seminar-2025-11-11-best-practices-in-ai-afternoon-2.html"
+    url1_label: "Event webpage"
+
+  - title: "Best practice in AI afternoon II"
+    member: "T. Karmakharm (Chair)"
+    type: "workshop"
+    details: "Best practice for research, design, development and deployment of AI systems"
+    date: "2025"
+    url1: "https://rse.shef.ac.uk/events/seminar-2025-11-11-best-practices-in-ai-afternoon-2.html"
+    url1_label: "Event webpage"
+
   - title: "Best practices in developing FAIR(R) research software and workflows"
     member: 'T. James'
     type: "Invite"
@@ -210,9 +226,6 @@ items:
     url1: "https://fair2-for-research-software.github.io/Software_Lifecycle_Planning/"
     url1_label: "Ressources"
 
-
-
-
   - title: "Better software for Better research"
     member: "R. Thomas & T. James"
     type: "training"
@@ -225,10 +238,25 @@ items:
     member: "T. James"
     type: "workshop"
     details: "OpenFest 2024"
-    date: "2025"
+    date: "2024"
     url1: "https://sheffield.ac.uk/openresearch/events/openfest-2024-call-proposals"
     url1_label: "Event webpage"
 
+  - title: "How to make your machine learning code faster"
+    member: "E. Brown"
+    type: "Invite"
+    details: "Practical guide to profile machine learning code to find bottlenecks and to remove these bottlenecks. Best Practice in AI afternoon"
+    date: "2024"
+    url1: "https://rse.shef.ac.uk/events/seminar-2024-07-05-best-practices-in-ai-afternoon.html"
+    url1_label: "Event webpage"
+
+  - title: "Best practice in AI afternoon"
+    member: "T. Karmakharm (Chair)"
+    type: "workshop"
+    details: "Best practice for research, design, development and deployment of AI systems"
+    date: "2024"
+    url1: "https://rse.shef.ac.uk/events/seminar-2024-07-05-best-practices-in-ai-afternoon.html"
+    url1_label: "Event webpage"
 
   - title: "Supervision of BioScience summer student (N8 RSE internships)"
     member: "T. James"
