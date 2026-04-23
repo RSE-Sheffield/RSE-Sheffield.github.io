@@ -125,7 +125,7 @@ items:
     url1_label: "Ressources" 
 
   - title: "Better software for Better research (Open)"
-    member: "R. Thomas"
+    member: "R. Thomas & T. James"
     type: "training"
     date: "2025"
     details: "Part of the <a href='https://rse.shef.ac.uk/training/fair4rs/'>FAIR24RS training programme</a>"
@@ -189,8 +189,37 @@ items:
     url1: "https://orda.shef.ac.uk/articles/media/Publish_your_Software_An_introduction_to_the_Journal_of_Open_Source_Software_JOSS_/29179034/1?file=54917771"
     url1_label: "Recording"
 
+  - title: "Git Collaboration"
+    member: "N. Shephard"
+    type: "training"
+    date: "2025"
+    details: "Part of the <a href='https://rse.shef.ac.uk/training/fair4rs/'>FAIR24RS training programme</a>. The latest version is called <strong>git with it</strong>"
+    url1: "https://fair2-for-research-software.github.io/git-with-it/"
+    url1_label: "Ressources"
+
+
+
   - title:
     year: 2024
+
+  - title: "Software Lifecyle planning"
+    member: "R. Thomas, R. Campbell, J. Adams and K. O'Neill"
+    type: "training"
+    date: "2024"
+    details: "Part of the <a href='https://rse.shef.ac.uk/training/fair4rs/'>FAIR24RS training programme</a>"
+    url1: "https://fair2-for-research-software.github.io/Software_Lifecycle_Planning/"
+    url1_label: "Ressources"
+
+
+
+
+  - title: "Better software for Better research"
+    member: "R. Thomas & T. James"
+    type: "training"
+    date: "2024"
+    details: "Part of the <a href='https://rse.shef.ac.uk/training/fair4rs/'>FAIR24RS training programme</a>"
+    url1: "https://fair2-for-research-software.github.io/Better_software_for_better_research/#/title-slide"
+    url1_label: "Ressources" 
 
   - title: "FAIR2 for research software, Developing a FAIR and Reproducible research software training programme"
     member: "T. James"
