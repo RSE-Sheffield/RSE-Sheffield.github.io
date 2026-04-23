@@ -36,20 +36,20 @@
             <div class="mt-1">
               {% if activity.member %}
               <span class="small text-muted citation-authors">
-                {{ activity.member }},
+                {{activity.member}},
               </span>
               {% endif %}
 
 
               {% if activity.date and activity.member != nil %} 
-                <span class="small text-success">
-                  <em>{{ activity.date }},</em>
+                <span class="small text-muted">
+                  {{ activity.date}},
                 </span>
               {% endif %}
 
               {% if activity.details %}
                 <span class="small text-muted">
-                {{ activity.details }}
+                {{activity.details}}
                 </span>
               {% endif %}
             </div>
