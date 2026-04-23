@@ -35,7 +35,7 @@ items:
     url1: "https://doi.org/10.18653/v1/2026.eacl-demo.12"
     url1_label: "View DOI"
 
-  - title: "ZTF J021804.16+071152.93: a dead cataclysmic variable and potential solution to the missing period bouncer cataclysmic variables"
+  - title: "ZTF J021804.16+071152.93: a dead cataclysmic variable and potential solution<br> to the missing period bouncer cataclysmic variables"
     authors: "S. G. Parsons,...,<strong>M. J. Dyer (RSE)</strong> et al"
     type: "journal"
     venue: "Monthly Notices of the Royal Astronomical Society"
@@ -68,7 +68,7 @@ items:
   - title:
     year: 2025
 
-  - title: "SN 2024cld: unveiling the complex mass-loss histories of evolved supergiant progenitors to core collapse supernovae"
+  - title: "SN 2024cld: unveiling the complex mass-loss histories of evolved supergiant<br> progenitors to core collapse supernovae"
     authors: "T. L. Killestein,...,<strong>M. J. Dyer (RSE)</strong> et al"
     type: "journal"
     venue: "Monthly Notices of the Royal Astronomical Society"
@@ -84,7 +84,7 @@ items:
     url1: "https://doi.org/10.5281/zenodo.17968211"
     url1_label: "View DOI"
 
-  - title: "FAIR2 for research software: developing a FAIR and reproducible research software training programme"
+  - title: "FAIR2 for research software:<br>developing a FAIR and reproducible research software training programme"
     authors: "<strong>T. James (RSE), R. Thomas (RSE)</strong>"
     type: "conference"
     venue: "UK RSE Conference 2025 (RSECon25)"
@@ -92,7 +92,7 @@ items:
     url1: "https://doi.org/10.5281/zenodo.17967512"
     url1_label: "View DOI"
 
-  - title: "AutoEmulate:  Python library for automatically creating accurate and efficient emulators of complex simulations."
+  - title: "AutoEmulate:  Python library for automatically creating<br> accurate and efficient emulators of complex simulations."
     authors: "<strong>E. Brown (RSE)</strong> et al"
     type: "conference"
     venue: "UK RSE Conference 2025 (RSECon25)"
@@ -108,7 +108,7 @@ items:
     url1: "https://doi.org/10.5281/zenodo.17968230"
     url1_label: "View DOI"
 
-  - title: "AMD GPUs for Scientific Computing: Reviewing the Software Ecosystem & Developer Experience"
+  - title: "AMD GPUs for Scientific Computing: Reviewing the Software Ecosystem <br>& Developer Experience"
     authors: "<strong>M. Leach (RSE)</strong>"
     type: "conference"
     venue: "UK RSE Conference 2025 (RSECon25)"
@@ -126,7 +126,7 @@ items:
 
 
 
-  - title: "How to talk to your documents: An introduction to using natural language to query documents with Retrieval Augmented Generation"
+  - title: "How to talk to your documents: An introduction to using natural language<br> to query documents with Retrieval Augmented Generation"
     authors: "<strong>S. Donnelly (RSE), E. Brown (RSE)</strong>"
     type: "conference"
     venue: "UK RSE Conference 2025 (RSECon25)"
@@ -134,7 +134,7 @@ items:
     url1: "https://virtual.oxfordabstracts.com/event/75166/submission/85"
     url1_label: "Abstract"
 
-  - title: "Reasonable Performance Computing SIG (SIG-RPC): Help Identify and Document Performance Traps in Research Software"
+  - title: "Reasonable Performance Computing SIG (SIG-RPC):<br> Help Identify and Document Performance Traps in Research Software"
     authors: "<strong>R. Chisholm (RSE)</strong>, R. FitzJohn, <strong>P. Heywood (RSE)</strong>"
     type: "conference"
     venue: "UK RSE Conference 2025 (RSECon25)"
@@ -208,6 +208,15 @@ items:
     url1: "https://acit.surrey.ac.uk/team.html"
     url1_label: "ACIT Hub website"
 
+  - title: "AutoEmulate demonstration"
+    authors: "<strong>E. Brown</strong>"
+    type: "conference"
+    venue: "AI UK conference, London"
+    date: "2025"
+    url1: "https://ai-uk.turing.ac.uk/"
+    url1_label: "AIUK website"
+
+
   - title:
     year: 2024
 
@@ -217,7 +226,7 @@ items:
     venue: "Private funding"
     date: "2024"
 
-  - title: "Overcoming Computational Complexity: A Scalable Agent-Based Model of Traffic Activity Using FLAME-GPU"
+  - title: "Overcoming Computational Complexity: A Scalable Agent-Based<br> Model of Traffic Activity Using FLAME-GPU"
     authors: "M. Smilovitskiy, S. Olmez, <strong>P. Richmond (RSE), R. Chisholm (RSE), P. Heywood (RSE) </strong>, et al "
     type: "journal"
     venue: " Advances in Practical Applications of Agents, Multi-Agent Systems, and Digital Twins: The PAAMS Collection"
@@ -250,8 +259,8 @@ items:
     url1: "https://doi.org/10.1038/s41562-024-01941-5"
     url1_label: "View DOI"
 
-  - title: "Bibliothèque britannique (1796-1815) GenAI Project: Using Digital Technology to Make Historical Content Accessible and Exciting'"
-    authors: "K. Zbinden (PI), A. Piette (co-I), E. Brown (co-I)"
+  - title: "Bibliothèque britannique (1796-1815) GenAI Project:<br> Using Digital Technology to Make Historical Content Accessible and Exciting'"
+    authors: "K. Zbinden (PI), A. Piette (co-I), <strong>E. Brown (RSE, co-I)</strong>"
     type: "grant"
     venue: "Knowledge Exchange"
     date: "2024"
@@ -307,7 +316,7 @@ items:
     url1_label: "SORT website"
 
 
-  - title: "Practical diversity and inclusion for Research Technical Professionals: How you can help to make an impact"
+  - title: "Practical diversity and inclusion for Research Technical Professionals:<br>How you can help to make an impact"
     authors: "J. Cohen,..., <strong>T. Karmakharm (RSE) et al</strong>"
     type: "conference"
     venue: "UK RSE Conference 2024 (RSECon24)"
@@ -348,7 +357,7 @@ items:
   - title:
     year: 2022
 
-  - title: "Design, Modeling and Manufacturing of Scaffolds to Control Cell-Biomaterial Interactions in Tissue Engineering"
+  - title: "Design, Modeling and Manufacturing of Scaffolds to Control<br>Cell-Biomaterial Interactions in Tissue Engineering"
     authors: "E. Mele, <strong>D. Tartarini (RSE)</strong>, L. Moroni"
     type: "journal"
     venue: "Frontiers in Bioengineering and Biotechnology"
@@ -405,7 +414,7 @@ items:
   - title:
     year: 2018
 
-  - title: "RateSetter: roadmap for faster, safer, and better platform train interface design and operation using evolutionary optimisation"
+  - title: "RateSetter: roadmap for faster, safer, and better platform train<br>interface design and operation using evolutionary optimisation"
     authors: "D. Fletcher, R. Harrison, <strong>T. Karmakharm (RSE)</strong>, S. Nallaperuma, <strong>P. Richmond (RSE)</strong>"
     type: "journal"
     venue: "Proceedings of the Genetic and Evolutionary Computation Conference. GECCO '18"
