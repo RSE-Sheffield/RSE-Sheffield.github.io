@@ -92,6 +92,14 @@ items:
     url1: "https://fair2-for-research-software.github.io/Software_Lifecycle_Planning/"
     url1_label: "Ressources"
 
+  - title: "SURE reviewer"
+    member: "M. Foster"
+    type: "Role"
+    date: "2025"
+    details: "SURE is the University of Sheffiled undergraduate research scheme"
+    url1: "https://sheffield.ac.uk/sure/home/what-sure"
+    url1_label: "SURE webpage"
+
   - title: "Software design (CDT)"
     member: "M. Dyer & S. Donnelly"
     type: "teaching"
@@ -192,6 +200,14 @@ items:
     date: "2025"
     details: "Computer Science module COM1005 led by Emma Norling"
 
+  - title: "Python Profiling and Optimisation"
+    member: "R. Chisholm"
+    type: "training"
+    date: "2025"
+    details: "Introduction to code profiling in Python" 
+    url1: "https://rse.shef.ac.uk/pando-python/" 
+    url1_label: "Ressources" 
+
   - title: "Mathematical and Physical Sciences RSE workshop"
     member: "M. Dyer, S. Donnelly & E. Brown"
     type: "workshop"
@@ -209,7 +225,7 @@ items:
     member: "N. Shephard"
     type: "training"
     date: "2025"
-    details: "Part of the <a href='https://rse.shef.ac.uk/training/fair4rs/'>FAIR24RS training programme</a>. The latest version is called <strong>git with it</strong>"
+    details: "Part of the <a href='https://rse.shef.ac.uk/training/fair4rs/'>FAIR24RS training programme</a> (The latest version of this training course is called <strong>git with it</strong>)."
     url1: "https://fair2-for-research-software.github.io/git-with-it/"
     url1_label: "Ressources"
 
@@ -226,6 +242,22 @@ items:
     url1: "https://fair2-for-research-software.github.io/Software_Lifecycle_Planning/"
     url1_label: "Ressources"
 
+  - title: "Deep learning demystified (x3)"
+    member: "T. karmakharm"
+    type: "training"
+    date: "2024"
+    details: "Introduction training on deep learning teachniques" 
+    url1: "https://rse.shef.ac.uk/dl-demystified-course/" 
+    url1_label: "Ressources" 
+
+  - title: "Python Profiling and Optimisation (x2)"
+    member: "R. Chisholm"
+    type: "training"
+    date: "2024"
+    details: "Introduction to code profiling in Python" 
+    url1: "https://rse.shef.ac.uk/pando-python/" 
+    url1_label: "Ressources" 
+
   - title: "Better software for Better research"
     member: "R. Thomas & T. James"
     type: "training"
@@ -234,7 +266,7 @@ items:
     url1: "https://fair2-for-research-software.github.io/Better_software_for_better_research/#/title-slide"
     url1_label: "Ressources" 
 
-  - title: "FAIR2 for research software, Developing a FAIR and Reproducible research software training programme"
+  - title: "FAIR2 for research software, Developing a FAIR and<br>Reproducible research software training programme"
     member: "T. James"
     type: "workshop"
     details: "OpenFest 2024"
@@ -303,6 +335,11 @@ items:
     date: "2023-present"
     url1: "https://rse.shef.ac.uk/training/fair4rs/"
     url1_label: "Training programme"
+
+  - title: "Fellowships informative event and support"
+    member: "D. Tartarini (organiser)"
+    type: "role"
+    date: "2023"
 
   - title:
     year: 2022

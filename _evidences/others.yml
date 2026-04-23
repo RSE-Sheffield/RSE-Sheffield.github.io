@@ -3,7 +3,7 @@ items:
 
   - title: "19 Months of Reasonable Performance Computing (SIG)"
     type: "blog"
-    member: "<strong>R. Chisholm</strong>"
+    member: "R. Chisholm"
     details: "SSI blog post"
     date: 2026
     url1: "https://www.software.ac.uk/blog/19-months-reasonable-performance-computing-sig"
@@ -22,7 +22,7 @@ items:
 
   - title: "RSECon26 Sheffield Host city"
     type: "other"
-    member: "<strong>R. Thomas</strong>"
+    member: "R. Thomas"
     date: "2025"
     details: "Successful application to host the conference at the University of Sheffield"
     url1: "https://society-rse.org/"
@@ -39,6 +39,14 @@ items:
 
   - title:
     year: 2022
+
+  - title: "Member of Avicenna Alliance"
+    type: "other"
+    member: "D. Tartarini"
+    date: "2020-present"
+    details: "Task force: Interaction with EMA and Softare Medical Devices standardization"
+    url1: "https://www.avicenna-alliance.com/"
+    url1_label: "Avicenna Alliance"
 
   - title:
     year: 2021

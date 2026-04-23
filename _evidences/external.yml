@@ -132,6 +132,12 @@ items:
     type: "role"
     date: "2025"
 
+  - title: "Conference contribution reviewer"
+    member: "M. Foster"
+    details: "For various venues: TSE, TOSEM, SAC & STVR"
+    type: "role"
+    date: "2025"
+
   - title:
     year: 2024
 
@@ -159,12 +165,18 @@ items:
     url: "https://rsecon24.society-rse.org/about/conference-volunteers/"
     url_name: "Volunteer webpage"   
 
+  - title: "Open Scholarship Communities"
+    member: "N. Shephard"
+    details: "Invitation to York Open Research Advocates meeting"
+    type: "Invite"
+    date: "2024"
+
 
   - title:
     year: 2023
 
   - title: "Pre-commit : protecting your future self"
-    member: "<strong>N. Shephard (RSE)</strong>"
+    member: "N. Shephard"
     type: "Invite"
     details: "RSE Midlands Coding Club"
     date: "2023"
@@ -188,13 +200,25 @@ items:
     url: "https://blog.nshephard.dev/pre-commit/#/title-slide"
     url_name: "View slides"
 
-
-
   - title:
     year: 2022
 
+  - title: " Containers and Cloud-HPC for Virtual Human Twins"
+    member: "D. Tartarini"
+    details: "CompBioMed eSeminar"
+    type: "seminar"
+    date: "2022"
+
   - title:
     year: 2021
+
+  - title: "Introduction to biomedical image registration"
+    member: "D. Tartarini"
+    details: "CompBioMed eSeminar"
+    type: "seminar"
+    date: "2021"
+
+
 
   - title:
     year: 2020

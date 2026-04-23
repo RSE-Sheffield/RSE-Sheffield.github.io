@@ -259,6 +259,14 @@ items:
     url1: "https://doi.org/10.1038/s41562-024-01941-5"
     url1_label: "View DOI"
 
+  - title: "Development of a risk prediction tool for thyroid cancer"
+    authors: "<strong>T. Karmakharm (co-I)</strong>"
+    type: "grant"
+    venue: "???"
+    date: "2024"
+
+
+
   - title: "Bibliothèque britannique (1796-1815) GenAI Project:<br> Using Digital Technology to Make Historical Content Accessible and Exciting'"
     authors: "K. Zbinden (PI), A. Piette (co-I), <strong>E. Brown (RSE, co-I)</strong>"
     type: "grant"
