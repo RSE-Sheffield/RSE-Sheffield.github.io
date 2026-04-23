@@ -1,13 +1,29 @@
 ---
 items:
 
+  - title: "Git/GitKraken training (CDT)"
+    member: "M. Foster & J. Heffer"
+    type: "training"
+    date: "2026"
+    details: "Part of the topic day of the SoundFuture CDT"
+    url1: "https://srse-git-github-zero2hero.netlify.app/"
+    url1_label: "Ressources" 
+
+  - title: "Software Packaging"
+    member: "C. Wild & F. Sonnenwald"
+    type: "training"
+    date: "2026"
+    details: "Part of the <a href='https://rse.shef.ac.uk/training/fair4rs/'>FAIR24RS training programme</a>"
+    url1: "https://fair2-for-research-software.github.io/FAIR4RS-Packaging/"
+    url1_label: "Ressources"
+
   - title: "FORGE programme creator and manager"
     member: "S. Donnelly"
     type: "role"
     date: "2026-present"
     details: "Programme that delivers targeted improvements to research software through intensive two day projects"
     url1: "https://rse.shef.ac.uk/collaboration/RSEtime/forge"
-    url1_label: "Programe" 
+    url1_label: "Programme" 
 
   - title: "School of Computer Science sustainability lead"
     member: "R. Chisholm"
@@ -15,9 +31,86 @@ items:
     date: "2026-present"
     details: "Admin Role"
 
+
+  - title: "Software testing (Open)"
+    member: "S. Whittle (PhD student, CMBE) & M. Foster"
+    type: "training"
+    date: "2026"
+    details: "Part of the <a href='https://rse.shef.ac.uk/training/fair4rs/'>FAIR24RS training programme</a>"
+    url1: "https://fair2-for-research-software.github.io/python-testing-for-research/"
+    url1_label: "Ressources"
+
+  - title: "Software testing (CDT)"
+    member: "S. Whittle (PhD student, CMBE) & M. Foster"
+    type: "teaching"
+    date: "2026"
+    details: "Part of the MADE4MANUFACTURING CDT module"
+    url1: "https://fair2-for-research-software.github.io/python-testing-for-research/"
+    url1_label: "Ressources"
+
+  - title: "Git with it"
+    member: "N. Shephard"
+    type: "training"
+    date: "2026"
+    details: "Part of the <a href='https://rse.shef.ac.uk/training/fair4rs/'>FAIR24RS training programme</a>"
+    url1: "https://fair2-for-research-software.github.io/git-with-it/"
+    url1_label: "Ressources"
+
+  - title: "Reproducible software environments (OPEN)"
+    member: "D. Brady"
+    type: "training"
+    date: "2026"
+    details: "Part of the <a href='https://rse.shef.ac.uk/training/fair4rs/'>FAIR24RS training programme</a>"
+    url1: "https://fair2-for-research-software.github.io/FAIR4RS-VirtualEnvs/"
+    url1_label: "Ressources"
+
+  - title: "Reproducible software environments (CDT)"
+    member: "D. Brady"
+    type: "teaching"
+    date: "2026"
+    details: "Part of the MADE4MANUFACTURING CDT module"
+    url1: "https://fair2-for-research-software.github.io/FAIR4RS-VirtualEnvs/"
+    url1_label: "Ressources"
+
+
+  - title: "Git/GitKraken training (OPEN)"
+    member: "D. Brady & S. Donnelly"
+    type: "training"
+    date: "2026"
+    details: "Part of the <a href='https://rse.shef.ac.uk/training/fair4rs/'>FAIR24RS training programme</a>"
+    url1: "https://srse-git-github-zero2hero.netlify.app/"
+    url1_label: "Ressources"
+
+  - title:
+    year: 2025
+
+  - title: "Software Lifecyle planning (OPEN)"
+    member: "R. Thomas"
+    type: "training"
+    date: "2025"
+    details: "Part of the <a href='https://rse.shef.ac.uk/training/fair4rs/'>FAIR24RS training programme</a>"
+    url1: "https://fair2-for-research-software.github.io/Software_Lifecycle_Planning/"
+    url1_label: "Ressources"
+
+  - title: "Software design (CDT)"
+    member: "M. Dyer & S. Donnelly"
+    type: "teaching"
+    date: "2025"
+    details: "Part of the CDT module on data science and research software engineering"
+    url1: "https://fair2-for-research-software.github.io/FAIR_Code_design/"
+    url1_label: "Ressources"
+
+  - title: "Software design (OPEN)"
+    member: "M. Dyer & S. Donnelly"
+    type: "training"
+    date: "2025"
+    details: "Part of the <a href='https://rse.shef.ac.uk/training/fair4rs/'>FAIR24RS training programme</a>"
+    url1: "https://fair2-for-research-software.github.io/FAIR_Code_design/"
+    url1_label: "Ressources"
+
   - title: "Git/GitKraken training (CDT)"
     member: "N. Shephard & M. Foster"
-    type: "training"
+    type: "teaching"
     date: "2025"
     details: "Part of the CDT module on data science and research software engineering"
     url1: "https://srse-git-github-zero2hero.netlify.app/"
@@ -25,14 +118,20 @@ items:
 
   - title: "Git/GitKraken training (Open)"
     member: "M. Foster & D. Brady"
-    type: "teaching"
+    type: "training"
     date: "2025"
-    details: "Part of the open programme FAIR24RS"
+    details: "Part of the <a href='https://rse.shef.ac.uk/training/fair4rs/'>FAIR24RS training programme</a>"
     url1: "https://srse-git-github-zero2hero.netlify.app/"
     url1_label: "Ressources" 
 
-  - title:
-    year: 2025
+  - title: "Better software for Better research (Open)"
+    member: "R. Thomas"
+    type: "training"
+    date: "2025"
+    details: "Part of the <a href='https://rse.shef.ac.uk/training/fair4rs/'>FAIR24RS training programme</a>"
+    url1: "https://fair2-for-research-software.github.io/Better_software_for_better_research/#/title-slide"
+    url1_label: "Ressources" 
+
 
   - title: "Supervision of Turing group research project 2025/2026: How FAIR is Research Software?"
     member: "M. Foster"
