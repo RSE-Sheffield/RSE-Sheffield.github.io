@@ -216,7 +216,14 @@ items:
     url1: "https://ai-uk.turing.ac.uk/"
     url1_label: "AIUK website"
 
-
+  - title: "Quantifying complexity in DNA structures with high resolution Atomic Force Microscopy"
+    authors: "E.P. Holmes, M. C. Gamill, ... <strong>N. Shephard</strong> <i>et al.</i>"
+    type: "journal"
+    venue: "Nature Communications"
+    date: "2025"
+    url1: "https://doi.org/10.1038/s41467-025-60559-x"
+    url1_label: "View DOI"
+  
   - title:
     year: 2024
 
