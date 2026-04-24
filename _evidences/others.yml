@@ -30,6 +30,30 @@ items:
     url2: "https://rsecon26.society-rse.org/"
     url2_label: "Conference"
 
+  - title: "Mentor, Society of Research Software Engineering mentoring scheme"
+    member: "T. James"
+    type: "role"
+    details: "Mentoring scheme"
+    date: 2025
+    url1: "https://society-rse.org/get-involved/mentoring-scheme/"
+    url1_label: "Website"
+
+  - title: "Mentor, RSECon25"
+    member: "T. James"
+    type: "role"
+    details: "Mentoring early-career RSE during submission to Research Software Engineering Conference 2025 (RSECon25)"
+    date: 2025
+    url1: "https://rsecon25.society-rse.org/call-for-mentors/"
+    url1_label: "Website"
+
+  - title: "Telling Our Success Stories: Recognising Contributions in Research Software"
+    member: "T. James"
+    type: "blog"
+    details: "Co-author, CW25 Speed Blog"
+    date: 2025
+    url1: "https://www.software.ac.uk/blog/telling-our-success-stories-recognising-contributions-research-software"
+    url1_label: "Link"
+
 
   - title:
     year: 2024

@@ -152,6 +152,14 @@ items:
     type: "role"
     date: "2025"
 
+  - title: "Invited speaker, ACIT Hub Co-design event"
+    member: "T. James"
+    type: "Invite"
+    date: "2025"
+    details: "Accelerated Computing Infrastructure Training Hub Co-design event"
+    url: "https://acit.surrey.ac.uk/events/codesign2025.html#sheffield"
+    url_name: "Website"
+
   - title:
     year: 2024
 

@@ -89,6 +89,14 @@ items:
     url1: "https://srse-git-github-zero2hero.netlify.app/"
     url1_label: "Ressources"
 
+  - title: "Panel member, Open Educational Resources workshop"
+    member: "T. James"
+    type: "Invite"
+    details: "Part of University of Sheffield Education Conference 2026"
+    date: "2026"
+    url1: "https://staff.sheffield.ac.uk/elevate/events/lt-conference"
+    url1_label: "Website (UoS staff)"
+
   - title:
     year: 2025
 
@@ -237,7 +245,21 @@ items:
     url1: "https://fair2-for-research-software.github.io/git-with-it/"
     url1_label: "Ressources"
 
+  - title: "Co-lead, Bioscience and AI Interest Group"
+    member: "T. James"
+    type: "role"
+    date: "2025-present"
+    details: "Centre for Machine Intelligence"
+    url1: "https://sheffield.ac.uk/machine-intelligence/community/interest-groups/bioscience-and-ai"
+    url1_label: "Website"
 
+  - title: "Module co-lead, MADE4MANUFACTURING CDT module"
+    member: "T. James, R. Thomas"
+    type: "role"
+    date: "2025"
+    details: "MAC4112 - Data Science and Software Engineering in Manufacturing"
+    url1: "https://sheffield.ac.uk/made4manufacturing/modules/year-1-modules"
+    url1_label: "Website"
 
   - title:
     year: 2024
