@@ -1,6 +1,14 @@
 ---
 items:
 
+  - title: "Scientometrics sandpit"
+    authors: "<strong>M. Foster (RSE, PI)</strong>"
+    type: "grant"
+    venue: "UKRI"
+    date: "2026"
+    url1: "https://www.ukri.org/opportunity/metascience-sandpit-scientometrics-for-research-assessment/"
+    url1_label: "Call"
+
   - title: "Reasonable performance computing"
     member: "R. Chisholm"
     type: "Invite"
@@ -56,6 +64,12 @@ items:
     date: "2026"
     url: "https://rsecon26.society-rse.org/committee/"
     url_name: "Conference website"
+
+  - title: "Software artifact reviewer"
+    member: "M. Foster"
+    details: "For (SAC)[https://sac-svt.github.io/sac-svt-2026/] and (SCP)[https://onlinelibrary.wiley.com/journal/10991689/]."
+    type: "role"
+    date: "2026"
 
   - title:
     year: 2025
@@ -132,9 +146,9 @@ items:
     type: "role"
     date: "2025"
 
-  - title: "Conference contribution reviewer"
+  - title: "Journal article reviewer"
     member: "M. Foster"
-    details: "For various venues: TSE, TOSEM, SAC & STVR"
+    details: "For [TSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32), [TOSEM](https://dl.acm.org/journal/tosem), and [FSE](https://conf.researchr.org/track/fse-2025/fse-2025-research-papers)."
     type: "role"
     date: "2025"
 
@@ -163,7 +177,7 @@ items:
     type: "role"
     date: "2024"
     url: "https://rsecon24.society-rse.org/about/conference-volunteers/"
-    url_name: "Volunteer webpage"   
+    url_name: "Volunteer webpage"
 
   - title: "Open Scholarship Communities"
     member: "N. Shephard"
