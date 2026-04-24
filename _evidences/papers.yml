@@ -1,6 +1,6 @@
 ---
 items:
- 
+
   - title: "Photometric masses for long period CVs: the case study of CSS131106 "
     authors: "M. Das,...,<strong>M. J. Dyer (RSE)</strong> et al"
     type: "journal"
@@ -43,15 +43,7 @@ items:
     url1: "https://doi.org/10.1093/mnras/stag521"
     url1_label: "View DOI"
 
-  - title: "Scientometrics sandpit"
-    authors: "<strong>M. Foster (RSE, PI)</strong>"
-    type: "grant"
-    venue: "UKRI"
-    date: "2026"
-    url1: "https://www.ukri.org/opportunity/metascience-sandpit-scientometrics-for-research-assessment/"
-    url1_label: "Call"
-
-  - title: "Long-term eclipse time variations in white dwarf binaries" 
+  - title: "Long-term eclipse time variations in white dwarf binaries"
     authors: "A. Yates,...,<strong>M. J. Dyer (RSE)</strong> et al"
     type: "journal"
     venue: "Monthly Notices of the Royal Astronomical Society"
@@ -198,7 +190,7 @@ items:
     venue: "EASE '25: Proceedings of the 29th International Conference on Evaluation and Assessment in Software Engineering"
     date: "2025"
     url1: "https://doi.org/10.1145/3756681.3756"
-    url1_label: "View DOI"  
+    url1_label: "View DOI"
 
   - title: "ACIT Hub, Accelerated Computing Infrastructure Training Hub"
     authors: "H. Cooper,...,<strong>T. Karmakharm (RSE, co-I)</strong>, et al"
@@ -223,7 +215,7 @@ items:
     date: "2025"
     url1: "https://doi.org/10.1038/s41467-025-60559-x"
     url1_label: "View DOI"
-  
+
   - title:
     year: 2024
 
@@ -378,7 +370,7 @@ items:
     venue: "Frontiers in Bioengineering and Biotechnology"
     date: "2022"
     url1: "https://doi.org/10.3389/fbioe.2022.868362"
-    url1_label: "View DOI" 
+    url1_label: "View DOI"
 
 
 
@@ -388,7 +380,7 @@ items:
     venue: "white paper"
     date: "2022"
     url1: "https://zenodo.org/records/6623556"
-    url1_label: "View DOI"   
+    url1_label: "View DOI"
 
   - title:
     year: 2021
@@ -409,7 +401,7 @@ items:
     venue: "white paper"
     date: "2020"
     url1: "https://web.archive.org/web/20200918132327/http://www.peano-framework.org/wp-content/uploads/2020/08/GPGPUs_Lessons_Learned.pdf"
-    url1_label: "View paper"   
+    url1_label: "View paper"
 
 
 
