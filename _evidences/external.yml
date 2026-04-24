@@ -1,0 +1,251 @@
+---
+items:
+
+  - title: "Scientometrics sandpit"
+    authors: "<strong>M. Foster (RSE, PI)</strong>"
+    type: "grant"
+    venue: "UKRI"
+    date: "2026"
+    url1: "https://www.ukri.org/opportunity/metascience-sandpit-scientometrics-for-research-assessment/"
+    url1_label: "Call"
+
+  - title: "Reasonable performance computing"
+    member: "R. Chisholm"
+    type: "Invite"
+    details: "Responsible & Sustainable Computational Research Workshop, King's College London"
+    date: "2026"
+    url: "https://www.tickettailor.com/events/kingscollegelondon103/2046643"
+    url_name: "Event webpage"
+
+  - title: "Awards chair"
+    member: "T. James"
+    details: "Research Engineering Conference, RSECon26"
+    type: "committee"
+    date: "2026"
+    url: "https://rsecon26.society-rse.org/committee/"
+    url_name: "Conference website"
+
+  - title: "Logistics co-chair"
+    member: "R. Chisholm"
+    details: "Research Engineering Conference, RSECon26"
+    type: "committee"
+    date: "2026"
+    url: "https://rsecon26.society-rse.org/committee/"
+    url_name: "Conference website"
+
+  - title: "Sponsorship co-chair"
+    member: "E. Brown"
+    details: "Research Engineering Conference, RSECon26"
+    type: "committee"
+    date: "2026"
+    url: "https://rsecon26.society-rse.org/committee/"
+    url_name: "Conference website"
+
+  - title: "Website team member"
+    member: "S. Donnelly"
+    details: "Research Engineering Conference, RSECon26"
+    type: "committee"
+    date: "2026"
+    url: "https://rsecon26.society-rse.org/committee/"
+    url_name: "Conference website"
+
+  - title: "Programme co-chair"
+    member: "T. Karmakharm"
+    details: "Research Engineering Conference, RSECon26"
+    type: "committee"
+    date: "2026"
+    url: "https://rsecon26.society-rse.org/committee/"
+    url_name: "Conference website"
+
+  - title: "Programme co-chair"
+    member: "R. Thomas"
+    details: "Research Engineering Conference, RSECon26"
+    type: "committee"
+    date: "2026"
+    url: "https://rsecon26.society-rse.org/committee/"
+    url_name: "Conference website"
+
+  - title: "Software artifact reviewer"
+    member: "M. Foster"
+    details: "For (SAC)[https://sac-svt.github.io/sac-svt-2026/] and (SCP)[https://onlinelibrary.wiley.com/journal/10991689/]."
+    type: "role"
+    date: "2026"
+
+  - title:
+    year: 2025
+
+  - title: "Roadmap for the European Virtual Human Twin"
+    member: "Contribution from D. Tartarini"
+    details: "The European Virtual Human Twins is an EU initiative that supports the emergence and adoption of the next generation of virtual human twins solutions in health and care"
+    type: "report"
+    date: "2025"
+    url: "https://zenodo.org/records/14769224"
+    url_name: "Report link"
+
+
+  - title: "Prostate cancer screening modelling study"
+    member: "Contribution from D. Brady"
+    details: "Report for UK National Screening Committee"
+    type: "report"
+    date: "2025"
+    url: "https://nationalscreening.blog.gov.uk/wp-content/uploads/sites/254/2025/11/SCHARR-Report-Phase-3-Prostate-Cancer-Modelling_FINAL.pdf"
+    url_name: "Report link"
+
+
+
+
+  - title: "Publicity chair"
+    member: "N. Shephard"
+    details: "Research Engineering Conference, RSECon25"
+    type: "committee"
+    date: "2025"
+    url: "https://rsecon25.society-rse.org/conference-committee/"
+    url_name: "Conference website"
+
+  - title: "Steering chair"
+    member: "T. Karmakharm"
+    details: "Research Engineering Conference, RSECon25"
+    type: "committee"
+    date: "2025"
+    url: "https://rsecon25.society-rse.org/conference-committee/"
+    url_name: "Conference website"
+
+  - title: "Logistics co-chair"
+    member: "R. Chisholm"
+    details: "Research Engineering Conference, RSECon25"
+    type: "committee"
+    date: "2025"
+    url: "https://rsecon25.society-rse.org/conference-committee/"
+    url_name: "Conference website"
+
+  - title: "Programme co-chair"
+    member: "R. Thomas"
+    details: "Research Engineering Conference, RSECon25"
+    type: "committee"
+    date: "2025"
+    url: "https://rsecon25.society-rse.org/conference-committee/"
+    url_name: "Conference website"
+
+  - title: "Guest lecture: Pytorch Profiling "
+    member: "E. Brown"
+    type: "Invite"
+    details: "British Antarctic Survey"
+    date: "2025"
+
+  - title: "Discover STON: A practical tool to study petrographic images and beyond!"
+    member: "E. Dammer & <strong>R. Thomas (RSE)</strong>"
+    details: "Young Researchers in Archaeometry Webinar"
+    type: "seminar"
+    date: "2025"
+    url: "https://www.yra-ecr.org/abstracts/2025-S04_2.html"
+    url_name: "Abstract"
+
+  - title: "RSECon25 Volunteering"
+    member: "D. Brady & M. Foster"
+    details: "Selected as volunteer for RSECon25 @ Warwick"
+    type: "role"
+    date: "2025"
+
+  - title: "Journal article reviewer"
+    member: "M. Foster"
+    details: "For [TSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32), [TOSEM](https://dl.acm.org/journal/tosem), and [FSE](https://conf.researchr.org/track/fse-2025/fse-2025-research-papers)."
+    type: "role"
+    date: "2025"
+
+  - title: "Invited speaker, ACIT Hub Co-design event"
+    member: "T. James"
+    type: "Invite"
+    date: "2025"
+    details: "Accelerated Computing Infrastructure Training Hub Co-design event"
+    url: "https://acit.surrey.ac.uk/events/codesign2025.html#sheffield"
+    url_name: "Website"
+
+  - title:
+    year: 2024
+
+  - title: "RSECon24 Poster chair"
+    member: "R. Chisholm"
+    details: "Research Engineering Conference, RSECon24"
+    type: "committee"
+    date: "2024"
+    url: "https://rsecon24.society-rse.org/about/conference-committee/"
+    url_name: "Conference website"
+
+  - title: "UK Parliament POSTnote: Energy security and AI"
+    member: "Contribution from E. Brown"
+    details: "This POSTnote summarises the current and emerging applications of AI and ML in the energy system, barriers to wider implementation, the challenges likely to be encountered, and policy considerations proposed by sector stakeholders."
+    type: "report"
+    date: "2024"
+    url: "https://post.parliament.uk/research-briefings/post-pn-0735/"
+    url_name: "Link to POSTnote"
+
+  - title: "RSECon24 Volunteering"
+    member: "P. Heywood"
+    details: "Selected as volunteer for RSECon24 @ Newcastle"
+    type: "role"
+    date: "2024"
+    url: "https://rsecon24.society-rse.org/about/conference-volunteers/"
+    url_name: "Volunteer webpage"
+
+  - title: "Open Scholarship Communities"
+    member: "N. Shephard"
+    details: "Invitation to York Open Research Advocates meeting"
+    type: "Invite"
+    date: "2024"
+
+
+  - title:
+    year: 2023
+
+  - title: "Pre-commit : protecting your future self"
+    member: "N. Shephard"
+    type: "Invite"
+    details: "RSE Midlands Coding Club"
+    date: "2023"
+    url: "https://blog.nshephard.dev/pre-commit/#/title-slide"
+    url_name: "View slides"
+
+  - title: "RSE Society trustee"
+    member: "T. Karmakharm"
+    details: "Details to add"
+    type: "role"
+    date: "2023-present"
+    url: "https://society-rse.org/about/governance/"
+    url_name: "RSE Society governance"
+
+
+  - title: "Pre-commit : protecting your future self"
+    member: "N. Shephard"
+    details: "ARC Leeds Tech Talk"
+    type: "Invite"
+    date: "2023"
+    url: "https://blog.nshephard.dev/pre-commit/#/title-slide"
+    url_name: "View slides"
+
+  - title:
+    year: 2022
+
+  - title: " Containers and Cloud-HPC for Virtual Human Twins"
+    member: "D. Tartarini"
+    details: "CompBioMed eSeminar"
+    type: "seminar"
+    date: "2022"
+
+  - title:
+    year: 2021
+
+  - title: "Introduction to biomedical image registration"
+    member: "D. Tartarini"
+    details: "CompBioMed eSeminar"
+    type: "seminar"
+    date: "2021"
+
+
+
+  - title:
+    year: 2020
+
+  - title:
+    year: 2019
+
+---
