@@ -1,6 +1,24 @@
 ---
 items:
 
+  - software_title: "AFMSlicer"
+    authors: "<strong>N. Shephard</strong>"
+    PI: "L. Pasquina Lemonche"
+    Faculty: "Faculty of Science"
+    type: "repository"
+    date: 2026
+    url1: "https://github.com/AFM-SPM/AFMSlicer"
+    url1_label: "Repository"
+    
+  - software_title: "napari-afmslicer"
+    authors: "<strong>N. Shephard</strong>"
+    PI: "L. Pasquina Lemonche"
+    Faculty: "Faculty of Science"
+    type: "repository"
+    date: 2026
+    url1: "https://github.com/AFM-SPM/napari-afmslicer"
+    url1_label: "Repository"
+    
   - software_title: "SNF-simulation"
     authors: "<strong>M. Dyer</strong>"
     PI: "E. Kneale"
