@@ -8,7 +8,7 @@ type: text
 
 The RSE Team runs and participates in a range of online and in-person activities, including collaborative projects, training events, workshops, Slack conversations and in-person seminars. Participants are mostly University of Sheffield staff / students, but sometimes include our external friends and collaborators.
 
-The University of Sheffield staff and students conduct is governed by the terms of their employment / study which can be found on the University website ([staff](https://staff.sheffield.ac.uk/hr/policies/code-conduct), [students](https://sheffield.ac.uk/study/policies/student-code-conduct)) which requires that staff and students act with respect, honesty and professionalism, fostering a supportive and safe environment free from bullying and harassment. The code of conduct laid out below is extending this for those not staff or students at The University of Sheffield.
+The University of Sheffield staff and students conduct is governed by the terms of their employment / study which can be found on the University website ([staff](https://staff.sheffield.ac.uk/hr/policies/code-conduct), [students](https://sheffield.ac.uk/study/policies/student-code-conduct)) which stipulates that staff and students act with respect, honesty and professionalism, fostering a supportive and safe environment free from bullying and harassment. The code of conduct laid out below extends this for those who are neither staff nor student at The University of Sheffield.
 
 ## Code of Conduct for External Participants
 
