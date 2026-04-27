@@ -116,8 +116,6 @@ items:
     url1: "https://www.software.ac.uk/research-software-maintenance-fund/round-1"
     url1_label: "SSI call"
 
-
-
   - title: "How to talk to your documents: An introduction to using natural language<br> to query documents with Retrieval Augmented Generation"
     authors: "<strong>S. Donnelly (RSE), E. Brown (RSE)</strong>"
     type: "conference"
@@ -174,6 +172,15 @@ items:
     date: "2025"
     url1: "https://doi.org/10.21105/joss.08144"
     url1_label: "View DOI"
+
+  - title: "Evolving Estimation Models for Causal Testing"
+    authors: "L. Devlin, <strong>M. Foster(RSE)</strong>"
+    type: "journal"
+    venue: "FSE Companion '25: Proceedings of the 33rd ACM International Conference on the Foundations of Software Engineering"
+    date: "2025"
+    url1: "https://doi.org/10.1145/3696630.373161"
+    url1_label: "View DOI"
+
 
 
   - title: "Understanding Project Management Tool Effectiveness in Diverse dRTP Contexts"
