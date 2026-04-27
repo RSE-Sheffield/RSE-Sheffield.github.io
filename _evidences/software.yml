@@ -172,7 +172,14 @@ items:
     url1: "https://github.com/GateNLP/gate-teamware"
     url1_label: "Repository"
 
-
+  - software_title: "pykale"
+    authors: "<strong>R. Turner</strong>"
+    PI: "Haiping Lu"
+    Faculty: "Faculty of Engineering"    
+    type: "repository"
+    date: "2023"
+    url1: "https://github.com/pykale/pykale"
+    url1_label: "Repository" 
 
   - title:
     year: 2022
