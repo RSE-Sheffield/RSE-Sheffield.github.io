@@ -145,6 +145,8 @@ items:
     details: "Selected as volunteer for RSECon25 @ Warwick"
     type: "role"
     date: "2025"
+    url: "https://rsecon25.society-rse.org/thank-you/"
+    url_name: "Conference website"
 
   - title: "Journal article reviewer"
     member: "M. Foster"
