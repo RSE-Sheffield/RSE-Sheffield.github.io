@@ -2,12 +2,12 @@
 items:
 
   - title: "Scientometrics sandpit"
-    authors: "<strong>M. Foster (RSE, PI)</strong>"
-    type: "grant"
-    venue: "UKRI"
+    member: "M. Foster (PI)"
+    type: "Invite"
+    details: "UKRI call"
     date: "2026"
-    url1: "https://www.ukri.org/opportunity/metascience-sandpit-scientometrics-for-research-assessment/"
-    url1_label: "Call"
+    url: "https://www.ukri.org/opportunity/metascience-sandpit-scientometrics-for-research-assessment/"
+    url_name: "Call"
 
   - title: "Reasonable performance computing"
     member: "R. Chisholm"
@@ -67,7 +67,7 @@ items:
 
   - title: "Software artifact reviewer"
     member: "M. Foster"
-    details: "For (SAC)[https://sac-svt.github.io/sac-svt-2026/] and (SCP)[https://onlinelibrary.wiley.com/journal/10991689/]."
+    details: "for <a href='https://sac-svt.github.io/sac-svt-2026/'>SAC</a> and <a href='https://onlinelibrary.wiley.com/journal/10991689/'>SCP</a>."
     type: "role"
     date: "2026"
 
@@ -150,7 +150,7 @@ items:
 
   - title: "Journal article reviewer"
     member: "M. Foster"
-    details: "For [TSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32), [TOSEM](https://dl.acm.org/journal/tosem), and [FSE](https://conf.researchr.org/track/fse-2025/fse-2025-research-papers)."
+    details: "for <a href='https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32'>TSE</a>, <a href='https://dl.acm.org/journal/tosem'>TOSEM</a>, and <a href='https://conf.researchr.org/track/fse-2025/fse-2025-research-papers'>FSE</a>."
     type: "role"
     date: "2025"
 
