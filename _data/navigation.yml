@@ -41,9 +41,9 @@
   subitems:
      - title: Parallel Computing with GPUs [Academic Module]
        url: /learning/com4521
-     - title: Research Software Engineering for CDT [Teaching]
-       url: /learning/rse-cdt
-     - title: FAIR24RS programme [Training]
+     - title: Data Science and Software Engineering in Manufacturing
+       url: /learning/mac4112
+     - title: FAIR² for Research Software [Training]
        url: /learning/fair4rs
      - title: Profiling and Optimisation (Python) [Training]
        url: /learning/pando-python
