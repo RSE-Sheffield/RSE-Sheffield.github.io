@@ -68,6 +68,14 @@ items:
     url1: "https://doi.org/10.1093/mnras/staf2261"
     url1_label: "View DOI"
 
+  - title: "Forge4Flame: An intuitive dashboard for designing GPU agent-based<br> models to simulate infectious disease spread"
+    authors: "D. Baccega, <strong>I. Terrone (RSE), P. Heywood (RSE), R. Chisholm (RSE), P. Richmond (RSE)</strong> et al"
+    type: "journal"
+    venue: "Simulation Modelling Practice and Theory"
+    date: "2025"
+    url1: "https://doi.org/10.1016/j.simpat.2025.103205"
+    url1_label: "View DOI"
+
   - title: "Developing the GOTO Telescope Control System"
     authors: "<strong>M. J. Dyer (RSE)</strong> et al"
     type: "conference"
