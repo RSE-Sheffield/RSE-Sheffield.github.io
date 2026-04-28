@@ -207,6 +207,14 @@ items:
     url1: "https://doi.org/10.1145/3756681.3756"
     url1_label: "View DOI"
 
+  - title: "Better Architecture, Better Software, Better Research"
+    authors: "S. Druskat,..., <strong>R. Chisholm (RSE) </strong> et al"
+    type: "journal"
+    venue: "Computing in Science & Engineering"
+    date: "2025"
+    url1: "https://doi.org/10.1109/MCSE.2025.3573887"
+    url1_label: "View DOI"
+
   - title: "ACIT Hub, Accelerated Computing Infrastructure Training Hub"
     authors: "H. Cooper,...,<strong>T. Karmakharm (RSE, co-I)</strong>, et al"
     type: "grant"
@@ -214,6 +222,15 @@ items:
     date: "2025"
     url1: "https://acit.surrey.ac.uk/team.html"
     url1_label: "ACIT Hub website"
+
+  - title: "FLAME-GPU for Traffic Systems: A Scalable Agent-Based Simulation Framework"
+    authors: "M. Smilovistkiy,..., <strong>P Richmond (RSE), R. Chisholm (RSE), P. Heywood (RSE) </strong> et al"
+    type: "journal"
+    venue: "Systems"
+    date: "2025"
+    url1: "https://doi.org/10.3390/systems13050376"
+    url1_label: "View DOI"
+
 
   - title: "AutoEmulate demonstration"
     authors: "<strong>E. Brown</strong>"
@@ -233,6 +250,17 @@ items:
 
   - title:
     year: 2024
+
+
+  - title: "Multicellular model of neuroblastoma proposes unconventional therapy based on multiple roles of p53"
+    authors: "K. Y. Wertheim, <strong>R. Chisholm (RSE), P. Richmond (RSE), </strong> D. Walker"
+    type: "journal"
+    venue: "PLOS Computational Biology"
+    date: "2025"
+    url1: "https://doi.org/10.1371/journal.pcbi.1012648"
+    url1_label: "View DOI"
+
+
 
   - title: "Digital Twin Energy Grids - Interoperable electricity networks"
     authors: "A. Buckley, <strong>E. Brown (RSE, co-I)</strong>"
@@ -309,6 +337,16 @@ items:
     url2: "https://virtual.oxfordabstracts.com/#/event/49081/submission/69"
     url2_label: "Abstract"
 
+  - title: "Overcoming Computational Complexity: A Scalable Agent-Based Model of Traffic Activity Using FLAME-GPU"
+    authors: "M. Smilovitskiy,...,<strong> P. Richmond (RSE), R. Chisholm (RSE), P. Heywood (RSE) </strong>, et al"
+    type: "conference"
+    venue: " Advances in Practical Applications of Agents, Multi-Agent Systems, and Digital Twins: The PAAMS Collection"
+    date: 2024
+    url1: "https://doi.org/10.1007/978-3-031-70415-4_21"
+    url1_label: "View DOI"
+
+
+
   - title: "Performant Python Patterns: Small changes to speed up your Python code"
     authors: "<strong>R. Chisholm (RSE)</strong>"
     type: "conference"
@@ -337,6 +375,13 @@ items:
     url1: "https://www.sort-online.org/"
     url1_label: "SORT website"
 
+  - title: "An agent-based model for cell microenvironment simulation using FLAMEGPU2"
+    authors: "C. Borau, <strong>R. Chisholm (RSE), P. Richmond (RSE)</strong>, D. Walker"
+    type: "journal"
+    venue: "Computers in Biology and Medicine"
+    date: "2024"
+    url1: "https://doi.org/10.1016/j.compbiomed.2024.108831"
+    url1_label: "View DOI"
 
   - title: "Practical diversity and inclusion for Research Technical Professionals:<br>How you can help to make an impact"
     authors: "J. Cohen,..., <strong>T. Karmakharm (RSE) et al</strong>"
