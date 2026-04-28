@@ -1,6 +1,17 @@
 ---
 items:
 
+  - software_title: "Memore tasks for Jacobs Foundation Grant"
+    authors: "<strong> D. Brady</strong>"
+    PI: "A. Forsberg"
+    Faculty: "Faculty of Science"
+    type: "archive"
+    date: "2026"
+    url1: "https://github.com/RSE-Sheffield/jacobs-tasks"
+    url1_label: "Repository"
+    url2: "https://doi.org/10.15131/shef.data.28919807"
+    url2_label: "Archive"
+
   - software_title: "AFMSlicer"
     authors: "<strong>N. Shephard</strong>"
     PI: "L. Pasquina Lemonche"
