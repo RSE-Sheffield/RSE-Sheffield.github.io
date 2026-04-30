@@ -1,7 +1,15 @@
 ---
 items:
 
-  - title: "Photometric masses for long period CVs: the case study of CSS131106 "
+  - title: "Chatbot-Assisted Explainability of AI-Powered Models and Collection of User Feedback"
+    authors: "Olesya Razuvayevskaya, <strong>Michael Foster</strong> and Kalina Bontcheva"
+    type: "book chapter"
+    venue: "Countering Disinformation in the Era of Generative AI"
+    date: 2026
+    url1: "https://doi.org/10.1007/978-3-032-11782-3_13"
+    url1_label: "View DOI"
+
+  - title: "Photometric masses for long period CVs: the case study of CSS131106"
     authors: "M. Das,...,<strong>M. J. Dyer (RSE)</strong> et al"
     type: "journal"
     venue: "Monthly Notices of the Royal Astronomical Society"
