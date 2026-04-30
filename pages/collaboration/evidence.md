@@ -5,17 +5,6 @@ slug: evidence
 type: text
 ---
 
-<style> /* Highlight the active tab and dim the inactive ones */
-  .project-tab .nav-link.active {
-      filter: brightness(1.2); 
-      border: 2px solid #333 !important;
-      font-weight: bold;
-      opacity: 1 !important;}
-
-  .project-tab .nav-link {
-      opacity: 0.7;}
-</style>
-
 The RSE team at Sheffield contributed to multiple areas of the research eco-system along the years. This can take a form of research publication, software releases, committee membership, event organisations, etc. 
 We are listing here all the contribution made be our team and we grouped them in five categories:
 
