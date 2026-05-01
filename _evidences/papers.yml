@@ -2,7 +2,7 @@
 items:
 
   - title: "Chatbot-Assisted Explainability of AI-Powered Models and Collection of User Feedback"
-    authors: "Olesya Razuvayevskaya, <strong>Michael Foster</strong> and Kalina Bontcheva"
+    authors: "O. Razuvayevskaya, <strong>Michael Foster (RSE)</strong> and K. Bontcheva"
     type: "book chapter"
     venue: "Countering Disinformation in the Era of Generative AI"
     date: 2026
