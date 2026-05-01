@@ -4,20 +4,15 @@ permalink: /collaboration/code-of-conduct
 type: text
 ---
 
-The RSE Team runs and participates in a range of online and in-person activities, including collaborative projects,
-[LunchBytes](lunch-bytes), Slack conversations and in-person seminars. Participants are mostly University of Sheffield
-staff / students, but sometimes include our external friends and collaborators.
+<strong><em>Last revision: May 2026</em></strong>
 
-University of Sheffield staff and students conduct is governed by the terms of their employment / study which can be
-found on the [University website](https://www.sheffield.ac.uk) alongside reporting procedures. We have a code of conduct
-for those not staff or students at The University of Sheffield.
+The RSE Team runs and participates in a range of online and in-person activities, including collaborative projects, training events, workshops, Slack conversations and in-person seminars. Participants are mostly University of Sheffield staff / students, but sometimes include our external friends and collaborators.
+
+The University of Sheffield staff and students conduct is governed by the terms of their employment / study which can be found on the University website ([staff](https://staff.sheffield.ac.uk/hr/policies/code-conduct), [students](https://sheffield.ac.uk/study/policies/student-code-conduct)) which stipulates that staff and students act with respect, honesty and professionalism, fostering a supportive and safe environment free from bullying and harassment. The code of conduct laid out below extends this for those who are neither staff nor student at The University of Sheffield.
 
 ## Code of Conduct for External Participants
 
-The RSE Team at The University of Sheffield have a Code of Conduct which is set out below. It defines the standards and
-behaviour you can expect from all participants of our community and in turn that we expect from you when you participate
-and engage with others in the community. They are based on the [Contributor Covenant][homepage] (see
-[Attribution](#attribution) for further details).
+The RSE Team at The University of Sheffield have a Code of Conduct which is set out below. It defines the standards and behaviour you can expect from all participants of our community and in turn that we expect from you when you participate and engage with others in the community. They are based on the [Contributor Covenant][homepage] (see [Attribution](#attribution) for further details).
 
 ### Our Pledge
 
@@ -42,9 +37,12 @@ Examples of unacceptable behavior include:
 
 * The use of sexualized language or imagery, and sexual attention or advances of any kind
 * Trolling, insulting or derogatory comments, and personal or political attacks
+* Sexist, racist, homophobic, transphobic, ableist or exclusionary jokes
 * Public or private harassment
 * Publishing others' private information, such as a physical or email address, without their explicit permission
+* Publishing of private communication without consent
 * Other conduct which could reasonably be considered inappropriate in a professional setting
+* Advocating for, or encouraging any of the above behaviours
 
 ### Enforcement Responsibilities
 
@@ -65,9 +63,8 @@ posting via an official social media account, or acting as an appointed represen
 ### Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible
-for enforcement at [romain.thomas@sheffield.ac.uk](mailto:romain.thomas@sheffield.ac.uk) or
-[t.karmakharm@sheffield.ac.uk](mailto:t.karmakharm@sheffield.ac.uk). All complaints will be reviewed and investigated
-promptly and fairly.
+for enforcement ([Romain Thomas](mailto:romain.thomas@sheffield.ac.uk), Head of RSE and/or
+[Twin Karmakharm](mailto:t.karmakharm@sheffield.ac.uk), Senior RSE). All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the reporter of any incident.
 
@@ -111,7 +108,7 @@ behaviour, harassment of an individual, or aggression toward or disparagement of
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 2.1, available at
-[https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][v2.1].
+[https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][v2.1] with additions from the [RSE Society](https://society-rse.org/about/policies/code-of-conduct/)'s Code of Conduct
 
 Community Impact Guidelines were inspired by [Mozilla's code of conduct enforcement ladder][Mozilla CoC].
 
