@@ -1,0 +1,84 @@
+---
+items:
+
+  - title: "19 Months of Reasonable Performance Computing (SIG)"
+    type: "blog"
+    member: "R. Chisholm"
+    details: "SSI blog post"
+    date: 2026
+    url1: "https://www.software.ac.uk/blog/19-months-reasonable-performance-computing-sig"
+    url1_label: "Link"
+
+  - title:
+    year: 2025
+
+  - title: "Best Paper Award"
+    type: "award"
+    member: "<strong>M. Foster (RSE)</strong>, N. Walkinshaw, R. Hierons, <strong>C. Wild (DAS)</strong>, D. Shin"
+    details: "International Conference on Evaluation and Assessment in Software Engineering"
+    date: 2025
+    url1: "https://conf.researchr.org/home/ease-2025"
+    url1_label: "Conference link"
+
+  - title: "RSECon26 Sheffield Host city"
+    type: "other"
+    member: "R. Thomas"
+    date: "2025"
+    details: "Successful application to host the conference at the University of Sheffield"
+    url1: "https://society-rse.org/"
+    url1_label: "RSE society"
+    url2: "https://rsecon26.society-rse.org/"
+    url2_label: "Conference"
+
+  - title: "Mentor, Society of Research Software Engineering mentoring scheme"
+    member: "T. James"
+    type: "role"
+    details: "Mentoring scheme"
+    date: 2025
+    url1: "https://society-rse.org/get-involved/mentoring-scheme/"
+    url1_label: "Website"
+
+  - title: "Mentor, RSECon25"
+    member: "T. James"
+    type: "role"
+    details: "Mentoring early-career RSE during submission to Research Software Engineering Conference 2025 (RSECon25)"
+    date: 2025
+    url1: "https://rsecon25.society-rse.org/call-for-mentors/"
+    url1_label: "Website"
+
+  - title: "Telling Our Success Stories: Recognising Contributions in Research Software"
+    member: "T. James"
+    type: "blog"
+    details: "Co-author, CW25 Speed Blog"
+    date: 2025
+    url1: "https://www.software.ac.uk/blog/telling-our-success-stories-recognising-contributions-research-software"
+    url1_label: "Link"
+
+
+  - title:
+    year: 2024
+
+  - title:
+    year: 2023
+
+  - title:
+    year: 2022
+
+  - title: "Member of Avicenna Alliance"
+    type: "other"
+    member: "D. Tartarini"
+    date: "2020-present"
+    details: "Task force: Interaction with EMA and Softare Medical Devices standardization"
+    url1: "https://www.avicenna-alliance.com/"
+    url1_label: "Avicenna Alliance"
+
+  - title:
+    year: 2021
+
+  - title:
+    year: 2020
+
+  - title:
+    year: 2019
+
+---

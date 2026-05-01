@@ -1,0 +1,499 @@
+---
+items:
+
+  - title: "Chatbot-Assisted Explainability of AI-Powered Models and Collection of User Feedback"
+    authors: "O. Razuvayevskaya, <strong>Michael Foster (RSE)</strong> and K. Bontcheva"
+    type: "book chapter"
+    venue: "Countering Disinformation in the Era of Generative AI"
+    date: 2026
+    url1: "https://doi.org/10.1007/978-3-032-11782-3_13"
+    url1_label: "View DOI"
+
+  - title: "Photometric masses for long period CVs: the case study of CSS131106"
+    authors: "M. Das,...,<strong>M. J. Dyer (RSE)</strong> et al"
+    type: "journal"
+    venue: "Monthly Notices of the Royal Astronomical Society"
+    date: 2026
+    url1: "https://doi.org/10.1093/mnras/stag549"
+    url1_label: "View DOI"
+
+  - title: "STON: a practical imaging tool for archaeological petrography and beyond"
+    authors: "E. Dammer, <strong> R. Thomas (RSE) </strong>"
+    type: "conference"
+    venue: "Computer applications and quantitative methods in archaeology Conference, Vienna"
+    date: 2026
+    url1: "https://2026.caaconference.org/wp-content/uploads/sites/7/2026/03/Paper_complete-abstract-booklet.pdf"
+    url1_label: "Abstract booklet"
+    url2: "https://2026.caaconference.org/"
+    url2_label: "Conference"
+
+  - title: "An Eclipsing 8.56 Minutes Orbital Period Mass-transferring Binary"
+    authors: "E. T. Chickles,...,<strong>M. J. Dyer (RSE)</strong> et al"
+    type: "journal"
+    venue: "The Astrophysical Journal"
+    date: 2026
+    url1: "https://doi.org/10.3847/1538-4357/ae4871"
+    url1_label: "View DOI"
+
+  - title: "A Browser-based Open Source Assistant for Multimodal Content Verification"
+    authors: "<strong>R. Milner(DAS), M. Foster(RSE), T. Karmakharm(RSE)</strong>, Olesya Razuvayevskaya, Valentin Porcellini, et al"
+    type: "journal"
+    venue: "ACL Anthology"
+    date: "2026"
+    url1: "https://doi.org/10.18653/v1/2026.eacl-demo.12"
+    url1_label: "View DOI"
+
+  - title: "ZTF J021804.16+071152.93: a dead cataclysmic variable and potential solution<br> to the missing period bouncer cataclysmic variables"
+    authors: "S. G. Parsons,...,<strong>M. J. Dyer (RSE)</strong> et al"
+    type: "journal"
+    venue: "Monthly Notices of the Royal Astronomical Society"
+    date: 2026
+    url1: "https://doi.org/10.1093/mnras/stag521"
+    url1_label: "View DOI"
+
+  - title: "Long-term eclipse time variations in white dwarf binaries"
+    authors: "A. Yates,...,<strong>M. J. Dyer (RSE)</strong> et al"
+    type: "journal"
+    venue: "Monthly Notices of the Royal Astronomical Society"
+    date: 2026
+    url1: "https://doi.org/10.1093/mnras/stag358"
+    url1_label: "View DOI"
+
+  - title: "Galvanising line optimisation"
+    authors: "P. Longdon, <strong>T. Karmakharm (RSE, co-I)</strong>"
+    type: "grant"
+    venue: "EPSRC"
+    date: "2026"
+
+  - title:
+    year: 2025
+
+  - title: "SN 2024cld: unveiling the complex mass-loss histories of evolved supergiant<br> progenitors to core collapse supernovae"
+    authors: "T. L. Killestein,...,<strong>M. J. Dyer (RSE)</strong> et al"
+    type: "journal"
+    venue: "Monthly Notices of the Royal Astronomical Society"
+    date: "2025"
+    url1: "https://doi.org/10.1093/mnras/staf2261"
+    url1_label: "View DOI"
+
+  - title: "Forge4Flame: An intuitive dashboard for designing GPU agent-based<br> models to simulate infectious disease spread"
+    authors: "D. Baccega, <strong>I. Terrone (RSE), P. Heywood (RSE), R. Chisholm (RSE), P. Richmond (RSE)</strong> et al"
+    type: "journal"
+    venue: "Simulation Modelling Practice and Theory"
+    date: "2025"
+    url1: "https://doi.org/10.1016/j.simpat.2025.103205"
+    url1_label: "View DOI"
+
+  - title: "Developing the GOTO Telescope Control System"
+    authors: "<strong>M. J. Dyer (RSE)</strong> et al"
+    type: "conference"
+    venue: "UK RSE Conference 2025 (RSECon25)"
+    date: "2025"
+    url1: "https://doi.org/10.5281/zenodo.17968211"
+    url1_label: "View DOI"
+
+  - title: "FAIR2 for research software:<br>developing a FAIR and reproducible research software training programme"
+    authors: "<strong>T. James (RSE), R. Thomas (RSE)</strong>"
+    type: "conference"
+    venue: "UK RSE Conference 2025 (RSECon25)"
+    date: "2025"
+    url1: "https://doi.org/10.5281/zenodo.17967512"
+    url1_label: "View DOI"
+
+  - title: "AutoEmulate:  Python library for automatically creating<br> accurate and efficient emulators of complex simulations."
+    authors: "<strong>E. Brown (RSE)</strong> et al"
+    type: "conference"
+    venue: "UK RSE Conference 2025 (RSECon25)"
+    date: "2025"
+    url1: "https://doi.org/10.5281/zenodo.17967461"
+    url1_label: "View DOI"
+
+  - title: "Running a local RSE call for proposals"
+    authors: "<strong>R. Thomas (RSE) & N. Shephard (RSE)</strong>"
+    type: "conference"
+    venue: "UK RSE Conference 2025 (RSECon25)"
+    date: "2025"
+    url1: "https://doi.org/10.5281/zenodo.17968230"
+    url1_label: "View DOI"
+
+  - title: "AMD GPUs for Scientific Computing: Reviewing the Software Ecosystem <br>& Developer Experience"
+    authors: "<strong>M. Leach (RSE)</strong>"
+    type: "conference"
+    venue: "UK RSE Conference 2025 (RSECon25)"
+    date: "2025"
+    url1: "https://doi.org/10.5281/zenodo.17967518"
+    url1_label: "View DOI"
+
+  - title: "Ensuring the viability of the HiPERCAM pipeline software"
+    authors: "S. Littlefair (PI), <strong>M. Dyer (RSE, co-I)</strong>"
+    type: "grant"
+    venue: "SSI"
+    date: "2025"
+    url1: "https://www.software.ac.uk/research-software-maintenance-fund/round-1"
+    url1_label: "SSI call"
+
+  - title: "How to talk to your documents: An introduction to using natural language<br> to query documents with Retrieval Augmented Generation"
+    authors: "<strong>S. Donnelly (RSE), E. Brown (RSE)</strong>"
+    type: "conference"
+    venue: "UK RSE Conference 2025 (RSECon25)"
+    date: "2025"
+    url1: "https://virtual.oxfordabstracts.com/event/75166/submission/85"
+    url1_label: "Abstract"
+
+  - title: "Reasonable Performance Computing SIG (SIG-RPC):<br> Help Identify and Document Performance Traps in Research Software"
+    authors: "<strong>R. Chisholm (RSE)</strong>, R. FitzJohn, <strong>P. Heywood (RSE)</strong>"
+    type: "conference"
+    venue: "UK RSE Conference 2025 (RSECon25)"
+    date: "2025"
+    url1: "https://virtual.oxfordabstracts.com/event/75166/submission/85"
+    url1_label: "Abstract"
+
+  - title: "The Ideological Turing Test: A Behavioral Measure of Open-Mindedness and Perspective-Taking"
+    authors: "C. O. Brand, <strong>D. Brady (RSE)</strong>, T. Stafford."
+    type: "journal"
+    venue: "Cognitive Science"
+    date: "2025"
+    url1: "https://doi.org/10.1111/cogs.70126"
+    url1_label: "View DOI"
+
+
+  - title: "AI 4 Science"
+    authors: "????, <strong>E. Brown (RSE, co-I, Sheffield lead)</strong>"
+    type: "grant"
+    venue: "EPSRC"
+    date: "2025"
+
+  - title: "The Causal Testing Framework"
+    authors: "<strong>M. Foster(RSE)</strong>, A. Clark, <strong>C. Wild(DAS), F. Allian (DAS), R. Turner (RSE)</strong>, et al "
+    type: "journal"
+    venue: "Journal of Open Source Software"
+    date: "2025"
+    url1: "https://doi.org/10.21105/joss.07739"
+    url1_label: "View DOI"
+
+  - title: "Leveraging GitHub API Data to Evaluate Git and GitHub Training Outcomes"
+    authors: "<strong >D. Brady (RSE), A. Krystalli (RSE)</strong>."
+    type: "conference"
+    venue: "UK RSE Conference 2025 (RSECon25)"
+    date: "2025"
+    url1: "https://zenodo.org/records/17967458"
+    url1_label: "View DOI"
+    url2: "https://virtual.oxfordabstracts.com/event/75166/submission/129"
+    url2_label: "Abstract"
+
+  - title: "STON: SofTware for petrOgraphic VisualisatioN"
+    authors: "<strong>R. Thomas(RSE)</strong>, E. Dammer"
+    type: "journal"
+    venue: "Journal of Open Source Software"
+    date: "2025"
+    url1: "https://doi.org/10.21105/joss.08144"
+    url1_label: "View DOI"
+
+  - title: "Evolving Estimation Models for Causal Testing"
+    authors: "L. Devlin, <strong>M. Foster(RSE)</strong>"
+    type: "journal"
+    venue: "FSE Companion '25: Proceedings of the 33rd ACM International Conference on the Foundations of Software Engineering"
+    date: "2025"
+    url1: "https://doi.org/10.1145/3696630.373161"
+    url1_label: "View DOI"
+
+
+
+  - title: "Understanding Project Management Tool Effectiveness in Diverse dRTP Contexts"
+    authors: "<strong>D. Brady (RSE, PI)</strong>"
+    type: "grant"
+    venue: "DiscouRSE fund round 1"
+    date: "2025"
+    url1: "https://discourse-network.github.io/funding/round-1"
+    url1_label: "DiscouRSE fund"
+
+  - title: "Using Causal Inference to Test Systems with Hidden and Interacting Variables: An Evaluative Case Study"
+    authors: "<strong>M. Foster(RSE)</strong>, R. Hierons, D. Shin, N. Walkinshaw, <strong>C. Wild(DAS)</strong>"
+    type: "journal"
+    venue: "EASE '25: Proceedings of the 29th International Conference on Evaluation and Assessment in Software Engineering"
+    date: "2025"
+    url1: "https://doi.org/10.1145/3756681.3756"
+    url1_label: "View DOI"
+
+  - title: "Better Architecture, Better Software, Better Research"
+    authors: "S. Druskat,..., <strong>R. Chisholm (RSE) </strong> et al"
+    type: "journal"
+    venue: "Computing in Science & Engineering"
+    date: "2025"
+    url1: "https://doi.org/10.1109/MCSE.2025.3573887"
+    url1_label: "View DOI"
+
+  - title: "ACIT Hub, Accelerated Computing Infrastructure Training Hub"
+    authors: "H. Cooper,...,<strong>T. Karmakharm (RSE, co-I)</strong>, et al"
+    type: "grant"
+    venue: "UKRI Network plus"
+    date: "2025"
+    url1: "https://acit.surrey.ac.uk/team.html"
+    url1_label: "ACIT Hub website"
+
+  - title: "FLAME-GPU for Traffic Systems: A Scalable Agent-Based Simulation Framework"
+    authors: "M. Smilovistkiy,..., <strong>P Richmond (RSE), R. Chisholm (RSE), P. Heywood (RSE) </strong> et al"
+    type: "journal"
+    venue: "Systems"
+    date: "2025"
+    url1: "https://doi.org/10.3390/systems13050376"
+    url1_label: "View DOI"
+
+
+  - title: "AutoEmulate demonstration"
+    authors: "<strong>E. Brown</strong>"
+    type: "conference"
+    venue: "AI UK conference, London"
+    date: "2025"
+    url1: "https://ai-uk.turing.ac.uk/"
+    url1_label: "AIUK website"
+
+  - title: "Quantifying complexity in DNA structures with high resolution Atomic Force Microscopy"
+    authors: "E.P. Holmes, M. C. Gamill, ... <strong>N. Shephard</strong> <i>et al.</i>"
+    type: "journal"
+    venue: "Nature Communications"
+    date: "2025"
+    url1: "https://doi.org/10.1038/s41467-025-60559-x"
+    url1_label: "View DOI"
+
+  - title:
+    year: 2024
+
+
+  - title: "Multicellular model of neuroblastoma proposes unconventional therapy based on multiple roles of p53"
+    authors: "K. Y. Wertheim, <strong>R. Chisholm (RSE), P. Richmond (RSE), </strong> D. Walker"
+    type: "journal"
+    venue: "PLOS Computational Biology"
+    date: "2025"
+    url1: "https://doi.org/10.1371/journal.pcbi.1012648"
+    url1_label: "View DOI"
+
+
+
+  - title: "Digital Twin Energy Grids - Interoperable electricity networks"
+    authors: "A. Buckley, <strong>E. Brown (RSE, co-I)</strong>"
+    type: "grant"
+    venue: "Private funding"
+    date: "2024"
+
+  - title: "Overcoming Computational Complexity: A Scalable Agent-Based<br> Model of Traffic Activity Using FLAME-GPU"
+    authors: "M. Smilovitskiy, S. Olmez, <strong>P. Richmond (RSE), R. Chisholm (RSE), P. Heywood (RSE) </strong>, et al "
+    type: "journal"
+    venue: " Advances in Practical Applications of Agents, Multi-Agent Systems, and Digital Twins: The PAAMS Collection"
+    date: "2024"
+    url1: "http://doi.org/10.1007/978-3-031-70415-4_21"
+    url1_label: "View DOI"
+
+  - title: "AI-CARE: Digital twin platform for cancer research"
+    authors: "<strong>D. Tartarini (RSE)</strong>, J. M. Cummins"
+    type: "conference"
+    venue: "Virtual Physiological Human conference 2024"
+    date: "2024"
+    url1: "https://vph-conference.org/programme/"
+    url1_label: "Conference website"
+
+
+  - title: "Prompto: An open source library for asynchronous querying of LLM endpoints"
+    authors: "R. Sze-Yin Chan, F. Nanni, A. R. Williams, <strong> E. Brown (RSE)</strong>, et al"
+    type: "journal"
+    venue: "Arxiv"
+    date: "2024"
+    url1: "https://doi.org/10.48550/arXiv.2408.11847"
+    url1_label: "View DOI"
+
+  - title: "One hundred years of EEG for brain and behaviour research"
+    authors: "F. Mushtaq,...., <strong>D. Brady (RSE)</strong>, et al"
+    type: "journal"
+    venue: "nature human behaviour"
+    date: "2024"
+    url1: "https://doi.org/10.1038/s41562-024-01941-5"
+    url1_label: "View DOI"
+
+  - title: "Development of a risk prediction tool for thyroid cancer"
+    authors: "<strong>T. Karmakharm (co-I)</strong>"
+    type: "grant"
+    venue: "???"
+    date: "2024"
+
+
+
+  - title: "Bibliothèque britannique (1796-1815) GenAI Project:<br> Using Digital Technology to Make Historical Content Accessible and Exciting'"
+    authors: "K. Zbinden (PI), A. Piette (co-I), <strong>E. Brown (RSE, co-I)</strong>"
+    type: "grant"
+    venue: "Knowledge Exchange"
+    date: "2024"
+    url1: "https://sheffield.ac.uk/arts-humanities/faculty/equality-diversity-and-inclusion/black-history-month/research/unlocking-hidden-history-how-digital"
+    url1_label: "Research page"
+
+  - title: "Towards adoption of FAIR4RS: equipping researchers with FAIR research software skills"
+    authors: "<strong>T. James (RSE), R. Thomas (RSE)</strong>"
+    type: "conference"
+    venue: "UK RSE Conference 2024 (RSECon24)"
+    date: "2024"
+    url1: "https://zenodo.org/records/14290363"
+    url1_label: "View DOI"
+    url2: "https://virtual.oxfordabstracts.com/#/event/49081/submission/85"
+    url2_label: "Abstract"
+
+  - title: "Publish your software! A walkthrough of JOSS submission to publication"
+    authors: "<strong>R. Thomas (RSE)</strong>, A. Smith, <strong>T. James (RSE)</strong>"
+    type: "conference"
+    venue: "UK RSE Conference 2024 (RSECon24)"
+    date: "2024"
+    url1: "https://doi.org/10.5281/zenodo.14290378"
+    url1_label: "View DOI"
+    url2: "https://virtual.oxfordabstracts.com/#/event/49081/submission/69"
+    url2_label: "Abstract"
+
+  - title: "Overcoming Computational Complexity: A Scalable Agent-Based Model of Traffic Activity Using FLAME-GPU"
+    authors: "M. Smilovitskiy,...,<strong> P. Richmond (RSE), R. Chisholm (RSE), P. Heywood (RSE) </strong>, et al"
+    type: "conference"
+    venue: " Advances in Practical Applications of Agents, Multi-Agent Systems, and Digital Twins: The PAAMS Collection"
+    date: 2024
+    url1: "https://doi.org/10.1007/978-3-031-70415-4_21"
+    url1_label: "View DOI"
+
+
+
+  - title: "Performant Python Patterns: Small changes to speed up your Python code"
+    authors: "<strong>R. Chisholm (RSE)</strong>"
+    type: "conference"
+    venue: "UK RSE Conference 2024 (RSECon24)"
+    date: "2024"
+    url1: "https://zenodo.org/records/14290317"
+    url1_label: "View DOI"
+    url2: "https://virtual.oxfordabstracts.com/event/49081/submission/57"
+    url2_label: "Abstract"
+
+  - title: "Developing PyCam: Software for acquiring and processing volcanic UV SO2 camera data"
+    authors: "<strong>D. Brady (RSE)</strong>"
+    type: "conference"
+    venue: "UK RSE Conference 2024 (RSECon24)"
+    date: "2024"
+    url1: "https://zenodo.org/records/14290319"
+    url1_label: "View DOI"
+    url2: "https://virtual.oxfordabstracts.com/#/event/49081/poster-gallery/grid?fullScreen=false&current=114"
+    url2_label: "Poster"
+
+  - title: "SORT online"
+    authors: "P. Ali,...,<strong>T. Karmakharm (RSE, co-I)</strong>, et al"
+    type: "grant"
+    venue: "Knowledge Exchange"
+    date: "2024"
+    url1: "https://www.sort-online.org/"
+    url1_label: "SORT website"
+
+  - title: "An agent-based model for cell microenvironment simulation using FLAMEGPU2"
+    authors: "C. Borau, <strong>R. Chisholm (RSE), P. Richmond (RSE)</strong>, D. Walker"
+    type: "journal"
+    venue: "Computers in Biology and Medicine"
+    date: "2024"
+    url1: "https://doi.org/10.1016/j.compbiomed.2024.108831"
+    url1_label: "View DOI"
+
+  - title: "Practical diversity and inclusion for Research Technical Professionals:<br>How you can help to make an impact"
+    authors: "J. Cohen,..., <strong>T. Karmakharm (RSE) et al</strong>"
+    type: "conference"
+    venue: "UK RSE Conference 2024 (RSECon24)"
+    date: "2024"
+    url1: "https://zenodo.org/records/14290383"
+    url1_label: "View DOI"
+    url2: "https://virtual.oxfordabstracts.com/event/49081/submission/143"
+    url2_label: "Abstract"
+
+  - title:
+    year: 2023
+
+
+  - title: "GATE Teamware 2: An open-source tool for collaborative document classification annotation"
+    authors: "<strong>D. Wilby(RSE), T. Karmakharm (RSE)</strong>, I. Roberts, X. Song, K. Bontcheva"
+    type: "journal"
+    venue: "ACL Anthology"
+    date: "2023"
+    url1: "https://doi.org/10.18653/v1/2023.eacl-demo.17"
+    url1_label: "View DOI"
+
+  - title: "A multiscale orchestrated computational framework to reveal emergent phenomena in neuroblastoma"
+    authors: "C. Borau,....,<strong>R. Chisholm (RSE)</strong>, et al"
+    type: "journal"
+    venue: "Computer Methods and Programs in Biomedicine"
+    date: "2023"
+    url1: "https://doi.org/10.1016/j.cmpb.2023.107742"
+    url1_label: "View DOI"
+
+  - title: "FLAME GPU 2: A framework for flexible and performant agent based simulation on GPUs"
+    authors: "<strong>P. Richmond(RSE)</strong>, <strong>R. Chisholm(RSE)</strong>, <strong>P. Heywood(RSE)</strong>, <strong>M. K. Chimeh(RSE)</strong>, <strong>M. Leach(RSE)</strong>"
+    type: "journal"
+    venue: "Journal of: Software: Practice and Experience"
+    date: "2023"
+    url1: "https://onlinelibrary.wiley.com/doi/10.1002/spe.3207"
+    url1_label: "View DOI"
+
+  - title:
+    year: 2022
+
+  - title: "Design, Modeling and Manufacturing of Scaffolds to Control<br>Cell-Biomaterial Interactions in Tissue Engineering"
+    authors: "E. Mele, <strong>D. Tartarini (RSE)</strong>, L. Moroni"
+    type: "journal"
+    venue: "Frontiers in Bioengineering and Biotechnology"
+    date: "2022"
+    url1: "https://doi.org/10.3389/fbioe.2022.868362"
+    url1_label: "View DOI"
+
+
+
+  - title: "FAIR Principles for Research Software (FAIR4RS Principles)"
+    authors: "Chue Hong, Neil P., .... ,<strong>D. Tartarini (RSE)</strong>, et al"
+    type: "journal"
+    venue: "white paper"
+    date: "2022"
+    url1: "https://zenodo.org/records/6623556"
+    url1_label: "View DOI"
+
+  - title:
+    year: 2021
+
+  - title: "pFIRE: parallel Framework for Image REgistration"
+    authors: "<strong>D. Tartarini (RSE)</strong> et al"
+    type: "conference"
+    venue: "CompBiomed Conference 2021"
+    date: "2021"
+
+
+  - title:
+    year: 2020
+
+  - title: "ExaHyPE’s OpenMP GPGPU Port—Lessons Learned"
+    authors: "J. Frawley,...,<strong>D. Tartarini (RSE)</strong>, et al"
+    type: "journal"
+    venue: "white paper"
+    date: "2020"
+    url1: "https://web.archive.org/web/20200918132327/http://www.peano-framework.org/wp-content/uploads/2020/08/GPGPUs_Lessons_Learned.pdf"
+    url1_label: "View paper"
+
+
+
+
+  - title:
+    year: 2019
+
+  - title: "Journalist-in-the-Loop: Continuous Learning as a Service for Rumour Analysis"
+    authors: "<strong>T. Karmakharm (RSE)</strong>, N. Aletra, K. Bontcheva"
+    type: "journal"
+    venue: "ACL Anthology"
+    date: "2019"
+    url1: "https://doi.org/10.18653/v1/D19-3020"
+    url1_label: "View DOI"
+
+
+  - title:
+    year: 2018
+
+  - title: "RateSetter: roadmap for faster, safer, and better platform train<br>interface design and operation using evolutionary optimisation"
+    authors: "D. Fletcher, R. Harrison, <strong>T. Karmakharm (RSE)</strong>, S. Nallaperuma, <strong>P. Richmond (RSE)</strong>"
+    type: "journal"
+    venue: "Proceedings of the Genetic and Evolutionary Computation Conference. GECCO '18"
+    date: 2018
+    url1: "https://doi.org/10.1145/3205455.3205605"
+    url1_label: "View DOI"
+---
