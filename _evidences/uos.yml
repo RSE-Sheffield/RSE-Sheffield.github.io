@@ -15,7 +15,7 @@ items:
     date: "2026"
     details: "Part of the <a href='https://rse.shef.ac.uk/training/fair4rs/'>FAIR24RS training programme</a>"
     url1: "https://fair2-for-research-software.github.io/FAIR4RS-Packaging/"
-    url1_label: "Ressources"
+    url1_label: "Resources"
 
   - title: "FORGE programme creator and manager"
     member: "S. Donnelly"
@@ -38,7 +38,7 @@ items:
     date: "2026"
     details: "Part of the <a href='https://rse.shef.ac.uk/training/fair4rs/'>FAIR24RS training programme</a>"
     url1: "https://fair2-for-research-software.github.io/python-testing-for-research/"
-    url1_label: "Ressources"
+    url1_label: "Resources"
 
   - title: "Software testing (CDT)"
     member: "S. Whittle (PhD student, CMBE) & M. Foster"
@@ -46,7 +46,7 @@ items:
     date: "2026"
     details: "Part of the MADE4MANUFACTURING CDT module"
     url1: "https://fair2-for-research-software.github.io/python-testing-for-research/"
-    url1_label: "Ressources"
+    url1_label: "Resources"
 
   - title: "SURE reviewer"
     member: "M. Foster"
@@ -62,7 +62,7 @@ items:
     date: "2026"
     details: "Part of the <a href='https://rse.shef.ac.uk/training/fair4rs/'>FAIR24RS training programme</a>"
     url1: "https://fair2-for-research-software.github.io/git-with-it/"
-    url1_label: "Ressources"
+    url1_label: "Resources"
 
   - title: "Reproducible software environments (OPEN)"
     member: "D. Brady"
@@ -70,7 +70,7 @@ items:
     date: "2026"
     details: "Part of the <a href='https://rse.shef.ac.uk/training/fair4rs/'>FAIR24RS training programme</a>"
     url1: "https://fair2-for-research-software.github.io/FAIR4RS-VirtualEnvs/"
-    url1_label: "Ressources"
+    url1_label: "Resources"
 
   - title: "Reproducible software environments (CDT)"
     member: "D. Brady"
@@ -78,7 +78,7 @@ items:
     date: "2026"
     details: "Part of the MADE4MANUFACTURING CDT module"
     url1: "https://fair2-for-research-software.github.io/FAIR4RS-VirtualEnvs/"
-    url1_label: "Ressources"
+    url1_label: "Resources"
 
 
   - title: "Git/GitKraken training (OPEN)"
@@ -87,7 +87,7 @@ items:
     date: "2026"
     details: "Part of the <a href='https://rse.shef.ac.uk/training/fair4rs/'>FAIR24RS training programme</a>"
     url1: "https://srse-git-github-zero2hero.netlify.app/"
-    url1_label: "Ressources"
+    url1_label: "Resources"
 
   - title: "Panel member, Open Educational Resources workshop"
     member: "T. James"
@@ -106,7 +106,7 @@ items:
     date: "2025"
     details: "Part of the <a href='https://rse.shef.ac.uk/training/fair4rs/'>FAIR24RS training programme</a>"
     url1: "https://fair2-for-research-software.github.io/Software_Lifecycle_Planning/"
-    url1_label: "Ressources"
+    url1_label: "Resources"
 
   - title: "SURE reviewer"
     member: "M. Foster"
@@ -122,7 +122,7 @@ items:
     date: "2025"
     details: "Part of the CDT module on data science and research software engineering"
     url1: "https://fair2-for-research-software.github.io/FAIR_Code_design/"
-    url1_label: "Ressources"
+    url1_label: "Resources"
 
   - title: "Software design (OPEN)"
     member: "M. Dyer & S. Donnelly"
@@ -130,7 +130,7 @@ items:
     date: "2025"
     details: "Part of the <a href='https://rse.shef.ac.uk/training/fair4rs/'>FAIR24RS training programme</a>"
     url1: "https://fair2-for-research-software.github.io/FAIR_Code_design/"
-    url1_label: "Ressources"
+    url1_label: "Resources"
 
   - title: "Git/GitKraken training (CDT)"
     member: "N. Shephard & M. Foster"
@@ -138,7 +138,7 @@ items:
     date: "2025"
     details: "Part of the CDT module on data science and research software engineering"
     url1: "https://srse-git-github-zero2hero.netlify.app/"
-    url1_label: "Ressources"
+    url1_label: "Resources"
 
   - title: "Git/GitKraken training (Open)"
     member: "M. Foster & D. Brady"
@@ -146,7 +146,7 @@ items:
     date: "2025"
     details: "Part of the <a href='https://rse.shef.ac.uk/training/fair4rs/'>FAIR24RS training programme</a>"
     url1: "https://srse-git-github-zero2hero.netlify.app/"
-    url1_label: "Ressources"
+    url1_label: "Resources"
 
   - title: "Better software for Better research (Open)"
     member: "R. Thomas & T. James"
@@ -154,7 +154,7 @@ items:
     date: "2025"
     details: "Part of the <a href='https://rse.shef.ac.uk/training/fair4rs/'>FAIR24RS training programme</a>"
     url1: "https://fair2-for-research-software.github.io/Better_software_for_better_research/#/title-slide"
-    url1_label: "Ressources"
+    url1_label: "Resources"
 
 
   - title: "Supervision of Turing group research project 2025/2026: How FAIR is Research Software?"
@@ -222,7 +222,7 @@ items:
     date: "2025"
     details: "Introduction to code profiling in Python"
     url1: "https://rse.shef.ac.uk/pando-python/"
-    url1_label: "Ressources"
+    url1_label: "Resources"
 
   - title: "Mathematical and Physical Sciences RSE workshop"
     member: "M. Dyer, S. Donnelly & E. Brown"
@@ -243,7 +243,7 @@ items:
     date: "2025"
     details: "Part of the <a href='https://rse.shef.ac.uk/training/fair4rs/'>FAIR24RS training programme</a> (The latest version of this training course is called <strong>git with it</strong>)."
     url1: "https://fair2-for-research-software.github.io/git-with-it/"
-    url1_label: "Ressources"
+    url1_label: "Resources"
 
   - title: "Co-lead, Bioscience and AI Interest Group"
     member: "T. James"
@@ -270,7 +270,7 @@ items:
     date: "2024"
     details: "Part of the <a href='https://rse.shef.ac.uk/training/fair4rs/'>FAIR24RS training programme</a>"
     url1: "https://fair2-for-research-software.github.io/Software_Lifecycle_Planning/"
-    url1_label: "Ressources"
+    url1_label: "Resources"
 
   - title: "Deep learning demystified (x3)"
     member: "T. karmakharm"
@@ -278,7 +278,7 @@ items:
     date: "2024"
     details: "Introduction training on deep learning teachniques"
     url1: "https://rse.shef.ac.uk/dl-demystified-course/"
-    url1_label: "Ressources"
+    url1_label: "Resources"
 
   - title: "Python Profiling and Optimisation (x2)"
     member: "R. Chisholm"
@@ -286,7 +286,7 @@ items:
     date: "2024"
     details: "Introduction to code profiling in Python"
     url1: "https://rse.shef.ac.uk/pando-python/"
-    url1_label: "Ressources"
+    url1_label: "Resources"
 
   - title: "Better software for Better research"
     member: "R. Thomas & T. James"
@@ -294,7 +294,7 @@ items:
     date: "2024"
     details: "Part of the <a href='https://rse.shef.ac.uk/training/fair4rs/'>FAIR24RS training programme</a>"
     url1: "https://fair2-for-research-software.github.io/Better_software_for_better_research/#/title-slide"
-    url1_label: "Ressources"
+    url1_label: "Resources"
 
   - title: "FAIR2 for research software, Developing a FAIR and<br>Reproducible research software training programme"
     member: "T. James"
