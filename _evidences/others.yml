@@ -1,6 +1,14 @@
 ---
 items:
 
+  - title: "FAIR Data & Software award, category Engineering"
+    type: "award"
+    member: "<strong>R. Thomas (RSE)</strong>, E. Dammer"
+    details: "Recognising staff and PGRs who have demonstrated best practice in making their digital research outputs FAIR."
+    date: 2026
+    url1: "https://sheffield.ac.uk/openresearch/faircasestudies/fair-awards"
+    url1_label: "Competition link"
+
   - title: "19 Months of Reasonable Performance Computing (SIG)"
     type: "blog"
     member: "R. Chisholm"
