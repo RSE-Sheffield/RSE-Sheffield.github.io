@@ -45,7 +45,7 @@ In practice a project goes through five main phases:<br>
           <li>Adjust the allocation for the team in advance.</li>
         </ul>
 
-        We also can collaborate with you at the post-award stage, but we cannot ensure the availabily of the RSEs at that stage.<br><br>
+        We also can collaborate with you post award, but we cannot ensure the availabily of the RSEs at that stage it we have not been made aware of the project early on.<br><br>
 
         <b>HOW to contact us?</b><br>
         To engage with us and discuss a potential collaboration please complete this <a href="https://forms.gle/67NepxJxUGyRYMeu6">form</a>. It helps us to have an idea of the project and decide who from the team is best suited to talk to you. We will then get in touch with you and setup a scoping meeting. In general two RSEs will attend to scoping meeting. If you have any questions you can always email us at <a href="mailto:rse@sheffield.ac.uk">rse@sheffield.ac.uk</a>. 
@@ -53,15 +53,16 @@ In practice a project goes through five main phases:<br>
         <br><br>
 
         <b>How to COST us?</b><br>
+
+       <i>Note: Please let us know when you are costing RSEs on your grant so our admin team can check that everything is done correctly. </i><br>
         Costing a RSE depends on the source of the funding:
 
         <ul>
-          <li>If the grant is generating overheads, the RSE is costed as G7.10, as <b>directly incurred</b> cost.</li>
-          <li>If the grant is <b>NOT</b> generating overheads, the RSE can be costed using our <i>internal</i> day rate of <b>£384</b>,</li>
-          <li>If the funding comes within the University, no overheads are to be taken into account. In that case we use our <i>internal</i> day rate of <b>£384</b>,</li>
-          <li>We are sometimes working for external companies (e.g. spin-outs), in that case the day rate must take into account the overheads is <b>£7XX</b>.</li> 
+          <li>If the grant is generating overheads, the RSE is costed as G7.10, as <b>directly incurred</b> cost. RSEs are part of the University's costing tool and you can select us while you are building the costing for your grant; </li>
+          <li>If the source of funding is <b>NOT</b> generating overheads, the RSE may be costed using the internal day rate of <b>£384</b>. Please check this with us as this depends on the funder;</li>
+          <li>If the funding comes within the University, no overheads are to be taken into account. In that case we use our <i>internal</i> day rate of <b>£384</b>;</li>
+          <li>We are sometimes collaborating with external companies (e.g. spin-outs), in that case the day rate must take into account the overheads <b>£704 + VAT</b>;</li> 
         </ul>
-
       </div>
     </div>
   </div>
