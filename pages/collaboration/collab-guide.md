@@ -54,7 +54,7 @@ In practice a project goes through five main phases:<br>
 
         <b>How to COST us?</b><br>
 
-       <i>Note: Please let us know when you are costing RSEs on your grant so our admin team can check that everything is done correctly. </i><br>
+       <i>Note: We kindly ask you to let us know when you are costing RSEs on your grant so our admin team can check that everything is done correctly. </i><br>
         Costing a RSE depends on the source of the funding:
 
         <ul>
