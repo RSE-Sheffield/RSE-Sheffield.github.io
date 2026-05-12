@@ -46,7 +46,8 @@ news, opportunities, events and training for you.
   - Submission deadline 2026-05-30
 
 #### Upcoming External Events
-
+- [RSE geoscience SIG virtual spring seminar](https://forms.gle/bzGPvZJ7N4wGtA349)
+    - 2026-05-18 - Online 
 - [HDR UK: Distributed Computing for Health Data Workshop 2026](https://www.hdruk.ac.uk/events/distributed-computing-for-health-data-workshop-2026/)
     - 2026-05-19 - Online.
 - [The Turing Lectures: Making AI (truly) sustainable - from environmental costs to social impacts](https://www.turing.ac.uk/events/turing-lectures-making-ai-truly-sustainable-environmental-costs-social-impacts)
@@ -57,7 +58,7 @@ news, opportunities, events and training for you.
 - [Survey exploring the role of Research Technicians and Technology & Skills Specialists (RTPs)](https://www.qualtrics.manchester.ac.uk/jfe/form/SV_8CGJpNZnV6Ecwgm) Deadline 2026-06-15 
 - [RSE Leaders & Aspiring Leaders Meeting](https://luma.com/0w6u5u47)
     - 2026-06-15 - Durham, England
-    - Registration closes 2026-05-11
+    - Registration closes 2026-05-15
 - [Digital Humanities & RSE Summer School 2026](https://dh-rse-summer-school.github.io/DH-RSE-Website/2026.html)
     - 2026-06-29 to 2026-07-02 - The University of Manchester
     - Application Deadline 2026-04-14
@@ -66,6 +67,10 @@ news, opportunities, events and training for you.
     - [Presentation and Workshop submission EOI](https://docs.google.com/forms/d/e/1FAIpQLSd4GBDwC-lIkKEdCuUTAtXcq3o7WOmp7wdukmFolgRrM8b7IQ/viewform) Closes 2026-05-20
 - [Annual Swiss RSE Day 2026](https://rse.swiss/swiss_rse_day/)
     - 2026-08-31 - CAB Building, ETH Zurich
+- [Upcoming Events & Resources from UKRI Digital Research Skills Catalyst](https://digitalskillscatalyst.ac.uk/)
+    - Intro to Quarto Workshop (Online): 2026-07-22
+    - AICatalyst2026: AI in the Biosciences Training Conference (York): 2026-09-04
+    - Learning Portal: Explore 50+ digital skills resources today!
 - [International Research Software Conference (IRSC) 2026](https://www.researchsoft.org/irsc/)
     - 2026-09-07 to 2026-09-08 - Sheffield, UK
     - [Registration now open!](https://tinyurl.com/IRSC-registration)
@@ -95,7 +100,9 @@ news, opportunities, events and training for you.
 
 <!-- #### Papers -->
 
-<!-- #### Pre-Prints -->
+#### Pre-Prints
+
+- [Sensitive data curation: evidence-based skills and training landscape for stakeholders](https://doi.org/10.5281/zenodo.19883038)
 
 <!-- #### Podcasts & Videos -->
 
@@ -113,23 +120,24 @@ news, opportunities, events and training for you.
     - Funding to support community-led projects with focus on leadership training and dRTP career pathways
 - [Request for Applications: Open Source for the Life Sciences](https://os4science.org/funding_opportunity/os4ls/) EOI deadline 2026-06-08
 - [JOSS is seeking a new Editor-in-Chief](https://blog.joss.theoj.org/2026/05/call-for-editor-in-chief) Deadline 2026-06-19
+- [Latest round of SHAREing flexible fund applications is now open](https://shareing-dri.github.io/task-map/) Deadline 2026-07-08
 - [CaSDaR Data Stewardship Event Contribution Awards](https://forms.office.com/e/KWgJxsP9UL) 
     - Funding of up to £3,000 to support local and regional communities to deliver events that promote Data Stewardship
 - [List of UK DRI Funding Opportunities compiled by CAKE](https://www.cake.ac.uk/funds/) 
+- [Open Source for Science Funding opportunities](https://os4science.org/)
 
 
 ---
 
 ### Jobs
-
+- [King's College London Digital Lab is recruiting a Research Software Engineer or Senior Research Software Engineer](https://www.kcl.ac.uk/jobs/145925-research-software-engineer-senior-research-software-engineer) Closes 2026-05-22
+    - Working in the arts and humanities to produce a heterogeneous range of high quality digital scholarly outputs.
 - [Netherlands eScience Center is recruiting Research Software Engineers](https://www.esciencecenter.nl/vacancies/) Closes 2026-05-25
     - Domains recruited:
         - Social Sciences & Humanities
         - Natural Sciences & Egnineering
         - Live Sciences
         - Environment & Sustainability
-- [King's College London Digital Lab is recruiting a Research Software Engineer or Senior Research Software Engineer](https://www.kcl.ac.uk/jobs/145925-research-software-engineer-senior-research-software-engineer) Closes 2026-05-22
-    - Working in the arts and humanities to produce a heterogeneous range of high quality digital scholarly outputs.
 --- 
 
 ### Community
