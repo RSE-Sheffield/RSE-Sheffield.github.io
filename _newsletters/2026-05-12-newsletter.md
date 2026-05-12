@@ -37,6 +37,10 @@ news, opportunities, events and training for you.
 
 #### Upcoming Events in Sheffield
 
+- [ReproducibiliTea Journal Club](https://reproducibilitea-sheffield.github.io/posts/2026-05-13/)
+  - 2026-05-13 13:00-14:00
+  - Arts Tower, Room 111
+  - [Join online](https://meet.google.com/ecz-fgde-jsg)
 - [OpenFest2026](https://sheffield.ac.uk/openresearch/events/openfest-2026) - Sheffield's flagship celebration and exploration of open research.
   - 2026-09-15 to 2026-09-18
   - Submission deadline 2026-05-30
