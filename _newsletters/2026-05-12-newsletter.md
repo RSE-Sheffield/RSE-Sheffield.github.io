@@ -90,7 +90,7 @@ news, opportunities, events and training for you.
 #### Articles 
 
 - [Large language models are not the problem](https://www.nature.com/articles/s41550-026-02837-2)
-
+- [How hidden contributions power modern research](https://www.nature.com/articles/d41586-026-01260-x)
 <!-- #### Blogs -->
 
 <!-- #### Papers -->
