@@ -88,6 +88,7 @@ news, opportunities, events and training for you.
 - [GPU Performance Portability Workshop](https://dirac.ac.uk/training_events/gpu-performance-portability-workshop-expression-of-interest/)
     - 2026-09-15 to 2026-09-17 
     - Expression of interest to attend closes 2026-06-08
+
 ---
 
 ### Articles, Blogs, Papers, Pre-Prints, Podcasts/Videos & Books
