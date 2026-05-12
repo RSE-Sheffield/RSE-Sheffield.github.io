@@ -99,7 +99,9 @@ news, opportunities, events and training for you.
 
 <!-- #### Podcasts & Videos -->
 
-<!-- #### Books -->
+#### Books
+
+- [The Psychology of Software Teams by Cat Hicks](https://www.routledge.com/The-Psychology-of-Software-Teams/Hicks/p/book/9781032963389) will be published 2026-06-14.
 
 ---
 
