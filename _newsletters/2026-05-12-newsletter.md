@@ -128,7 +128,8 @@ news, opportunities, events and training for you.
         - Natural Sciences & Egnineering
         - Live Sciences
         - Environment & Sustainability
-
+- [King's College London Digital Lab is recruiting a Research Software Engineer or Senior Research Software Engineer](https://www.kcl.ac.uk/jobs/145925-research-software-engineer-senior-research-software-engineer) Closes 2026-05-22
+    - Working in the arts and humanities to produce a heterogeneous range of high quality digital scholarly outputs.
 --- 
 
 ### Community
