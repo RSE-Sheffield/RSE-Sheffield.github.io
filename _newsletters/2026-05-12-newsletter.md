@@ -135,9 +135,10 @@ news, opportunities, events and training for you.
 - [Netherlands eScience Center is recruiting Research Software Engineers](https://www.esciencecenter.nl/vacancies/) Closes 2026-05-25
     - Domains recruited:
         - Social Sciences & Humanities
-        - Natural Sciences & Egnineering
-        - Live Sciences
+        - Natural Sciences & Engineering
+        - Live Sciences 
         - Environment & Sustainability
+
 --- 
 
 ### Community
