@@ -6,7 +6,7 @@ published: true
 othernames: Edwin
 surname: Brown
 role: Senior Research Software Engineer
-image: https://cdn.sheffield.ac.uk/sites/default/files/styles/profile_modal/public/2024-08/076_Edwin_Brown_COM.jpg?h=06088f94&itok=U70Gd8Fv
+image: /assets/images/team/edwin-brown.jpg
 links:
     - url: mailto:w.e.brown@sheffield.ac.uk
       icon: 

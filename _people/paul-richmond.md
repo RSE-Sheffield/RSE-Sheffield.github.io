@@ -6,7 +6,7 @@ published: true
 othernames: Paul
 surname: Richmond
 role: Former Group Director
-image:
+image: /assets/images/team/paul-richmond.jpg
 links:
 extra_links:
 

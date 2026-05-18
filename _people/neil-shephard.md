@@ -6,7 +6,7 @@ published: true
 othernames: Neil
 surname: Shephard
 role: Research Software Engineer
-image: https://cdn.sheffield.ac.uk/sites/default/files/styles/profile_modal/public/2023-07/CS_Headshots_013.jpg?h=4a8cf41e&itok=OH3mXgtg
+image: /assets/images/team/neil-shephard.jpg
 links:
     - url: mailto:n.shephard@sheffield.ac.uk
       icon:
