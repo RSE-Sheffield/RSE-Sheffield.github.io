@@ -1,6 +1,14 @@
 ---
 items:
 
+  - title: "Causality-Driven Test Case Minimisation for Cyber-Physical Systems"
+    authors: "<strong>M. Foster (RSE)</strong>, C M. Poskitt, N R. Latimer, N Walkinshaw, R Somers, and R M. Hierons"
+    type: "journal"
+    venue: "Transactions on Software Engineering and Methodology"
+    date: 2026
+    url1: "https://doi.org/10.1145/3816435"
+    url1_label: "View DOI"
+
   - title: "Chatbot-Assisted Explainability of AI-Powered Models and Collection of User Feedback"
     authors: "O. Razuvayevskaya, <strong>Michael Foster (RSE)</strong> and K. Bontcheva"
     type: "book chapter"
