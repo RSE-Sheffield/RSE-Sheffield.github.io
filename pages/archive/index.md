@@ -13,3 +13,4 @@ This is a list of archived pages.
 - [Seminar series](/community/seminars)
 - [Lunch Bytes talks](/community/lunch-bytes)
 - [Researcher AI and ML Resources](/training/deeplearning)
+- [Introduction to Deep Learning](/learning/deep-learning)
