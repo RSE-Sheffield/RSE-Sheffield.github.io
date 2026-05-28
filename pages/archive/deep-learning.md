@@ -5,6 +5,8 @@ type: text
 permalink: /learning/deep-learning
 ---
 
+<div class="alert alert-danger" role="alert"> This page has been archived and is retained solely for reference purposes.</div>
+
 Can be delivered for **Python** or **R**.
 
 **Prerequisite skills:** Basic **Python** or **R**.
