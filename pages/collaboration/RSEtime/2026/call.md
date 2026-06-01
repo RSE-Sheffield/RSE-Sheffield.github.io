@@ -28,14 +28,35 @@ large international consortiums and industry. Areas of expertise within the grou
 To support the _One University_ vision and the University research community we are pleased to announce for the third
 consecutive year the **2026 RSE collaboration call for proposals**. This initiative aims to facilitate access to RSE
 expertise for researchers who require assistance with software development, optimization, or other computational
-challenges to help make their research software Findable, Accessible, Interoperable and Reusable
-([FAIR4RS](https://doi.org/10.1038/s41597-022-01710-x)) which is an important component of Open Research now that
+challenges to help make their research software more robust and improve alignment with the [FAIR Principles for Research
+Software](https://doi.org/10.1038/s41597-022-01710-x)) which is an important component of Open Research now that
 eligible output for REF2029 has been expanded to include [software and
 code](https://2029.ref.ac.uk/guidance/section-4-contributions-to-knowledge-and-understanding-cku-guidance/#5.6.4.).
 
 Previous calls in [2024](https://rse.shef.ac.uk/blog/2024-09-24-funded-proposals/) received 26 submission and the
 [2025](https://rse.shef.ac.uk/blog/2025-09-30-funded-proposals/) call saw the number of applications increase to 35
 applications so . Read about the proposals in the above linked blog posts.
+
+#### Funding and support
+
+<center>
+<img src="/assets/images/logo/rse-logoonly-stroke.png" alt="Research Software Engineering" width="100">
+<img src="/assets/images/royce/HenryRoyceInstitute_MasterLogo_RGB_Black.png" alt="Henry Royce Institute" width="250">
+<img src="/assets/images/logo/IT_Services_Midnight_Black.png" alt="IT Services" width="250">
+</center>
+
+Previous calls for proposals were fully funded internally the University through IT services who continue to support the
+initiative. This year we welcome a new partner, the [Royce institute](https://sheffield.ac.uk/royce-institute). The
+Henry Royce Institute is committed to supporting the digitalisation of materials science research across the UK. As part
+of this commitment, Royce is seed funding two projects from this call on any topic in materials science that would
+benefit from collaborating with the research software engineering team.
+
+We will select at least 4 projects to support. Two of these projects will be dedicated to material science and funded by
+Royce and the other two other can come from any research domain (see _Eligibility_ section below). **Selected proposals
+will receive 6 months @ 45-50% FTE of RSE support**. The start date will be decided by the RSE team based on the project
+timeline and RSEs availability. **The duration of the project will not exceed 6 months but might be shortened with a
+higher FTE fraction (e.g. 3 months @ 100%**. In addition, the collaboration will be continuous and can not be split into
+multiple shorter, disjointed periods of time.
 
 #### Objective
 
@@ -50,29 +71,13 @@ enhance the quality, reliability, and impact of research projects across diverse
 - Projects must involve significant software development that would benefit from RSE expertise.
 - Preference may be given to projects with potential high impact or those addressing pressing scientific challenges.
 
-#### Funding and support
-
-For this call, the team will select four projects. **Selected proposals will receive 6 months @ 45-50% FTE of RSE
-support**. The start date will be decided by the RSE team based on the project timeline and RSEs availability. **The
-duration of the project will not exceed 6 months but might be shortened with a higher FTE fraction (e.g. 3 months @
-100%**. In addition, the collaboration will be continuous and can not be split into multiple shorter, disjointed periods
-of time.
-
-**NB** Two of the selected projects are reserved for projects associated with the Royce Institute who are
-under-writing part of the call.
-
-<center>
-<img src="/assets/images/logo/rse-logoonly-stroke.png" alt="Research Software Engineering" width="100">
-<img src="/assets/images/royce/HenryRoyceInstitute_MasterLogo_RGB_Black.png" alt="Henry Royce Institute" width="250">
-<img src="/assets/images/logo/IT_Services_Midnight_Black.png" alt="IT Services" width="250">
-</center>
 
 ### Application guidelines
 
 An application template for this call has been prepared and is available
-[here](https://docs.google.com/document/d/1yzqS8gS-iCQ4HgM3dBcYEfYsS9E1Zm28CguZrTMl22M/edit?usp=sharing). This is a
+[here](https://docs.google.com/document/d/1DY2fdqBW26T433ejI4VdsMxJpdKmsyFfq5qOjQul3pw/edit?). This is a
 locked file so please make a copy and use it to draft your proposal. When you are ready to submit please use the
-[form](https://forms.gle/UGFz35xiXXx9GtEDA). Further details about each section are given below.
+[form](https://forms.gle/yYewV8wEbFNpNxyu8). Further details about each section are given below.
 
 - **Abstract [max 600 words]:** Provide a brief description of the research project, its objectives and the role of
   software or computation methods in achieving these objectives. As reviewers might not be expert in your field, please
@@ -92,10 +97,12 @@ locked file so please make a copy and use it to draft your proposal. When you ar
 - **Impact statement [max 200 words]:** Explain how access to free RSE time would benefit the project and contribute to
   its success or broader research goals.
 
+- **Does the project fall within materials science?:** If "_Yes_" it will be considered for the Royce sponsored funding.
+
 - **Existing material [max 200 words]:** Briefly explain what existing material you already have: Data, Software,
   Documentation…
 
-- **Preferred timeline:** what would be the ideal time distribution of the RSE.
+- **Preferred timeline:** what would be the ideal start date of the RSE.
 
 **The application should be submitted via the [form](https://forms.gle/5v1XoN2QhRKxQJYS6) no later than the 17:00 BST 10th July
 2026.**
@@ -128,8 +135,8 @@ attend a short interview with three members of staff from the RSE and DAS teams.
 
 ### Important dates
 
-- Call Opens: 4th June 2026
-- Deadline for proposal submission: 17:00 10th July 2026
+- Call Opens: 5th June 2026
+- Deadline for proposal submission: 17:00 14th July 2026
 - Shortlisting for interview: July 17th 2026
 - Interview: July 22nd 2026
 - Notification of Decision: July 29th 2026
