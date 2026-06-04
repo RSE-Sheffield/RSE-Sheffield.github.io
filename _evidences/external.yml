@@ -1,6 +1,14 @@
 ---
 items:
 
+  - title: "Curating legacy resting-state EEG datasets using RS-BIDSify"
+    member: "D. Brady"
+    type: "Invite"
+    details: "OHBM Brainhack 2026 - EEG101 Workshop"
+    date: "2026"
+    url: "https://ancplaboldenburg.github.io/indos-eeg101-workshops-brainhack/#session-rsbidsify"
+    url_name: "Event webpage"
+
   - title: "Scientometrics sandpit"
     member: "M. Foster (PI)"
     type: "Invite"

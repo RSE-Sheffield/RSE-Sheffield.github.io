@@ -1,6 +1,12 @@
 ---
 items:
 
+  - title: "Short-term Scientific Mission - Towards a Unified EEG BIDS-Conversion Tool: Aligning EEGManyLabs and CRPN Aix-Marseille Univ. Standardization Workflows"
+    type: "grant"
+    authors: "<strong>D. Brady (RSE)</strong>"
+    venue: "EEG101 COST Action"
+    date: "2026"
+
   - title: "Causality-Driven Test Case Minimisation for Cyber-Physical Systems"
     authors: "<strong>M. Foster (RSE)</strong>, C. M. Poskitt, N. R. Latimer, N. Walkinshaw, R. Somers, and R. M. Hierons"
     type: "journal"
