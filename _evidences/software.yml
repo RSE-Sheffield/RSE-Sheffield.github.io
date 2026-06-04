@@ -1,8 +1,17 @@
 ---
 items:
 
+  - software_title: "RS-BIDSify"
+    authors: "<strong>D. Brady</strong>"
+    PI: "M. Arvaneh"
+    Faculty: "Faculty of Engineering"
+    type: "repository"
+    date: "2026"
+    url1: "https://github.com/ubdbra001/rs-bidsify"
+    url1_label: "Repository"
+
   - software_title: "Memory tasks for Jacobs Foundation Grant"
-    authors: "<strong> D. Brady</strong>"
+    authors: "<strong>D. Brady</strong>"
     PI: "A. Forsberg"
     Faculty: "Faculty of Science"
     type: "archive"
@@ -192,6 +201,15 @@ items:
 
   - title:
     year: 2023
+
+  - software_title: "OuMshiny"
+    authors: "<strong>D.Brady</strong>"
+    PI: "T. Stafford"
+    Faculty: "Faculty of Science"
+    type: "repository"
+    date: "2023"
+    url1: "https://github.com/RSE-Sheffield/OuMshiny"
+    url1_label: "Repository"
 
   - software_title: "gate-teamware"
     authors: "<strong>T. Karmakharm, D. Wilby</strong>"
