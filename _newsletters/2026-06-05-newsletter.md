@@ -96,7 +96,7 @@ The goal of this book is to reduce the frequency and severity of errors in all f
 
 #### Training Materials
 
-- [Managing Research Software Projects](https://third-bit.com/mrsp/)
+- [Managing Research Software Projects](https://third-bit.com/mrsp/) workshop material.
 
 ---
 
