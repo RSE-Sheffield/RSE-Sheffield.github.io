@@ -20,6 +20,8 @@ slides_url:
 
 ## Overview
 
+**Note: This workshop is held on a Saturday.**
+
 Join NVIDIA, the University of Sheffield Centre for Machine Intelligence (CMI) and Research Software Engineering (RSE),
 and the N8 consortium for the "Building Practical AI Agents Using Claw: Hands-On Workshop". This one-day workshop
 introduces participants to AI agents using Claw through a practical mix of short talks, guided setup, hands-on
