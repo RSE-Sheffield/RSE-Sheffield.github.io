@@ -24,7 +24,7 @@ news, opportunities, events and training for you.
 - **RSE Call for Proposals 2026 is live**  
   6 months at 0.5 FTE RSE collaboration is available for four projects, two of which are funded by the Henry Royce Institute and will support projects from Materials Science. [Full details](https://rse.shef.ac.uk/collaboration/RSEtime/2026/) - Submission deadline is **1700 BST 10/07/2026**
 
-- [Hidden REF 2026 is open](https://hidden-ref.org/hidden-ref-competition/), and they've added new categories including environmental sustainability.
+- [Hidden REF 2026 is open](https://hidden-ref.org/hidden-ref-competition/), and they've added new categories including environmental sustainability. - Submission deadline is **2026-09-13**
 
 ---
 
