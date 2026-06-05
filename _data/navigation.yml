@@ -2,14 +2,12 @@
   subitems:
     - title: About the RSE team
       url: /about-us/about-rse
+    - title: Team members
+      url: /about-us/team
     - title: News
       url: /about-us/rsenews
     - title: Contact us
       url: /about-us/contact
-    - title: Team members
-      url: /about-us/team
-    - title: Alumni
-      url: /about-us/alumni
     - title: Job Descriptions
       url: /about-us/job-descriptions
 
