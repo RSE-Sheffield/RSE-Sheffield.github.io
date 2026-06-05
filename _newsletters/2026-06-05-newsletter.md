@@ -22,7 +22,7 @@ news, opportunities, events and training for you.
 ### News
 
 - **RSE Call for Proposals 2026 is live**  
-  6 months at 0.5 FTE RSE collaboration is available for four projects, two of which are funded by the Henry Royce Institute and will support projects from Materials Science. [Full details](https://rse.shef.ac.uk/collaboration/RSEtime/2026/) - Submission deadline is **1700 BST 10/07/2026**
+  6 months at 0.5 FTE RSE collaboration is available for four projects, two of which are funded by the Henry Royce Institute and will support projects from Materials Science. [Full details](https://rse.shef.ac.uk/collaboration/RSEtime/2026/) - Submission deadline is **1700 BST 10th July 2026**
 
 - [Hidden REF 2026 is open](https://hidden-ref.org/hidden-ref-competition/), and they've added new categories including environmental sustainability. - Submission deadline is **2026-09-13**
 
@@ -38,14 +38,13 @@ news, opportunities, events and training for you.
 
 <!-- You can sign up on [MyDevelopment]() (requires sign in to MUSE). -->
 
-
 #### Upcoming Events in Sheffield
 
 - **Last chance** - The [Bio-AI interest group](https://sheffield.ac.uk/machine-intelligence/community/interest-groups/bioscience-and-ai) is organising a sandpit discussion event on the topic of AI-powered biological image analysis on **1230-1430 07/07/2026, Diamond Workroom 3**.
   - The event is open to all and encourages participation from interested colleagues working in diverse fields (e.g. bioscience, computer science, medicine, geography, psychology, engineering etc.).
-  - If you are interested in attending and/or presenting, please [sign up](https://forms.gle/CEDfdvKdPTj4u9mc9) by **08/06/2026**.
+  - If you are interested in attending and/or presenting, please [sign up](https://forms.gle/CEDfdvKdPTj4u9mc9) by **8th June 2026**.
 
-- Tools for Data FAIRification - overcoming barriers in data discoverability and reuse - Online Seminar: **1300-1500 23/06/2026** -  [Register here](https://forms.gle/jthN9JDR6hUsQAUx8)  
+- Tools for Data FAIRification - overcoming barriers in data discoverability and reuse - Online Seminar: **1300-1500 23 June 2026** -  [Register here](https://forms.gle/jthN9JDR6hUsQAUx8)  
 This seminar is part of Sheffield’s [Data Stewards Network](https://sheffield.ac.uk/library/research-data-management/data-steward-network) in collaboration with the [N8 Centre of Excellence in Computationally Intensive Research](https://n8cir.org.uk/).  
 Talks include:
   - Streamlining Data Management Planning - Kryštof Komanec (Czech Technical University / DSW / FAIR Wizard)
@@ -56,7 +55,7 @@ Talks include:
 #### Upcoming External Events
 
 - **Last chance** - [Agile Project Management Training Programme](https://research-it.manchester.ac.uk/events/agile-project-management-training-for-drtps/)  
-**Online, 0930-1630 19/06/2026** - Sign-up deadline: **10/06/2026**  
+**Online, 0930-1630 19th June 2026** - Sign-up deadline: **10th June 2026**  
 Designed for digital Research Technical Professionals (dRTPs) to help bridge the gap between traditional research and Agile delivery.  
 Programme Highlights:
   - Targeted Learning: Covers Scrum, Kanban, and hybrid frameworks specifically for research environments.
@@ -78,7 +77,7 @@ Details how Nature Computational Science went about being fully compliant with o
 
 #### Papers
 
-- [Journal of Open Source Software: FAIRLinked: Data FAIRification Tools for Materials Data Science](https://joss.theoj.org/papers/10.21105/joss.09628)
+- [FAIRLinked: Data FAIRification Tools for Materials Data Science](https://joss.theoj.org/papers/10.21105/joss.09628)
 
 - [Peer code review in research software development: The research software engineer perspective](https://doi.org/10.1007/s10664-025-10785-0)
 
@@ -91,8 +90,7 @@ Details how Nature Computational Science went about being fully compliant with o
 
 #### Books
 
-- [Test-Driven Data Analysis](https://book.tdda.info/) - 
-The goal of this book is to reduce the frequency and severity of errors in all forms of data processing and analysis, from the simplest query to the most complex machine-learning data pipeline
+- [Test-Driven Data Analysis](https://book.tdda.info/) - The goal of this book is to reduce the frequency and severity of errors in all forms of data processing and analysis, from the simplest query to the most complex machine-learning data pipeline.
 
 #### Training Materials
 
@@ -102,23 +100,22 @@ The goal of this book is to reduce the frequency and severity of errors in all f
 
 ### Opportunities
 
-- UKRI are looking for new members to join the UKRI Advisory Group for Digital Research Infrastructure (AGD). Deadline 7 August 2026 (5pm). Full deatils [here](https://www.ukri.org/who-we-are/work-for-us/join-an-advisory-committee-panel-or-network/digital-research-infrastructure-advisory-group-member-vacancies/).
-
+- UKRI are looking for new members to join the UKRI Advisory Group for Digital Research Infrastructure (AGD). Deadline 1700 7th August 2026. [Full details](https://www.ukri.org/who-we-are/work-for-us/join-an-advisory-committee-panel-or-network/digital-research-infrastructure-advisory-group-member-vacancies/).
 
 #### Surveys
 
-- [Exploring the usage of project management practices among digital research technical professionals (dRTPs) at the University of Sheffield](https://forms.gle/e5FWuWqTeye6Xg3g6) - This survey explores the usage of project management practices among individuals working at the Univerist of Sheffield who categorise themselves as digital research technical professionals (dRTPs) | **Deadline 10/07/2026**
+- [Exploring the usage of project management practices among digital research technical professionals (dRTPs) at the University of Sheffield](https://forms.gle/e5FWuWqTeye6Xg3g6) - This survey explores the usage of project management practices among individuals working at the Univerist of Sheffield who categorise themselves as digital research technical professionals (dRTPs). Deadline: **10th July 2026**
 
-- [Exploring how Research Technicians and Technology & Skills Specialists (RTPs) engage with open research, the challenges faced, and what support, training, and recognition are needed](https://www.qualtrics.manchester.ac.uk/jfe/form/SV_8CGJpNZnV6Ecwgm) - This survey focuses on how RTP roles contribute to strengthening research integrity, transparency, and reproducibility, and how these contributions are recognised and supported across institutions. We are also interested in understanding how the technician community is perceived, the challenges faced in engaging with open research, and what support, resources, or recognition could further enable RTPs to contribute to open and trustworthy science. | **Deadline 15/06/2026**
+- [Exploring how Research Technicians and Technology & Skills Specialists (RTPs) engage with open research, the challenges faced, and what support, training, and recognition are needed](https://www.qualtrics.manchester.ac.uk/jfe/form/SV_8CGJpNZnV6Ecwgm) - This survey focuses on how RTP roles contribute to strengthening research integrity, transparency, and reproducibility, and how these contributions are recognised and supported across institutions. We are also interested in understanding how the technician community is perceived, the challenges faced in engaging with open research, and what support, resources, or recognition could further enable RTPs to contribute to open and trustworthy science. Deadline: **15th June 2026**
 
-- [Impact of Generative AI on Software Development, Application and Licensing Models](https://forms.gle/gbEiGSsnN9mZXk2L9) - Originally inspired by research software engineers from within materials modelling communities this survey aims to build our understanding and capture usage and adoption of Generative AI in the domain of Research Software Engineering
+- [Impact of Generative AI on Software Development, Application and Licensing Models](https://forms.gle/gbEiGSsnN9mZXk2L9) - Originally inspired by research software engineers from within materials modelling communities this survey aims to build our understanding and capture usage and adoption of Generative AI in the domain of Research Software Engineering. Results will be released at the end of July.
 
 <!-- 
 ---
 
 ### Jobs -->
 
---- 
+---
 
 ### Community
 
@@ -131,8 +128,7 @@ You can join the google group
 [here](https://groups.google.com/u/1/a/sheffield.ac.uk/g/digital-research-practice-support-community-group/about) to
 stay informed.
 
-The next meeting is scheduled for 2pm on Wednesday 2026-07-15.
-
+The next meeting is scheduled for 2pm on Wednesday 15th August 2026.
 
 <!-- Not currently active, conflicts with alternatively named RSE Seminar Series
 #### LunchBytes
