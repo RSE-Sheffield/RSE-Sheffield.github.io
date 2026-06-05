@@ -92,6 +92,8 @@ Details how Nature Computational Science went about being fully compliant with o
 
 - [Test-Driven Data Analysis](https://book.tdda.info/) - The goal of this book is to reduce the frequency and severity of errors in all forms of data processing and analysis, from the simplest query to the most complex machine-learning data pipeline.
 
+- [The Psychology of Software Teams](https://www.routledge.com/The-Psychology-of-Software-Teams/Hicks/p/book/9781032963389) - Available to preorder from **23rd June 2026**, and due for publication **14th August 2026**.
+
 #### Training Materials
 
 - [Managing Research Software Projects](https://third-bit.com/mrsp/) workshop material.
@@ -100,7 +102,7 @@ Details how Nature Computational Science went about being fully compliant with o
 
 ### Opportunities
 
-- UKRI are looking for new members to join the UKRI Advisory Group for Digital Research Infrastructure (AGD). Deadline 1700 7th August 2026. [Full details](https://www.ukri.org/who-we-are/work-for-us/join-an-advisory-committee-panel-or-network/digital-research-infrastructure-advisory-group-member-vacancies/).
+- UKRI are looking for new members to join the UKRI Advisory Group for Digital Research Infrastructure (AGD). Deadline **1700 7th August 2026**. [Full details](https://www.ukri.org/who-we-are/work-for-us/join-an-advisory-committee-panel-or-network/digital-research-infrastructure-advisory-group-member-vacancies/).
 
 #### Surveys
 
