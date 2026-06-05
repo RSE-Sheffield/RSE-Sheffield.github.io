@@ -7,8 +7,6 @@ type: text
 
 ### Rationale
 
-#### Introduction
-
 The University of Sheffield recognises the critical role that Research Software Engineers (RSEs) play in advancing
 scientific research. The University of Sheffield Research Software Engineering (RSE) team was founded in 2016 by two
 EPSRC RSE fellows to develop research software and collaborate with academics/researchers developing research
@@ -45,14 +43,14 @@ applications so . Read about the proposals in the above linked blog posts.
 <img src="/assets/images/logo/IT_Services_Midnight_Black.png" alt="IT Services" width="250">
 </center>
 
-Previous calls for proposals were fully funded internally the University through IT services who continue to support the
-initiative. This year we welcome a new partner, the [Royce institute](https://sheffield.ac.uk/royce-institute). The
+Previous calls for proposals were fully funded internally by the University through IT services who continue to support
+the initiative. This year we welcome a new partner, the [Royce institute](https://sheffield.ac.uk/royce-institute). The
 Henry Royce Institute is committed to supporting the digitalisation of materials science research across the UK. As part
 of this commitment, Royce is seed funding two projects from this call on any topic in materials science that would
 benefit from collaborating with the research software engineering team.
 
 We will select at least 4 projects to support. Two of these projects will be dedicated to material science and funded by
-Royce and the other two other can come from any research domain (see _Eligibility_ section below). **Selected proposals
+Royce, the others can come from any research domain (see _Eligibility_ section below). **Selected proposals
 will receive 6 months @ 45-50% FTE of RSE support**. The start date will be decided by the RSE team based on the project
 timeline and RSEs availability. **The duration of the project will not exceed 6 months but might be shortened with a
 higher FTE fraction (e.g. 3 months @ 100%**. In addition, the collaboration will be continuous and can not be split into
@@ -60,7 +58,7 @@ multiple shorter, disjointed periods of time.
 
 #### Objective
 
-The objective of this call is to offer dedicated RSE collaboration to researchers who may lack the resources or
+The objective of this call is to create collaborations between RSEs and researchers who may lack the resources or
 expertise to effectively develop and maintain research software. By providing free access to RSE expertise, we aim to
 enhance the quality, reliability, and impact of research projects across diverse disciplines.
 
