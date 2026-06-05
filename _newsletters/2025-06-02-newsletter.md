@@ -18,7 +18,7 @@ Welcome to the June 2025 newsletter for the research software community at The U
 
 ### News
 
-- [RSE Call for Proposals 2025](https://rse.shef.ac.uk/collaboration/RSEtime/2025/) is now open.
+- [RSE Call for Proposals 2025](https://rse.shef.ac.uk/opportunities/cfp/) is now open.
     - To support the One University vision and the University research community we are pleased to announce for the second consecutive year the 2025 RSE collaboration call for proposals. This initiative aims to facilitate access to RSE expertise for researchers who require assistance with software development, optimization, or other computational challenges.
     - For this round we will select two projects that will receive 6 months @ 50% FTE of free RSE collaboration.
     - We received 26 submissions to last year's call, [you can read a summary of the proposals on our blog](https://rse.shef.ac.uk/blog/2024-09-24-funded-proposals/).

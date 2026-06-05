@@ -22,7 +22,7 @@ news, opportunities, events and training for you.
 
 - At the Sheffield RSE team, we've recently refreshed parts of our website:
   - All-new [projects page](https://rse.shef.ac.uk/collaboration/projects/), highlighting the diverse range of projects we've collaborated on.
-  - Redesigned [team page](https://rse.shef.ac.uk/contact/team/), now including photos of most of our team's members.
+  - Redesigned [team page](https://rse.shef.ac.uk/about-us/team/), now including photos of most of our team's members.
 - Society RSE has began their consultation process for updating their ethical sponsorship policy. The first survey has closed, and the second for [arguments against each of the proposed areas to be submit](https://docs.google.com/forms/d/e/1FAIpQLSfXcIoUTJnEtA53rgVJOIQ-BbhEIHu6zulCVR1RS6JMfhAQ5g/viewform?usp=publish-editor), closes 29th December. More information can be found on [Society RSE's website](https://society-rse.org/about/policies/avoidance-criteria-for-ethical-sponsorship-policy/).
 - Version 1.3.0 of the [Research Software Quality Toolkit ({RSQ}Kit)](https://everse.software/RSQKit/) has released.
 
@@ -202,7 +202,7 @@ advice on everything from statistics to ML to data pipelines and training for bo
 
 Working with academics, our staff are embedded within research groups on both long and short term engagements.
 
-[CCs]: https://rse.shef.ac.uk/support/code-clinic/
+[CCs]: https://rse.shef.ac.uk/opportunities/code-clinic/
 [hpc-mailing]: https://groups.google.com/u/1/a/sheffield.ac.uk/g/hpc
 [its-res-it]: https://www.sheffield.ac.uk/it-services/research/
 [lunchbytes]: https://rse.shef.ac.uk/community/lunch-bytes/
