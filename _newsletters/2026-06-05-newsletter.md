@@ -44,7 +44,7 @@ news, opportunities, events and training for you.
   - The event is open to all and encourages participation from interested colleagues working in diverse fields (e.g. bioscience, computer science, medicine, geography, psychology, engineering etc.).
   - If you are interested in attending and/or presenting, please [sign up](https://forms.gle/CEDfdvKdPTj4u9mc9) by **8th June 2026**.
 
-- Tools for Data FAIRification - overcoming barriers in data discoverability and reuse - Online Seminar: **1300-1500 23 June 2026** -  [Register here](https://forms.gle/jthN9JDR6hUsQAUx8)  
+- Tools for Data FAIRification - overcoming barriers in data discoverability and reuse - Online Seminar: **1300-1500 23rd June 2026** -  [Register here](https://forms.gle/jthN9JDR6hUsQAUx8)  
 This seminar is part of Sheffield’s [Data Stewards Network](https://sheffield.ac.uk/library/research-data-management/data-steward-network) in collaboration with the [N8 Centre of Excellence in Computationally Intensive Research](https://n8cir.org.uk/).  
 Talks include:
   - Streamlining Data Management Planning - Kryštof Komanec (Czech Technical University / DSW / FAIR Wizard)
