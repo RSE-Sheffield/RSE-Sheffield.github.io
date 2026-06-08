@@ -2,8 +2,8 @@
 layout: post
 title: June 2026 Newsletter
 editor: Dan Brady
-slug: 2026-06-05-newsletter
-date: 2026-06-05T12:00:00Z+0100
+slug: 2026-06-08-newsletter
+date: 2026-06-08T12:00:00Z+0100
 tags:
 category:
 link:
@@ -51,6 +51,10 @@ Talks include:
   - Maximising Data Reusability - Matthew Nichols (UK Centre for Ecology & Hydrology)
   - Automated ReadMe Generation - Ali Abdurhman Kelil & Dag-Even Martinsen Torsøe (University of South-Eastern Norway)
   - Electronic Notebooks - Zuzanna Zagrodzka (University of Manchester)  
+
+- Building Practical AI Agents Using Claw: Hands-On Workshop - **0900-1600 11th July 2026**
+  - This one-day workshop introduces participants to AI agents using Claw through a practical mix of short talks, guided setup, hands-on exploration, and open workshop time.  
+  - [Register here](https://rse.shef.ac.uk/events/workshop-2026-07-11-building-practical-ai-agents-using-claw.html)  
 
 #### Upcoming External Events
 
