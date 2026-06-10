@@ -6,10 +6,10 @@
       url: /about-us/team
     - title: News
       url: /about-us/rsenews
-    - title: Contact us
-      url: /about-us/contact
     - title: Job Descriptions
       url: /about-us/job-descriptions
+    - title: Contact us
+      url: /contact
 
 - title: "Collaborating"
   subitems:

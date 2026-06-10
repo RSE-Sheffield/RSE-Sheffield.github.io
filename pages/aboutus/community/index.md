@@ -5,7 +5,7 @@ slug: index
 type: text
 ---
 
-The best way to keep updated with the Sheffield RSE community is to join the **[RSE Sheffield Google Group](https://groups.google.com/a/sheffield.ac.uk/g/rse-group)** and the **[RSE Sheffield Slack workspace](https://join.slack.com/t/RSE-UoS/signup)**. See the [Contact Us](/about-us/contact/) page for more details on these and how to join.
+The best way to keep updated with the Sheffield RSE community is to join the **[RSE Sheffield Google Group](https://groups.google.com/a/sheffield.ac.uk/g/rse-group)** and the **[RSE Sheffield Slack workspace](https://join.slack.com/t/RSE-UoS/signup)**. See the [Contact Us](/contact/) page for more details on these and how to join.
 
 ## Other Initiatives at the University of Sheffield
 

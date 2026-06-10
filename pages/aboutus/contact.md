@@ -1,8 +1,8 @@
 ---
 title: Contact Us
-permalink: /about-us/contact/
+permalink: /contact/
 redirect_from:
-  - /contact/
+  - /about-us/contact/
   - /community/slack/
 slug: index
 type: text
