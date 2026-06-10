@@ -5,19 +5,7 @@ slug: index
 type: text
 ---
 
-The RSE group supports research software developers (any researcher who develops software) and research software engineers
-across the university through our community activities.
-The best way to keep updated on these is to 
-join [**RSE Sheffield's Announcements Google Group**](https://groups.google.com/a/sheffield.ac.uk/g/rse-group):
-
-<a href="https://groups.google.com/a/sheffield.ac.uk/g/rse-group">
-<img src="/assets/images/google-group.png" alt="RSE Sheffield Announcement Google Group" style="display: block; margin-left: auto; margin-right: auto; width: 10%;" />
-</a>
-
-The mailing list is for moderated announcements only (not discussion) but
-you are welcome to post any announcements which you feel may be of interest to the community
-(e.g. training or interesting talks and events)!
-
+The best way to keep updated with the Sheffield RSE community is to join the **[RSE Sheffield Google Group](https://groups.google.com/a/sheffield.ac.uk/g/rse-group)** and the **[RSE Sheffield Slack workspace](https://join.slack.com/t/RSE-UoS/signup)**. See the [Contact Us](/about-us/contact/) page for more details on these and how to join.
 
 ## Other Initiatives at the University of Sheffield
 
