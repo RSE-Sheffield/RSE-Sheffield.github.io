@@ -53,7 +53,7 @@ jobs:
 
       # Save HTML for later
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
           path: _site/
 
@@ -69,8 +69,8 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
-  
+        uses: actions/deploy-pages@v5
+
   # Trigger the build of the rse.sheffield.ac.uk mirror
   mirror:
     if: ${{ ( github.event_name == 'workflow_dispatch' || github.event_name == 'push' ) && github.ref == 'refs/heads/master' && github.repository_owner == 'RSE-Sheffield' }}
