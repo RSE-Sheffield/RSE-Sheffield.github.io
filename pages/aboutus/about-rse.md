@@ -6,7 +6,7 @@ type: text
 ---
 Our mission is to equip the current and next generations of researchers with the expertise and skills to navigate and lead in the era of digital research. As data and research methods are becoming more complex and more computationally demanding, we aim to ensure that all researchers and aspiring researchers have access to the necessary knowledge to be proficient in developing and maintaining advanced analytical research software tools.
 We seek to expand research software engineering by integrating it deeply into the academic web and fostering multiple RSE profiles, thereby encouraging interdisciplinary innovations.
-Through comprehensive programs and collaborations, we will lead, support and guide the research community in leveraging software and data engineering following open research practices to achieve groundbreaking advancements
+Through comprehensive programs and collaborations, we will lead, support and guide the research community in leveraging software and data engineering following open research practices to achieve groundbreaking advancements.
 
 
 Research Software Engineers [RSEs] at the University of Sheffield [TUoS] hold permanent research contracts and are specialised in the application of software technique to research projects. Our team brings together individuals from a wide range of disciplinary backgrounds, including computer science, health, neuroscience, psychology, geophysics, environmental science, genetics, astronomy, chemistry and more.
