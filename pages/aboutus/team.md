@@ -23,7 +23,7 @@ Current members of the Research Software Engineering team are listed below.
 <div class="people-list row">
 {% for person in people %}
   {% if person.alumnum == false %}
-    <div class="col-12 col-sm-6 col-lg-4 mb-4 d-flex">
+    <div class="col-12 col-sm-6 col-lg-3 mb-4 d-flex">
       {% assign colour_idx = placeholder_idx | modulo: page.placeholder_colours.size %}
       {% assign colours = page.placeholder_colours[colour_idx] %}
       {% include team_member_card.html person=person placeholder_color=colours.color placeholder_background=colours.background show_name=true show_role=true show_extra_links=false show_badges=true %}
@@ -57,7 +57,7 @@ Current members of the Research Software Engineering team are listed below.
   <div class="people-list row">
   {% for person in people %}
     {% if person.alumnum == true %}
-      <div class="col-12 col-sm-6 col-lg-4 mb-4 d-flex">
+      <div class="col-12 col-sm-6 col-lg-3 mb-4 d-flex">
         {% assign colour_idx = placeholder_idx | modulo: page.placeholder_colours.size %}
         {% assign colours = page.placeholder_colours[colour_idx] %}
         {% include team_member_card.html person=person placeholder_color=colours.color placeholder_background=colours.background show_name=true show_role=true show_extra_links=false show_badges=true %}
