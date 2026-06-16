@@ -36,7 +36,7 @@ We have a **[Slack workspace](https://join.slack.com/t/RSE-UoS/signup)** for peo
 <img src="/assets/images/Slack.png" alt="RSE Sheffield Slack workspace" style="display: block; margin-left: auto; margin-right: auto; width: 10%;" />
 </a>
 
-The Slack channel is not an approved IT resource for private communications. University of Sheffield staff and students should take rules on protecting personal and research data into account when posting. It's best to consider all posts as public like other types of social media (e.g. Twitter or Facebook). Interactions in the Slack workspace are covered by the [Code of Conduct](code-of-conduct).
+The Slack channel is not an approved IT resource for private communications. University of Sheffield staff and students should take rules on protecting personal and research data into account when posting. It's best to consider all posts as public like other types of social media (e.g. Twitter or Facebook). Interactions in the Slack workspace are covered by the [Code of Conduct](/collaboration/code-of-conduct).
 
 If you are a University of Sheffield researcher, and have an email address ending in `@sheffield.ac.uk`, you can [join the workspace via this link](https://join.slack.com/t/RSE-UoS/signup). Otherwise, please email [rse@sheffield.ac.uk](mailto:rse@sheffield.ac.uk) and ask to join.
 
@@ -44,6 +44,17 @@ Please introduce yourself in the **#general** channel after joining!
 
 The [RSE Society Slack workspace](https://society-rse.org/join-us/) is an alternative to connect with the national and international RSE community.
 
-## Other community channels
+## Other Initiatives at the University of Sheffield
 
-See our [Community page](/community/) for details on other local and national initiatives that may be of interest to anyone involved in developing research software.
+There are a number of other local initiatives that may be of interest to the research software developer community.
+
+* The city of Sheffield has an [active R-user's group](https://sheffieldr.github.io/)
+
+## National RSE Community
+
+Research Software Engineering is a movement that's gaining momentum nationally and internationally.
+The following links can provide more information on *national* initiatives.
+
+* [https://society-rse.org/](https://society-rse.org/) - the UK Society of Research Software Engineering
+* [http://www.software.ac.uk](https://www.software.ac.uk) - The Software Sustainability Institute
+* [https://mastodon.social/@ResearchSoftEng](https://mastodon.social/@ResearchSoftEng) - Official mastodon feed of the UK RSE Community

@@ -25,4 +25,4 @@ The RSE team also maintains a blog where we post articles related to research so
 
 ## Events
 
-The team hosts and participates in various events throughout the year, including workshops and seminars. Events will be advertised through the Google Group, and keep an eye on our [events page](/events/) for upcoming events and opportunities to get involved.
+The team hosts and participates in various events throughout the year, including workshops and seminars. Events will be advertised through the Google Group, and keep an eye on our [events page](/opportunities/events/) for upcoming events and opportunities to get involved.
