@@ -14,4 +14,5 @@ This is a list of archived pages.
 - [Lunch Bytes talks](/community/lunch-bytes)
 - [Researcher AI and ML Resources](/training/deeplearning)
 - [Introduction to Deep Learning](/learning/deep-learning)
-- [community](/community/)
+- [Community](/community/)
+- [Resources and Equipment](/community/resources-and-equipment/)
