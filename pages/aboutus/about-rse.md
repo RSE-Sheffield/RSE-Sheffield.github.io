@@ -13,7 +13,7 @@ Research Software Engineers (RSEs) at the University of Sheffield hold permanent
 
 Embedding an RSE in your project is therefore equivalent to initiating a collaboration with a researcher specialising in software engineering. RSEs are research partners, not simply software developers. We have a strong track record of securing funding as Principal Investigators (PIs) and Co-Investigators (Co-Is), as well as co-authoring academic publications. Unlike short-term contract staff, we provide continuity: there is no recruitment process required, and no risk of losing expertise at the end of a project due to project/contract expiry and people leaving the University. In addition, it gives more opportunity to collaborate again together in the future.
 
-The University of Sheffield Research Software Engineering (RSE) team
+The University of Sheffield Research Software Engineering team
 was founded in 2016 by two EPSRC RSE fellows to develop research
 software and support academics/researchers in developing research
 software.
