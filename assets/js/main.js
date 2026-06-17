@@ -88,13 +88,13 @@ jQuery(document).ready(function ($) {
                 var eventDate = dayjs(eventItem.data("date"));
 
                 if (upcomingNotAdded && (eventDate.isSame(currentTime) || eventDate.isAfter(currentTime))) {
-                    $('<h2 id="upcoming">Upcoming Events</h2>').insertBefore(eventItem);
+                    eventListing.prepend('<h2 id="upcoming">Upcoming Events</h2>');
                     upcomingNotAdded = false;
-
                 }
 
                 if (prevNotAdded && eventDate.isBefore(currentTime)) {
-                    $('<h2 id="previous">Previous Events</h2><p>Includes slides and recordings.</p>').insertBefore(eventItem);
+                    var firstYearBlock = eventListing.children(".year-block").first()
+                    $('<h2 id="previous">Previous Events</h2><p>Includes slides and recordings.</p>').insertBefore(firstYearBlock);
                     prevNotAdded = false;
                 }
             });
