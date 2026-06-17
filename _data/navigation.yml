@@ -43,6 +43,7 @@
        url: /learning/fair4rs
      - title: Profiling & Optimisation (Python)
        url: /learning/pando-python
+       target: blank
      - title: Parallel Computing with GPUs
        url: /learning/com4521
      - title: MADE4Manufacturing CDT
