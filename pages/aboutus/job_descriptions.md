@@ -1,6 +1,8 @@
 ---
 title: Job descriptions
 permalink: /about-us/job-descriptions/
+redirect_from:
+  - /community/job-descriptions/
 slug: job-descriptions
 type: text
 ---
