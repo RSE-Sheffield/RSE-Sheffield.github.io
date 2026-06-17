@@ -96,7 +96,7 @@ jQuery(document).ready(function ($) {
                     var firstYearBlock = eventListing.children(".year-block").first()
                     // Hacky solution so that correct headings appear on front page
                     if (firstYearBlock.length > 0){
-                    $('<h2 id="previous">Previous Events</h2><p>Includes slides and recordings.</p>').insertBefore(firstYearBlock);
+                        $('<h2 id="previous">Previous Events</h2><p>Includes slides and recordings.</p>').insertBefore(firstYearBlock);
                     } else {
                         $('<h2 id="previous">Previous Events</h2><p>Includes slides and recordings.</p>').insertBefore(eventItem);
                     }
@@ -118,6 +118,18 @@ jQuery(document).ready(function ($) {
                 });
             }
         }
+        
+        var yearsToShow = 2
+        var minYear = currentTime.year() - yearsToShow
+
+        $(".year-block").each(function (index) {
+            var block = $(this);
+            var blockYear = Number(block[0].dataset.year)
+
+            if (blockYear <= minYear) {
+                block.find(".collapse").removeClass("show")
+            }
+        })
 
     });
 
