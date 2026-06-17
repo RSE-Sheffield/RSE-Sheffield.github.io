@@ -49,6 +49,9 @@ collections:
     output: true
   case_studies:
     output: true
+  evidences:
+    output: false
+
 
 # Build settings
 markdown: kramdown
@@ -89,6 +92,7 @@ defaults:
       type: "newsletters"
     values:
       layout: "newsletter"
+
 
 # Configure Blog
 paginate: 10

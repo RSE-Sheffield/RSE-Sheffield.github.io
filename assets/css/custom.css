@@ -269,3 +269,8 @@ a.tag-link.selected, a.filter-link.selected{
 .fallback-image-container > img {
     z-index:10;
 }
+
+/* Highlight nav item on evidence bank page */
+.nav-tabs .nav-link.active {
+  border-color: black;
+}
