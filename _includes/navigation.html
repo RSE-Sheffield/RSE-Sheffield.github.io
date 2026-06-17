@@ -6,8 +6,9 @@
             {% if lv1.subitems %}
             <div class="dropdown-menu">
                 {% for lv2 in lv1.subitems %}
-                <a class="dropdown-item" href="{% if lv2.url %}{{ lv2.url }}{% else %}#{% endif %}">
+                <a class="dropdown-item" href="{% if lv2.url %}{{ lv2.url }}{% else %}#{% endif %}" {% if lv2.target == 'blank' %}target="_blank"{% endif %}>
                     {{ lv2.title }}
+                    {% if lv2.target == 'blank' %}<i class="fas fa-external-link-square-alt nav-icon" aria-label="External link"></i>{% endif %}
                 </a>
                 {% endfor %}
             </div>

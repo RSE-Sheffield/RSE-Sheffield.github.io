@@ -56,6 +56,10 @@ a {
     color: var(--uos-midnight-black) !important;
 }
 
+.nav-icon{
+    color: var(--uos-brand-violet-70);
+}
+
 .contact {
     background: var(--uos-midnight-black);
 }
@@ -282,7 +286,6 @@ filter: brightness(0.95);
 
 .nav-tabs .nav-link.active {
 border-color: black;
-border-width: 3px
 }
 
 .btn-outline-primary:focus, 
