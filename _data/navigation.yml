@@ -37,11 +37,13 @@
 
 - title: "Learning"
   subitems:
-     - title: Parallel Computing with GPUs [Academic Module]
-       url: /learning/com4521
-     - title: Data Science and Software Engineering in Manufacturing
-       url: /learning/mac4112
-     - title: FAIR² for Research Software [Training]
+     - title: Training and teaching
+       url: /learning/index
+     - title: FAIR² for Research Software
        url: /learning/fair4rs
-     - title: Profiling and Optimisation (Python) [Training]
+     - title: Profiling & Optimisation (Python)
        url: /learning/pando-python
+     - title: Parallel Computing with GPUs
+       url: /learning/com4521
+     - title: MADE4Manufacturing CDT #Data Science and Software Engineering in Manufacturing
+       url: /learning/mac4112
