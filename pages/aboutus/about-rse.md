@@ -1,5 +1,5 @@
 ---
-title: About the RSE Team
+title: About the RSE team
 permalink: /about-us/about-rse/
 slug: about-the-rse-team
 type: text
