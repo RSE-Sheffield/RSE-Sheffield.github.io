@@ -1,5 +1,5 @@
 ---
-title: Contact Us
+title: Contact us
 permalink: /contact/
 redirect_from:
   - /about-us/contact/

@@ -1,5 +1,5 @@
 ---
-title: Team
+title: Team members
 permalink: /about-us/team/
 slug: team
 type: text
