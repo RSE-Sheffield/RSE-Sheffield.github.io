@@ -72,7 +72,7 @@ We can also run courses where material is made openly available by others (e.g. 
 Carpentries][carpentries]). If you’re interested in us running similar courses for your learners,
 please contact [rse@sheffield.ac.uk](mailto:rse@sheffield.ac.uk).
 
-## Teaching
+## Academic teaching
 
 Members of the RSE Team lead and co-lead the following Masters’ and PhD level academic modules
 within the university:
