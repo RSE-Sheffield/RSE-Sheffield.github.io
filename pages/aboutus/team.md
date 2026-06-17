@@ -1,6 +1,9 @@
 ---
 title: Team members
 permalink: /about-us/team/
+redirect_from:
+  - /contact/team/
+  - /contact/alumni/
 slug: team
 type: text
 
