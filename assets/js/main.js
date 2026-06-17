@@ -94,7 +94,12 @@ jQuery(document).ready(function ($) {
 
                 if (prevNotAdded && eventDate.isBefore(currentTime)) {
                     var firstYearBlock = eventListing.children(".year-block").first()
+                    // Hacky solution so that correct headings appear on front page
+                    if (firstYearBlock.length > 0){
                     $('<h2 id="previous">Previous Events</h2><p>Includes slides and recordings.</p>').insertBefore(firstYearBlock);
+                    } else {
+                        $('<h2 id="previous">Previous Events</h2><p>Includes slides and recordings.</p>').insertBefore(eventItem);
+                    }
                     prevNotAdded = false;
                 }
             });
