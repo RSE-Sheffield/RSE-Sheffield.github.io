@@ -1,5 +1,5 @@
 ---
-title: RSE Job Descriptions
+title: Job descriptions
 permalink: /about-us/job-descriptions/
 slug: job-descriptions
 type: text
@@ -15,13 +15,13 @@ Delivery
 
 * Plan and undertake the software development, documentation and reporting necessary to achieve the aims of the project(s).
 * Contribute to the design, planning and execution of computational research experiments (research computing) within agreed projects.
-* Work flexibly across departments and university locations, adapting and transferring skills to new technology and innovations as required. 
+* Work flexibly across departments and university locations, adapting and transferring skills to new technology and innovations as required.
 * Contribute to the broader research software engineering community for example through support for high performance computing equipment, development and maintenance of open source software and through the planning, development and provision of technical training.
 
 Teamwork and collaboration and communications
 
 * Assist in the planning and preparation of RSE support for research proposals.
-* Participate in project meetings relevant to the technical development of software. 
+* Participate in project meetings relevant to the technical development of software.
 * Present data and software to the PI and other members of the collaborating partners as required.
 * Disseminate the results of technical achievements via appropriate national and international channels as they evolve to represent outputs of research software engineers. E.g. the RSE Conference, Tier 2 networks, RSE Leaders.
 
@@ -41,8 +41,8 @@ In addition to the job description of a G7 RSE, a G8 RSE is expected to;
 
 Planning
 
-* Actively engage with the academic community and research funders to identify opportunities for the provision of RSE support and assist in the preparation of proposals for funding bodies. 
-* Respond to requests for RSE service to develop collaboration opportunities. 
+* Actively engage with the academic community and research funders to identify opportunities for the provision of RSE support and assist in the preparation of proposals for funding bodies.
+* Respond to requests for RSE service to develop collaboration opportunities.
 * Work with collaborators to create software development plans and provide costing for their delivery.
 
 Management and Delivery
@@ -60,6 +60,3 @@ Leadership
 Other
 
 * Any other duties commensurate with the grade of the post.
-
-
-
