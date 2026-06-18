@@ -297,3 +297,9 @@ border-color: black;
     border-color: #007bff !important; /* Keeps the outline border visible */
     box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25) !important; /* Standard focus glow */
 }
+
+/* Adjust horizontal padding for menu items */
+.dropdown-item {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
