@@ -4,7 +4,7 @@
         <li class="nav-item {% if lv1.subitems %}dropdown{% endif %}">
             <a class="nav-link {% if lv1.subitems %}dropdown-toggle{% endif %}" {% if lv1.subitems %}data-toggle="dropdown"{% endif %} href="{% if lv1.url %}{{ lv1.url }}{% else %}#{% endif %}">{{ lv1.title }}</a>
             {% if lv1.subitems %}
-            <div class="dropdown-menu">
+            <div class="dropdown-menu {% if forloop.last == true %}dropdown-menu-right{% endif %}">
                 {% for lv2 in lv1.subitems %}
                 <a class="dropdown-item" href="{% if lv2.url %}{{ lv2.url }}{% else %}#{% endif %}" {% if lv2.target == 'blank' %}target="_blank"{% endif %}>
                     {{ lv2.title }}
