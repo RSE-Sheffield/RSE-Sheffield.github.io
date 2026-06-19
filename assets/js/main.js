@@ -88,13 +88,18 @@ jQuery(document).ready(function ($) {
                 var eventDate = dayjs(eventItem.data("date"));
 
                 if (upcomingNotAdded && (eventDate.isSame(currentTime) || eventDate.isAfter(currentTime))) {
-                    $('<h2 id="upcoming">Upcoming Events</h2>').insertBefore(eventItem);
+                    eventListing.prepend('<h2 id="upcoming">Upcoming Events</h2>');
                     upcomingNotAdded = false;
-
                 }
 
                 if (prevNotAdded && eventDate.isBefore(currentTime)) {
-                    $('<h2 id="previous">Previous Events</h2><p>Includes slides and recordings.</p>').insertBefore(eventItem);
+                    var firstYearBlock = eventListing.children(".year-block").first()
+                    // Hacky solution so that correct headings appear on front page
+                    if (firstYearBlock.length > 0){
+                        $('<h2 id="previous">Previous Events</h2><p>Includes slides and recordings.</p>').insertBefore(firstYearBlock);
+                    } else {
+                        $('<h2 id="previous">Previous Events</h2><p>Includes slides and recordings.</p>').insertBefore(eventItem);
+                    }
                     prevNotAdded = false;
                 }
             });
@@ -113,6 +118,18 @@ jQuery(document).ready(function ($) {
                 });
             }
         }
+        
+        var yearsToShow = 2
+        var minYear = currentTime.year() - yearsToShow
+
+        $(".year-block").each(function (index) {
+            var block = $(this);
+            var blockYear = Number(block[0].dataset.year)
+
+            if (blockYear <= minYear) {
+                block.find(".collapse").removeClass("show")
+            }
+        })
 
     });
 
