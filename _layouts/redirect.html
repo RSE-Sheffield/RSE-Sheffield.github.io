@@ -1,5 +1,9 @@
 ---
 layout: page
 ---
-<!-- Note: don't tell people to `click` the link, just tell them that it is a link. -->
-If you are not redirected automatically, follow this <a href='{{ page.redirect }}'>link</a>.
+{% if page.redirect.to != blank %}
+    {% assign redirect_dest = page.redirect.to %}
+{% elsif page.redirect != blank %}
+    {% assign redirect_dest = page.redirect %}
+{% endif %}
+If you are not redirected automatically, follow this <a href='{{ redirect_dest | escape}}'>link</a>.
