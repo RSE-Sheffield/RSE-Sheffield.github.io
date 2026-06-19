@@ -278,3 +278,9 @@ a.tag-link.selected, a.filter-link.selected{
 .nav-tabs .nav-link.active {
   border-color: black;
 }
+
+/* Adjust horizontal padding for menu items */
+.dropdown-item {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
