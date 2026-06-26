@@ -21,8 +21,10 @@ news, opportunities, events and training for you.
 
 ### News
 
-- **RSE Call for Proposals 2026 is live**  
-  6 months at 0.5 FTE RSE collaboration is available for four projects, two of which are funded by the Henry Royce Institute and will support projects from Materials Science. [Full details](https://rse.shef.ac.uk/collaboration/RSEtime/2026/) - Submission deadline is **1700 BST 10th July 2026**
+- **RSE Call for Proposals 2026 is live**
+  6 months at 0.5 FTE RSE collaboration is available for four projects, two of which are funded by the Henry Royce
+  Institute and will support projects from Materials Science. [Full
+  details](https://rse.shef.ac.uk/collaboration/RSEtime/2026/) - Submission deadline is **1700 BST 14th July 2026**
 
 - [Hidden REF 2026 is open](https://hidden-ref.org/hidden-ref-competition/), and they've added new categories including environmental sustainability. - Submission deadline is **2026-09-13**
 
@@ -44,23 +46,23 @@ news, opportunities, events and training for you.
   - The event is open to all and encourages participation from interested colleagues working in diverse fields (e.g. bioscience, computer science, medicine, geography, psychology, engineering etc.).
   - If you are interested in attending and/or presenting, please [sign up](https://forms.gle/CEDfdvKdPTj4u9mc9) by **8th June 2026**.
 
-- Tools for Data FAIRification - overcoming barriers in data discoverability and reuse - Online Seminar: **1300-1500 23rd June 2026** -  [Register here](https://forms.gle/jthN9JDR6hUsQAUx8)  
-This seminar is part of Sheffield’s [Data Stewards Network](https://sheffield.ac.uk/library/research-data-management/data-steward-network) in collaboration with the [N8 Centre of Excellence in Computationally Intensive Research](https://n8cir.org.uk/).  
+- Tools for Data FAIRification - overcoming barriers in data discoverability and reuse - Online Seminar: **1300-1500 23rd June 2026** -  [Register here](https://forms.gle/jthN9JDR6hUsQAUx8)
+This seminar is part of Sheffield’s [Data Stewards Network](https://sheffield.ac.uk/library/research-data-management/data-steward-network) in collaboration with the [N8 Centre of Excellence in Computationally Intensive Research](https://n8cir.org.uk/).
 Talks include:
   - Streamlining Data Management Planning - Kryštof Komanec (Czech Technical University / DSW / FAIR Wizard)
   - Maximising Data Reusability - Matthew Nichols (UK Centre for Ecology & Hydrology)
   - Automated ReadMe Generation - Ali Abdurhman Kelil & Dag-Even Martinsen Torsøe (University of South-Eastern Norway)
-  - Electronic Notebooks - Zuzanna Zagrodzka (University of Manchester)  
+  - Electronic Notebooks - Zuzanna Zagrodzka (University of Manchester)
 
 - Building Practical AI Agents Using Claw: Hands-On Workshop - **0900-1600 11th July 2026**
-  - This one-day workshop introduces participants to AI agents using Claw through a practical mix of short talks, guided setup, hands-on exploration, and open workshop time.  
-  - [Register here](https://rse.shef.ac.uk/events/workshop-2026-07-11-building-practical-ai-agents-using-claw.html)  
+  - This one-day workshop introduces participants to AI agents using Claw through a practical mix of short talks, guided setup, hands-on exploration, and open workshop time.
+  - [Register here](https://rse.shef.ac.uk/events/workshop-2026-07-11-building-practical-ai-agents-using-claw.html)
 
 #### Upcoming External Events
 
-- **Last chance** - [Agile Project Management Training Programme](https://research-it.manchester.ac.uk/events/agile-project-management-training-for-drtps/)  
-**Online, 0930-1630 19th June 2026** - Sign-up deadline: **10th June 2026**  
-Designed for digital Research Technical Professionals (dRTPs) to help bridge the gap between traditional research and Agile delivery.  
+- **Last chance** - [Agile Project Management Training Programme](https://research-it.manchester.ac.uk/events/agile-project-management-training-for-drtps/)
+**Online, 0930-1630 19th June 2026** - Sign-up deadline: **10th June 2026**
+Designed for digital Research Technical Professionals (dRTPs) to help bridge the gap between traditional research and Agile delivery.
 Programme Highlights:
   - Targeted Learning: Covers Scrum, Kanban, and hybrid frameworks specifically for research environments.
   - Hands-on Experience: Includes simulated team projects and real-world application.
@@ -116,7 +118,7 @@ Details how Nature Computational Science went about being fully compliant with o
 
 - [Impact of Generative AI on Software Development, Application and Licensing Models](https://forms.gle/gbEiGSsnN9mZXk2L9) - Originally inspired by research software engineers from within materials modelling communities this survey aims to build our understanding and capture usage and adoption of Generative AI in the domain of Research Software Engineering. Results will be released at the end of July.
 
-<!-- 
+<!--
 ---
 
 ### Jobs -->
