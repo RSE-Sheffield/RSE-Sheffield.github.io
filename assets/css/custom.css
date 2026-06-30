@@ -270,7 +270,17 @@ a.tag-link.selected, a.filter-link.selected{
     z-index:10;
 }
 
-/* Highlight nav item on evidence bank page */
+#nav-tab .nav-link:not(.active) {
+opacity: 0.55;
+filter: brightness(0.85);
+}
+
+#nav-tab .nav-link:not(.active):hover {
+opacity: 0.8;
+filter: brightness(0.95);
+}
+
 .nav-tabs .nav-link.active {
-  border-color: black;
+border-color: red;
+border-width: 3px
 }
