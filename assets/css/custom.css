@@ -281,6 +281,6 @@ filter: brightness(0.95);
 }
 
 .nav-tabs .nav-link.active {
-border-color: red;
+border-color: black;
 border-width: 3px
 }
