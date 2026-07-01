@@ -274,20 +274,56 @@ a.tag-link.selected, a.filter-link.selected{
     z-index:10;
 }
 
-#nav-tab .nav-link:not(.active) {
-opacity: 0.55;
-filter: brightness(0.85);
+
+/* Evidence bank tab styling */
+#evidence-tabs .nav-tabs {
+    border-bottom: none;
 }
 
-#nav-tab .nav-link:not(.active):hover {
-opacity: 0.8;
-filter: brightness(0.95);
+#evidence-tabs .nav-tabs .nav-link {
+    border-width: 3px;
 }
 
-.nav-tabs .nav-link.active {
-border-color: black;
-border-width: 3px
+#evidence-tabs .nav-tabs .nav-link:hover {
+    border-color: transparent;
 }
+
+#evidence-tabs .nav-tabs .nav-item {
+    margin-bottom: -3px;
+}
+
+#evidence-tabs .tab-content .tab-pane > .border {
+    border-width: 3px !important;
+}
+
+#evidence-tabs #nav-software-tab { background-color: rgba(90,185,107,0.7); }
+#evidence-tabs #nav-papers-tab { background-color: rgba(170,194,86,0.7); }
+#evidence-tabs #nav-uos-tab { background-color: rgba(235,201,68,0.7); }
+#evidence-tabs #nav-external-tab { background-color: rgba(139,187,133,0.7); }
+#evidence-tabs #nav-others-tab { background-color: rgba(18,169,212,0.7); }
+
+#evidence-tabs #nav-software-tab:hover,
+#evidence-tabs #nav-software-tab.active { background-color: rgba(90,185,107,0.9); }
+#evidence-tabs #nav-papers-tab:hover,
+#evidence-tabs #nav-papers-tab.active { background-color: rgba(170,194,86,0.9); }
+#evidence-tabs #nav-uos-tab:hover,
+#evidence-tabs #nav-uos-tab.active { background-color: rgba(235,201,68,0.9); }
+#evidence-tabs #nav-external-tab:hover,
+#evidence-tabs #nav-external-tab.active{ background-color: rgba(139,187,133,0.9); }
+#evidence-tabs #nav-others-tab:hover,
+#evidence-tabs #nav-others-tab.active { background-color: rgba(18,169,212,0.9); }
+
+#evidence-tabs #nav-software-tab.active { border-color: rgba(90,185,107,1); border-bottom-color: #fff; }
+#evidence-tabs #nav-papers-tab.active { border-color: rgba(170,194,86,1); border-bottom-color: #fff; }
+#evidence-tabs #nav-uos-tab.active { border-color: rgba(235,201,68,1); border-bottom-color: #fff; }
+#evidence-tabs #nav-external-tab.active { border-color: rgba(139,187,133,1); border-bottom-color: #fff; }
+#evidence-tabs #nav-others-tab.active { border-color: rgba(18,169,212,1); border-bottom-color: #fff; }
+
+#evidence-tabs #nav-software > .border { border-color: rgba(90,185,107,1) !important; }
+#evidence-tabs #nav-papers > .border { border-color: rgba(170,194,86,1) !important; }
+#evidence-tabs #nav-uos > .border { border-color: rgba(235,201,68,1) !important; }
+#evidence-tabs #nav-external > .border { border-color: rgba(139,187,133,1) !important; }
+#evidence-tabs #nav-others > .border { border-color: rgba(18,169,212,1) !important; }
 
 .btn-outline-primary:focus, 
 .btn-outline-primary.focus,
