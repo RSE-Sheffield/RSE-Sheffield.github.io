@@ -1,6 +1,16 @@
 ---
 items:
 
+  - title: "Mentor, RSECon26"
+    member: "<strong>T. James, S. Donnelly, P. Heywood, E. Brown, R. Thomas</strong>"
+    type: "role"
+    details: "Mentoring early-career RSE during submission to Research Software Engineering Conference 2026 (RSECon26)"
+    date: 2026
+    url1: "https://rsecon26.society-rse.org/calls/mentors/"
+    url1_label: "Website"
+
+
+
   - title: "FAIR Data & Software award, category Engineering"
     type: "award"
     member: "<strong>R. Thomas (RSE)</strong>, E. Dammer"
@@ -11,7 +21,7 @@ items:
 
   - title: "19 Months of Reasonable Performance Computing (SIG)"
     type: "blog"
-    member: "R. Chisholm"
+    member: "<strong>R. Chisholm</strong>"
     details: "SSI blog post"
     date: 2026
     url1: "https://www.software.ac.uk/blog/19-months-reasonable-performance-computing-sig"
@@ -30,7 +40,7 @@ items:
 
   - title: "RSECon26 Sheffield Host city"
     type: "other"
-    member: "R. Thomas"
+    member: "<strong>R. Thomas</strong>"
     date: "2025"
     details: "Successful application to host the conference at the University of Sheffield"
     url1: "https://society-rse.org/"
@@ -39,7 +49,7 @@ items:
     url2_label: "Conference"
 
   - title: "Mentor, Society of Research Software Engineering mentoring scheme"
-    member: "T. James"
+    member: "<strong>T. James</strong>"
     type: "role"
     details: "Mentoring scheme"
     date: 2025
@@ -47,7 +57,7 @@ items:
     url1_label: "Website"
 
   - title: "Mentor, RSECon25"
-    member: "T. James"
+    member: "<strong>T. James</strong>"
     type: "role"
     details: "Mentoring early-career RSE during submission to Research Software Engineering Conference 2025 (RSECon25)"
     date: 2025
@@ -55,19 +65,26 @@ items:
     url1_label: "Website"
 
   - title: "Telling Our Success Stories: Recognising Contributions in Research Software"
-    member: "T. James"
+    member: "<strong>T. James</strong>"
     type: "blog"
     details: "Co-author, CW25 Speed Blog"
     date: 2025
     url1: "https://www.software.ac.uk/blog/telling-our-success-stories-recognising-contributions-research-software"
     url1_label: "Link"
 
-
-  - title:
-    year: 2024
-
   - title:
     year: 2023
+
+  - title: "Open Research Prize 2023, team prize"
+    type: "award"
+    member: "A. Pyne, <strong>N. Shephard (RSE)</strong>, M. C. Gamill, S. Whittle, M. Du"
+    details: "Recognising staff and PGRs who have demonstrated best practice in making their research open."
+    date: 2023
+    url1: "https://sheffield.ac.uk/openresearch/casestudies#winners-and-runners-up-of-the-open-research-prize-2023"
+    url1_label: "Competition link"
+
+
+
 
   - title:
     year: 2022
@@ -79,14 +96,5 @@ items:
     details: "Task force: Interaction with EMA and Softare Medical Devices standardization"
     url1: "https://www.avicenna-alliance.com/"
     url1_label: "Avicenna Alliance"
-
-  - title:
-    year: 2021
-
-  - title:
-    year: 2020
-
-  - title:
-    year: 2019
 
 ---
