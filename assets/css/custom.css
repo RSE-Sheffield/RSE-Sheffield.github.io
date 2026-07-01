@@ -284,3 +284,13 @@ filter: brightness(0.95);
 border-color: black;
 border-width: 3px
 }
+
+.btn-outline-primary:focus, 
+.btn-outline-primary.focus,
+.btn-outline-primary:active,
+.btn-outline-primary.active {
+    color: #007bff !important; /* Forces the default Bootstrap blue text color */
+    background-color: transparent !important; /* Ensures the background stays clear */
+    border-color: #007bff !important; /* Keeps the outline border visible */
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25) !important; /* Standard focus glow */
+}
