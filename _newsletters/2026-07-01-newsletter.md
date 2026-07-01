@@ -118,7 +118,7 @@ news, opportunities, events and training for you.
 
 - [Green RSE Award 2026](https://www.software.ac.uk/news/green-rse-award-returns-2026) nominations are open.
   - Closing date: **2026-07-13**
-  
+
 - UKRI are looking for new members to join the UKRI Advisory Group for Digital Research Infrastructure (AGD). [Full details](https://www.ukri.org/who-we-are/work-for-us/join-an-advisory-committee-panel-or-network/digital-research-infrastructure-advisory-group-member-vacancies/)
   - Closing date: **2026-08-07**
 
@@ -142,6 +142,9 @@ news, opportunities, events and training for you.
 
 - [Digital Humanities Research Software Engineer at The British Library](https://ce0752li.webitrent.com/ce0752li_webrecruitment/wrd/run/etrec179gf.open?WVID=5071482BMD&LANG=USA)
   - Closing date: **2026-07-19**
+
+- [Research Software Engineer job with Forschungszentrum Jülich GmbH](https://jobs.sciencecareers.org/job/679033)
+  - Closing date: **2026-08-02**
 
 ---
 
