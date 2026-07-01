@@ -274,9 +274,29 @@ a.tag-link.selected, a.filter-link.selected{
     z-index:10;
 }
 
-/* Highlight nav item on evidence bank page */
+#nav-tab .nav-link:not(.active) {
+opacity: 0.55;
+filter: brightness(0.85);
+}
+
+#nav-tab .nav-link:not(.active):hover {
+opacity: 0.8;
+filter: brightness(0.95);
+}
+
 .nav-tabs .nav-link.active {
-  border-color: black;
+border-color: black;
+border-width: 3px
+}
+
+.btn-outline-primary:focus, 
+.btn-outline-primary.focus,
+.btn-outline-primary:active,
+.btn-outline-primary.active {
+    color: #007bff !important; /* Forces the default Bootstrap blue text color */
+    background-color: transparent !important; /* Ensures the background stays clear */
+    border-color: #007bff !important; /* Keeps the outline border visible */
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25) !important; /* Standard focus glow */
 }
 
 /* Adjust horizontal padding for menu items */
