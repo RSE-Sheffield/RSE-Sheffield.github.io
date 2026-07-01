@@ -21,7 +21,7 @@ news, opportunities, events and training for you.
 
 ### News
 
-- The **RSE Call for Proposals 2026** is still open. 6 months of RSE collaboration at 0.5 FTE is available for four projects, two of which are funded by the Henry Royce Institute and will support projects from Materials Science.
+- The **RSE Call for Proposals 2026** is still open. 6 months of RSE collaboration at 0.5 FTE is available for four projects, two of which are funded by the Henry Royce Institute and will support projects within the field of Materials Science.
   - [Full details](https://rse.shef.ac.uk/collaboration/RSEtime/2026/)
   - Submission deadline: **2026-07-14 17:00**
 
@@ -116,11 +116,11 @@ news, opportunities, events and training for you.
 
 ### Opportunities
 
-- UKRI are looking for new members to join the UKRI Advisory Group for Digital Research Infrastructure (AGD). [Full details](https://www.ukri.org/who-we-are/work-for-us/join-an-advisory-committee-panel-or-network/digital-research-infrastructure-advisory-group-member-vacancies/)
-  - Closing date: **2026-08-07**
-
 - [Green RSE Award 2026](https://www.software.ac.uk/news/green-rse-award-returns-2026) nominations are open.
   - Closing date: **2026-07-13**
+  
+- UKRI are looking for new members to join the UKRI Advisory Group for Digital Research Infrastructure (AGD). [Full details](https://www.ukri.org/who-we-are/work-for-us/join-an-advisory-committee-panel-or-network/digital-research-infrastructure-advisory-group-member-vacancies/)
+  - Closing date: **2026-08-07**
 
 #### Surveys
 
