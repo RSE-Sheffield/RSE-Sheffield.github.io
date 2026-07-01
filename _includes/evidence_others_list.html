@@ -26,6 +26,8 @@
              {% case activity.type %}
                 {% when "award" %}
                   <span class="badge badge-light p-2 border mr-2"><i class="fas fa-solid fa-award mr-1 text-success"></i>Award</span>
+                {% when "role" %}
+                  <span class="badge badge-light px-2 py-1 border small"><i class="fas fa-solid fa-user mr-1 text-success"></i>Role</span>
                 {% when "blog" %}
                   <span class="badge badge-light p-2 border mr-2"><i class="fas fa-solid fa-rss mr-1 text-success"></i>Communication/blog</span>
                 {% when "other" %}
