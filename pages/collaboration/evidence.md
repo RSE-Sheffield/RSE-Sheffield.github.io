@@ -19,17 +19,17 @@ We are listing here all the contributions made be our team and we grouped them i
 
 <br>
 
-<section id="tabs" class="project-tab">
+<section id="evidence-tabs" class="project-tab">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
                     <nav>
                         <div class="nav nav-tabs nav-fill" id="nav-tab" role="tablist">
-                            <a class="nav-item nav-link active" id="nav-software-tab" data-toggle="tab" href="#nav-software" role="tab" aria-controls="nav-software" aria-selected="false" style="background-color: rgba(90,185,107,0.7)">Software & repositories</a>
-                            <a class="nav-item nav-link" id="nav-papers-tab" data-toggle="tab" href="#nav-papers" role="tab" aria-controls="nav-papers" aria-selected="true" style="background-color: rgba(170,194,86,0.7)">Academic outputs</a>
-                            <a class="nav-item nav-link" id="nav-uos-tab" data-toggle="tab" href="#nav-uos" role="tab" aria-controls="nav-uos" aria-selected="false" style="background-color: rgba(235,201,68,0.7)"  >University activities</a>
-                            <a class="nav-item nav-link" id="nav-external-tab" data-toggle="tab" href="#nav-external" role="tab" aria-controls="nav-external" aria-selected="false"  style="background-color: rgba(139,187,133,0.7)">External activities</a>
-                            <a class="nav-item nav-link" id="nav-others-tab" data-toggle="tab" href="#nav-others" role="tab" aria-controls="nav-others" aria-selected="false" style="background-color: rgba(18, 169, 212, 0.7)" >Other activites</a>
+                            <a class="nav-item nav-link active" id="nav-software-tab" data-toggle="tab" href="#nav-software" role="tab" aria-controls="nav-software" aria-selected="true">Software & repositories</a>
+                            <a class="nav-item nav-link" id="nav-papers-tab" data-toggle="tab" href="#nav-papers" role="tab" aria-controls="nav-papers" aria-selected="false">Academic outputs</a>
+                            <a class="nav-item nav-link" id="nav-uos-tab" data-toggle="tab" href="#nav-uos" role="tab" aria-controls="nav-uos" aria-selected="false">University activities</a>
+                            <a class="nav-item nav-link" id="nav-external-tab" data-toggle="tab" href="#nav-external" role="tab" aria-controls="nav-external" aria-selected="false">External activities</a>
+                            <a class="nav-item nav-link" id="nav-others-tab" data-toggle="tab" href="#nav-others" role="tab" aria-controls="nav-others" aria-selected="false">Other activities</a>
                         </div>
                     </nav>
                         <div class="tab-content" id="nav-tabContent">
