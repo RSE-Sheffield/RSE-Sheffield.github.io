@@ -1,5 +1,5 @@
 ---
-title: Parallel Computing with GPUs [Academic module]
+title: Parallel Computing with GPUs
 permalink: /learning/com4521/
 slug: com4521
 type: page

@@ -56,6 +56,10 @@ a {
     color: var(--uos-midnight-black) !important;
 }
 
+.nav-icon{
+    color: var(--uos-brand-violet-70);
+}
+
 .contact {
     background: var(--uos-midnight-black);
 }
@@ -293,4 +297,10 @@ border-width: 3px
     background-color: transparent !important; /* Ensures the background stays clear */
     border-color: #007bff !important; /* Keeps the outline border visible */
     box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25) !important; /* Standard focus glow */
+}
+
+/* Adjust horizontal padding for menu items */
+.dropdown-item {
+    padding-left: 1rem;
+    padding-right: 1rem;
 }
