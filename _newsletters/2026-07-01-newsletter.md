@@ -39,12 +39,17 @@ news, opportunities, events and training for you.
 
 #### Upcoming Events in Sheffield
 
-- [AI for Research Day 2026](https://sites.google.com/sheffield.ac.uk/ai-research-day), held under the theme _AI for Research That Matters_.
+- [Building Practical AI Agents Using Claw: Hands-On Workshop](https://rse.shef.ac.uk/events/workshop-2026-07-11-building-practical-ai-agents-using-claw.html)
+  - Date: **2026-07-11**
+  - Venue: The Diamond, University of Sheffield
+  - This one-day workshop introduces participants to AI agents using Claw through a practical mix of short talks, guided setup, hands-on exploration, and open workshop time.
+  - [Register here](https://luma.com/m19p7fna).
+
+- [AI for Research Day 2026](https://sites.google.com/sheffield.ac.uk/ai-research-day), held under the theme _AI for Research That Matters_
   - Date: **2026-10-01**
   - Venue: INOX, Sheffield Students’ Union
   - Led by the Centre for Machine Intelligence, the day shows how researchers across every discipline are putting AI to work. It's built for people who are curious about AI but haven't yet brought it into their own research — with plenty for those already using these tools, too. You'll leave with a clearer sense of where AI fits in your work, and the practical experience to take the next step.
-  - Register to attend [here](https://sites.google.com/sheffield.ac.uk/ai-research-day/register).
-
+  - [Register here](https://sites.google.com/sheffield.ac.uk/ai-research-day/register).
 
 #### Upcoming External Events
 
