@@ -124,10 +124,10 @@ news, opportunities, events and training for you.
 - [Green RSE Award 2026](https://www.software.ac.uk/news/green-rse-award-returns-2026) nominations are open.
   - Closing date: **2026-07-13**
 
-- The ACIT Hub and HPC-SIG are excited to announce applications are now open for the next cohort of the Research Infrastructure Mentoring Programme. [Full details](https://acit.surrey.ac.uk/mentor.html)
+- The ACIT Hub and HPC-SIG are excited to announce applications are now open for [the next cohort of the Research Infrastructure Mentoring Programme](https://acit.surrey.ac.uk/mentor.html).
   - Closing date: **2026-08-02**
 
-- UKRI are looking for new members to join the UKRI Advisory Group for Digital Research Infrastructure (AGD). [Full details](https://www.ukri.org/who-we-are/work-for-us/join-an-advisory-committee-panel-or-network/digital-research-infrastructure-advisory-group-member-vacancies/)
+- UKRI are looking for new members to join [the UKRI Advisory Group for Digital Research Infrastructure (AGD)](https://www.ukri.org/who-we-are/work-for-us/join-an-advisory-committee-panel-or-network/digital-research-infrastructure-advisory-group-member-vacancies/).
   - Closing date: **2026-08-07**
 
 #### Surveys
@@ -143,7 +143,7 @@ news, opportunities, events and training for you.
 
 ### Jobs
 
-- Several open-ended AI Infrastructure Engineer roles are open at Bristol Centre for Supercomputing (BriCS).
+- Several open-ended AI Infrastructure Engineer roles are open at Bristol Centre for Supercomputing (BriCS):
   - [AI Supercomputing Infrastructure Engineer](https://www.bristol.ac.uk/jobs/find/details/?nPostingId=203176&nPostingTargetId=389287) (x3 FTE)
   - [AI Infrastructure Associate Engineer](https://www.bristol.ac.uk/jobs/find/details/?nPostingId=206574&nPostingTargetId=389284) (3 x FTE)
   - Closing dates: **2026-07-05**
