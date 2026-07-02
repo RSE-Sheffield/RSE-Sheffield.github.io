@@ -124,6 +124,9 @@ news, opportunities, events and training for you.
 - [Green RSE Award 2026](https://www.software.ac.uk/news/green-rse-award-returns-2026) nominations are open.
   - Closing date: **2026-07-13**
 
+- The ACIT Hub and HPC-SIG are excited to announce applications are now open for the next cohort of the Research Infrastructure Mentoring Programme. [Full details](https://acit.surrey.ac.uk/mentor.html)
+  - Closing date: **2026-08-02**
+
 - UKRI are looking for new members to join the UKRI Advisory Group for Digital Research Infrastructure (AGD). [Full details](https://www.ukri.org/who-we-are/work-for-us/join-an-advisory-committee-panel-or-network/digital-research-infrastructure-advisory-group-member-vacancies/)
   - Closing date: **2026-08-07**
 
