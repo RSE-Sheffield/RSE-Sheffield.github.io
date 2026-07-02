@@ -73,9 +73,9 @@ enhance the quality, reliability, and impact of research projects across diverse
 ### Application guidelines
 
 An application template for this call has been prepared and is available
-[here](https://docs.google.com/document/d/1DY2fdqBW26T433ejI4VdsMxJpdKmsyFfq5qOjQul3pw/edit?). This is a
+[here][template]. This is a
 locked file so please make a copy and use it to draft your proposal. When you are ready to submit please use the
-[form](https://forms.gle/yYewV8wEbFNpNxyu8). Further details about each section are given below.
+[form][form]. Further details about each section are given below.
 
 - **Abstract [max 600 words]:** Provide a brief description of the research project, its objectives and the role of
   software or computation methods in achieving these objectives. As reviewers might not be expert in your field, please
@@ -102,7 +102,7 @@ locked file so please make a copy and use it to draft your proposal. When you ar
 
 - **Preferred timeline:** what would be the ideal start date of the RSE.
 
-**The application should be submitted via the [form](https://forms.gle/5v1XoN2QhRKxQJYS6) no later than the 17:00 BST
+**The application should be submitted via the [form][form] no later than the 17:00 BST
 14th July 2026.**
 
 ### Review and selection process
@@ -152,3 +152,7 @@ For inquiries or assistance with the proposal submission process, please contact
 ([n.shephard@sheffield.ac.uk](mailto:n.shephard@sheffield.ac.uk), Joint Chair of the selection Panel) or Matthew Leach
 ([m.leach@sheffield.ac.uk](m.leach@sheffield.ac.uk), Joint Chair of the Selection Panel) and/or Romain Thomas,
 ([romain.thomas@sheffield.ac.uk](mailto:romain.thomas@sheffield.ac.uk), Head of the RSE group).
+
+
+[template]: https://docs.google.com/document/d/1DY2fdqBW26T433ejI4VdsMxJpdKmsyFfq5qOjQul3pw/edit?tab=t.0#heading=h.45ihk5e3mzhr
+[form]: https://forms.gle/5v1XoN2QhRKxQJYS6
