@@ -5,6 +5,8 @@ slug: index
 type: text
 ---
 
+**UPDATE** The deadline for submissions has been extended by a week and is now 21st July 2026.
+
 ### Rationale
 
 The University of Sheffield recognises the critical role that Research Software Engineers (RSEs) play in advancing
@@ -134,10 +136,10 @@ attend a short interview with three members of staff from the RSE and DAS teams.
 ### Important dates
 
 - Call Opens: 5th June 2026
-- Deadline for proposal submission: 17:00 14th July 2026
-- Shortlisting for interview: July 17th 2026
-- Interview: July 22nd 2026
-- Notification of Decision: July 29th 2026
+- Deadline for proposal submission: 17:00 ~~14th July 2026~~ 21st July 2026
+- Shortlisting for interview: ~~17th July  2026~~ 24th July 2026
+- Interview: ~~22nd July 2026~~ 29th July 2026
+- Notification of Decision: ~~29th July  2026~~ 1st August 2026
 - Earliest start of project: September 1st 2026
 - Latest start of project: February 3rd 2027
 
