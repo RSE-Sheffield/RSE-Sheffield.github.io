@@ -5,11 +5,11 @@ slug: evidence
 type: text
 ---
 
-The RSE team at Sheffield contributed to multiple areas of the research eco-system along the years. This can take a form of research publication, software releases, committee membership, event organisations, etc. 
-We are listing here all the contribution made be our team and we grouped them in five categories:
+The RSE team at Sheffield contribute to multiple areas of the research eco-system. Contributions can take the form of research publications, software releases, committee membership, event organisation, etc. 
+Here we list all the contributions made by our team, grouped into five categories:
 
 * **Software and repositories:** As Research software engineers, this is our main work. This section mainly reports software repositories & releases of research software but might occasionaly highlights training development that we make open source on github.  
-* **Traditional outputs:** This includes refereed papers, conference contributions & grants.
+* **Academic outputs:** This includes refereed papers, conference contributions & grants.
 * **University activities:** We are taking part in multiple activites at the University of Sheffield and we list them all here. This can be committees, training organisation, workshops, etc. 
 * **External activities:** This is all the activities we are doing outside of the University in the RSE community. Activities include invited talks and lectures, conference committees, panels,etc.
 * **Others activities:** Any other things that show our contributions such as blog posts, awards or non-traditional bids.
@@ -19,17 +19,17 @@ We are listing here all the contribution made be our team and we grouped them in
 
 <br>
 
-<section id="tabs" class="project-tab">
+<section id="evidence-tabs" class="project-tab">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
                     <nav>
                         <div class="nav nav-tabs nav-fill" id="nav-tab" role="tablist">
-                            <a class="nav-item nav-link active" id="nav-software-tab" data-toggle="tab" href="#nav-software" role="tab" aria-controls="nav-software" aria-selected="false" style="background-color: rgba(82, 184, 108, 0.7)">Software & repositories</a>
-                            <a class="nav-item nav-link" id="nav-papers-tab" data-toggle="tab" href="#nav-papers" role="tab" aria-controls="nav-papers" aria-selected="true" style="background-color: rgba(68, 0, 153, 0.3)">Traditional outputs</a>
-                            <a class="nav-item nav-link" id="nav-uos-tab" data-toggle="tab" href="#nav-uos" role="tab" aria-controls="nav-uos" aria-selected="false" style="background-color: rgba(235, 201, 68, 0.7)"  >University activities</a>
-                            <a class="nav-item nav-link" id="nav-external-tab" data-toggle="tab" href="#nav-external" role="tab" aria-controls="nav-external" aria-selected="false"  style="background-color: rgba(68, 0, 153, 0.3)">External activities</a>
-                            <a class="nav-item nav-link" id="nav-others-tab" data-toggle="tab" href="#nav-others" role="tab" aria-controls="nav-others" aria-selected="false" style="background-color: rgba(18, 169, 212, 0.7)" >Other activites</a>
+                            <a class="nav-item nav-link active" id="nav-software-tab" data-toggle="tab" href="#nav-software" role="tab" aria-controls="nav-software" aria-selected="true">Software & repositories</a>
+                            <a class="nav-item nav-link" id="nav-papers-tab" data-toggle="tab" href="#nav-papers" role="tab" aria-controls="nav-papers" aria-selected="false">Academic outputs</a>
+                            <a class="nav-item nav-link" id="nav-uos-tab" data-toggle="tab" href="#nav-uos" role="tab" aria-controls="nav-uos" aria-selected="false">University activities</a>
+                            <a class="nav-item nav-link" id="nav-external-tab" data-toggle="tab" href="#nav-external" role="tab" aria-controls="nav-external" aria-selected="false">External activities</a>
+                            <a class="nav-item nav-link" id="nav-others-tab" data-toggle="tab" href="#nav-others" role="tab" aria-controls="nav-others" aria-selected="false">Other activities</a>
                         </div>
                     </nav>
                         <div class="tab-content" id="nav-tabContent">
