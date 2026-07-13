@@ -1,17 +1,22 @@
-{% assign events = (site.events | sort: 'date' | reverse) %}
+
+{% assign events_by_year = (site.events | sort: 'date' | reverse | group_by_exp: "item", "item.date | date: '%Y'") %}
+
 <div class="event-listing event-upcoming-previous event-insert-header">
-{% if events and events.size > 0 %}
-  {% for event in events %}
-    {% if include.category %}
-      {% assign categories = include.category | split: "," %}
-      {% for category in categories %}
-        {% if category == event.category %}
+{% if events_by_year and events_by_year.size > 0 %}
+  {% for event_year in events_by_year %}
+    <div class="year-block" style="margin-bottom: 1em;" data-year={{ event_year.name }}>
+      {% assign year_collapse = "collapse" | append: event_year.name %}
+      <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#{{year_collapse}}" aria-expanded="false" aria-controls={{year_collapse}}>
+        {{ event_year.name }}
+      </button>
+      <div class="collapse show" id="{{year_collapse}}">
+        <div class="card card-body">
+          {% for event in event_year.items %}
           {% include events_list_item.html event=event %}
-        {% endif %}
-      {% endfor %}
-    {% else %}
-      {% include events_list_item.html event=event %}
-    {% endif %}
-  {% endfor %}
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+    {% endfor %}
 {% endif %}
 </div>
