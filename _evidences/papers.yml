@@ -1,6 +1,14 @@
 ---
 items:
 
+  - title: "Project ERIS: Evaluating RSE Impact and Scope"
+    type: "grant"
+    authors: "<strong>R. Thomas (RSE, PI)</strong>, J. Fozard (Lancaster Universitiy), D. Shaw (U. of York), S. Hettrick (U. of Southampton, SSI)"
+    venue: "DiscouRSE fund round 2"
+    url1: "https://discourse-network.github.io/funding/round-2"
+    url1_label: "DiscouRSE fund"
+    date: "2026"
+
   - title: "Short-term Scientific Mission - Towards a Unified EEG BIDS-Conversion Tool: Aligning EEGManyLabs and CRPN Aix-Marseille Univ. Standardization Workflows"
     type: "grant"
     authors: "<strong>D. Brady (RSE)</strong>"
