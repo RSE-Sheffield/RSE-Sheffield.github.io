@@ -9,8 +9,6 @@ items:
     url1: "https://www.computer.org/publications/2025-best-paper-award-winners"
     url1_label: "link"
 
-
-
   - title: "Mentor, RSECon26"
     member: "<strong>T. James, S. Donnelly, P. Heywood, E. Brown, R. Thomas</strong>"
     type: "role"
@@ -26,6 +24,18 @@ items:
     date: 2026
     url1: "https://sheffield.ac.uk/openresearch/faircasestudies/fair-awards"
     url1_label: "Competition link"
+
+  - title: "Coding is not enough"
+    type: "preprint"
+    member: "<strong>R. Thomas (RSE) & E. Brown (RSE)</strong>"
+    details: "This work reflects on the evolution of the Research Software Engineer community since the term emerged at a Software Sustainability Institute workshop in 2012."
+    date: 2026
+    url1: "https://zenodo.org/records/20666679"
+    url1_label: "Link to paper"
+
+
+
+
 
   - title: "19 Months of Reasonable Performance Computing (SIG)"
     type: "blog"
