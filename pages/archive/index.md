@@ -9,6 +9,7 @@ This is a list of archived pages.
 
 - [CMI-RSE call](/collaboration/cmi-rse)
 - [RSE Call for proposals 2024](cfp2024.md)
+- [RSE Call for proposals 2025](cfp2025.md)
 - [Testimonials](/collaboration/testimonials)
 - [Seminar series](/community/seminars)
 - [Lunch Bytes talks](/community/lunch-bytes)
