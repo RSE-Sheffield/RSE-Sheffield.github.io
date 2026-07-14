@@ -1,0 +1,398 @@
+---
+items:
+
+  - title: "Git/GitKraken training (CDT)"
+    member: "M. Foster & J. Heffer"
+    type: "training"
+    date: "2026"
+    details: "Part of the topic day of the SoundFuture CDT"
+    url1: "https://srse-git-github-zero2hero.netlify.app/"
+    url1_label: "Resources"
+
+  - title: "Software Packaging"
+    member: "C. Wild & F. Sonnenwald"
+    type: "training"
+    date: "2026"
+    details: "Part of the <a href='https://rse.shef.ac.uk/training/fair4rs/'>FAIR24RS training programme</a>"
+    url1: "https://fair2-for-research-software.github.io/FAIR4RS-Packaging/"
+    url1_label: "Resources"
+
+  - title: "FORGE programme creator and manager"
+    member: "S. Donnelly"
+    type: "role"
+    date: "2026-present"
+    details: "Programme that delivers targeted improvements to research software through intensive two day projects"
+    url1: "https://rse.shef.ac.uk/collaboration/RSEtime/forge"
+    url1_label: "Programme"
+
+  - title: "School of Computer Science sustainability lead"
+    member: "R. Chisholm"
+    type: "role"
+    date: "2026-present"
+    details: "Admin Role"
+
+
+  - title: "Software testing (Open)"
+    member: "S. Whittle (PhD student, CMBE) & M. Foster"
+    type: "training"
+    date: "2026"
+    details: "Part of the <a href='https://rse.shef.ac.uk/training/fair4rs/'>FAIR24RS training programme</a>"
+    url1: "https://fair2-for-research-software.github.io/python-testing-for-research/"
+    url1_label: "Resources"
+
+  - title: "Software testing (CDT)"
+    member: "S. Whittle (PhD student, CMBE) & M. Foster"
+    type: "teaching"
+    date: "2026"
+    details: "Part of the MADE4MANUFACTURING CDT module"
+    url1: "https://fair2-for-research-software.github.io/python-testing-for-research/"
+    url1_label: "Resources"
+
+  - title: "SURE reviewer"
+    member: "M. Foster"
+    type: "Role"
+    date: "2026"
+    details: "SURE is the University of Sheffiled undergraduate research scheme"
+    url1: "https://sheffield.ac.uk/sure/home/what-sure"
+    url1_label: "SURE webpage"
+
+  - title: "Git with it (OPEN)"
+    member: "N. Shephard"
+    type: "training"
+    date: "2026"
+    details: "Part of the <a href='https://rse.shef.ac.uk/training/fair4rs/'>FAIR24RS training programme</a>"
+    url1: "https://fair2-for-research-software.github.io/git-with-it/"
+    url1_label: "Resources"
+
+  - title: "Reproducible software environments (OPEN)"
+    member: "D. Brady"
+    type: "training"
+    date: "2026"
+    details: "Part of the <a href='https://rse.shef.ac.uk/training/fair4rs/'>FAIR24RS training programme</a>"
+    url1: "https://fair2-for-research-software.github.io/FAIR4RS-VirtualEnvs/"
+    url1_label: "Resources"
+
+  - title: "Reproducible software environments (CDT)"
+    member: "D. Brady"
+    type: "teaching"
+    date: "2026"
+    details: "Part of the MADE4MANUFACTURING CDT module"
+    url1: "https://fair2-for-research-software.github.io/FAIR4RS-VirtualEnvs/"
+    url1_label: "Resources"
+
+
+  - title: "Git/GitKraken training (OPEN)"
+    member: "D. Brady & S. Donnelly"
+    type: "training"
+    date: "2026"
+    details: "Part of the <a href='https://rse.shef.ac.uk/training/fair4rs/'>FAIR24RS training programme</a>"
+    url1: "https://srse-git-github-zero2hero.netlify.app/"
+    url1_label: "Resources"
+
+  - title: "Panel member, Open Educational Resources workshop"
+    member: "T. James"
+    type: "Invite"
+    details: "Part of University of Sheffield Education Conference 2026"
+    date: "2026"
+    url1: "https://staff.sheffield.ac.uk/elevate/events/lt-conference"
+    url1_label: "Website (UoS staff)"
+
+  - title:
+    year: 2025
+
+  - title: "Software Lifecyle planning (OPEN)"
+    member: "R. Thomas"
+    type: "training"
+    date: "2025"
+    details: "Part of the <a href='https://rse.shef.ac.uk/training/fair4rs/'>FAIR24RS training programme</a>"
+    url1: "https://fair2-for-research-software.github.io/Software_Lifecycle_Planning/"
+    url1_label: "Resources"
+
+  - title: "SURE reviewer"
+    member: "M. Foster"
+    type: "Role"
+    date: "2025"
+    details: "SURE is the University of Sheffiled undergraduate research scheme"
+    url1: "https://sheffield.ac.uk/sure/home/what-sure"
+    url1_label: "SURE webpage"
+
+  - title: "Software design (CDT)"
+    member: "M. Dyer & S. Donnelly"
+    type: "teaching"
+    date: "2025"
+    details: "Part of the CDT module on data science and research software engineering"
+    url1: "https://fair2-for-research-software.github.io/FAIR_Code_design/"
+    url1_label: "Resources"
+
+  - title: "Software design (OPEN)"
+    member: "M. Dyer & S. Donnelly"
+    type: "training"
+    date: "2025"
+    details: "Part of the <a href='https://rse.shef.ac.uk/training/fair4rs/'>FAIR24RS training programme</a>"
+    url1: "https://fair2-for-research-software.github.io/FAIR_Code_design/"
+    url1_label: "Resources"
+
+  - title: "Git/GitKraken training (CDT)"
+    member: "N. Shephard & M. Foster"
+    type: "teaching"
+    date: "2025"
+    details: "Part of the CDT module on data science and research software engineering"
+    url1: "https://srse-git-github-zero2hero.netlify.app/"
+    url1_label: "Resources"
+
+  - title: "Git/GitKraken training (Open)"
+    member: "M. Foster & D. Brady"
+    type: "training"
+    date: "2025"
+    details: "Part of the <a href='https://rse.shef.ac.uk/training/fair4rs/'>FAIR24RS training programme</a>"
+    url1: "https://srse-git-github-zero2hero.netlify.app/"
+    url1_label: "Resources"
+
+  - title: "Better software for Better research (Open)"
+    member: "R. Thomas & T. James"
+    type: "training"
+    date: "2025"
+    details: "Part of the <a href='https://rse.shef.ac.uk/training/fair4rs/'>FAIR24RS training programme</a>"
+    url1: "https://fair2-for-research-software.github.io/Better_software_for_better_research/#/title-slide"
+    url1_label: "Resources"
+
+
+  - title: "Supervision of Turing group research project 2025/2026: How FAIR is Research Software?"
+    member: "M. Foster"
+    type: "teaching"
+    date: "2025-2026"
+    details: "Supervision of a group of 4 students from Computer Science"
+
+  - title: "Creating your own agent with LangChain"
+    member: "S. Donnelly"
+    type: "Invite"
+    details: "Invited talk at the Best practice in AI afternoon II"
+    date: "2025"
+    url1: "https://rse.shef.ac.uk/events/seminar-2025-11-11-best-practices-in-ai-afternoon-2.html"
+    url1_label: "Event webpage"
+
+  - title: "Best practice in AI afternoon II"
+    member: "T. Karmakharm (Chair)"
+    type: "workshop"
+    details: "Best practice for research, design, development and deployment of AI systems"
+    date: "2025"
+    url1: "https://rse.shef.ac.uk/events/seminar-2025-11-11-best-practices-in-ai-afternoon-2.html"
+    url1_label: "Event webpage"
+
+  - title: "Best practices in developing FAIR(R) research software and workflows"
+    member: 'T. James'
+    type: "Invite"
+    date: "2025"
+    details: "Invited talk to Open Research & FAIR Principles, School of Biosciences"
+
+
+  - title: "Supervision of BSc student dissertation"
+    member: "E. Brown"
+    type: "teaching"
+    date: "2025-2026"
+    details: "Supervision of Computer Science student on Machine Learning project applied to Health"
+
+  - title: "Supervision of Mathematics and Physical Sciences student (N8 RSE winter internships)"
+    member: "P. Heywood"
+    type: "teaching"
+    date: "2025-2026"
+    details: "Student working on the PolyChron project"
+
+  - title: "Supervision of Computer Science student (N8 RSE winter internships)"
+    member: "M. Foster"
+    type: "teaching"
+    date: "2025-2026"
+    details: "Student working on the CITCoM project"
+
+  - title: "Supervision of Computer Science student (N8 RSE winter internships)"
+    member: "D. Brady"
+    type: "teaching"
+    date: "2025-2026"
+    details: "Student working on the ElectroTools project"
+
+  - title: "Guest Lecture: Machines and Intelligence on “Scientific Programming”"
+    member: "M. Foster"
+    type: "teaching"
+    date: "2025"
+    details: "Computer Science module COM1005 led by Emma Norling"
+
+  - title: "Python Profiling and Optimisation"
+    member: "R. Chisholm"
+    type: "training"
+    date: "2025"
+    details: "Introduction to code profiling in Python"
+    url1: "https://rse.shef.ac.uk/pando-python/"
+    url1_label: "Resources"
+
+  - title: "Mathematical and Physical Sciences RSE workshop"
+    member: "M. Dyer, S. Donnelly & E. Brown"
+    type: "workshop"
+    date: "2025"
+    url:
+
+  - title: "Publish your software!"
+    member: "R. Thomas, A. Smith & E. Brown"
+    type: "training"
+    date: "2025"
+    url1: "https://orda.shef.ac.uk/articles/media/Publish_your_Software_An_introduction_to_the_Journal_of_Open_Source_Software_JOSS_/29179034/1?file=54917771"
+    url1_label: "Recording"
+
+  - title: "Git Collaboration"
+    member: "N. Shephard"
+    type: "training"
+    date: "2025"
+    details: "Part of the <a href='https://rse.shef.ac.uk/training/fair4rs/'>FAIR24RS training programme</a> (The latest version of this training course is called <strong>git with it</strong>)."
+    url1: "https://fair2-for-research-software.github.io/git-with-it/"
+    url1_label: "Resources"
+
+  - title: "Co-lead, Bioscience and AI Interest Group"
+    member: "T. James"
+    type: "role"
+    date: "2025-present"
+    details: "Centre for Machine Intelligence"
+    url1: "https://sheffield.ac.uk/machine-intelligence/community/interest-groups/bioscience-and-ai"
+    url1_label: "Website"
+
+  - title: "Module co-lead, MADE4MANUFACTURING CDT module"
+    member: "T. James, R. Thomas"
+    type: "role"
+    date: "2025"
+    details: "MAC4112 - Data Science and Software Engineering in Manufacturing"
+    url1: "https://sheffield.ac.uk/made4manufacturing/modules/year-1-modules"
+    url1_label: "Website"
+
+  - title:
+    year: 2024
+
+  - title: "Software Lifecyle planning"
+    member: "R. Thomas, R. Campbell, J. Adams and K. O'Neill"
+    type: "training"
+    date: "2024"
+    details: "Part of the <a href='https://rse.shef.ac.uk/training/fair4rs/'>FAIR24RS training programme</a>"
+    url1: "https://fair2-for-research-software.github.io/Software_Lifecycle_Planning/"
+    url1_label: "Resources"
+
+  - title: "Deep learning demystified (x3)"
+    member: "T. karmakharm"
+    type: "training"
+    date: "2024"
+    details: "Introduction training on deep learning teachniques"
+    url1: "https://rse.shef.ac.uk/dl-demystified-course/"
+    url1_label: "Resources"
+
+  - title: "Python Profiling and Optimisation (x2)"
+    member: "R. Chisholm"
+    type: "training"
+    date: "2024"
+    details: "Introduction to code profiling in Python"
+    url1: "https://rse.shef.ac.uk/pando-python/"
+    url1_label: "Resources"
+
+  - title: "Better software for Better research"
+    member: "R. Thomas & T. James"
+    type: "training"
+    date: "2024"
+    details: "Part of the <a href='https://rse.shef.ac.uk/training/fair4rs/'>FAIR24RS training programme</a>"
+    url1: "https://fair2-for-research-software.github.io/Better_software_for_better_research/#/title-slide"
+    url1_label: "Resources"
+
+  - title: "FAIR2 for research software, Developing a FAIR and<br>Reproducible research software training programme"
+    member: "T. James"
+    type: "workshop"
+    details: "OpenFest 2024"
+    date: "2024"
+    url1: "https://sheffield.ac.uk/openresearch/events/openfest-2024-call-proposals"
+    url1_label: "Event webpage"
+
+  - title: "How to make your machine learning code faster"
+    member: "E. Brown"
+    type: "Invite"
+    details: "Practical guide to profile machine learning code to find bottlenecks and to remove these bottlenecks. Best Practice in AI afternoon"
+    date: "2024"
+    url1: "https://rse.shef.ac.uk/events/seminar-2024-07-05-best-practices-in-ai-afternoon.html"
+    url1_label: "Event webpage"
+
+  - title: "Best practice in AI afternoon"
+    member: "T. Karmakharm (Chair)"
+    type: "workshop"
+    details: "Best practice for research, design, development and deployment of AI systems"
+    date: "2024"
+    url1: "https://rse.shef.ac.uk/events/seminar-2024-07-05-best-practices-in-ai-afternoon.html"
+    url1_label: "Event webpage"
+
+  - title: "Supervision of BioScience summer student (N8 RSE internships)"
+    member: "T. James"
+    type: "teaching"
+    date: "2024"
+
+  - title: "Supervision of Computer Science student (N8 RSE internships)"
+    member: "D. Brady"
+    type: "teaching"
+    date: "2024"
+
+  - title: "Guest lecture at the Sheffield Methods Institute"
+    member: "N. Shephard"
+    type: "teaching"
+    date: "2024"
+    url1: "https://blog.nshephard.dev/reproducible_research_example/#/title-slide"
+    url1_label: "Slides"
+
+  - title: "Supervision of Computer Science student (N8 RSE internships)"
+    member: "D. Tartarini"
+    type: "teaching"
+    date: "2024"
+
+  - title:
+    year: 2023
+
+  - title: "Member of the working group on Open Educational Resources"
+    member: "R. Chisholm"
+    type: "role"
+    date: "2023-2025"
+    url1: "https://sites.google.com/sheffield.ac.uk/oer-working-group/about-us?authuser=1"
+    url1_label: "OER website"
+
+  - title: "Chair of the RSE call for proposals 2025"
+    member: "N. Shephard"
+    type: "role"
+    date: "2023-present"
+    url1: "https://rse.shef.ac.uk/collaboration/RSEtime/2025/"
+    url1_label: "Call for proposal 2025"
+
+  - title: "FAIR24RS training Programme Manager"
+    member: "T. James"
+    type: "role"
+    date: "2023-present"
+    url1: "https://rse.shef.ac.uk/training/fair4rs/"
+    url1_label: "Training programme"
+
+  - title: "Fellowships informative event and support"
+    member: "D. Tartarini (organiser)"
+    type: "role"
+    date: "2023"
+
+  - title:
+    year: 2022
+
+  - title: "Founder and coordinator of the Early Career Researchers Forum of the Faculty of Engineering"
+    member: "D. Tartatini"
+    type: "role"
+    date: "2022-present"
+
+  - title:
+    year: 2021
+
+  - title:
+    year: 2020
+
+  - title: "Senate Research and Innovation committee (ECR lead from Faculty of Engineering)"
+    member: "D. Tartatini"
+    type: "role"
+    date: "2020-present"
+    url1: "https://sheffield.ac.uk/govern/committees/senate-committees"
+    url1_label: "Senate webpage"
+
+  - title:
+    year: 2019
+
+---

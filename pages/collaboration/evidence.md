@@ -1,0 +1,58 @@
+---
+title: Contributions of the RSE team
+permalink: /collaboration/evidence/
+slug: evidence
+type: text
+---
+
+The RSE team at Sheffield contribute to multiple areas of the research eco-system. Contributions can take the form of research publications, software releases, committee membership, event organisation, etc. 
+Here we list all the contributions made by our team, grouped into five categories:
+
+* **Software and repositories:** As Research software engineers, this is our main work. This section mainly reports software repositories & releases of research software but might occasionaly highlights training development that we make open source on github.  
+* **Academic outputs:** This includes refereed papers, conference contributions & grants.
+* **University activities:** We are taking part in multiple activites at the University of Sheffield and we list them all here. This can be committees, training organisation, workshops, etc. 
+* **External activities:** This is all the activities we are doing outside of the University in the RSE community. Activities include invited talks and lectures, conference committees, panels,etc.
+* **Others activities:** Any other things that show our contributions such as blog posts, awards or non-traditional bids.
+
+<em>Note: This is a dynamically generated page and is continually updated.</em>
+
+
+<br>
+
+<section id="evidence-tabs" class="project-tab">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <nav>
+                        <div class="nav nav-tabs nav-fill" id="nav-tab" role="tablist">
+                            <a class="nav-item nav-link active" id="nav-software-tab" data-toggle="tab" href="#nav-software" role="tab" aria-controls="nav-software" aria-selected="true">Software & repositories</a>
+                            <a class="nav-item nav-link" id="nav-papers-tab" data-toggle="tab" href="#nav-papers" role="tab" aria-controls="nav-papers" aria-selected="false">Academic outputs</a>
+                            <a class="nav-item nav-link" id="nav-uos-tab" data-toggle="tab" href="#nav-uos" role="tab" aria-controls="nav-uos" aria-selected="false">University activities</a>
+                            <a class="nav-item nav-link" id="nav-external-tab" data-toggle="tab" href="#nav-external" role="tab" aria-controls="nav-external" aria-selected="false">External activities</a>
+                            <a class="nav-item nav-link" id="nav-others-tab" data-toggle="tab" href="#nav-others" role="tab" aria-controls="nav-others" aria-selected="false">Other activities</a>
+                        </div>
+                    </nav>
+                        <div class="tab-content" id="nav-tabContent">
+                            <div class="tab-pane fade" id="nav-papers" role="tabpanel" aria-labelledby="nav-papers-tab">
+                            {% include evidence_papers_list.html %}
+                            </div>
+                            <div class="tab-pane fade show active" id="nav-software" role="tabpanel" aria-labelledby="nav-software-tab"> 
+                            {% include evidence_software_list.html %}
+                            </div>
+                            <div class="tab-pane fade" id="nav-uos" role="tabpanel" aria-labelledby="nav-uos-tab">
+                            {% include evidence_uos_list.html %}
+                            </div>
+                            <div class="tab-pane fade" id="nav-external" role="tabpanel" aria-labelledby="nav-external-tab">
+                            {% include evidence_external_list.html %}
+                            </div>
+                            <div class="tab-pane fade" id="nav-others" role="tabpanel" aria-labelledby="nav-others-tab">
+                            {% include evidence_others_list.html %}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+<br>
+<br>
