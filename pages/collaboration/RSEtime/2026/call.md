@@ -105,7 +105,7 @@ locked file so please make a copy and use it to draft your proposal. When you ar
 - **Preferred timeline:** what would be the ideal start date of the RSE.
 
 **The application should be submitted via the [form][form] no later than the 17:00 BST
-14th July 2026.**
+~~14th~~ 21st July 2026.**
 
 ### Review and selection process
 
