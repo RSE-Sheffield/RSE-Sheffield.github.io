@@ -5,7 +5,7 @@ slug: index
 type: text
 ---
 
-**UPDATE** The deadline for submissions has been extended by a week and is now 21st July 2026.
+<div class="alert alert-danger" role="alert"> This call concluded in July 2026. A new call is expected to open in June 2027.</div>
 
 ### Rationale
 
