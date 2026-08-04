@@ -40,14 +40,14 @@ news, opportunities, events and training for you.
 - [2026 Geoscience RSE SIG Annual Meeting](https://socrse.github.io/geoscience-sig/)
   - Challenges and Opportunities of RSE Careers in Geosciences. We are calling for lightning talks (5 mins) from the community to highlight recent work, advertise a talk, event or tool. If you're interested, please [sign up](https://forms.gle/ABCeAWwUv9aEQLQ86) by 16th August.
   - Location: Co-located with [RSECon26](https://rsecon26.society-rse.org/)
+- [Digital Humanities Congress 2026](https://www.dhi.ac.uk/congress)
+  - Date: **2026-09-02 - 2026-09-03**
+  - Registration deadline: **2026-08-17**
+  - The University of Sheffield's Digital Humanities Institute is delighted to announce that its two-day conference will be held in Sheffield on Wednesday 2nd and Thursday 3rd September 2026.
 - [International Research Software Conference](https://www.researchsoft.org/irsc/program/)
   -  IRSC brings together leaders and decision-makers to shape the future of research software in the age of generative AI.
   - Date: **2026-09-07 - 2026-09-08**
   - Location: Co-located with [RSECon26](https://rsecon26.society-rse.org/)
-- [Digital Humanities Congress 2026](https://www.dhi.ac.uk/congress)
-  - Date: **2026-09-17**
-  - Registration deadline: **2026-08-17**
-  - The University of Sheffield's Digital Humanities Institute is delighted to announce that its two-day conference will be held in Sheffield on Wednesday 2nd and Thursday 3rd September 2026.
 - [DataCite Open Hours: Research Software DOIs](https://datacite.zoom.us/meeting/register/g7XLaXp1SvO5uNeyqqEhNA#/registration)
   - Date: **2026-09-23**
   - The third DataCite Open Hours of 2026 is coming up. This is a great opportunity to get the latest updates on new feature developments straight from the DataCite team and hear how community members are using their services. This session will focus on DOIs for research software.
@@ -71,11 +71,11 @@ news, opportunities, events and training for you.
   - Title: Spotting the Weird Ones
   - Speaker: Professor Rob J Hyndman, Monash University, Australia
 - [SDE Forge - Secure Data Environments Technical Skills Residential](https://sde-forge.eventbrite.co.uk/)
-  - Dates: **2026-11-11 to 2026-11-13**
+  - Dates: **2026-11-11 - 2026-11-13**
   - Venue: The Rookery Hotel, Crewe
   - This workshop will focus on the Research Technical Professional (RTP) role and the skills needed to design, build and maintain Secure Data Environments (SDEs).
 - [Computing Insight UK 2026](https://www.sc.stfc.ac.uk/ciuk-2026/)
-  - Dates: **2026-12-02 to 2026-12-04**
+  - Dates: **2026-12-02 - 2026-12-04**
   - Venue: Manchester Central Convention Complex
   - The UK's Premier Conference for High Performance Computing and Associated Research.
 
@@ -189,7 +189,7 @@ You can join the google group
 [here](https://groups.google.com/u/1/a/sheffield.ac.uk/g/digital-research-practice-support-community-group/about) to
 stay informed.
 
-The next meeting is scheduled for 2pm on Wednesday 15th August 2026.
+The next meeting is scheduled for 2pm on Wednesday 16th September 2026.
 
 <!-- Not currently active, conflicts with alternatively named RSE Seminar Series
 #### LunchBytes
