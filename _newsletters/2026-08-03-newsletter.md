@@ -20,7 +20,7 @@ news, opportunities, events and training for you.
 <!-- --- -->
 
 ### News
-- [RSEcon](https://rsecon26.society-rse.org/) 2026 will be in Sheffield **2026-09-09 - 2026-09-11**. Join us in The Wave to celebrate a decade of Research Software Engineering! The draft programme is available [here](https://virtual.oxfordabstracts.com/e/rsecon26/program).
+- [RSECon26](https://rsecon26.society-rse.org/) will be in Sheffield **2026-09-09 - 2026-09-11**. Join us in The Wave to celebrate a decade of Research Software Engineering! The draft programme is available [here](https://virtual.oxfordabstracts.com/e/rsecon26/program).
   - [Registration](https://rsecon26.society-rse.org/registration/) deadline: 2026-08-07 (in person), 2026-08-31 (online)
 
 ---
@@ -39,11 +39,11 @@ news, opportunities, events and training for you.
 
 - [2026 Geoscience RSE SIG Annual Meeting](https://socrse.github.io/geoscience-sig/)
   - Challenges and Opportunities of RSE Careers in Geosciences. We are calling for lightning talks (5 mins) from the community to highlight recent work, advertise a talk, event or tool. If you're interested, please [sign up](https://forms.gle/ABCeAWwUv9aEQLQ86) by 16th August.
-  - Location: Co-located with [RSEcon](https://rsecon26.society-rse.org/)
+  - Location: Co-located with [RSECon26](https://rsecon26.society-rse.org/)
 - [International Research Software Conference](https://www.researchsoft.org/irsc/program/)
   -  IRSC brings together leaders and decision-makers to shape the future of research software in the age of generative AI.
   - Date: **2026-09-07 - 2026-09-08**
-  - Location: Co-located with [RSEcon](https://rsecon26.society-rse.org/)
+  - Location: Co-located with [RSECon26](https://rsecon26.society-rse.org/)
 - [Digital Humanities Congress 2026](https://www.dhi.ac.uk/congress)
   - Date: **2026-09-17**
   - Registration deadline: **2026-08-17**
