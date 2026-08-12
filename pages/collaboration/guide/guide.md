@@ -1,125 +1,121 @@
 ---
-title: RSE Collaboration Guide (RSE Working Practice)
+title: Collaborating with us
 permalink: /collaboration/guide/
 slug: index
 type: text
 ---
 
-## What is this Handbook for?
+## Objective
 
-Good software comes less from genius software engineers than from good practices, processes and relationships. The information here sets out what this means for projects involving the University of Sheffield RSE Team. Every project is different, and everyone we work with is different. Different approaches, values and levels of expertise. The purpose of this information is to articulate approaches that we know can be very successful and to inform our collaborators of how to get the best out of working with our team.
+Good software comes less from genius software engineers than from good practices, processes and relationships. Every project is different, and everyone we work with is different.
+Nevertheless, since our team is working on more than 40 projects per year, the research software engineering team has set up a standard way of working on projects, including meetings, reporting and communication. 
+To ensure the success of the collaboration between RSE and research teams, it is important to set up clear expectations. This document is an attempt to clarify what these expectations are and how the RSE team works.
 
-There’s no way we’ve got this right first time! This is a working document and we welcome feedback via any of our team members or to [rse@sheffield.ac.uk](mailto:rse@sheffield.ac.uk) where your message will be received by the RSE Team management.
-
-
-## Before a project starts {#before-a-project-starts}
-
-
-### Project management strategy {#project-management-strategy}
-
-Once an RSE is allocated to your project the project PI will ultimately be responsible for how the RSE is deployed as a resource. As such it is essential that thought is given to a strategy for project management. Having a project management process will ensure that the RSE has agreed priorities for work, is able to meet agreed deadlines and can provide feedback to the project PI on progress. The project management approach may be to include the RSE in an existing process including postdocs or it could be to adopt a new process unique to the tasks the RSE is to undertake. There are different project management approaches but the RSE can help to define a process if you do not already have one. As a minimum you should think about and then agree on the items in the section [Kick off meetings](#kick-off-meetings).
-
-The RSE team has a fairly standardised process for working on code which uses GitHub projects and issues and this can be incorporated into your project management approach early on if required (see section [During the Project](#during-the-project)).
-
-
-### Instructions for delivery of necessary materials to initiate project {#instructions-for-delivery-of-necessary-materials-to-initiate-project}
-
-Before work begins, it is likely that we will need to inspect existing materials. This may include code, example data, database schema etc.
-
-
-### Code {#code}
-
-The RSE team delivers code according to best practices using a collaborative version control system (preferably GitHub, but equivalent tools such as GitLab or Bitbucket can be used for established projects). At the outset of the project initial code can be provided on a secure shared resource like Google Drive however we would expect to migrate this to version control to make any changes. The RSE team can help you to do this. If you already use version control and have a private repository, you will need to add the allocated RSE as a collaborator.
-
-
-### Data {#data}
-
-Along with code, or for completely new software projects, it may also be necessary to provide data. Providing access to all data required by the project as soon as possible would ensure any software developed takes into consideration edge cases. Should your data be sensitive, ensure it is appropriately anonymised or that appropriate dummy data has been provided. A[ data management plan](https://www.sheffield.ac.uk/library/rdm/dmp) should be in place and is the responsibility of the project PI. The RSE team can assist you in completing one or advise on certain aspects.
-
-
-### Sensitive materials {#sensitive-materials}
-
-It may be that the work will require access to sensitive materials which will require an NDA being in place. Please ensure you consider whether this will be required and take steps as soon as possible to initiate the process so as to avoid delaying the beginning of the project at this stage. As employees of the University of Sheffield, RSE team members are often covered by existing NDAs or research agreements, which are typically between the whole organisation and an external one.
-
-
-### Licensing {#licensing}
-
-The RSE team recognises research software as a first class research output and is committed to obtaining maximum value from it via sharing. Options for licensing software should be considered at the earliest opportunity and the default position is that **code should be made available under a permissive open source licence** as it is developed (i.e. right now!), in keeping with the [University of Sheffield Statement on Open Research](https://www.sheffield.ac.uk/openresearch/university-statement-open-research).
-
-Exceptions to this include:
+There’s no way we’ve got this right first time! This is a working document and we welcome feedback via any of our team members or to [rse@sheffield.ac.uk](mailto:rse@sheffield.ac.uk) where your message will be received by the RSE Team management. 
 
 
 
-* Restrictions on background IP (e.g. the project extends software which cannot be made open source).
-* Legal agreements around project funding (e.g. NDAs, ownership of foreground IP is shared under a research agreement)
-* Collaborators outside the University of Sheffield will not release copyright.
-* The research team has contacted the research services commercialisation team and plans to commercialise the software in a manner that precludes open source licensing.
-* The software contains confidential information.
+## What is a Research Software Engineer? {#What-is-a-RSE}
+
+A Research Software Engineer is a person with a wide software engineering experience in the research context. Our team is composed of a variety of people with different backgrounds such as computer science, health, neuroscience, geophysics, environmental science, genetics, astronomy, etc… 
+Some of our team members also have experience in the private sector developing software in the industrial context. 
+
+All RSEs in out team hold a *Researcher* contract, so integrating a RSE into your project is similar to adding another researcher to your team for a specific duration. Our RSEs have extensive experience across various technical domains as well as in research, and their expertise extends far beyond software development. They contribute as research collaborators rather than solely as software developers. Like other researchers at the University they follow the [academic career pathway](https://staff.sheffield.ac.uk/reward-recognition/academic-career-pathways) for career development and must meet the same promotion criteria as more traditional research staff. 
+
+Activities carried out by the members of the RSE team are not limited to collaborating with other researchers.
+Group activities and personal development are important aspects of the RSE team culture. These activities require time and the RSE management team will make sure that RSE can participate in these activities. 
+While the RSEs are doing their best to juggle with multiple projects at once and to give them the time they need, It is important to emphasise that what matters is production rather than simple timekeeping. Having said that, it is also important to know that RSEs are expected to attend various team activities:
+
+* For every RSE in the team:
+  * Weekly one-on-one meetings with their direct Line manager (~30min-1h).
+  * Fortnightly meeting with the HoRSE (<30minutes).
+  * RSE team meetings: 60-minutes RSE group meeting every other Wednesday.
+  * May be involved in some relevant scoping meetings (frequency depending on requests).
+ 
+
+* In addition, senior RSEs have the following duties:
+  * 60-minutes meeting with the RSE management team every other Wednesday.
+  * Project scoping meeting. Depending on RSE requests and deadlines of application. In general 30-minutes meetings.
+  * Kick-off and Retrospective meetings on projects (1h). The cadence of such meetings depends on the project length.
+  * Weekly meeting with their report (~30min-1h)
+  * Support for building promotion cases.
+  * Involvement with the academic community and funding initiative (workshops, research away days, committees, funders events to advertise the team or promoting grant proposals)
+
+In addition to these expected activities, RSE can take part in code clinics, training, conferences (e.g. the yearly RSE National conference, RSECon), self-development activities, etc… As you would expect any early career researcher to do these activities while working on their research, we will ensure that it does not take more than 5% of the project time.
 
 
-### Sustainability plan - software/data maintenance plan {#sustainability-plan-software-data-maintenance-plan}
+## The RSE project lifecycle {#lifecyle}
 
-RSE effort on a project is for a fixed period of time, usually associated with specific research funding. For software to continue to do its job beyond this scope, ongoing maintenance will be required. Current research funding models do not usually acknowledge this. Bug fixes and updates in dependencies and operating systems, beyond the control of the project, are a key driver of the need for maintenance. As mitigation, prior to starting the project the following should be considered:
+The core focus of the RSE group is collaborating with researchers on various projects. In this section, we outline the entire project lifecycle as it is carried out by the RSE team.
+
+<p align="center">
+  <img src="/assets/images/Collaboration_timeline.png" />
+</p>
+
+* Entry point: **Grant writing stage**
+  * Usually, and it is our preferred option, researchers requiring RSE expertise will contact us when they are writing a grant proposal. At this stage, the RSE team will organise a scoping meeting with the research team to discuss the project. Before the meeting, the P.I. of the project will be requested to fill a [google form](https://docs.google.com/forms/d/e/1FAIpQLSdqxTC1nCQltVk_-qSmv-P1h67x5IDEdUW_p8Y2uQAaBh8xVg/viewform) with information about the project. During the meeting, we will discuss the skills required by the project, how much time RSE time we estimate it will take to complete the work and a potential starting date. 
+**It is also worth noting that RSEs can also be particularly valuable co-Is on grants**, for example to lead the software side of the project. In some cases, we might propose to add one of our team members as co-I on the grant if we see that it will be valuable for the research team and increase the chances of success. In that case, the RSE will help shape the research team in shaping the bid. Unless it is already agreed upon during the meeting, the RSE team will share a proposed plan with the P.I. afterward. We will always ask the P.I. to share with us their grant costing code. This helps us keep track of the potential future work and make sure that RSE are included correctly in the grants.
+
+**Note on costing**: In general RSEs are costed on grant as an unnamed researcher at grade G7.10 (unless the RSE is a named co-I). In some cases, a day rate will have to be used instead. This depends on the funding scheme. It is also worth mentioning that if you already have some funding and would like to work with us we can also be costed post-award. 
+
+* Start of the project: **Kickoff meeting and end-to-end report**. When your grant is funded (congratulations!) and that the starting date of the collaboration with the RSE approaches, we will organise a kickoff meeting. 
+This meeting will be attended by the RSE and their line manager and by people from the research team whose work will be closely linked to the RSE’s (at least the P.I. of the project). During the meeting we will discuss the following item:
+  * *Objectives and requirements of the project*. These are the general objectives of the project. What does a successful project look like to you?
+  * *Configuration of the collaboration*. Who is in charge of steering the project? What is the meeting cadence
+? Who is participating to the project, and with what commitment? How will everybody communicate?
+  * *Outputs*. How will the work be licensed? (see section on Licence) How will the RSE be acknowledged in the research output? (see Section on RSE impact)
+  * *Objectives of the RSE*. This is where we will discuss the direct objective of the RSE. You do not have to map 3 years of work but at least the first few steps. This will be completed during the project.
+  * *Risks*. What could go wrong along the project? It is often useful to try to think about potential roadblocks during the project and how to mitigate them. 
+  * *Technical aspects*. Do you have any on-boarding material? Who is in charge of them and how can the RSE get access to it? 
+
+During the meeting, everything that is discussed will be recorded in the RSE [end-to-end project report](https://docs.google.com/document/d/1niSMu8MPCmZx3CAspb290QCglx-CuY4Ac4LB4AhHLWo/edit?usp=sharing). The RSE working on the project is the owner of the report and will be in charge of keeping it up to date.
+
+
+* **Retrospective meetings**. For a long project in particular, it is often useful to take some time along the way to take a step back and discuss how the work and the collaboration is going. This is why we will organise retrospective meetings (ideally one every six months). It will be an occasion to discuss what is going well, what is not going so well and how we can improve. For short projects, we will organise such a meeting only at the end of the project. 
+ 
+
+* **End of Project**. Ultimately, the goal of the RSE work is that the work that is produced is helpful for your research. It is therefore important to make sure that at the end of the project you are handed over the complete work. Another important aspect of this handover is that you understand the work that is handed over to you. For that reason we encourage the P.I. and/or research group members to take an active part in the development of the software. 
+Outputs are specific to projects and vary greatly by programming language, but have some core themes. The RSE team aspires to produce software that can be further developed with minimal or no input from the original engineer. To facilitate this we prioritise including the following in our repositories:
+  * Developer and user documentation: How to build / run the software, how it is organised, what conventions have been used, what developer tools are needed e.g. to run tests.
+  * Execution environment and dependencies: What operating systems will the software run on, is what other software / libraries / modules are needed, what versions, how the execution environment is described. E.g. through containerisation.
+  * Appropriate automated tests: unit, regression, integration.
+
+A final retrospective meeting will be held at the end of the project. This will help us to know what went well, what did not, and how to improve our way of working in the future.
+
+* **Impact Enquiry**. It is important for each RSE, and for the RSE team as well, to be able to keep track of the impact of the work. For that reason, you will receive a few months after the project ends (and even 1 and 3 years after), a short message from the RSE team to understand the long term impact of the RSE team. It will be a short mail from the Head of RSE to know if the work has been used in recent publications, if it is still in use or if it has been taken further. We would appreciate it if you took time to answer this mail.
+
+
+## Impact of the RSE
+
+An RSE is an active collaborator in the research process and should be acknowledged accordingly. If an RSE has contributed to work that supports a research paper, they should be credited as a co-author, with their role highlighted in line with the journal’s guidelines. Additionally, we encourage research P.I.s to publish any code developed during the project, such as in [the Journal of Open Source Software](https://joss.theoj.org/). 
+
+Beyond research outputs, if an RSE has made a significant contribution to your work, please share your feedback with the RSE management team at [rse@sheffield.ac.uk](mailto:rse@sheffield.ac.uk). You may also consider nominating them for a recognition award through The Deal, a great way to acknowledge staff contributions.
 
 
 
-* Is the software required to operate after the end of this project?
-* If so, who will maintain it? Will they need training within the scope of the project to enable them to do this?
-* If so, does it require any infrastructure (e.g. web servers, databases)?
-* Consider doing an online [Software Sustainability Review](https://www.software.ac.uk/resources/online-sustainability-evaluation). Not all of the criteria are universal. The project RSE will advise on appropriateness of specific criteria.
+# RSE practices
 
-As part of your project design you should consider and plan for sustainability (see After the Project). Many research proposals benefit greatly from defining the plans for sustainability within the case for support. 
-
-
-### Good Practice {#good-practice}
-
-Whilst collaborating with researchers, the RSE team endeavours to follow good practice throughout with the objective of crafting a software project that is reproducible, sustainable and produces accountable results. Ultimately, following good practice in a research software project will result in a more impactful piece of software which outlasts the project itself.
-
-In practice, this means using tools and techniques such as:
-
-
-
-* Version control (almost always via `git`)
+Whilst collaborating with researchers, the RSE team endeavours to follow good practice throughout with the objective of crafting a software project that is reproducible, sustainable and produces accountable results. Ultimately, following good practice in a research software project will result in a more impactful piece of software which outlasts the project itself. In practice, this means using tools and techniques such as:
+* Version control (almost always via git)
 * Shared repositories
 * Software testing
 * Documentation (version controlled)
 
-"Best practices" are not universally agreed upon in the software engineering community and will change over time. A thorough list of good practices for [free open source software](https://bestpractices.coreinfrastructure.org/en/criteria/0) has been produced, additionally ISO standards for quality assurance exist for [Systems and software engineering](https://committee.iso.org/sites/jtc1sc7/home/projects/flagship-standards/iso-25000-square-series.html). These can be quite daunting and a pragmatic approach must be adapted to balance compliance with project value.
+“Best practices” are not universally agreed upon in the software engineering community and will change over time. A thorough list of good practices for free open source software has been produced, additionally ISO standards for quality assurance exist for Systems and software engineering. These can be quite daunting and a pragmatic approach must be adapted to balance compliance with project value.
+
+### Instructions for delivery of necessary materials to initiate project
+
+* **Code**. The RSE team delivers code according to best practices using a collaborative version control system (preferably GitHub, but equivalent tools such as GitLab or Bitbucket can be used for established projects). At the outset of the project initial code can be provided on a secure shared resource like Google Drive however we would expect to migrate this to version control to make any changes. The RSE team can help you to do this. If you already use version control and have a private repository, you will need to add the allocated RSE as a collaborator.
+
+* **Data**. Along with code, or for completely new software projects, it may also be necessary to provide data. Providing access to all data required by the project as soon as possible would ensure any software developed takes into consideration edge cases. Should your data be sensitive, ensure it is appropriately anonymised or that appropriate dummy data has been provided. A[ data management plan](https://www.sheffield.ac.uk/library/rdm/dmp) should be in place and is the responsibility of the project PI. The RSE team can assist you in completing one or advise on certain aspects.
+
+* **Sensitive materials**. It may be that the work will require access to sensitive materials which will require an NDA being in place. Please ensure you consider whether this will be required and take steps as soon as possible to initiate the process so as to avoid delaying the beginning of the project at this stage. As employees of the University of Sheffield, RSE team members are often covered by existing NDAs or research agreements, which are typically between the whole organisation and an external one.
 
 
-### Kick off meetings {#kick-off-meetings}
-
-Once a project is funded (congratulations!) and an RSE is allocated, at or before the beginning of the work, a kick-off meeting should be held with the PI, researchers and RSE(s) involved to make decisions on the priorities, scope and working methods as described here.
-
-Notes should be taken in a document that everyone has access to, which can be referred to during the project. Use a team Google Drive or GitHub/GitLab repository for this.
-
-Checklist for kick-off meetings:
-
-
-
-1.  Meeting cadence
-2.  Personnel, their roles and fractional allocation/working times
-3.  Primary contact for setting development priorities
-4.  Agree access and technologies to work with code and data 
-5.  Issue tracking and communication
-6.  Where project information will be kept (e.g. GitHub, Google Drive)
-7.  Project scope, duration, priorities, milestones
-8.  Deliverables
-9.  Maintenance
-10.  Handover
-
-
-## During the project {#during-the-project}
-
-
-### Use of Version control {#use-of-version-control}
-
-All software  by RSEs will be managed as a repository using version control software, most likely `git`. This represents fundamental software engineering best practice and ensures the evolution of the project is captured and allows for navigation through the history of project development which will always be available, even after handover. Any non software activities should utilise tools and storage agreed as part of the kick off meeting.
+### Use of Version control
+All software by RSEs will be managed as a repository using version control software, most likely git. This represents fundamental software engineering best practice and ensures the evolution of the project is captured and allows for navigation through the history of project development which will always be available, even after handover. Any non software activities should utilise tools and storage agreed as part of the kick off meeting.
 
 All our projects will also be shared online via online repository hosting sites (e.g GitHub). This method provides a number of features that aid development, access to materials, collaboration and project management and communication:
-
-
-
 * Code is version controlled and saved on redundant storage
 * Code is easily accessible by collaborators
 * Facilitates collaboration through formal management of contributions.
@@ -127,43 +123,30 @@ All our projects will also be shared online via online repository hosting sites 
 * Provides user friendly task management functionality.
 * Communication, planning and task management remains associated with the project.
 
+
 Repositories hosted online can be made private where necessary. In rare circumstances where the work involves materials that cannot be shared online at all, we will discuss with you and develop more secure custom arrangements.
-
-
-### Communication {#communication}
-
-It is important to manage communication between stakeholders and RSEs in a software project and as a team we have developed a set of recommendations over the course of many projects for getting the most out of collaborating together.
-
-These concepts are intended as guidance and each individual project may require its own tweaks to this framework.
-
-PIs, Researchers and RSEs should agree on a communication strategy for the project.
-
-As a starting point, we recommend:
-
-
-
-* Regular (but not too regular) focused meetings to prioritise work to be carried out.
-* Agreeing on an instant messaging platform for quick discussions, e.g. Google Chat, Slack or Skype - this is particularly useful in our current remote/hybrid working model.
-* Use of issues and pull requests, described in more detail below.
-
-We encourage the use of instant messaging (for quick discussions) or slack for throwaway conversation. As a general rule we suggest that you should not expect or require anyone to read messages on an instant messaging service (e.g slack, google chat, etc) unless they are specifically tagged (either individually or via a channel). We also need decisions to always be recorded. Notes or decision making around particular development tasks should always be recorded in an agreed location (e.g. GitHub Issues, or a Google Drive folder) rather than via email history.
 
 
 ### Issues and Project Boards {#issues-and-project-boards}
 
-GitHub and GitLab, alongside acting as an online hosting platform for code, also provide a useful set of project management tools. Other cloud based tools such as Jira also provide project management but without close coupling to Issues.
+GitHub and GitLab, alongside acting as an online hosting platform for code, also provide a useful set of project management tools. Other cloud based tools such as Jira also provide project management but without close coupling to Issues. Project boards (GitHub, known as issue boards on GitLab) are a useful and efficient way to track the progress of tasks within a project and to prioritise work.
 
-Each task on the project should be described in an 'issue'. Each issue can be assigned a team member, associated with a project milestone and also acts as a discussion thread to communicate over the specifics.
+Each task on the project should be described in an 'issue'. Each issue can be assigned a team member, associated with a project milestone and also acts as a discussion thread to communicate over the specifics. Issues don't only have to be used for code, but can be used to track all tasks in a project. Code-related issues can also be associated with pull requests (see below) so that when code is implemented to address an issue, the issue can be automatically closed.
 
-Issues don't only have to be used for code, but can be used to track all tasks in a project.
-
-Code-related issues can also be associated with pull requests (see below) so that when code is implemented to address an issue, the issue can be automatically closed.
-
-Project boards (GitHub, known as issue boards on GitLab) are a useful and efficient way to track the progress of tasks within a project and to prioritise work.
 
 We encourage PIs to engage with the project board during a project, particularly during regular meetings as a way of seeing the progress of the project in one place as well as prioritising tasks.
 
-Issues can be added to the project board as well as task cards (which do not relate to an issue).
+### Licensing {#licensing}
+
+The RSE team recognises research software as a first class research output and is committed to obtaining maximum value from it via sharing. Options for licensing software should be considered at the earliest opportunity and the default position is that **code should be made available under a permissive open source licence** as it is developed (i.e. right now!), in keeping with the [University of Sheffield Statement on Open Research](https://www.sheffield.ac.uk/openresearch/university-statement-open-research).
+
+Exceptions to this include:
+
+* Restrictions on background IP (e.g. the project extends software which cannot be made open source).
+* Legal agreements around project funding (e.g. NDAs, ownership of foreground IP is shared under a research agreement)
+* Collaborators outside the University of Sheffield will not release copyright.
+* The research team has contacted the research services commercialisation team and plans to commercialise the software in a manner that precludes open source licensing.
+* The software contains confidential information.
 
 
 ### Contributing to Coding {#contributing-to-coding}
@@ -181,29 +164,6 @@ Team members should agree on a particular process for merging pull requests. Ide
 It is advisable to implement testing to ensure that existing features are not broken in development. This can be automated via a continuous integration pipeline which will ensure that code being added to the principal branch functions correctly.
 
 
-### Recognising the contribution of your RSE
-
-An RSE is a collaborator within the research process and should be recognised as such. If an RSE has made a contribution to work underpinning a research paper you should consider naming them as a co-author and highlighting what their contribution has been according to the journal's guidance. If the contribution of the RSE is less significant then you should provide an acknowledgement in the acknowledgements section of the paper if it has one.
-
-Outside of research outputs, if an RSE has made an exceptional contribution to your work then please feed this back to the RSE management team ([rse@sheffield.ac.uk](mailto:rse@sheffield.ac.uk)). You can also consider making a recommendation for a recognition award via [The Deal](https://staff.sheffield.ac.uk/reward-recognition) which is a nice way to recognise any staff contribution.
-
-
-## After the project (sustainability) {#after-the-project-sustainability}
-
-
-### Handover {#handover}
-
-Outputs are specific to projects and vary greatly by programming language, but have some core themes. The RSE team aspires to produce software that can be further developed with minimal or no input from the original engineer. To facilitate this we prioritise including the following in our repositories:
-
-
-
-* Developer and user documentation: How to build / run the software, how it is organised, what conventions have been used, what developer tools are needed e.g. to run tests.
-* Execution environment and dependencies: What operating systems will the software run on, is what other software / libraries / modules are needed, what versions, how the execution environment is described. E.g. through containerisation.
-* Appropriate automated tests: Uunit, regression, integration.
-
-We aim to empower the project team to be able to maintain and modify the software by sharing skills and explaining these throughout the project, or at a final handover meeting.
-
-
 ### FAIR Open Access {#fair-open-access}
 
 We strongly prefer outputs that are FAIR open access. [FAIR](https://www.go-fair.org/fair-principles/) means that a research output is **Findable**, **Accessible**, **Interoperable** and **Reusable**. This was initially conceived for data but is in the process of being adapted to research software ([FAIR4RS](https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg)).
@@ -218,6 +178,16 @@ Making code available via a collaborative version control site such as GitHub is
 
 FAIR outputs can lead to more citations and more transparent, trustworthy, research (see [SSI benefits reference list](https://github.com/softwaresaved/useful-references/blob/master/benefits.bib)).
 
+### Sustainability plan - software/data maintenance plan {#sustainability-plan-software-data-maintenance-plan}
+
+RSE effort on a project is for a fixed period of time, usually associated with specific research funding. For software to continue to do its job beyond this scope, ongoing maintenance will be required. Current research funding models do not usually acknowledge this. Bug fixes and updates in dependencies and operating systems, beyond the control of the project, are a key driver of the need for maintenance. As mitigation, prior to starting the project the following should be considered:
+
+* Is the software required to operate after the end of this project?
+* If so, who will maintain it? Will they need training within the scope of the project to enable them to do this?
+* If so, does it require any infrastructure (e.g. web servers, databases)?
+* Consider doing an online [Software Sustainability Review](https://www.software.ac.uk/resources/online-sustainability-evaluation). Not all of the criteria are universal. The project RSE will advise on appropriateness of specific criteria.
+
+As part of your project design you should consider and plan for sustainability. Many research proposals benefit greatly from defining the plans for sustainability within the case for support. 
 
 ### Ongoing software maintenance {#ongoing-software-maintenance}
 
@@ -232,7 +202,6 @@ Similarly to software development the deployment of infrastructure and services 
 
 
 ### Additional Resources {#additional-resources}
-
 
 * [UCL RSE Ways of Working](https://www.ucl.ac.uk/advanced-research-computing/services/research-software-development/ways-working)
 * Turing Way [contributing.md](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md)
