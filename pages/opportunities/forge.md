@@ -3,6 +3,8 @@ title: RSE FORGE Calls
 permalink: /opportunities/forge
 slug: index
 type: text
+redirect_from:
+    - /collaboration/RSEtime/forge
 ---
 
 The RSE FORGE (FOcused Research software Guidance and Enhancement) programme delivers targeted improvements to research software through intensive two day projects. Each project pairs two RSEs who work full time for two days on your research software. FORGE is designed for researchers with functional code who want to tackle/identify performance issues, improve code structure, package their software for publication, or get an expert review. Projects are free and available to all active research staff at the University of Sheffield.

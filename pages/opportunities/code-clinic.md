@@ -4,6 +4,8 @@ permalink: /opportunities/code-clinic/
 title: Code Clinic
 slug: code-clinic
 type: text
+redirect_from:
+    - /support/code-clinic/
 ---
 
 ### Stop wasting valuable time trying to fix issues on your own.

@@ -1,6 +1,11 @@
 ---
 title: Research collaborations
 permalink: /collaboration/collab-guide/
+redirect_from:
+    - /collaboration/
+    - /collaboration/provision/
+    - /collaboration/activities/
+    - /collaboration/costing/
 slug: evidence
 type: text
 ---
