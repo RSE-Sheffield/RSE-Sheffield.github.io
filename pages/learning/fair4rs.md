@@ -3,6 +3,8 @@ title: FAIR² for research software
 layout: page
 type: text
 permalink: /learning/fair4rs/
+redirect_from:
+    - /training/fair4rs/
 ---
 
 ## Introduction and target audience

@@ -4,6 +4,8 @@ layout: page
 slug: index
 type: text
 permalink: /learning/
+redirect_from:
+    - /training/
 ---
 
 The RSE Team participates in a wide range of training and teaching activities. We provide training
