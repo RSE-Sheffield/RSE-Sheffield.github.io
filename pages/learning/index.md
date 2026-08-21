@@ -6,6 +6,8 @@ type: text
 permalink: /learning/
 redirect_from:
     - /training/
+    - /training/intel/index
+    - /training/programming
 ---
 
 The RSE Team participates in a wide range of training and teaching activities. We provide training
