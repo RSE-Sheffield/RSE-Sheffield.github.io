@@ -8,6 +8,12 @@ redirect_from:
     - /training/
     - /training/intel/index
     - /training/programming
+    - /training/COM605/index
+    - /pages/training/courses/good_soft
+    - /pages/training/courses/git_Hero
+    - /pages/training/courses/Open_Source
+    - /pages/training/courses/Intro_DL
+    - /pages/training/courses/ACCE
 ---
 
 The RSE Team participates in a wide range of training and teaching activities. We provide training
