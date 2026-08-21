@@ -5,6 +5,11 @@ slug: com4521
 type: page
 redirect_from:
     - /training/com4521/
+    - /training/com4521/hpc-sharc
+    - /training/com4521/labs/1
+    - /training/com4521/labs/2
+    - /training/com4521/labs/3
+    - /training/com4521/labs/4
 ---
 
 Parallel Computing with GPUs ([COM4521](https://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level4/com4521.html)/[COM6521](https://www.dcs.shef.ac.uk/intranet/teaching/public/modules/msc/com6521.html)) is a 4th/MSc level academic module within the school of Computer Science, led by [Robert Chisholm](/contact/robert-chisholm/) from the RSE team.
