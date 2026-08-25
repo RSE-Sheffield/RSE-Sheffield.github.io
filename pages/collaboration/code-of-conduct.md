@@ -1,6 +1,8 @@
 ---
 title: Code of Conduct
 permalink: /collaboration/code-of-conduct
+redirect_from:
+    - /community/code_of_conduct
 type: text
 ---
 

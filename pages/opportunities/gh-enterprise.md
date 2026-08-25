@@ -3,6 +3,8 @@ title: Github Enterprise Early Access Program
 permalink: /opportunities/github-enterprise/
 slug: github-enterprise
 type: text
+redirect_from:
+    - /training/github-enterprise/
 ---
 
 In collaboration with IT Services, the RSE team is providing limited early access to the University's Github Enterprise.
