@@ -9,6 +9,8 @@ category:
 link:
 description:
 type: text
+redirect_from:
+    - /training/com4521/hpc-sharc
 ---
 
 This page documents how the [ShARC](https://docs.hpc.shef.ac.uk/en/latest/sharc/index.html) HPC cluster can be used by COM4521/COM6521 students, this is predominantly to enable remote work on the assignment during the Easter break, however lab solutions are provided with a makefile which could be updated to work on HPC too.
