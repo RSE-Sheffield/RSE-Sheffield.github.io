@@ -51,6 +51,14 @@
 
     /* custom shades in scss, as not possible to mix hex codes and numeric alpha in pure css */ 
     --uos-lavender-50: #DAA8E299;
+
+    /* rse logo colours */
+    --rse-logo-light-green: #53B86C;
+    --rse-logo-light-blue: #15A9D4;
+    --rse-logo-light-yellow: #EBC844;
+    --rse-logo-dark-green: #337343;
+    --rse-logo-dark-blue: #1395BA;
+    --rse-logo-dark-yellow: #B89B35;
 }
 
 html {
@@ -247,7 +255,6 @@ pre code {
 .promo {
     background: $color;
     color: var(--uos-wave-white);
-    padding-top: 150px;
     .title {
         font-size: 98px;
         color: darken($color, 30%);
@@ -559,6 +566,26 @@ a.text-dark:focus,a.text-dark:hover{color:ar(--uos-midnight-black)!important}
 // .text-uos-pastel-green h1,.text-uos-pastel-green h2,.text-uos-pastel-green h3,.text-uos-pastel-green h4,.text-uos-pastel-green h5{color:var(--uos-pastel-green)}
 .bg-uos-pastel-green{background-color:var(--uos-pastel-green)!important}a.bg-uos-pastel-green:focus,a.bg-uos-pastel-green:hover,button.bg-uos-pastel-green:focus,button.bg-uos-pastel-green:hover{background-color:#0062cc!important}
 
+.text-rse-logo-light-green{color:var(--rse-logo-light-green)!important}a.text-rse-logo-light-green:focus,a.text-rse-logo-light-green:hover{color:#0062cc!important}
+// .text-rse-logo-light-green h1,.text-rse-logo-light-green h2,.text-rse-logo-light-green h3,.text-rse-logo-light-green h4,.text-rse-logo-light-green h5{color:var(--rse-logo-light-green)}
+.bg-rse-logo-light-green{background-color:var(--rse-logo-light-green)!important}a.bg-rse-logo-light-green:focus,a.bg-rse-logo-light-green:hover,button.bg-rse-logo-light-green:focus,button.bg-rse-logo-light-green:hover{background-color:#0062cc!important}
+.text-rse-logo-light-blue{color:var(--rse-logo-light-blue)!important}a.text-rse-logo-light-blue:focus,a.text-rse-logo-light-blue:hover{color:#0062cc!important}
+// .text-rse-logo-light-blue h1,.text-rse-logo-light-blue h2,.text-rse-logo-light-blue h3,.text-rse-logo-light-blue h4,.text-rse-logo-light-blue h5{color:var(--rse-logo-light-blue)}
+.bg-rse-logo-light-blue{background-color:var(--rse-logo-light-blue)!important}a.bg-rse-logo-light-blue:focus,a.bg-rse-logo-light-blue:hover,button.bg-rse-logo-light-blue:focus,button.bg-rse-logo-light-blue:hover{background-color:#0062cc!important}
+.text-rse-logo-light-yellow{color:var(--rse-logo-light-yellow)!important}a.text-rse-logo-light-yellow:focus,a.text-rse-logo-light-yellow:hover{color:#0062cc!important}
+// .text-rse-logo-light-yellow h1,.text-rse-logo-light-yellow h2,.text-rse-logo-light-yellow h3,.text-rse-logo-light-yellow h4,.text-rse-logo-light-yellow h5{color:var(--rse-logo-light-yellow)}
+.bg-rse-logo-light-yellow{background-color:var(--rse-logo-light-yellow)!important}a.bg-rse-logo-light-yellow:focus,a.bg-rse-logo-light-yellow:hover,button.bg-rse-logo-light-yellow:focus,button.bg-rse-logo-light-yellow:hover{background-color:#0062cc!important}
+
+.text-rse-logo-dark-green{color:var(--rse-logo-dark-green)!important}a.text-rse-logo-dark-green:focus,a.text-rse-logo-dark-green:hover{color:#0062cc!important}
+// .text-rse-logo-dark-green h1,.text-rse-logo-dark-green h2,.text-rse-logo-dark-green h3,.text-rse-logo-dark-green h4,.text-rse-logo-dark-green h5{color:var(--rse-logo-dark-green)}
+.bg-rse-logo-dark-green{background-color:var(--rse-logo-dark-green)!important}a.bg-rse-logo-dark-green:focus,a.bg-rse-logo-dark-green:hover,button.bg-rse-logo-dark-green:focus,button.bg-rse-logo-dark-green:hover{background-color:#0062cc!important}
+.text-rse-logo-dark-blue{color:var(--rse-logo-dark-blue)!important}a.text-rse-logo-dark-blue:focus,a.text-rse-logo-dark-blue:hover{color:#0062cc!important}
+// .text-rse-logo-dark-blue h1,.text-rse-logo-dark-blue h2,.text-rse-logo-dark-blue h3,.text-rse-logo-dark-blue h4,.text-rse-logo-dark-blue h5{color:var(--rse-logo-dark-blue)}
+.bg-rse-logo-dark-blue{background-color:var(--rse-logo-dark-blue)!important}a.bg-rse-logo-dark-blue:focus,a.bg-rse-logo-dark-blue:hover,button.bg-rse-logo-dark-blue:focus,button.bg-rse-logo-dark-blue:hover{background-color:#0062cc!important}
+.text-rse-logo-dark-yellow{color:var(--rse-logo-dark-yellow)!important}a.text-rse-logo-dark-yellow:focus,a.text-rse-logo-dark-yellow:hover{color:#0062cc!important}
+// .text-rse-logo-dark-yellow h1,.text-rse-logo-dark-yellow h2,.text-rse-logo-dark-yellow h3,.text-rse-logo-dark-yellow h4,.text-rse-logo-dark-yellow h5{color:var(--rse-logo-dark-yellow)}
+.bg-rse-logo-dark-yellow{background-color:var(--rse-logo-dark-yellow)!important}a.bg-rse-logo-dark-yellow:focus,a.bg-rse-logo-dark-yellow:hover,button.bg-rse-logo-dark-yellow:focus,button.bg-rse-logo-dark-yellow:hover{background-color:#0062cc!important}
+
 
 .btn-uos-electric-violet{color:var(--uos-wave-white);background-color:var(--uos-electric-violet);border-color:var(--uos-electric-violet)}
 .btn-uos-electric-violet:hover{color:var(--uos-wave-white);background-color:var(--uos-brand-violet);border-color:var(--uos-dark-violet)}
@@ -566,6 +593,14 @@ a.text-dark:focus,a.text-dark:hover{color:ar(--uos-midnight-black)!important}
 .btn-uos-electric-violet.disabled,.btn-uos-electric-violet:disabled{color:var(--uos-wave-white);background-color:var(--uos-electric-violet);border-color:var(--uos-electric-violet)}
 .btn-uos-electric-violet:not(:disabled):not(.disabled).active,.btn-uos-electric-violet:not(:disabled):not(.disabled):active,.show>.btn-uos-electric-violet.dropdown-toggle{color:var(--uos-wave-white);background-color:var(--uos-brand-violet);border-color:var(--uos-dark-violet)}
 .btn-uos-electric-violet:not(:disabled):not(.disabled).active:focus,.btn-uos-electric-violet:not(:disabled):not(.disabled):active:focus,.show>.btn-uos-electric-violet.dropdown-toggle:focus{box-shadow:0 0 0 .2rem rgba(52,58,64,.5)}
+
+.btn-uos-brand-violet{color:var(--uos-wave-white);background-color:var(--uos-brand-violet);border-color:var(--uos-brand-violet)}
+.btn-uos-brand-violet:hover{color:var(--uos-wave-white);background-color:var(--uos-dark-violet);border-color:var(--uos-dark-violet)}
+.btn-uos-brand-violet.focus,.btn-uos-brand-violet:focus{box-shadow:0 0 0 .2rem rgba(52,58,64,.5)}
+.btn-uos-brand-violet.disabled,.btn-uos-brand-violet:disabled{color:var(--uos-wave-white);background-color:var(--uos-brand-violet);border-color:var(--uos-brand-violet)}
+.btn-uos-brand-violet:not(:disabled):not(.disabled).active,.btn-uos-brand-violet:not(:disabled):not(.disabled):active,.show>.btn-uos-brand-violet.dropdown-toggle{color:var(--uos-wave-white);background-color:var(--uos-dark-violet);border-color:var(--uos-dark-violet)}
+.btn-uos-brand-violet:not(:disabled):not(.disabled).active:focus,.btn-uos-brand-violet:not(:disabled):not(.disabled):active:focus,.show>.btn-uos-brand-violet.dropdown-toggle:focus{box-shadow:0 0 0 .2rem rgba(52,58,64,.5)}
+
 
 .badge-uos-brand-violet {
     background-color: var(--uos-brand-violet);

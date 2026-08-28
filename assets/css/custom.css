@@ -21,7 +21,7 @@ body {
 }
 
 .promo{
-    background: var(--uos-midnight-black);
+    background: var(--uos-brand-violet);
 }
 
 .promo h1,
@@ -229,6 +229,13 @@ blockquote {
 }
 
 .sm-a {
+    color: var(--uos-pale-violet);
+    text-decoration: underline;
+}
+
+.promo a,
+.contact a,
+.footer a {
     color: var(--uos-pale-violet);
     text-decoration: underline;
 }
