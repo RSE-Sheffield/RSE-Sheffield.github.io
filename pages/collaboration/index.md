@@ -212,7 +212,7 @@ Finally, we will check with you from time to time if the work made by the RSEs h
 
 # Expectations
 
-As described in [About the RSE team](TBA), the RSE team at the University of Sheffield is a group of research software specialists with multi-disciplinary knowledge, a wide range of research software skills and a deep interest in carrying research with software
+As described in [About the RSE team](/about/team), the RSE team at the University of Sheffield is a group of research software specialists with multi-disciplinary knowledge, a wide range of research software skills and a deep interest in carrying research with software
 
 Embedding a RSE in your project is equivalent to initiating a collaboration with a researcher specialising in software engineering. RSEs are research partners, not simply software developers. We have a strong track record of securing funding as Principal Investigators (PIs) and Co-Investigators (Co-Is), as well as co-authoring academic publications. Unlike short-term contract staff, we provide continuity: there is no recruitment process required, and no risk of losing expertise at the end of a project due to project/contract expiry and people leaving the University. In addition, it gives more opportunity to collaborate again together in the future.
 
