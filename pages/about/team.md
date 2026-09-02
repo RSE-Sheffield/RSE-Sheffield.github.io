@@ -1,6 +1,6 @@
 ---
 title: Team members
-permalink: /about-us/team/
+permalink: /about/team/
 redirect_from:
   - /contact/team/
   - /contact/alumni/

@@ -1,6 +1,6 @@
 ---
 title: News
-permalink: /about-us/news/
+permalink: /about/news/
 slug: rse-news
 type: text
 ---
@@ -14,7 +14,7 @@ To receive news and updates from the RSE team, [join our Google Group](https://g
         <h2>Newsletters</h2>
         Each month the RSE team publishes a newsletter of information, activities and events related to research software/computing. These are sent out to the RSE Google Group and are also available on our website.
         <br>
-        See the latest newsletter below, or <a href="/newsletters/">browse previous newsletters here</a>.
+        See the latest newsletter below, or <a href="/about/news/newsletters/">browse previous newsletters here</a>.
       </div>
       <div class="col-md-6">
         <h2>Blog</h2>

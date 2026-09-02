@@ -1,5 +1,5 @@
 ---
-title: RSE FORGE Calls
+title: RSE FORGE Calls (open call)
 permalink: /opportunities/forge
 slug: index
 type: text

@@ -1,7 +1,7 @@
 ---
 title: Newsletters
 layout: page
-permalink: /newsletters/
+permalink: /about/news/newsletters/
 ---
 
 The University of Sheffield Research Software Engineering team curates a monthly newsletter of 
