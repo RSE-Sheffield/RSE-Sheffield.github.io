@@ -1,24 +1,24 @@
-- title: "About Us"
+- title: "About"
   subitems:
     - title: About the RSE team
-      url: /about-us/about-rse
+      url: /about/
     - title: Team members
-      url: /about-us/team
+      url: /about/team
     - title: News
-      url: /about-us/news
+      url: /about/news
     - title: Job descriptions
-      url: /about-us/job-descriptions
+      url: /about/job-descriptions
     - title: Contact us
-      url: /contact
+      url: /about/contact
 
-- title: "Collaborating"
+- title: "Collaboration"
   subitems:
      - title: Collaborate with us
-       url: /collaboration/collab-guide
+       url: /collaboration/
      - title: Past projects
        url: /collaboration/projects
      - title: RSE contributions
-       url: /collaboration/evidence
+       url: /collaboration/contributions
      - title: Code of conduct
        url: /collaboration/code-of-conduct
 
@@ -28,9 +28,9 @@
       url: /opportunities/code-clinic
     - title: The FORGE (Open Call)
       url: /opportunities/forge
-    - title: Call for proposals 2026
+    - title: Call for Proposals 2026
       url: /opportunities/cfp2026
-    - title: RSE Sheffield events
+    - title: Events
       url: /opportunities/events
     - title: Github Enterprise
       url: /opportunities/github-enterprise
@@ -38,7 +38,7 @@
 - title: "Learning"
   subitems:
      - title: Training and teaching
-       url: /learning/index
+       url: /learning/
      - title: FAIR² for Research Software
        url: /learning/fair4rs
      - title: Profiling & Optimisation (Python)

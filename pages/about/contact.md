@@ -1,6 +1,6 @@
 ---
 title: Contact us
-permalink: /contact/
+permalink: /about/contact
 redirect_from:
   - /about-us/contact/
   - /community/slack/

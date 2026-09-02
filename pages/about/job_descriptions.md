@@ -1,6 +1,6 @@
 ---
 title: Job descriptions
-permalink: /about-us/job-descriptions/
+permalink: /about/job-descriptions/
 redirect_from:
   - /community/job-descriptions/
 slug: job-descriptions
