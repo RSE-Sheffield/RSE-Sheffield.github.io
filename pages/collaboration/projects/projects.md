@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Past Projects
 permalink: /collaboration/projects/
 slug: projects
 type: text
