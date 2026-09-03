@@ -5,7 +5,7 @@ slug: rse-news
 type: text
 ---
 
-To receive news and updates from the RSE team, [join our Google Group](https://groups.google.com/a/sheffield.ac.uk/g/rse-group) to subscribe to our mailing list. See the [contact page](/about-us/contact/) for more information.
+To receive news and updates from the RSE team, [join our Google Group](https://groups.google.com/a/sheffield.ac.uk/g/rse-group) to subscribe to our mailing list. See the [contact page](/about/contact/) for more information.
 
 <section class="section">
   <div class="container">
