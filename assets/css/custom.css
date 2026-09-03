@@ -244,6 +244,12 @@ a:hover {
     color: var(--uos-brand-violet);
 }
 
+.promo a:hover,
+.contact a:hover,
+.footer a:hover {
+    color: var(--uos-powder-blue);
+}
+
 .sm-a:hover{
     color: var(--uos-powder-blue);
 }
