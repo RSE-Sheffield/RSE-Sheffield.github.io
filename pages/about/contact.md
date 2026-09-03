@@ -2,7 +2,7 @@
 title: Contact us
 permalink: /about/contact
 redirect_from:
-  - /about-us/contact/
+  - /contact/
   - /community/slack/
 slug: index
 type: text
