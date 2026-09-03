@@ -2,6 +2,8 @@
 title: Newsletters
 layout: page
 permalink: /about/news/newsletters/
+redirect_from:
+    - /newsletters
 ---
 
 The University of Sheffield Research Software Engineering team curates a monthly newsletter of 
