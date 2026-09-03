@@ -26,7 +26,7 @@ Queries regarding free research computing support/guidance should be raised thro
         <br>
         The list is for moderated announcements only (not discussion), but you are welcome to post any announcements which you feel may be of interest to the community (e.g. training or interesting talks and events)!
         <br>
-        Newsletters and other announcements from the RSE team will be sent out to this mailing list, and you can also find them on our <a href="/about-us/news/">news page</a>.
+        Newsletters and other announcements from the RSE team will be sent out to this mailing list, and you can also find them on our <a href="/about/news/">news page</a>.
       </div>
       <div class="col-md-6">
         <h2>Slack workspace</h2>
