@@ -25,7 +25,6 @@ The next CMI Town Hall takes place on **23rd September 2026**, with the theme of
 - [Message-Passing Programming with MPI — Durham, 9–10 September](http://archer2.ac.uk/training/courses/260909-mpi)
 As part of the ARCHER2 national supercomputer service, EPCC is running a face-to-face, hands-on course on "Message-Passing Programming with MPI" at Durham University on **Wednesday 9th – Thursday 10th September**, followed by an online tutorial session on the afternoon of **Wednesday 16th September**. Attendance is free for all academics and researchers.
 
-The world's largest supercomputers are used almost exclusively to run applications parallelised using message passing. The course covers all the basic knowledge required to write parallel programs using this programming model, and is directly applicable to almost every parallel computer architecture.
 
 - [CodeRefinery Workshop](https://coderefinery.github.io/2026-09-22-workshop/)
 A free online CodeRefinery workshop covering research software best practices, running across two blocks: **22–24 September** and **29 September – 1 October 2026**.
@@ -33,15 +32,6 @@ A free online CodeRefinery workshop covering research software best practices, r
 - [2026 Bennett Oxford Symposium on Open Code in Science](https://www.bennett.ox.ac.uk/events/2026-bennett-institute-symposium/)
 The Bennett Institute for Applied Data Science is hosting a two-day symposium bringing together researchers, developers, policymakers and others to explore the benefits of open and transparent code and software in science. **8–9 December 2026**, Examination Schools, University of Oxford.
 
-The symposium will:
-
-- Explore what academia can learn from the open-source software movement.
-- Discuss why researchers do — and do not — share their code, and how barriers can be overcome.
-- Explore the impact of open-source code and software in science, government and wider society.
-- Examine how AI is changing the open-source landscape and what this means for the future of open and transparent software.
-- Connect researchers, developers and others interested in open code, to share ideas and identify potential collaborations.
-
-Day 1 features a full day of talks and panels, while Day 2 offers more open and collaborative sessions.
 
 - [International Conference on Trustworthy Digital Infrastructure 2026](https://www.turing.ac.uk/events/international-conference-trustworthy-digital-infrastructure-2026)
 Hosted by The Alan Turing Institute at the Courthouse Hotel London Soho on **Wednesday 16 September 2026** (International Identity Day), this conference showcases research and applied work on the trustworthy use of AI in Digital Public Infrastructure — covering identity, payments, data exchange, cybersecurity, public-service delivery and governance, alongside the geopolitical, legal, ethical and infrastructural risks involved.
@@ -50,11 +40,11 @@ Hosted by The Alan Turing Institute at the Courthouse Hotel London Soho on **Wed
 
 #### Articles and Blogs
 
-- [Should we still design code for humans?](https://www.thoughtworks.com/insights/blog/programming-languages/should-still-design-code-humans)
-A reflection on whether software design still matters in a world where coding agents write most of the code, and what that means for keeping humans in the loop.
-
 - [Representing Python paths using pathlib](https://lwn.net/Articles/1088781/)
 LWN's write-up of Trey Hunner's PyCon US 2026 talk making the case for dropping string-based file paths in favour of `pathlib`. A [video of the talk](https://treyhunner.com/pathlib-talk/) is also available.
+
+- [Should we still design code for humans?](https://www.thoughtworks.com/insights/blog/programming-languages/should-still-design-code-humans)
+A reflection on whether software design still matters in a world where coding agents write most of the code, and what that means for keeping humans in the loop.
 
 - [What are code reviews even for?](https://newsletter.getdx.com/p/what-are-code-reviews-even-for)
 Brian Houck on what code review actually delivers beyond defect detection, and why AI-generated code volumes shouldn't push us to automate it away.
@@ -73,6 +63,8 @@ A pastebin that runs Python in the browser — handy when you need to demonstrat
 - [GeoPandas: Fundamental data structures for vector spatial data in Python](https://doi.org/10.1016/j.compenvurbsys.2026.102495)
 A paper in *Computers, Environment and Urban Systems* describing the data structures underpinning GeoPandas. Versioned releases are archived on [Zenodo](https://zenodo.org/records/20938197).
 
+#### Pre-Prints
+
 - [SWE-bench Science: Can Coding Agents Resolve Engineering Tasks in Science?](https://arxiv.org/abs/2608.19799)
 A pre-print benchmarking whether coding agents can tackle software engineering tasks drawn from scientific codebases.
 
@@ -90,24 +82,25 @@ stay informed.
 The next meeting is scheduled for 2pm on Wednesday 16th September 2026.
 
 ### Support
+
 #### Code Clinics
 Why not come to a Code Clinic? We're keen to help you.
 
-Code Clinics are fortnightly supported sessions run by the RSE team and IT Services' Research IT team. They are open to anyone at TUoS writing code for research to get help with programming problems and general advice on best practices.
+[Code Clinics][CCs] are fortnightly supported sessions run by the RSE team and IT Services' Research IT team. They are open to anyone at TUoS writing code for research to get help with programming problems and general advice on best practices.
 
 At each session, members of the RSE and/or Research IT teams will be available to review code, advise, troubleshoot, and suggest ways to improve your computational workflows.
 
 #### Research IT HPC Drop In
-HPC Drop-In sessions are providing assistance with HPC related user issues such as challenges in scaling an application from desktop to supercomputer. We are considering extending the number of our sessions to two or three weekly. These interactive sessions could provide a better interface with our users than our non-interactive ticketing system. These sessions are advertised on the HPC mailing list.
+HPC Drop-In sessions are providing assistance with HPC related user issues such as challenges in scaling an application from desktop to supercomputer. We are considering extending the number of our sessions to two or three weekly. These interactive sessions could provide a better interface with our users than our non-interactive ticketing system. These sessions are advertised on the [HPC mailing list][hpc-mailing].
 
 #### Research IT Consultations
-Alongside the HPC Drop-In sessions, Research IT are also running one to one consultations to solve in depth user specific problems. These consultations can be booked via our webpage. If you are interested please visit the following link: https://students.sheffield.ac.uk/it-services/research.
+Alongside the HPC Drop-In sessions, Research IT are also running one to one consultations to solve in depth user specific problems. These consultations can be booked via our [webpage](https://students.sheffield.ac.uk/it-services/research).
 
 #### Sheffield RSE Team
-The Sheffield RSE Team aims to collaborate with you to help improve your research software. They can provide dedicated staff to ensure that you can deliver excellent research software engineering on your research projects.
+The Sheffield RSE Team aims to [collaborate][rse-servuce] with you to help improve your research software. They can [provide dedicated staff][rse-provision] to ensure that you can deliver excellent research software engineering on your research projects.
 
 #### Research IT
-Research IT directly supports research, both academic and commercial. We provide large scale HPC systems, advice on everything from statistics to ML to data pipelines and training for both students and staff.
+[Research IT][its-res-it] directly supports research, both academic and commercial. We provide large scale HPC systems, advice on everything from statistics to ML to data pipelines and training for both students and staff.
 
 Working with academics, our staff are embedded within research groups on both long and short term engagements.
 
