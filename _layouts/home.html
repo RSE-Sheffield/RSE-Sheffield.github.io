@@ -10,112 +10,337 @@ layout: default
 {{ site.event_limit | default: 10 }}
 {% endcapture %}
 
+
+{% assign newsletters = site.newsletters | sort: 'date' | reverse %}
+{% assign newsletter_0 = newsletters[0] %}
+{% assign blog_post_0 = site.posts[0] %}
+
 <!-- ******PROMO****** -->
 <section id="promo" class="promo section offset-header">
-    <div class="container text-center">
-        <div class="row">
-            <div class="col-sm-4 text-center">
-                <img src="/assets/images/logo/rse-logoonly-stroke.png" height="150px" width="150px"
-                    alt="RSE hero element" />
-            </div>
-            <div class="col-sm-8 justify-content-center align-self-center">
-                <h1 style="color: white">
-                    University of Sheffield <br>Research Software Engineering
-                </h1>
-                <p>Supported by the <a class="sm-a" href="https://www.sheffield.ac.uk/cs">School of Computer
-                        Science</a>, <a class="sm-a" href="https://www.sheffield.ac.uk/departments/it-services">IT
-                        Services</a> and the <a class="sm-a" href="https://www.sheffield.ac.uk/mps">School of
-                        Mathematical and Physical Sciences</a>.</p>
-            </div>
-        </div>
-    </div>
-    <!--//container-->
     <div class="container">
-        <div class="row mt-3 mb-3 justify-content-center align-self-center">
-            <div class="w-100 text-center">
-                <p>
-                    The Research Software Engineering Team collaborates with researchers over all areas of University of
-                    Sheffield research, and is a hub for the RSE community.
+        <div class="row">
+            <div class="col-12 col-lg-8 justify-content-center align-self-center py-3">
+                <h2>
+                    University of Sheffield <br>Research Software Engineering
+                </h2>
+                <!-- <p>
+                    The Research Software Engineering Team collaborates with researchers over all areas of University of Sheffield research, and is a hub for the RSE community.
+                </p> -->
+                <p class="lead">
+                    Through comprehensive programmes and collaborations, the RSE team's objective is to lead, support and guide the research community in leveraging software and data engineering to produce excellent research.
+                </p>
+                <p class="lead">
+                    As data and research methods are becoming more complex and more computationally demanding, our mission is to ensure that all researchers and aspiring researchers have access to the necessary expertise to be proficient in developing and maintaining advanced research software tools.
+                </p>
+                <hr class="bg-uos-powder-violet"/>
+                <p class="">
+                    The RSE team is supported by the <a href="https://www.sheffield.ac.uk/cs">School of Computer Science</a>, <a href="https://www.sheffield.ac.uk/departments/it-services">IT Services</a> and the <a href="https://www.sheffield.ac.uk/mps">School of Mathematical and Physical Sciences</a>.
                 </p>
             </div>
-        </div>
-        <div class="row mt-3 mb-3">
-            <div class="col-md text-center">
-                <h2 style="color: white">Projects</h2>
-                <p><a class="sm-a" href="mailto:rse@sheffield.ac.uk">Add fractional RSE time from the team to your
-                        funding application <br> (email rse@sheffield.ac.uk).</a></p>
-            </div>
-            <!-- <div class="col-md text-center"> -->
-            <!--     <h2 style="color: white">FAIR² for research software</h2> -->
-            <!--     <p><a class="sm-a" href="/training/fair4rs">Dedicated training on how to apply FAIR principles to -->
-            <!--             research software, enabling you to make your research more open.</a></p> -->
-            <!-- </div> -->
-
-            <div class="col-md text-center">
-                <h2 style="color: white">Call for Proposals 2026</h2>
-                <p><a class="sm-a" href="/opportunities/cfp2026">Apply for 6 months 50% FTE of RSE support to
-                improve your software.</a></p>
-            </div>
-	    <div class="col-md text-center">
-		<h2 style="color: white">Code Clinics</h2>
-		<p><a class="sm-a" href="/opportunities/code-clinic">Work with an expert for 30 mins on your code.</a></p>
-	    </div>
-
-            <div class="col-md text-center">
-                <h2 style="color: white">FORGE Programme</h2>
-                <p><a class="sm-a" href="/opportunities/forge">Get two days of focused RSE support to help improve your
-                        research software.</a></p>
-            </div>
-
-        </div>
-        <div class="row mt-3 mb-3">
-            <div class="col-md text-center">
-                <h2 style="color: white">Community</h2>
-                <p>Connect with us and researchers who code on <a class="sm-a"
-                        href="https://fosstodon.org/@RSE_Sheffield" rel="me">Mastodon</a>,
-                    <a class="sm-a"
-                        href="https://twitter.com/intent/follow?original_referer=http%3A%2F%2F127.0.0.1%3A4000%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5ERSE_Sheffield&region=follow_link&screen_name=RSE_Sheffield">Twitter</a>,
-                    <a class="sm-a" href="/contact/">Slack</a>,
-                    <a class="sm-a" href="https://github.com/orgs/RSE-Sheffield">GitHub</a> or the RSE Community
-                    <a class="sm-a" href="https://groups.google.com/a/sheffield.ac.uk/g/rse-group">mailing list</a>.
-                </p>
+            <div class="d-none d-lg-flex col-lg-4 mb-lg-2 text-center align-items-center justify-content-center">
+                <img src="/assets/images/logo/rse-logoonly-stroke.png" height="200px" width="200px" alt="RSE hero element"/>
             </div>
         </div>
     </div>
 </section>
 <!--//promo-->
 
-<section class="section">
+
+<section class="section my-2">
     <div class="container">
-        <br />
-        <div class="row">
-            <div class="col-md-6">
-                <h2><a href="/newsletters/">Newsletters</a></h2>
-                <br />
-                {% include newsletters_latest.html %}
+        <div class="row my-2">
+            <div class="col-12 col-md-6 col-lg-8">
+                <h2><a href="/collaboration">Collaborate</a></h2>
                 <p>
-                    <a href="/newsletters/">Previous newsletters >></a>
-                </p>
-                <hr />
-
-                <h2><a href="/blog/">Blog</a></h2>
-                <br />
-                {% include post_list_prev10.html post_limit=blog_post_limit %}
-
-                <p>
-                    <a href="/blog/">All blog articles >></a>
+                    The RSE team collaborates on more than 30 projects a year. Collaborations span various lengths, from a few days or a few weeks to longer term partnerships of multiple years.
+                    <!-- However, it is clear that we are much more efficient and impactful when we collaborate on long projects where our contribution to the research itself can be the most visible. -->
                 </p>
 
+                <p>
+                    <strong>Todo: Call to action on why / how to collaborate with us?</strong>
+                </p>
+
+                <!-- <p>
+                    The RSE team can collaborate with you to help improve your research software.
+                    We have a pool of <a href="/about/team">expert staff</a> to ensure that you can deliver excellent research software engineering on your research projects (see <a href="/collaboration/projects/">example projects</a> and <a href="/collaboration/testimonials/">testimonials</a>).
+                </p> -->
             </div>
-
-            <div class="col-md-6">
-                {% include events_list_top10.html post_limit=event_limit %}
-
-                <p>
-                    <a href="opportunities/events/">All of our upcoming and previous events >></a>
-                </p>
+            <div class="col-12 col-md-6 col-lg-4 d-flex align-items-stretch">
+                <div class="card w-100 text-white bg-uos-dark-violet text-center">
+                    <h3 class="card-title mt-3 text-white">Projects</h3>
+                    <p class="mt-auto mx-2">Add fractional RSE time from the team to your funding application</p>
+                    <a href="mailto:rse@sheffield.ac.uk" class="btn btn-dark mt-auto">Email rse@sheffield.ac.uk</a>
+                </div>
             </div>
-
         </div>
     </div>
 </section>
+
+<section class="section my-2">
+    <div class="container">
+        <div class="row my-2">
+            <div class="col-12">
+                <!-- Could this heading just fold into collaborate?  -->
+                <h2>Opportunities</h2>
+                <p>
+                    Whether you need quick coding advice or dedicated project support, discover how our team can help advance your research software.
+                </p>
+            </div>
+        </div>
+        <div class="row my-2">
+
+            <div class="col-12 col-md-6 col-lg-4 d-flex align-items-stretch my-2">
+                <div class="card w-100 text-white bg-uos-dark-violet text-center">
+                    <h3 class="card-title mt-3 text-white">Code Clinics</h3>
+                    <p class="mt-auto mx-2">Work with an expert for 30 mins on your code.</p>
+                    <a href="/opportunities/code-clinic/" class="btn btn-dark mt-auto">Book a code clinic</a>
+                </div>
+            </div>
+
+            <div class="col-12 col-md-6 col-lg-4 d-flex align-items-stretch my-2">
+                <div class="card w-100 text-white bg-uos-teal text-center">
+                    <h3 class="card-title mt-3 text-white">FORGE Programme</h3>
+                    <p class="mt-auto mx-2">Get two days of focused RSE support to help improve your research software.</p>
+                    <a href="/opportunities/forge" class="btn btn-dark mt-auto">Find out more</a>
+                </div>
+            </div>
+
+            <div class="col-12 col-md-6 col-lg-4 d-flex align-items-stretch my-2">
+                <div id="events-card" class="card w-100 text-white bg-uos-peak-green text-center">
+                    <h3 class="card-title mt-3 text-white">Events</h3>
+                    <p class="mt-auto mx-2">Todo</p>
+                    <div class="btn-group d-flex mt-auto" role="group">
+                        <a href="/opportunities/events" class="btn btn-dark mt-auto w-100">View our events</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="section my-2">
+    <div class="container">
+        <div class="row my-2">
+            <div class="col-12 col-md-6 col-lg-8 d-flex flex-column align-items-stretch">
+                <h2>Learning</h2>
+                <p>
+                    The RSE Team participates in a wide range of training and teaching activities. We provide training for people who work with code for research to build their skills in areas that academic training might not provide.
+                </p>
+                <p>
+                    We have developed training courses for the University of Sheffield which have been recognised and adopted by external organisations.  
+                    Additionally, we lead and co-lead academic modules at undergraduate and PhD levels within the university.
+                </p>
+                <p class="mt-auto mb-0">
+                    <a href="/learning/" class="btn btn-primary" style="white-space: break-spaces;">Find out more about our Training and Teaching provision</a>
+                </p>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4 d-flex align-items-stretch">
+                <div class="card w-100 text-white bg-uos-dark-violet text-center">
+                    <h3 class="card-title mt-3 text-white">FAIR² for research software</h3>
+                    <p class="mt-auto mx-2">Dedicated training on how to apply FAIR principles to research software, enabling you to make your research more open.</p>
+                    <a href="/learning/fair4rs" class="btn btn-dark mt-auto">FAIR² 4 RS</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="section my-2">
+    <div class="container">
+        <div class="row my-2">
+            <div class="col-12 col-md-6 col-lg-8">
+                <h2>About</h2>
+                <p><strong>Todo: Change this text / move the about section? it's very similar to the promo segment.</strong></p>
+                <!-- <p>                    
+                    Through comprehensive programmes and collaborations, the Research Software Engineering (RSE) team's objective is to lead, support and guide the research community in leveraging software and data engineering to produce excellent research.
+                </p> -->
+                <!-- <p>
+                    As data and research methods are becoming more complex and more computationally demanding, our mission is to ensure that all researchers and aspiring researchers have access to the necessary expertise to be proficient in developing and maintaining advanced research software tools.
+                </p> -->
+                <p>
+                    @todo - <a href="/blog">Blog</a>
+                </p>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4 d-flex align-items-stretch order-md-first"> 
+                <div class="card w-100 text-white bg-uos-peak-green text-center">
+                    <h3 class="card-title mt-3 text-white">{{newsletter_0.date | date: "%B %Y"}} Newsletter</h3>
+                    <div class="mt-auto">
+                        <p>Read the latest University of Sheffield Research Software Engineering Community Newsletter</p>
+                        <p">
+                            {% if newsletter_0.editor %}
+                            <span>
+                                <i class="fas fa-user"></i>
+                                <span class="media-body"><strong>{{ newsletter_0.editor }}</strong></span>
+                            </span>
+                            {% endif %}
+                            {% if newsletter_0.date %}
+                            <br />
+                            <span>
+                                <i class="far fa-clock"></i>
+                                <span class="media-body"><strong>{{ newsletter_0.date | date: "%-d %B %Y" }}</strong></span>
+                            </span>
+                            {% endif %}
+                        </p>
+                    </div>
+
+                    <div class="btn-group d-flex mt-auto" role="group">
+                        <a href="{{ newsletter_0.url }}" class="btn btn-uos-electric-violet w-100">Read more</a>
+                        <a href="/about/news/newsletters/" class="btn btn-dark w-100">All Newsletters</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="section my-2">
+    <div class="container">
+        <div class="row my-4">
+            <div class="col-sm-12">
+                <div class="jumbotron bg-uos-pale-violet">
+                    <h4 class="h1">Featured Blog: {{ blog_post_0.title }}</h4>
+                    <p class="lead">
+                        {% if blog_post_0.author %}
+                        <span>
+                            <i class="fas fa-user"></i>
+                            <span class="media-body"><strong>{{ blog_post_0.author }}</strong></span>
+                        </span>
+                        {% endif %}
+                        {% if blog_post_0.date %}
+                        <br />
+                        <span>
+                            <i class="far fa-clock"></i>
+                            <span class="media-body"><strong>{{ blog_post_0.date | date: "%-d %B %Y" }}</strong></span>
+                        </span>
+                        {% endif %}
+                    </p>
+                    <hr />
+                    <p>{{blog_post_0.excerpt}}</p>
+                    {% comment %}<p>{{blog_post_0.excerpt | strip_html | truncatewords: 180 }}</p>{% endcomment %}
+                    <p class="lead">
+                        <a href="{{ blog_post_0.url | relative_url }}"" class="btn btn-uos-electric-violet">Read More</a>
+                        <a href="/newsletters/" class="btn btn-dark">All Blog articles</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+{% comment %}
+<!-- 
+Embed a script that contains the json representation of all upcoming events at build time 
+At runtime (if js is enabled on the client), if there are still any events in the future, this will update the Events box to reference the next event, otherwise it will remain a generic "see our events" box.
+-->
+{% endcomment %}
+{% assign events = site.events | sort: 'date' | reverse %}
+{% assign start_of_today = "now" | date: "%Y-%m-%d 00:00:00" %}
+{% assign start_of_today_timestamp = start_of_today | date: "%s" %}
+{% if events and events.size > 0 %}
+<script type="text/javascript">
+// JSON representation of all future events (at build time)
+var future_events = [
+{% for event in events %}
+    {% assign event_date_timestamp = event.date | date: "%s" %}
+    {% if event_date_timestamp < start_of_today_timestamp %}
+        // {% break %}
+    {% endif %}
+    {% if event.published != false %}
+        {
+            "url": "{{event.url}}",
+            "date": "{{event.date | escape}}",
+            "date_dby": "{{event.date | date: '%-d %B %Y' | escape}}",
+            "end_date": "{{event.end-date | escape}}",
+            "end_date_dby": "{{event.end-date | date: '%-d %B %Y' | escape}}",
+            "title": "{{event.title | escape}}",
+            "from": "{{event.from | escape}}",
+            "to": "{{event.to | escape}}",
+            "category": "{{event.category | escape}}",
+            "location": "{{event.location | escape}}",
+            "speaker": "{{event.speaker | escape}}",
+            "institute": "{{event.institute | escape}}"
+        },
+    {% endif %}
+{% endfor %}
+];
+
+// When the document is ready, Get the current (JS) date
+document.addEventListener('DOMContentLoaded', function() {
+    console.log(future_events); //temp
+    // early exit (redundant)
+    if (future_events.length == 0) {
+        return;
+    }
+    // Get the current local date. This could probably have better timezone-based behaviour
+    const now_uk = new Date();
+    // Set the time to the start of the current day
+    now_uk.setHours(0, 0, 0, 0);
+    // Iterate json list of events, in chronological order (i.e the reverse that they were emitted)
+    next_event = null;
+    future_events.reverse()
+    for (const event of future_events){
+        // Skip the event if the date is missing
+        if (event.date == null || event.date.length == 0){
+            continue;
+        }
+        // Get the date as an object
+        event_date = new Date(event.date);
+        // If the date is today or in the future, it is the next event so break the loop
+        if (event_date >= now_uk) {
+            next_event = event;
+            break;
+        }
+    }
+    if (next_event == null) {
+        // If no event, no event html to insert
+        return;
+    }
+    // Get the events card, return if not found
+    const events_card_element = document.getElementById("events-card");
+    if (events_card_element == null) {
+        return;
+    }
+    // Prepare the event date/time string - this is complicated and only sort-of works for multi-day events (matching previous behaviour)
+    next_event_date_text = next_event.date_dby
+    if (next_event.end_date_dby.length != 0) {
+        next_event_date_text += " to " + next_event.end_date_dby;
+    }
+    if (next_event.from.length != 0) {
+        next_event_date_text += " - " + next_event.from;
+    }
+    if (next_event.to.length != 0) {
+        next_event_date_text += "-" + next_event.to;
+    }
+    next_event_speaker_text = next_event.speaker
+    if (next_event.institute.length != 0) {
+        next_event_speaker_text += "-" + next_event.institute;
+    }
+
+    // Build the html for the card content
+    html = `
+    <h3 class="card-title mt-3 mb-2 text-white">Upcoming Event</h3>
+    <h5 class="text-white mx-2 text-center">${next_event.title}</h5>
+    <div class="mt-auto mx-2">
+        <div class="media mb-2 align-items-center text-left">
+            <i class="far fa-clock fa-fw mr-2"></i>
+            <span class="media-body">${next_event_date_text}</span>
+        </div>
+        <div class="media mb-2 align-items-center text-left">
+            <i class="fas fa-map-marker-alt fa-fw mr-2"></i>
+            <span class="media-body">${next_event.location}</span>
+        </div>
+        <div class="media mb-2 align-items-center text-left">
+            <i class="fas fa-user fa-fw mr-2"></i>
+            <span class="media-body">${next_event_speaker_text}</span>
+        </div>
+    </div>
+    <div class="btn-group d-flex mt-auto" role="group">
+        <a class="btn btn-uos-electric-violet btn-lg w-100" href="${next_event.url}" role="button">More Details</a>
+        <a class="btn btn-dark btn-lg w-100" href="/opportunities/events/" role="button">All Events</a>
+    </div>
+    `;
+    // update the html for the card
+    events_card_element.innerHTML = html;
+});
+</script>
+{% endif %}

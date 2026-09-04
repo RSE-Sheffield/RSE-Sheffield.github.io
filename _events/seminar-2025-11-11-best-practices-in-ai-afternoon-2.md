@@ -1,6 +1,6 @@
 ---
 category: seminar
-date: 2025-11-11
+date: 2026-09-04
 published: True
 
 from: "12:00"
