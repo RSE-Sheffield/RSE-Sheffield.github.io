@@ -1,7 +1,7 @@
 ---
 title: Code Café
 tags:
-date: 2022-10-25
+date: 2026-10-25
 from: "14:00"
 to: "15:00"
 location: "University of Sheffield Student Union View Café / Room 1"

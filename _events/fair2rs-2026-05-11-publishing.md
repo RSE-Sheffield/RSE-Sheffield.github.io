@@ -3,7 +3,7 @@ title: "Publishing a software paper in JOSS"
 category: workshop
 tags: fair4rs, fair, software, publishing
 permalink: /training/fair4rs/2026-05-11-publishing
-date: 2026-05-11
+date: 2027-05-11
 from: "13:00"
 to: "14:00"
 location: "The Diamond - Workroom 2"
