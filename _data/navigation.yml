@@ -49,6 +49,8 @@
       url: /newsletters/
     - title: Blog
       url: /blog/
+    - title: Code of Conduct
+      url: /community/coc
 - title: Contact
   subitems:
     - title: Contact us
