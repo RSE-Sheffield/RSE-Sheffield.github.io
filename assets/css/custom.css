@@ -21,7 +21,7 @@ body {
 }
 
 .promo{
-    background: var(--uos-midnight-black);
+    background: var(--uos-brand-violet);
 }
 
 .promo h1,
@@ -233,8 +233,21 @@ blockquote {
     text-decoration: underline;
 }
 
+.promo a,
+.contact a,
+.footer a {
+    color: var(--uos-pale-violet);
+    text-decoration: underline;
+}
+
 a:hover {
     color: var(--uos-brand-violet);
+}
+
+.promo a:hover,
+.contact a:hover,
+.footer a:hover {
+    color: var(--uos-powder-blue);
 }
 
 .sm-a:hover{
