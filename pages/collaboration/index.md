@@ -5,6 +5,7 @@ redirect_from:
     - /collaboration/provision/
     - /collaboration/activities/
     - /collaboration/costing/
+    - /collaboration/guide/
 slug: evidence
 type: text
 ---
