@@ -15,6 +15,8 @@ excerpt_separator: <!--more-->
 
 This guide is for researchers at the University of Sheffield who need to set up a GitHub Organisation for their team or project. It covers the essential decisions you'll need to make, explains who is responsible for what, and walks through key security settings.
 
+<!--more-->
+
 # Why use a GitHub Organisation?
 
 If you're already using Git and GitHub for version control (and if you're not, there are [good reasons to start](https://www.software.ac.uk/news/ten-reasons-implement-code-management-practices-early-research-group)), you've probably been working from your personal account. That works fine for solo projects, but research groups face a specific problem: what happens to the code when people leave?
@@ -23,13 +25,13 @@ When a PhD student or postdoc moves on, their personal repositories often become
 
 Organisations also let you:
 
-* **Manage access** centrally (who can see what, who can change what)  
-* Set consistent **security policies** across all your projects  
+* **Manage access** centrally (who can see what, who can change what)
+* Set consistent **security policies** across all your projects
 * Keep your group's **work together* in one discoverable place
 
 The University's [GitHub Enterprise Early Access Program](https://rse.shef.ac.uk/training/github-enterprise/) provides access to these features. This provides several advantages over a standard free account, including:
 
-* **Unlimited Private Repositories:** Collaborate securely within your team without public exposure.  
+* **Unlimited Private Repositories:** Collaborate securely within your team without public exposure.
 * **Enhanced Security:** Access to advanced tools like secret scanning to prevent accidental leaks of API keys or credentials.
 
 **To get started**, you will need to follow the University’s formal onboarding process. Please refer to the [GitHub Enterprise Policy Document](https://rse.shef.ac.uk/training/github-enterprise/); specifically, you will find the required setup form in Section 5 (Requesting an Organisation).
@@ -42,8 +44,8 @@ GitHub Organisations need designated **Owners**—people who take responsibility
 
 **You need at least two owners** for continuity. These people will be responsible for:
 
-* **User management**: inviting new members, removing people who leave  
-* **Security oversight**: ensuring the organisation follows University policies, responding to security alerts  
+* **User management**: inviting new members, removing people who leave
+* **Security oversight**: ensuring the organisation follows University policies, responding to security alerts
 * **Housekeeping**: periodically reviewing inactive members, archiving old repositories
 
 Choose your owners carefully. They should be people who'll be around for a while and who understand (or are willing to learn) the security implications of managing shared code. The full list of owner responsibilities is in Section 1.3 of the [GitHub Enterprise policy](https://rse.shef.ac.uk/training/github-enterprise/).
@@ -80,7 +82,7 @@ If you're working with commercially sensitive code, personal data, or anything r
 
 **Why:** These tools watch for common security problems:
 
-* **Dependabot** alerts you when the libraries your code depends on (Python packages, R packages, etc.) have known security vulnerabilities. It can even suggest fixes automatically.  
+* **Dependabot** alerts you when the libraries your code depends on (Python packages, R packages, etc.) have known security vulnerabilities. It can even suggest fixes automatically.
 * **Secret scanning** catches accidentally committed passwords, API keys, or other credentials. This happens more often than you'd think, and catching it early prevents data breaches.
 
 ## **Restrict GitHub Actions**
@@ -140,8 +142,8 @@ Beyond organisation-wide settings, your most important repositories deserve addi
 
 This guide covers the essentials, but GitHub offers more for making research software FAIR (Findable, Accessible, Interoperable, Reusable):
 
-* **Citation files**: Add academic citations using the [Citation File Format](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files) so others can credit your work properly  
-* **Archiving with ORDA**: Archive snapshots of your code in the University's [research data repository](https://sheffield.ac.uk/library/research-data-management/orda) with a permanent DOI  
+* **Citation files**: Add academic citations using the [Citation File Format](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files) so others can credit your work properly
+* **Archiving with ORDA**: Archive snapshots of your code in the University's [research data repository](https://sheffield.ac.uk/library/research-data-management/orda) with a permanent DOI
 * **Automated testing**: Use [GitHub Actions](https://docs.github.com/en/actions) to run tests automatically when code changes
 
 Why use [ORDA](https://sheffield.ac.uk/library/research-data-management/orda) instead of just leaving code on GitHub? While GitHub is excellent for active development, it does not guarantee long-term preservation. To meet most funder requirements, you should archive "frozen" versions of your code in ORDA.
@@ -154,11 +156,11 @@ For more information on integrating GitHub with ORDA (which is based on the FigS
 
 If you are starting a new research organisation today, follow these six steps:
 
-1. Request Access: Complete the form in Section 5 of the Enterprise Policy.  
-2. Assign Owners: Ensure at least two people (including a permanent staff member) have Owner status.  
-3. Restrict Creation: Set "Repository Creation" to Owners Only to prevent sprawl.  
-4. Enforce 2FA: Check that "Require two-factor authentication" is active for all members.  
-5. Protect Branches: Enable "Branch Protection" for your main or master branches.  
+1. Request Access: Complete the form in Section 5 of the Enterprise Policy.
+2. Assign Owners: Ensure at least two people (including a permanent staff member) have Owner status.
+3. Restrict Creation: Set "Repository Creation" to Owners Only to prevent sprawl.
+4. Enforce 2FA: Check that "Require two-factor authentication" is active for all members.
+5. Protect Branches: Enable "Branch Protection" for your main or master branches.
 
 # Getting help
 
