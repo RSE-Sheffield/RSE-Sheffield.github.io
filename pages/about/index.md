@@ -1,6 +1,6 @@
 ---
 title: About the RSE team
-permalink: /about
+permalink: /about/
 slug: about-the-rse-team
 type: text
 ---
