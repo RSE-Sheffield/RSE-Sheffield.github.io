@@ -137,7 +137,7 @@ You can join the google group
 [here](https://groups.google.com/u/1/a/sheffield.ac.uk/g/digital-research-practice-support-community-group/about) to
 stay informed.
 
-The next meeting is scheduled for 2pm on Wednesday 16th September 2026.
+The next meeting is scheduled for 2pm on Wednesday 11th November 2026.
 
 ### Support
 
