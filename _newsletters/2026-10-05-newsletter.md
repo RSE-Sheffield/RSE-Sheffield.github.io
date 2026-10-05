@@ -65,7 +65,6 @@ The workshop will explore the activities, responsibilities, and roles through wh
 - [[2609.22049] How Researchers Use and Verify AI Coding Assistants: Tasks and Validation Practices in Scientific Programming](https://arxiv.org/abs/2609.22049)
 - [Joule-Profiler: Profiling the Energy Consumption of Build Automation Tools Made Easy](https://arxiv.org/abs/2609.31228)
 - [AI In Science](https://ai.google/static/documents/AI-in-Science.pdf)
-- []
 
 #### Funding Opportunities
 
@@ -87,6 +86,10 @@ Apply for funding for ambitious and exploratory projects bringing together AI an
   - **Duration:** Pilot projects must be at most 1 year in duration. Growth projects can run until the end of September 2028. Projects should start between 01/03/2027 and 01/05/2027.
   - **Deadline:** 16:00 GMT, 11 December 2026
   - **[Informative Webinar](https://events.teams.microsoft.com/event/731af7a2-8fbc-44fa-b0cf-ee3e83468310@1faf88fe-a998-4c5b-93c9-210a11d9a5c2?source=copyLinkLegacyShareLinkDialog):** 14:00 BST, 15 October 2026
+
+- [DRI Knowledge Exchange Fellowships](https://www.cake.ac.uk/about/ke-fellowships/)
+  - **Deadline:** 12 November 2026
+  - **Eligibility:** Applicamts must be from UK institutions which are eligible for UKRI funding.
 
 #### Training Opportunties
 
