@@ -152,7 +152,7 @@ HPC Drop-In sessions are providing assistance with HPC related user issues such 
 Alongside the HPC Drop-In sessions, Research IT are also running one to one consultations to solve in depth user specific problems. These consultations can be booked via our [webpage](https://students.sheffield.ac.uk/it-services/research).
 
 #### Sheffield RSE Team
-The Sheffield RSE Team aims to [collaborate][rse-servuce] with you to help improve your research software. They can [provide dedicated staff][rse-provision] to ensure that you can deliver excellent research software engineering on your research projects.
+The Sheffield RSE Team aims to [collaborate][rse-service] with you to help improve your research software. They can [provide dedicated staff][rse-provision] to ensure that you can deliver excellent research software engineering on your research projects.
 
 #### Research IT
 [Research IT][its-res-it] directly supports research, both academic and commercial. We provide large scale HPC systems, advice on everything from statistics to ML to data pipelines and training for both students and staff.
