@@ -24,7 +24,7 @@ Welcome to the October 2026 newsletter for the research software community at Th
 #### Upcoming External Events
 
 - [7th Conference for Research Software Engineering in Germany (deRSE27)](https://events.hifis.net/event/4318/)
-  - **Date:** 23-25 February 2027
+  - **Dates:** 23-25 February 2027
   - **Where:** TU Dortmund
   - The Call for Contributions is now open! We invite contributions from across the diverse RSE community, including talks, posters, demos, and proposals for interactive sessions.
     - Abstract max. 500 words
@@ -32,7 +32,7 @@ Welcome to the October 2026 newsletter for the research software community at Th
 
 - [TRE Communities Conference](https://tre-conference.readthedocs.io/2026/)
 Come, network with your peers and get involved in exciting discussions on some of the most important topics in TRE development
-  - **Date:** 16-18 November 2026
+  - **Dates:** 16-18 November 2026
   - **Where:** Edinburgh 
 
 - [Celebrating 70 years of Fortran event](https://fortran-index.github.io/fortran-index/page/fortran_birthday.html)
@@ -40,8 +40,8 @@ In addition to the afternoon workshop, there will be small community meetings in
   - **Date:** 1 December 2026
   - **Where:** Science and Industry Museum, Manchester
 
-- [How can RSEs and other dRTPs be supported to influence and accelerate environmental sustainability across digital research?](https://discourse-network.github.io/events/202611_greening_digital_careers/)
-The workshop will explore the activities, responsibilities, and roles through which dRTPs can become sustainability leaders in their field. It's free to attend and there's the opportunity to give a short talk about your related work or experiences.
+- [Defining “Green” Leadership in Digital Research](https://discourse-network.github.io/events/202611_greening_digital_careers/)
+How can RSEs and other dRTPs be supported to influence and accelerate environmental sustainability across digital research? This workshop will explore the activities, responsibilities, and roles through which dRTPs can become sustainability leaders in their field. It's free to attend and there's the opportunity to give a short talk about your related work or experiences.
   - **Date:** 10:00 - 16:00, 17 November 2026
   - **Where:** Edinburgh
 
@@ -62,7 +62,7 @@ The workshop will explore the activities, responsibilities, and roles through wh
 
 #### Pre-Prints
 
-- [[2609.22049] How Researchers Use and Verify AI Coding Assistants: Tasks and Validation Practices in Scientific Programming](https://arxiv.org/abs/2609.22049)
+- [How Researchers Use and Verify AI Coding Assistants: Tasks and Validation Practices in Scientific Programming](https://arxiv.org/abs/2609.22049)
 - [Joule-Profiler: Profiling the Energy Consumption of Build Automation Tools Made Easy](https://arxiv.org/abs/2609.31228)
 - [AI In Science](https://ai.google/static/documents/AI-in-Science.pdf)
 
@@ -82,7 +82,7 @@ Apply for funding for ambitious and exploratory projects bringing together AI an
   - **Deadline:** 1 December 2026
 
 - [DisCouRSE Flexible Fund - Round 3](https://discourse-network.github.io/funding/round-3#longer-projects-and-sustainability-plans)
-  - **Award:** Up to 4 Pilot Projects up to £15,000 100 fEC. At least 3 growth projects up to £50,000 at 100% fEC.
+  - **Award:** Up to 4 Pilot Projects up to £15,000 100 full economic cost. At least 3 growth projects up to £50,000 at 100% full economic cost.
   - **Duration:** Pilot projects must be at most 1 year in duration. Growth projects can run until the end of September 2028. Projects should start between 01/03/2027 and 01/05/2027.
   - **Deadline:** 16:00 GMT, 11 December 2026
   - **[Informative Webinar](https://events.teams.microsoft.com/event/731af7a2-8fbc-44fa-b0cf-ee3e83468310@1faf88fe-a998-4c5b-93c9-210a11d9a5c2?source=copyLinkLegacyShareLinkDialog):** 14:00 BST, 15 October 2026
@@ -100,6 +100,8 @@ Apply for funding for ambitious and exploratory projects bringing together AI an
 - [Software design (in person)](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/d3c2cca5-d894-44b6-a79b-e93dea7a7c94)
   - **Dates:** 1300-16:00, 23 November 2026 and 30 November 2026
 
+- This semester the [FAIR^2 for research software Training Programme](https://mydevelopment.csod.com/ui/lms-learning-details/app/curriculum/06573f55-12e4-44f1-be4c-fac5ea9d6851?isOnePlayer=true) will be delivered again. The following courses are already scheduled and details of other modules can be found on [myDevelopment](https://mydevelopment.csod.com/ui/lms-learning-details/app/curriculum/06573f55-12e4-44f1-be4c-fac5ea9d6851?isOnePlayer=true).
+
 #### Surveys
 
 - [UKRI AI Anxiety and Creativity](https://nclpsych.eu.qualtrics.com/jfe/form/SV_d5xQB7dK1MYFif4): 
@@ -114,18 +116,13 @@ Survey on awareness of, and training on, environmentally sustainable computing.
 #### Podcasts
 
 - [Team Portrait: Advanced Research Computing at UCL](https://codeforthought.buzzsprout.com/1326658/episodes/19681566-en-team-portrait-advanced-research-computing-at-ucl)
-- [[EN] Digital skills in arts and humanities: a roadmap - Andre Piza](https://codeforthought.buzzsprout.com/1326658/episodes/19705206-en-digital-skills-in-arts-and-humanities-a-roadmap-andre-piza)
+- [Digital skills in arts and humanities: a roadmap - Andre Piza](https://codeforthought.buzzsprout.com/1326658/episodes/19705206-en-digital-skills-in-arts-and-humanities-a-roadmap-andre-piza)
 - [Future Knowledge | Open for Whom?](https://futureknowledge.transistor.fm/episodes/open-for-whom)
 
 #### Jobs
 
 - [Research software engineer in computational astrophysics @ Leiden](https://aas.org/jobregister/ad/35db97d3)
 
-
-#### Webinars
-
-- [RSECon27 Webinar: Interested in Helping with the Next RSECon?](https://society-rse.org/rsecon27-call-for-conference-committee-members/)
-  - **When:** 11:00, 6 October 2026
 
 ### Community
 #### Digital Research Practice Support Community
