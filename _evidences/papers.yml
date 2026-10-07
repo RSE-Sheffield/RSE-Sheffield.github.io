@@ -1,6 +1,84 @@
 ---
 items:
 
+  - title: "HiPERPOL: a polarimetry module for HiPERCAM on the GTC"
+    authors: " V. S. Dhillon, E. J. Harvey, C. M. Dubbeldam, S. P. Littlefair, <strong> M. Dyer (RSE) </strong> et al"
+    type: "conference"
+    venue: "SPIE Astronomical Telescopes + Instrumentation, 2026, Copenhagen, Denmark"
+    date: 2026
+    url1: "https://doi.org/10.1117/12.3093390"
+    url1_label: "View DOI"
+    url2: "https://spie.org/conferences-and-exhibitions/astronomical-telescopes-and-instrumentation"
+    url2_label: "Conference"
+
+  - title: "A forced photometry service for the Gravitational-wave Optical Transient Observer (GOTO)"
+    authors: "Dan Jarvis, Vik S. Dhillon, <strong> Martin Dyer (RSE) </strong>et al"
+    type: "conference"
+    venue: "SPIE Astronomical Telescopes + Instrumentation, 2026, Copenhagen, Denmark"
+    date: 2026
+    url1: "https://doi.org/10.1117/12.3102284"
+    url1_label: "View DOI"
+    url2: "https://spie.org/conferences-and-exhibitions/astronomical-telescopes-and-instrumentation"
+    url2_label: "Conference"
+
+  - title: "The GOTO telescope control system"
+    authors: "<strong> Martin Dyer (RSE) </strong>, Vik. S. Dhilon, Stuart Littlefair et al"
+    type: "conference"
+    venue: "SPIE Astronomical Telescopes + Instrumentation, 2026, Copenhagen, Denmark"
+    date: 2026
+    url1: "https://doi.org/10.1117/12.3102830"
+    url1_label: "View DOI"
+    url2: "https://spie.org/conferences-and-exhibitions/astronomical-telescopes-and-instrumentation"
+    url2_label: "Conference"
+
+  - title: "High-cadence SO2 camera observations of persistent explosive activity at El Reventador (Ecuador)"
+    authors: "T. C. Wilkes, S. Hidalgo, J. Battaglia, T. D. Pering, M. Almeida, F. Vásconez, D. García, C. Macías, S. Hernández, <strong> D. Brady (RSE) </strong> & R. Parra"
+    type: "journal"
+    venue: "Bulletin of Volcanology"
+    date: 2026
+    url1: "https://doi.org/10.1007/s00445-026-02038-9"
+    url1_label: "View DOI"
+
+  - title: "Deep-Learning-Enhanced TopoStats for the Automated Quantification of DNA and Complex Biomolecular Structures"
+    authors: "Sylvia Whittle, Tobias A. Firth, Max C. Gamill, Laura Wiggins, <strong> Neil Shephard (RSE) </strong>, Toby Allwood, <strong>Daniel Brady (RSE) </strong>, Thomas E. Catley, and Alice L. B. Pyne"
+    type: "journal"
+    venue: "Computational and Structural Biotechnology Journal"
+    date: 2026
+    url1: "https://doi.org/10.34133/csbj.0227"
+    url1_label: "View DOI"
+
+  - title: "Research Software Maintenance Grant Round 2: FLAMES GPU"
+    type: "grant"
+    authors: "<strong>P. Richmond (RSE, PI, R. Chisholm (RSE, Co-I), P. Heywood (RSE, Co-I) </strong>"
+    venue: "Institute of Research Software RSMF"
+    url1: "https://www.software.ac.uk/research-software-maintenance-fund/rsmf-round-2-projects"
+    url1_label: "Announcement"
+    date: "2026"
+
+  - title: "Research Software Maintenance Grant Round 2: Maintaining a Global Open Standard Ecosystem for Large-Scale EEG Science"
+    type: "grant"
+    authors: "Faisal Mushtaq (PI), Dominik Welke,  Matthew Warburton, Layla Kouara, Cassandra Gould van Praag,  <strong>D. Brady (RSE) </strong>, Alan Evans, Christine Rogers, Jefferson Casimir and Tyler Collins."
+    venue: "Institute of Research Software RSMF"
+    url1: "https://www.software.ac.uk/research-software-maintenance-fund/rsmf-round-2-projects"
+    url1_label: "Announcement"
+    date: "2026"
+
+  - title: "AutoEmulate: A PyTorch tool for end-to-end emulation workflows"
+    authors: "Radka Jersakova, Sam F. Greenbury, Ed Chalstrey, <strong>Edwin Brown (RSE)</strong>, et al"
+    type: "journal"
+    venue: "Journal of Open Source Software"
+    date: 2026
+    url1: "https://doi.org/10.21105/joss.10087"
+    url1_label: "View DOI"
+
+  - title: "Reproscore"
+    type: "grant"
+    authors: "<strong>Edwin Brown (RSE, PI), Michael Foster (RSE, Co-I), Dan Brady (RSE, Co-I) </strong>, Jose Miguel Rojas "
+    venue: "Metascience round 2"
+    url1: "https://www.ukri.org/opportunity/metascience-research-grants-round-2/"
+    url1_label: "Call"
+    date: "2026"
+
   - title: "Project ERIS: Evaluating RSE Impact and Scope"
     type: "grant"
     authors: "<strong>R. Thomas (RSE, PI)</strong>, J. Fozard (Lancaster Universitiy), D. Shaw (U. of York), S. Hettrick (U. of Southampton, SSI)"
