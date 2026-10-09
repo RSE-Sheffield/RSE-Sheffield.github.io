@@ -1,6 +1,15 @@
 ---
 items:
 
+  - title: "Green RSE Special Interest Group workshop at RSECon26"
+    member: "T. Karmakharm"
+    type: "committee"
+    details: "Part of RSECon26"
+    date: "2026"
+    url: "https://doi.org/10.5281/zenodo.22299064"
+    url_name: "View DOI"
+    
+
   - title: "Curating legacy resting-state EEG datasets using RS-BIDSify"
     member: "D. Brady"
     type: "Invite"
@@ -27,6 +36,14 @@ items:
 
   - title: "Awards chair"
     member: "T. James"
+    details: "Research Software Engineering Conference, RSECon26"
+    type: "committee"
+    date: "2026"
+    url: "https://rsecon26.society-rse.org/committee/"
+    url_name: "Conference website"
+
+  - title: "Poster team member"
+    member: "P. Heywood"
     details: "Research Software Engineering Conference, RSECon26"
     type: "committee"
     date: "2026"
