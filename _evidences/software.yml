@@ -1,6 +1,17 @@
 ---
 items:
 
+  - software_title: "DT DRIVE"
+    authors: "<strong>M. Leach</strong>"
+    PI: "D. Shin, S. Pennada"
+    Faculty: "Faculty of Engineering"
+    type: "archive"
+    date: "2026"
+    url1: "https://github.com/SanjeethaPennada/DT-DRIVE"
+    url1_label: "Repository"
+    url2: "https://zenodo.org/records/21631441"
+    url2_label: "Archive" 
+
   - software_title: "RS-BIDSify"
     authors: "<strong>D. Brady</strong>"
     PI: "M. Arvaneh"

@@ -1,7 +1,7 @@
 ---
 items:
 
-   - title: "DT-Drive: A Tool for Deterministic Replay-Based Testing and Debugging of Autonomous Driving Systems"
+  - title: "DT-Drive: A Tool for Deterministic Replay-Based Testing and Debugging of Autonomous Driving Systems"
     authors: "Sanjeetha Pennada, <strong> Matthew Leach (RSE) </strong>, Olek Osikowicz, Donghwan Shin"
     type: "conference"
     venue: "41st IEEE/ACM International Conference on Automated Software Engineering"
@@ -56,6 +56,38 @@ items:
     date: 2026
     url1: "https://doi.org/10.34133/csbj.0227"
     url1_label: "View DOI"
+
+  - title: "From Research Models to Journalist's Browser: An RSE Story from a 140,000-user Verification Tool"
+    authors: "<strong>R. Milner (RSE); M. Foster (RSE); T. Karmakharm (RSE);</strong> & I. Roberts"
+    type: "conference"
+    venue: "RSECon26, Sheffield"
+    date: 2026
+    url1: "https://doi.org/10.5281/zenodo.22113894"
+    url1_label: "View DOI"
+    url2: "https://rsecon26.society-rse.org/"
+    url2_label: "Conference"
+
+  - title: "Using Causal Reasoning to Test Scientific Software"
+    authors: "<strong>M. Foster (RSE)</strong>, S. Whittle"
+    type: "conference"
+    venue: "RSECon26, Sheffield"
+    date: 2026
+    url1: "https://doi.org/10.5281/zenodo.22146908"
+    url1_label: "View DOI"
+    url2: "https://rsecon26.society-rse.org/"
+    url2_label: "Conference"
+
+  - title: "How FAIR is Research Software"
+    authors: "F. Butterfield, E. Ellwood, <strong>M. Foster (RSE)</strong>, J. Spooner & W. Wood"
+    type: "conference"
+    venue: "RSECon26, Sheffield"
+    date: 2026
+    url1: "https://doi.org/10.5281/zenodo.22146776"
+    url1_label: "View DOI"
+    url2: "https://rsecon26.society-rse.org/"
+    url2_label: "Conference"
+
+
 
   - title: "Research Software Maintenance Grant Round 2: FLAMES GPU"
     type: "grant"
