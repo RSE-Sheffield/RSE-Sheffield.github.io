@@ -1,6 +1,25 @@
 ---
 items:
 
+  - title: "AI for research days 2026"
+    member: "J. Heffer, <strong>T. Karmakharm (RSE)</strong>, et al"
+    type: "workshop"
+    date: "2026"
+    url1_label: "URL"
+    url1: "https://sheffield.ac.uk/machine-intelligence/events/ai-research-day"
+
+  - title: "AI in Bioscience CMI workshop"
+    member: "C. Cooner, <strong>T. James (RSE)</strong>, et al"
+    type: "workshop"
+    date: "2026"
+    url:
+
+  - title: "School of Computer Science RSE workshop"
+    member: "M. Foster"
+    type: "workshop"
+    date: "2026"
+    url:
+
   - title: "Git/GitKraken training (CDT)"
     member: "M. Foster & J. Heffer"
     type: "training"
