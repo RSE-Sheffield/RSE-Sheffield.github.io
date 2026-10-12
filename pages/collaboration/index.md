@@ -66,7 +66,7 @@ In practice a project goes through five main phases:<br>
           <li>If the grant is generating overheads, the RSE is costed as G7.10, as <b>directly incurred</b> cost. RSEs are part of the University's costing tool and you can select us while you are building the costing for your grant; </li>
           <li>If the source of funding is <b>NOT</b> generating overheads, the RSE may be costed using the internal day rate of <b>£384</b>. Please check this with us as this depends on the funder;</li>
           <li>If the funding comes within the University, no overheads are to be taken into account. In that case we use our <i>internal</i> day rate of <b>£384</b>;</li>
-          <li>We are sometimes collaborating with external companies (e.g. spin-outs), in that case please get in touch to discuss the day rate. 
+          <li>We are sometimes collaborating with external companies (e.g. spin-outs), in that case please get in touch to discuss the day rate.</li>
         </ul>
       </div>
     </div>
