@@ -5,7 +5,7 @@ items:
     authors: "<strong>Michael Foster</strong>"
     PI: "P. McMinn, G. Kapfhammer"
     Faculty: "Faculty of Engineering"
-    type: "archive"
+    type: "repository"
     date: "2026"
     url1: "https://github.com/test-flare/pytest-flakefighters"
     url1_label: "Repository"
