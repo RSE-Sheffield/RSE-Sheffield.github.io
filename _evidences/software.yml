@@ -1,6 +1,26 @@
 ---
 items:
 
+  - software_title: "FlakeFighters"
+    authors: "<strong>Michael Foster</strong>"
+    PI: "P. McMinn, G. Kapfhammer"
+    Faculty: "Faculty of Engineering"
+    type: "archive"
+    date: "2026"
+    url1: "https://github.com/test-flare/pytest-flakefighters"
+    url1_label: "Repository"
+
+  - software_title: "DT DRIVE"
+    authors: "<strong>M. Leach</strong>"
+    PI: "D. Shin, S. Pennada"
+    Faculty: "Faculty of Engineering"
+    type: "archive"
+    date: "2026"
+    url1: "https://github.com/SanjeethaPennada/DT-DRIVE"
+    url1_label: "Repository"
+    url2: "https://zenodo.org/records/21631441"
+    url2_label: "Archive"
+
   - software_title: "RS-BIDSify"
     authors: "<strong>D. Brady</strong>"
     PI: "M. Arvaneh"
@@ -29,7 +49,7 @@ items:
     date: 2026
     url1: "https://github.com/AFM-SPM/AFMSlicer"
     url1_label: "Repository"
-    
+
   - software_title: "napari-afmslicer"
     authors: "<strong>N. Shephard</strong>"
     PI: "L. Pasquina Lemonche"
@@ -38,7 +58,7 @@ items:
     date: 2026
     url1: "https://github.com/AFM-SPM/napari-afmslicer"
     url1_label: "Repository"
-    
+
   - software_title: "SNF-simulation"
     authors: "<strong>M. Dyer</strong>"
     PI: "E. Kneale"
@@ -99,7 +119,7 @@ items:
   - software_title: "IsoSLAM"
     authors: "<strong>N. Shephard</strong>"
     PI: "I. Sudbery"
-    Faculty: "Faculty of Science"  
+    Faculty: "Faculty of Science"
     type: "repository"
     date: "2025"
     url1: "https://github.com/sudlab/IsoSLAM/"
@@ -223,11 +243,11 @@ items:
   - software_title: "pykale"
     authors: "<strong>R. Turner</strong>"
     PI: "Haiping Lu"
-    Faculty: "Faculty of Engineering"    
+    Faculty: "Faculty of Engineering"
     type: "repository"
     date: "2023"
     url1: "https://github.com/pykale/pykale"
-    url1_label: "Repository" 
+    url1_label: "Repository"
 
   - title:
     year: 2022
