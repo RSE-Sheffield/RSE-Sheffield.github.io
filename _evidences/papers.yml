@@ -1,7 +1,7 @@
 ---
 items:
 
-  - title: "DT-Drive: A Tool for Deterministic Replay-Based Testing and Debugging of Autonomous Driving Systems"
+  - title: "Flakefighters: A Pytest Plugin to Detect Flaky Test Failures"
     authors: "<strong>Michael Foster (RSE)</strong>, Owain Parry, Michael Hilton, Gregory M. Kapfhammer, Phil McMinn"
     type: "conference"
     venue: "41st IEEE/ACM International Conference on Automated Software Engineering"
