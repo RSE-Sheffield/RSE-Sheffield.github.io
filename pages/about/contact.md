@@ -57,5 +57,5 @@ Research Software Engineering is a movement that's gaining momentum nationally a
 The following links can provide more information on *national* initiatives.
 
 * [https://society-rse.org/](https://society-rse.org/) - the UK Society of Research Software Engineering
-* [http://www.software.ac.uk](https://www.software.ac.uk) - The Software Sustainability Institute
+* [http://www.software.ac.uk](https://www.software.ac.uk) - The Institute for Research Software
 * [https://mastodon.social/@ResearchSoftEng](https://mastodon.social/@ResearchSoftEng) - Official mastodon feed of the UK RSE Community
