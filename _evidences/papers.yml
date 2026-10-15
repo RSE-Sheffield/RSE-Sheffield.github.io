@@ -1,6 +1,22 @@
 ---
 items:
 
+  - title: "Closing the Gap: Identifying Cost-Effective Prostate Cancer Screening Approaches for High-Risk Population"
+    authors: "O. Mandrik, A. Rayner, Y. Yang, J. E.Forsyth, M. Hanini, M. Clowes, D. J. Rosario, J.W.F. Catto, W. Mohammed, <strong>D. Brady (RSE)</strong>, G. Young, R. M. Martin, D. Thompson, S. Lombardo, D. Pollard"
+    type: "conference"
+    venue: "The Early Detection of Cancer Conference 2026"
+    date: 2026
+    url1: "https://features.cancerresearchuk.org/TheEarlyDetectionofCancerConference2026/"
+    url1_label: "Conference"
+
+  - title: "Closing the Gap: Identifying Cost-Effective Prostate Cancer Screening Approaches for High-Risk Population"
+    authors: "O. Mandrik, A. Rayner, Y. Yang, J. E.Forsyth, M. Hanini, M. Clowes, D. J. Rosario, J.W.F. Catto, W. Mohammed, <strong>D. Brady (RSE)</strong>, G. Young, R. M. Martin, D. Thompson, S. Lombardo, D. Pollard"
+    type: "conference"
+    venue: "World Cancer Congress 2026"
+    date: 2026
+    url1: "https://www.worldcancercongress.org/"
+    url1_label: "Conference"
+
   - title: "Flakefighters: A Pytest Plugin to Detect Flaky Test Failures"
     authors: "<strong>Michael Foster (RSE)</strong>, Owain Parry, Michael Hilton, Gregory M. Kapfhammer, Phil McMinn"
     type: "conference"
@@ -96,8 +112,6 @@ items:
     url1_label: "View DOI"
     url2: "https://rsecon26.society-rse.org/"
     url2_label: "Conference"
-
-
 
   - title: "Research Software Maintenance Grant Round 2: FLAME GPU"
     type: "grant"
@@ -348,8 +362,6 @@ items:
     date: "2025"
     url1: "https://doi.org/10.1145/3696630.373161"
     url1_label: "View DOI"
-
-
 
   - title: "Understanding Project Management Tool Effectiveness in Diverse dRTP Contexts"
     authors: "<strong>D. Brady (RSE, PI)</strong>"
