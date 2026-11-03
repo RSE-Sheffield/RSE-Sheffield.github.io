@@ -10,7 +10,7 @@ items:
     url1_label: "link"
 
   - title: "Mentor, RSECon26"
-    member: "<strong>T. James, S. Donnelly, P. Heywood, E. Brown, R. Thomas</strong>"
+    member: "<strong>T. James, S. Donnelly, P. Heywood, E. Brown, R. Thomas, D. Brady</strong>"
     type: "role"
     details: "Mentoring early-career RSE during submission to Research Software Engineering Conference 2026 (RSECon26)"
     date: 2026
