@@ -1,6 +1,16 @@
 ---
 items:
 
+  - title: "Project Management Toolkit for for Digital Technical Research Professionals (dRTPs)"
+    type: "other"
+    member: "<strong>D. Brady</strong>"
+    details: "Materials generated as part of the DisCouRSE funded Project Management Project"
+    date: 2026
+    url1: "https://www.dantbrady.page/project_management_toolkit/"
+    url1_label: "Toolkit Website"
+    url2: "https://orda.shef.ac.uk/articles/dataset/Exploring_the_usage_of_project_management_practices_among_digital_research_technical_professionals_dRTPs_at_the_University_of_She_ield_-_Survey/34032759/1"
+    url2_label: "Survey Materials and Data"
+
   - title: "2025 Best Paper Award Winners, runner up"
     type: "award"
     member: "S. Druskat, N. U. Eisty, <strong>R. Chisholm (RSE)</strong>, N. P. Chue Hong, R. C. Cocking, M. B. Cohen, M. Felderer, L. Grunske, S. A. Harris, W. Hasselbring, T. Krause, J.Linxweiler, C. C. Venters"
