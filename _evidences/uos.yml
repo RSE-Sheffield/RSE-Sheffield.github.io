@@ -110,7 +110,7 @@ items:
 
   - title: "Panel member, Open Educational Resources workshop"
     member: "T. James"
-    type: "Invite"
+    type: "invite"
     details: "Part of University of Sheffield Education Conference 2026"
     date: "2026"
     url1: "https://staff.sheffield.ac.uk/elevate/events/lt-conference"
@@ -184,7 +184,7 @@ items:
 
   - title: "Creating your own agent with LangChain"
     member: "S. Donnelly"
-    type: "Invite"
+    type: "invite"
     details: "Invited talk at the Best practice in AI afternoon II"
     date: "2025"
     url1: "https://rse.shef.ac.uk/events/seminar-2025-11-11-best-practices-in-ai-afternoon-2.html"
@@ -200,7 +200,7 @@ items:
 
   - title: "Best practices in developing FAIR(R) research software and workflows"
     member: 'T. James'
-    type: "Invite"
+    type: "invite"
     date: "2025"
     details: "Invited talk to Open Research & FAIR Principles, School of Biosciences"
 
@@ -325,7 +325,7 @@ items:
 
   - title: "How to make your machine learning code faster"
     member: "E. Brown"
-    type: "Invite"
+    type: "invite"
     details: "Practical guide to profile machine learning code to find bottlenecks and to remove these bottlenecks. Best Practice in AI afternoon"
     date: "2024"
     url1: "https://rse.shef.ac.uk/events/seminar-2024-07-05-best-practices-in-ai-afternoon.html"

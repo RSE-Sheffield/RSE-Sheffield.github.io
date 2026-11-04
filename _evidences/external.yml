@@ -12,7 +12,7 @@ items:
 
   - title: "Curating legacy resting-state EEG datasets using RS-BIDSify"
     member: "D. Brady"
-    type: "Invite"
+    type: "invite"
     details: "OHBM Brainhack 2026 - EEG101 Workshop"
     date: "2026"
     url: "https://ancplaboldenburg.github.io/indos-eeg101-workshops-brainhack/#session-rsbidsify"
@@ -20,7 +20,7 @@ items:
 
   - title: "Scientometrics sandpit"
     member: "M. Foster (PI)"
-    type: "Invite"
+    type: "invite"
     details: "UKRI call"
     date: "2026"
     url: "https://www.ukri.org/opportunity/metascience-sandpit-scientometrics-for-research-assessment/"
@@ -28,7 +28,7 @@ items:
 
   - title: "Reasonable performance computing"
     member: "R. Chisholm"
-    type: "Invite"
+    type: "invite"
     details: "Responsible & Sustainable Computational Research Workshop, King's College London"
     date: "2026"
     url: "https://www.tickettailor.com/events/kingscollegelondon103/2046643"
@@ -153,7 +153,7 @@ items:
 
   - title: "Guest lecture: Pytorch Profiling "
     member: "E. Brown"
-    type: "Invite"
+    type: "invite"
     details: "British Antarctic Survey"
     date: "2025"
 
@@ -181,7 +181,7 @@ items:
 
   - title: "Invited speaker, ACIT Hub Co-design event"
     member: "T. James"
-    type: "Invite"
+    type: "invite"
     date: "2025"
     details: "Accelerated Computing Infrastructure Training Hub Co-design event"
     url: "https://acit.surrey.ac.uk/events/codesign2025.html#sheffield"
@@ -217,7 +217,7 @@ items:
   - title: "Open Scholarship Communities"
     member: "N. Shephard"
     details: "Invitation to York Open Research Advocates meeting"
-    type: "Invite"
+    type: "invite"
     date: "2024"
 
 
@@ -226,7 +226,7 @@ items:
 
   - title: "Pre-commit : protecting your future self"
     member: "N. Shephard"
-    type: "Invite"
+    type: "invite"
     details: "RSE Midlands Coding Club"
     date: "2023"
     url: "https://blog.nshephard.dev/pre-commit/#/title-slide"
@@ -244,7 +244,7 @@ items:
   - title: "Pre-commit : protecting your future self"
     member: "N. Shephard"
     details: "ARC Leeds Tech Talk"
-    type: "Invite"
+    type: "invite"
     date: "2023"
     url: "https://blog.nshephard.dev/pre-commit/#/title-slide"
     url_name: "View slides"
