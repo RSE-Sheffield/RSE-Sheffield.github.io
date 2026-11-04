@@ -69,7 +69,7 @@ items:
 
   - title: "SURE reviewer"
     member: "M. Foster"
-    type: "Role"
+    type: "role"
     date: "2026"
     details: "SURE is the University of Sheffiled undergraduate research scheme"
     url1: "https://sheffield.ac.uk/sure/home/what-sure"
