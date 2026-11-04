@@ -1,4 +1,6 @@
 ---
+# Types: role, committee, invite, seminar, report
+
 items:
 
   - title: "Green RSE Special Interest Group workshop at RSECon26"
