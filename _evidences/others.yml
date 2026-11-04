@@ -1,5 +1,17 @@
 ---
+# Types: award, role, blog, preprint, other
+
 items:
+
+  - title: "Project Management Toolkit for for Digital Technical Research Professionals (dRTPs)"
+    type: "other"
+    member: "<strong>D. Brady</strong>"
+    details: "Materials generated as part of the DisCouRSE funded Project Management Project"
+    date: 2026
+    url1: "https://www.dantbrady.page/project_management_toolkit/"
+    url1_label: "Toolkit Website"
+    url2: "https://orda.shef.ac.uk/articles/dataset/Exploring_the_usage_of_project_management_practices_among_digital_research_technical_professionals_dRTPs_at_the_University_of_She_ield_-_Survey/34032759/1"
+    url2_label: "Survey Materials and Data"
 
   - title: "2025 Best Paper Award Winners, runner up"
     type: "award"
@@ -10,7 +22,7 @@ items:
     url1_label: "link"
 
   - title: "Mentor, RSECon26"
-    member: "<strong>T. James, S. Donnelly, P. Heywood, E. Brown, R. Thomas</strong>"
+    member: "<strong>T. James, S. Donnelly, P. Heywood, E. Brown, R. Thomas, D. Brady</strong>"
     type: "role"
     details: "Mentoring early-career RSE during submission to Research Software Engineering Conference 2026 (RSECon26)"
     date: 2026

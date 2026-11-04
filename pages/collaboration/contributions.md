@@ -5,12 +5,12 @@ slug: evidence
 type: text
 ---
 
-The RSE team at Sheffield contribute to multiple areas of the research eco-system. Contributions can take the form of research publications, software releases, committee membership, event organisation, etc. 
+The RSE team at Sheffield contribute to multiple areas of the research eco-system. Contributions can take the form of research publications, software releases, committee membership, event organisation, etc.
 Here we list all the contributions made by our team, grouped into five categories:
 
-* **Software and repositories:** As Research software engineers, this is our main work. This section mainly reports software repositories & releases of research software but might occasionaly highlights training development that we make open source on github.  
+* **Software and repositories:** As Research software engineers, this is our main work. This section mainly reports software repositories & releases of research software but might occasionally highlights training development that we make open source on github.  
 * **Academic outputs:** This includes refereed papers, conference contributions & grants.
-* **University activities:** We are taking part in multiple activites at the University of Sheffield and we list them all here. This can be committees, training organisation, workshops, etc. 
+* **University activities:** We are taking part in multiple activities at the University of Sheffield and we list them all here. This can be committees, training organisation, workshops, etc.
 * **External activities:** This is all the activities we are doing outside of the University in the RSE community. Activities include invited talks and lectures, conference committees, panels,etc.
 * **Others activities:** Any other things that show our contributions such as blog posts, awards or non-traditional bids.
 

@@ -1,5 +1,18 @@
 ---
+# Types: archive, repository, dataset
+
 items:
+
+  - software_title: "Smart Health"
+    authors: "<strong>D. Brady (RSE), J. Heffer (DAS)</strong>"
+    PI: "Tim Chico"
+    Faculty: "Faculty of Health"
+    date: 2026
+    type: dataset
+    url1: "https://sheffield.ac.uk/smart-health"
+    url1_label: "Website"
+    url2: "https://data-connect-uos.github.io/BHF-SmartHealth/overview/overview.html"
+    url2_label: "Beta Docs"
 
   - software_title: "FlakeFighters"
     authors: "<strong>Michael Foster</strong>"
