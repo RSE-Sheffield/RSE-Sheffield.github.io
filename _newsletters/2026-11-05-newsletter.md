@@ -106,10 +106,11 @@ Apply for funding for ambitious and exploratory projects bringing together AI an
 
 #### Training Opportunties
 
-- [Software design (in person)](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/d3c2cca5-d894-44b6-a79b-e93dea7a7c94)
-  - **Dates:** 1300-16:00, 23 November 2026 and 30 November 2026
 
-- This semester the [FAIR^2 for research software Training Programme](https://mydevelopment.csod.com/ui/lms-learning-details/app/curriculum/06573f55-12e4-44f1-be4c-fac5ea9d6851?isOnePlayer=true) will be delivered again. The following courses are already scheduled and details of other modules can be found on [myDevelopment](https://mydevelopment.csod.com/ui/lms-learning-details/app/curriculum/06573f55-12e4-44f1-be4c-fac5ea9d6851?isOnePlayer=true).
+- This semester the [FAIR^2 for research software Training Programme](https://mydevelopment.csod.com/ui/lms-learning-details/app/curriculum/06573f55-12e4-44f1-be4c-fac5ea9d6851?isOnePlayer=true) will be delivered again. The following events are already scheduled and details of other modules can be found on [myDevelopment](https://mydevelopment.csod.com/ui/lms-learning-details/app/curriculum/06573f55-12e4-44f1-be4c-fac5ea9d6851?isOnePlayer=true).
+    - [Better Software for Better research - Introduction to the FAIR^2 for research software training program (Online)](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/60f213bd-340d-4035-8754-a15c9567d620?isOnePlayer=true); **Dates:** 13-13:45, 16 November 2026
+    - [Software design (in person)](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/d3c2cca5-d894-44b6-a79b-e93dea7a7c94); **Dates:** 1300-16:00, 23 November 2026 and 30 November 2026
+
 
 - [DisCouRSE launches free leadership programme for dRTPs](https://discourse-network.github.io/news/2026/09/23/discourse-launches-free-leadership-programme-drtp/) 
   - **Deadline to apply**: 8 November 2026
