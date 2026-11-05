@@ -128,7 +128,7 @@ None this month
 - [Chair in Cybersecurity and Emerging Technologies](https://www.jobs.ac.uk/job/DTG486/chair-in-cybersecurity-and-emerging-technologies)
 - [Senior Lecturer in Visual Computing and Multimodal Intelligence](https://www.jobs.ac.uk/job/DTK709/senior-lecturer-in-visual-computing-and-multimodal-intelligence)
 
-#### Other opporunities
+#### Other opportunities
 
 - [Introducing HPC Champions: Performance Analysis](https://shareing-dri.github.io/champions/hpc-champions/). Join the first cohort of dRTPs building expertise in performance analysis. Travel and accommodation are funded for the VI-HPS workshop in Durham.
 
