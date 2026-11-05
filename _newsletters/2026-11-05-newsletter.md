@@ -13,7 +13,7 @@ type: text
 
 ## The University of Sheffield Research Software Engineering Community Newsletter November 2026
 
-Welcome to the October 2026 newsletter for the research software community at The University of Sheffield, featuring news, opportunities, events and training for you.
+Welcome to the November 2026 newsletter for the research software community at The University of Sheffield, featuring news, opportunities, events and training for you.
 
 #### Upcoming Events in Sheffield
 
