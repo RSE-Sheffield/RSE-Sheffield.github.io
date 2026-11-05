@@ -115,13 +115,6 @@ Apply for funding for ambitious and exploratory projects bringing together AI an
 - [DisCouRSE launches free leadership programme for dRTPs](https://discourse-network.github.io/news/2026/09/23/discourse-launches-free-leadership-programme-drtp/) 
   - **Deadline to apply**: 8 November 2026
 
-#### Surveys
-
-None this month
-
-#### Podcasts
-
-None this month
 
 #### Jobs
 - [Lecturer in Artificial Intelligence and Software Engineering within the School of Computer Science at the University of Sheffield](https://www.jobs.ac.uk/job/DTN310/lecturer-in-artificial-intelligence-and-software-engineering)
