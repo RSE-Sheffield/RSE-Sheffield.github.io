@@ -47,7 +47,7 @@ In addition to the afternoon workshop, there will be small community meetings in
   - **Date:** 1 December 2026
   - **Where:** Science and Industry Museum, Manchester
 
- - [Computing Insight UK (CIUK)](https://www.sc.stfc.ac.uk/ciuk-2026/), bringa together people from across the computational science and research software communities.
+- [Computing Insight UK (CIUK)](https://www.sc.stfc.ac.uk/ciuk-2026/), brings together people from across the computational science and research software communities.
   - **Dates:** 2-4 December 2026
   - **Where**: Manchester Central
 
