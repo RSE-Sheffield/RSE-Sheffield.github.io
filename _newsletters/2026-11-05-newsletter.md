@@ -40,7 +40,7 @@ Come, network with your peers and get involved in exciting discussions on some o
 
 - [Good practice in research software development in the age of AI](https://www.software.ac.uk/Events/good-practice-research-software-development-age-ai). The Institute for Research Software is running a series on Good practice in research software development in the age of AI.
   - **Dates:** 24 November - 3 December 2026
-  - **Where:** Onlin Onlinee
+  - **Where:** Online
 
 - [Celebrating 70 years of Fortran event](https://fortran-index.github.io/fortran-index/page/fortran_birthday.html)
 In addition to the afternoon workshop, there will be small community meetings in the morning and an evening drinks reception. You can also submit lightning talks and/or posters via the registration form until 6th November.
