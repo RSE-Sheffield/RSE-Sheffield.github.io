@@ -45,7 +45,15 @@ In addition to the afternoon workshop, there will be small community meetings in
 
 - [Computing Insight UK (CIUK)](https://www.sc.stfc.ac.uk/ciuk-2026/), brings together people from across the computational science and research software communities.
   - **Dates:** 2-4 December 2026
-  - **Where**: Manchester Central
+  - **Where:** Manchester Central
+  
+- The Research Software Alliance has a [Webinar Series: Research software in the age of Generative AI](https://www.researchsoft.org/events/2026-10/) consisting of the following events.
+  - **AI Guidance for Research Software Engineering Team Leaders**
+    - **Date:** 10 November 2026 15:00–16:00 CET / 14:00–15:00 UTC
+  - **When Green Does Not Mean Right: Specifying, Verifying, and Scaling Evaluation of AI-Assisted Research Software**
+    - **Date:** 30 November 2026 | 15:00–16:00 UTC
+  - **Understanding Future Incentives Around Publishing, Preserving, and Crediting Software**
+    - **Date:** TBC
 
 ### Articles, Blogs, Papers, Surveys & Podcasts
 
