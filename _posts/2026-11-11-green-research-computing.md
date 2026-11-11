@@ -63,7 +63,7 @@ Here are a few resources to explore more about green computing:
 
 This is the first of what we hope will be occasional posts on greener research computing. If there's a topic you'd like us to cover, let us know.
 
-If you have any questions or comments on the subject of green computing, reach out to the [Research IT](https://students.sheffield.ac.uk/it-services/research) or the [Research Software Engineering team](https://rse.shef.ac.uk/) at the University of Sheffield.
+If you have any questions or comments on the subject of green computing, reach out to the [Research IT](https://students.sheffield.ac.uk/it-services/research) or [Research Software Engineering team](https://rse.shef.ac.uk/) at the University of Sheffield.
 
 ![Satellite imagery with suspected selective-logging sites outlined in red](/assets/images/2026-11-11-green-research-computing/climate-stripes.png)
 [Climate Stripes - Ed Hawkins](https://showyourstripes.info/)
