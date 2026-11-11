@@ -12,20 +12,18 @@ tags:
   - green-research-software-engineering
   - google-earth-engine
 category: case-study
-link: https://casestudiesrcg.blogspot.com/2026/11/green-research-computing.html
-description: "How we gave a forest-monitoring tool a secure home on University infrastructure, with the access controls it needed to be trusted with sensitive data and shared safely with a government partner in Peru."
+link:
+description: "Green Research Computing: doing the same research at a lower environmental cost"
 social_image: /assets/images/2026-11-11-green-research-computing-climate-stripes.png
 type: text
 excerpt_separator: <!--more-->
 ---
 
-This post introduces the hidden environmental cost of using digital tools within research. The concept of green research computing is presented with the goal to carry out the same research at a lower environmental cost.
-
-<!--more-->
-
 # Why this matters
 
 When thinking about research's carbon footprint, it can be easier to think of flights to international conferences or lab equipment. But every analysis we run, dataset we store and model we train also uses energy, water and hardware, often out of sight.
+
+<!--more-->
 
 The ICT (Information and Communication Technology) sector is estimated to produce [2.1-3.9%](https://doi.org/10.1016/j.patter.2021.100340) of global greenhouse gas emissions, which is comparable to the [entire aviation industry](https://ourworldindata.org/global-aviation-emissions).
 
@@ -63,7 +61,7 @@ Here are a few resources to explore more about green computing:
 
 # Contact
 
-This is the first of what we hope will be occasional posts on greener research computing. If there's a topic you'’'d like us to cover, let us know.
+This is the first of what we hope will be occasional posts on greener research computing. If there's a topic you'd like us to cover, let us know.
 
 If you have any questions or comments on the subject of green computing, reach out to the [Research IT](https://students.sheffield.ac.uk/it-services/research) or the [Research Software Engineering team](https://rse.shef.ac.uk/) at the University of Sheffield.
 
