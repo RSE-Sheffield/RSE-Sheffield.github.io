@@ -14,7 +14,7 @@ tags:
 category: case-study
 link:
 description: "Green Research Computing: doing the same research at a lower environmental cost"
-social_image: /assets/images/2026-11-11-green-research-computing-climate-stripes.png
+social_image: /assets/images/2026-11-11-green-research-computing/climate-stripes.png
 type: text
 excerpt_separator: <!--more-->
 ---
