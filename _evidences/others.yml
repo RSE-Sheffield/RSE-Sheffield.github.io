@@ -3,6 +3,14 @@
 
 items:
 
+  - title: "The Sky at Night: La Palma - Gateway to the Universe"
+    type: "outreach"
+    member: "BBC, Vik Dhillon, <strong>M. Dyer (RSE)</strong>, and others"
+    details: "The GOTO and HiPERCAM astronomy projects were featured on the long-running BBC science show The Sky at Night"
+    date: 2026
+    url1: "https://www.bbc.co.uk/programmes/m00343sn"
+    url1_label: "BBC iPlayer"
+
   - title: "Project Management Toolkit for for Digital Technical Research Professionals (dRTPs)"
     type: "other"
     member: "<strong>D. Brady</strong>"
@@ -44,10 +52,6 @@ items:
     date: 2026
     url1: "https://zenodo.org/records/20666679"
     url1_label: "Link to paper"
-
-
-
-
 
   - title: "19 Months of Reasonable Performance Computing (SIG)"
     type: "blog"
@@ -103,6 +107,19 @@ items:
     url1_label: "Link"
 
   - title:
+    year: 2024
+
+  - title: "Call of the Void"
+    type: "outreach"
+    member: "<strong>M. Dyer (RSE)</strong>, T. Wilson"
+    details: "A original musical arrangement created using data collected from the GOTO observatory. Part of the Festival of the Mind 2024 Futurecade exhibition."
+    date: 2024
+    url1: "https://festivalofthemind.sheffield.ac.uk/2024/futurecade/call-of-the-void/"
+    url1_label: "Festival link"
+    url2: "https://player.sheffield.ac.uk/events/call-void"
+    url2_label: "Sheffield Player"
+
+  - title:
     year: 2023
 
   - title: "Open Research Prize 2023, team prize"
@@ -112,9 +129,6 @@ items:
     date: 2023
     url1: "https://sheffield.ac.uk/openresearch/casestudies#winners-and-runners-up-of-the-open-research-prize-2023"
     url1_label: "Competition link"
-
-
-
 
   - title:
     year: 2022
