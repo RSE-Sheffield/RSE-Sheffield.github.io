@@ -48,7 +48,7 @@ Here are four things you can do now to lower your environmental impact:
 - Use the [Green Algorithms calculator](https://calculator.green-algorithms.org/) to calculate the carbon footprint of your computations.
 - Don't over-request HPC resources as this can waste resources. See [a recent talk](https://zenodo.org/records/22047068) presented by Dr Fred Sonnenwald ([Research IT](https://students.sheffield.ac.uk/it-services/research)) at [RSECon26](https://rsecon26.society-rse.org/) on this topic.
 - Delete data you don't need in line with funder's and university's retention requirements. [Storing 1TB of data is around 10 kgCO2e/year](https://doi.org/10.17863/CAM.93287), roughly the equivalent of a typical UK home's electricity for a week according to [Ofgem](https://www.ofgem.gov.uk/sites/default/files/2026-06/Summary-of-changes-to-energy-price-cap-1-July-to-30-September-2026-revised-TDCV.pdf).
-- Take Dr Rob Chisholm's ([Research Software Engineering team](https://rse.shef.ac.uk/)) course on [Performance Profiling & Optimisation](https://rse.shef.ac.uk/pando-python/profiling-introduction.html) for Python.
+- Take Dr Robert Chisholm's ([Research Software Engineering team](https://rse.shef.ac.uk/)) course on [Performance Profiling & Optimisation](https://rse.shef.ac.uk/pando-python/profiling-introduction.html) for Python.
 
 # Further resources
 
