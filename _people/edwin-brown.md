@@ -32,7 +32,7 @@ extra_links:
 ---
 Edwin is a senior research software engineer in the Research Software Engineering (RSE) team at the University of Sheffield. His research focuses on agentic software engineering and machine learning in a variety domains such as energy modelling, metascience and robotics. He is particularly interested in the practical challenges of harnessing agentic methods for research.
 
-Edwins current projects include:
+Edwin's current projects include:
 
 - [**Paying it Forward**](https://rse.shef.ac.uk/paying-it-forward.github.io/): This project aims to understand how research outputs are changing in the age of AI. Specficially, is the amount of data and software being created or used changing? This is a collaboration between the universities of Sheffield, Surrey, UCL and CrewCreate. It is funded by the UKRI Metascience Unit. Edwin is a Co-Investigator on this project.
 
