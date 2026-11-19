@@ -55,7 +55,9 @@ app for near-real time weather forecasting (nowcasting) in Africa.
 
 She has experience in writing research software using R and Python,
 and she has developed and led training in version control and
-reproducible research practices since 2016.  She has been a
-co-organiser of [Sheffield R Users
+reproducible research practices since 2016.  Since 2023 she has been
+the programme manager for the [FAIR<sup>2</sup> for research software
+training programme](/training/fair4rs/). She has been a co-organiser
+of [Sheffield R Users
 Group](https://www.meetup.com/sheffieldr-sheffield-r-users-group/)
 since 2017.

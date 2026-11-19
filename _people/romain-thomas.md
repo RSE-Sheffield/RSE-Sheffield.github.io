@@ -6,7 +6,7 @@ published: true
 othernames: Romain
 surname: Thomas
 role: Head of group
-image: https://cdn.sheffield.ac.uk/sites/default/files/styles/profile_modal/public/2023-09/IMG_9630%20%282%29.JPG?h=2595e638&itok=GzH1yttl
+image: /assets/images/team/romain-thomas.jpg
 links:
     - url: mailto:romain.thomas@sheffield.ac.uk
       icon: 

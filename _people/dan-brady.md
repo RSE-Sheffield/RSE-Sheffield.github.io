@@ -6,7 +6,7 @@ published: true
 othernames: Dan   
 surname: Brady
 role: Research Software Engineer
-image:
+image: /assets/images/team/daniel-brady.jpg
 links:
     - url: mailto:daniel.brady@sheffield.ac.uk
       icon: 
