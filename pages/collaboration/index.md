@@ -98,6 +98,7 @@ When your grant is funded (congratulations!) and that the starting date of the c
 <li><b>Objectives of the RSE:</b> Mapping research is difficult, so for this item we will discuss what are the objective of the first month?</li>
 <li><b>Risks:</b> What could go wrong about the project?</li>
 <li><b>Technical aspects:</b> On-boarding material, issue tracking and communication</li>
+<li><b> Use of AI: </b> How is AI going to be used inside the project? <a href="https://rse.shef.ac.uk/blog/2026-11-01-ai-rse/">See here.</a> </li> 
 <li><b> Outputs: </b> What outputs do you envisage to produce? (papers, software releases, etc.)</li> 
 </ul>
 

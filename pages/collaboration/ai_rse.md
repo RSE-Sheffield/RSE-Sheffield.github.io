@@ -5,6 +5,12 @@ slug: evidence
 type: text
 ---
 
+
+<div class="alert alert-primary" role="alert"> <b> TL;DR:</b> Research is about working with Humans and pushing humans understanding to new limits. Outcomes, whether papers or software and whether made by humans or AIs, need to be understood by humans and explainable by them.</div>
+
+
+Members of the RSE team have access to AI coding tools and are strongly encouraged to familiarise themselves with them and to use them. There are clear benefits to using AI, but there are also real downsides, and we have started to run into them in several collaborations. This page sets out how we, in the RSE team, see the use of AI in research projects. It grew out of a [blog post](https://rse.shef.ac.uk/blog/2026-11-01-ai-rse/) the team published in November 2026.
+
 <div id="rse-accordion" class="accordion shadow-sm"> 
   <div class="card border-bottom-0">
     <div class="card-header" id="headingOne" style="background-color: rgba(90,185,107,0.7); border: none;">
@@ -149,3 +155,6 @@ type: text
 </div>
 
 <br>
+
+
+<div class="alert alert-primary" role="alert">Version of Nov. 2026. Next review in May 2027.</div>
