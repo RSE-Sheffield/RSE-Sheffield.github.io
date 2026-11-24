@@ -21,6 +21,8 @@
        url: /collaboration/contributions
      - title: Code of conduct
        url: /collaboration/code-of-conduct
+     - title: Artificial Intelligence
+       url: /collaboration/ai_rse
 
 - title: "Opportunities"
   subitems:
